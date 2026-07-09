@@ -1,0 +1,1696 @@
+{
+  "generated_at": "2026-07-09T09:28:01+00:00",
+  "source_scope": "offline",
+  "records": [
+    {
+      "id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "American Mathematics Competition",
+      "name_zh": "美国数学竞赛",
+      "name_en": "American Mathematics Competition",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "category": "Mathematics, Computer Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Sep.",
+      "deadline_text": "Aug.",
+      "deadline_date": null,
+      "website_url": "http://www.seeda",
+      "registration_contact": "",
+      "instructor_contact": "学锦标赛",
+      "preparation": "",
+      "description": "",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "American Mathematics Competition",
+          "raw_excerpt": "bmissio Mathemati http://www.seed Problem 赛 Competition .) 1 day n cs Sep.10 asdan.asia/amc/ 洪洋/赵伟霞 solving l a American Offline Mathematics Nov.(appr submissio Mathematni Problem 美国数学竞赛 Competition .) 1 day n cs Sep.10 洪洋 洪洋/赵伟霞 solving r Berkeley Online e http://www.seed 伯克利大学数学 Mathematics Early submissio Mathemati Late asdan.asia/en/b Problem t 竞赛 Tournament Nov. 1 day n cs November mt-en/ 洪洋/赵伟霞 solving n Canadian I Senior and IntermediateMa Ofrfline thematics Nov.(appr osubmissio Mathemati Problem 加拿大数学竞赛 Contests .) 1 day n cs Oct.8 洪洋 洪洋/赵伟霞 solving F https://cms.mat Canadian Open y Online h.ca/competitio 加拿大数学公开 Mathematics Oct.(appr submissio Mathemati ns/comc/comc202 Problem l 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissi",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        },
+        {
+          "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "American Mathematics Competition",
+          "raw_excerpt": "nline 澳大利亚数学竞 Sep.(appr http://www.seeda Problem Mathematics 1 day submissio Mathematics Sep.10 洪洋/赵伟霞 赛 .) sdan.asia/amc/ solving Competition n American Offline Nov.(appr Problem 美国数学竞赛 Mathematics 1 day submissio Mathematics Sep.10 洪洋 洪洋/赵伟霞 .) solving Competition n Berkeley Online http://www.seeda 伯克利大学数学 Early Late y Problem Mathematics 1 day submissio Mathematics sdan.asia/en/bmt-洪洋/赵伟霞 l 竞赛 Nov. November solving Tournament n n en/ O Canadian Senior and Offline Nov.(appr Problem 加拿大数学竞赛 IntermediateMa 1 day submissio Mathemateics Oct.8 洪洋 洪洋/赵伟霞 .) solving thematics n s U Contests Canadian Open Online https://cms.math 加拿大数学公开 Oct.(appr l Problem Mathematics 1 day submissaio Mathematics Sep. .ca/competitions 洪洋/赵伟霞 赛 .) solving Challenge nn /comc/comc2023/ r Contact e instructors Harvard MIT t 哈佛麻省理工数 https://www.hmmt.org and Mathematics Nov.9 4 dayns Online Mathematics Aug. 洪洋 学锦标赛 ",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "Annual DNA Day Essay Contest",
+      "name_zh": "DNA论文竞赛",
+      "name_en": "Annual DNA Day Essay Contest",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Biology"
+      ],
+      "category": "Scientific research, Writing, Biology",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Sept.30",
+      "deadline_text": "Mar.1",
+      "deadline_date": null,
+      "website_url": "https://www.ash",
+      "registration_contact": "",
+      "instructor_contact": "张非凡",
+      "preparation": "Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "Annual DNA Day Essay Contest",
+          "raw_excerpt": "o submissio c Sept.30 Research 大赛 Sept. n n research (appr.) 张非凡 张非凡 essay Online Online Annual DNA Day Feb.(appr submisio submissio Biology,w Mar.1(appr. https://www.ash Research DNA论文竞赛 Essay Contest .) n n riting ) g.org/dna-day/ 张非凡 essay",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        },
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "Annual DNA Day Essay Contest",
+          "raw_excerpt": "ies 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. instructor /dna-day/ British Astronomy 英国天文学和天体 Mar.(ap Contact Contact Club and Astrophysics Online Physics Mar. 徐臻成 物理学奥赛 pr.) instructor instructor activities Olympiad(BAAO) https://arts.princet Princeton Ten- on.edu/about/opportu 普林斯顿10分钟剧 Mar.(ap Online Minute Play Online Writing Mar. nities/high-school- 沈晨荔 Play writing 本创作比赛 pr.) submission Contest contests/ten-minute- play-contest/ International 国际哲学奥林匹克 Contact http://www.philosoph Philosophy Feb.25 Onsite Writing Feb.13 沈晨荔 Essay 大赛（IPO） instructor y-olympiad.org Olympiad (IPO)",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Brainbee China Round",
+      "name_zh": "脑科学大赛全国赛",
+      "name_en": "Brainbee China Round",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science",
+        "Scientific research",
+        "Writing",
+        "Biology",
+        "Chemistry"
+      ],
+      "category": "Mathematics, Computer Science, Scientific research, Writing, Biology, Chemistry",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Feb. Online",
+      "deadline_text": "all",
+      "deadline_date": null,
+      "website_url": "https://cemc.uwaterl",
+      "registration_contact": "",
+      "instructor_contact": "朱雅婷",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "Brainbee China Round",
+          "raw_excerpt": "ntact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） instructor instructor activities http://scla 宋庆龄少年儿童发 宋庆龄少年儿童发明 Feb.- Science Late Feb. http://sclaci.sclc20 Online ci.sclc2017 陈琳 Research Essay 明奖 奖 Mar. research (appr.) 17.org/ .org/ American AIME美国高中数学 Invitational Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past papers Chemistry Contact Contact 美国国家化学竞赛 Mar.16 110 mins Chemistry Jan.19 赵涛 and club Competition instructor instructor activities (USNCO) The International 国际数学建模挑战 Mathematical Contact https://immchallenge 张明欣、王 Club Mar. 2 weeks Math Apr. 赛 Modeling Challenge instructor .org/ 倩、朱雅婷 activities (IMMC",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Canadian Computing Competition",
+      "name_zh": "加拿大计算机竞赛",
+      "name_en": "Canadian Computing Competition",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science",
+        "Scientific research",
+        "Writing",
+        "Biology",
+        "Chemistry"
+      ],
+      "category": "Mathematics, Computer Science, Scientific research, Writing, Biology, Chemistry",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Feb. Online",
+      "deadline_text": "Jan.19",
+      "deadline_date": null,
+      "website_url": "https://cemc.uwaterl",
+      "registration_contact": "",
+      "instructor_contact": "赵涛",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "Canadian Computing Competition",
+          "raw_excerpt": " Contact Science Contact GENIUS Olympiad Feb. Online Feb.15 廖辉、陈琳 Research Essay 林匹克竞赛 instructor research instructor Club Canadian Computing Contact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） instructor instructor activities http://scla 宋庆龄少年儿童发 宋庆龄少年儿童发明 Feb.- Science Late Feb. http://sclaci.sclc20 Online ci.sclc2017 陈琳 Research Essay 明奖 奖 Mar. research (appr.) 17.org/ .org/ American AIME美国高中数学 Invitational Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past papers Chemistry Contact Contact 美国国家化学竞赛 Mar.16 110 mins Chemistry Jan.19 赵涛 and club Competition instructor instructor activities (USNCO) The International 国",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "Canadian Senior and Intermediate Mathematics Contests",
+      "name_zh": "加拿大数学竞赛",
+      "name_en": "Canadian Senior and Intermediate Mathematics Contests",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "category": "Mathematics, Computer Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Nov. November",
+      "deadline_text": "Sep.",
+      "deadline_date": null,
+      "website_url": "https://cms.math",
+      "registration_contact": "",
+      "instructor_contact": "赵伟霞",
+      "preparation": "Club activities",
+      "description": "",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "Canadian Senior and Intermediate Mathematics Contests",
+          "raw_excerpt": "n.asia/en/b Problem t 竞赛 Tournament Nov. 1 day n cs November mt-en/ 洪洋/赵伟霞 solving n Canadian I Senior and IntermediateMa Ofrfline thematics Nov.(appr osubmissio Mathemati Problem 加拿大数学竞赛 Contests .) 1 day n cs Oct.8 洪洋 洪洋/赵伟霞 solving F https://cms.mat Canadian Open y Online h.ca/competitio 加拿大数学公开 Mathematics Oct.(appr submissio Mathemati ns/comc/comc202 Problem l 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissio Online 机奥赛 USACO Dec.- Mar. 4 months n IT Dec. https://www.usac何o.天or舟g Training",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        },
+        {
+          "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "Canadian Senior and Intermediate Mathematics Contests",
+          "raw_excerpt": " Early Late y Problem Mathematics 1 day submissio Mathematics sdan.asia/en/bmt-洪洋/赵伟霞 l 竞赛 Nov. November solving Tournament n n en/ O Canadian Senior and Offline Nov.(appr Problem 加拿大数学竞赛 IntermediateMa 1 day submissio Mathemateics Oct.8 洪洋 洪洋/赵伟霞 .) solving thematics n s U Contests Canadian Open Online https://cms.math 加拿大数学公开 Oct.(appr l Problem Mathematics 1 day submissaio Mathematics Sep. .ca/competitions 洪洋/赵伟霞 赛 .) solving Challenge nn /comc/comc2023/ r Contact e instructors Harvard MIT t 哈佛麻省理工数 https://www.hmmt.org and Mathematics Nov.9 4 dayns Online Mathematics Aug. 洪洋 学锦标赛 / participate Tournament I in club r activities o F Contact Princeton instructors 普林斯顿数学竞 University https://www.hmmt.org and Nov. 4 days Online Mathematics Sep. 洪洋/赵伟霞 赛 Mathematics / participate Competition in club activities",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Chinese Earth Science Olympiad",
+      "name_zh": "地球科学奥赛预赛",
+      "name_en": "Chinese Earth Science Olympiad",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Biology",
+        "Chemistry",
+        "Arts",
+        "Social Science"
+      ],
+      "category": "Scientific research, Writing, Biology, Chemistry, Arts, Social Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Mar. 3",
+      "deadline_text": "Mar.",
+      "deadline_date": null,
+      "website_url": "https://sh.invention",
+      "registration_contact": "",
+      "instructor_contact": "李泳池",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 3",
+          "row_or_text_ref": "Chinese Earth Science Olympiad",
+          "raw_excerpt": "ontact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed 李逸 and club instructor Olympiad activities Chinese Earth Contact Earth Contact 地球科学奥赛预赛 Mar. 2.5 hours Jan. 张非凡 Past papers Science Olympiad instructor Science instructor https://sh.invention Creative 全球发明大会中国 Invention Jan.- Contact Scientific 2 months Apr. convention.cn/web/in 廖辉 intention and 赛 Convention China Apr. instructor research dex.html essay S.-T.Yau High 丘成桐中学科学奖 Apr.- http://yau- Science http://yau- School Science Online Jul. 廖辉、陈琳 Research Essay （各科）申报 Jul. awards.com/ research awards.com/ Awards Canadian Past papers Contact Contact 加拿大化学竞赛 Chemistry Contest Apr.24 60 mins Chemistry Apr. 赵涛 and club instructor instructor (CCC) activities BioOlympiad Past papers 美国生物奥林匹克 Initiative Apr.(ap Contact Contact 50 mins Biology Mar. 李泳池 and club 竞赛 USAChina（BIO pr.) instructor inst",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "CSP, NOIP",
+      "name_zh": "NOI-CSP,NOIP全国青少年信息学奥林匹克联赛",
+      "name_en": "CSP, NOIP",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "category": "Mathematics, Computer Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Sep.- Nov. 3",
+      "deadline_text": "Jun.",
+      "deadline_date": null,
+      "website_url": "https://www.noi.cn/",
+      "registration_contact": "",
+      "instructor_contact": "青少",
+      "preparation": "",
+      "description": "",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "CSP, NOIP",
+          "raw_excerpt": "competitio 加拿大数学公开 Mathematics Oct.(appr submissio Mathemati ns/comc/comc202 Problem l 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissio Online 机奥赛 USACO Dec.- Mar. 4 months n IT Dec. https://www.usac何o.天or舟g Training",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        },
+        {
+          "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 3",
+          "row_or_text_ref": "CSP, NOIP",
+          "raw_excerpt": "NOI- CSP,NOIP全国青 NOI Online CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.cn/ 何天舟 少年信息学奥林 training 匹克联赛 Online USACO USACO美国计算 USACO Dec.- Mar. 4 months submissio IT Dec. https://www.usaco.org 何天舟 Online 机奥赛 n Training y l Contact High School n https://www.coma instructors Mathematical O 美国高中生数学 Nov.(appr p.com/highschool 张明欣、朱 and Contest in 14 days Online Mathematics Nov. 建模竞赛 .) /contests/himcm/ 雅婷、王倩 participate Modeling e index.html in club (HiMCM) s activities U The Contact International instructors l 国际数学建模挑 Mathematical Nov.(appr a https://www.immchalle 张明欣、朱 and 4 days Online Mathematics Nov. 战赛 Modeling .) n nge.org/ 雅婷、王倩 participate Challenge（IMM r in club C） e activities t Youth n Artificial I 青少年人工智能 Jun.- 青少",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Exporecerca Jove",
+      "name_zh": "西班牙国际青少年科研博览会",
+      "name_en": "Exporecerca Jove",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Biology",
+        "Physics",
+        "Social Science"
+      ],
+      "category": "Scientific research, Writing, Biology, Physics, Social Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Mar. Onsite",
+      "deadline_text": "Mar.",
+      "deadline_date": null,
+      "website_url": "https://www.apa.org/",
+      "registration_contact": "Official WeChat account",
+      "instructor_contact": "学和天体",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "Exporecerca Jove",
+          "raw_excerpt": "Blackboard system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registration website/Contact /Contact 西班牙国际青少年 Contact Science Exporecerca Jove Mar. Onsite Dec. 青少年科学社公众号 廖辉、陈琳 Research Essay 科研博览会 instructor research TOPSS Competition Online https://www.apa.org/ 美国心理学协会高 for High School Onine Mar. submissio Psychology Mar.1 ed/precollege/topss/ 沈玉婷 Research Essay 中生心理写作竞赛 Psychology submission n student-competition Students 物理杯美国高中生 Contact Contact Club Physics Bowl Mar. 45 mins Physics Mar. 徐臻成 物理思维挑战 instructor instructor activities 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. instructor /dna-day/ British Astronomy 英国天文学和天体 Mar.(ap Contact Contact ",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "GENIUS Olympiad",
+      "name_zh": "世界青少年英才奥林匹克竞赛",
+      "name_en": "GENIUS Olympiad",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science",
+        "Scientific research",
+        "Writing",
+        "Biology"
+      ],
+      "category": "Mathematics, Computer Science, Scientific research, Writing, Biology",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Feb. Online",
+      "deadline_text": "After AMC",
+      "deadline_date": null,
+      "website_url": "https://cemc.uwaterl",
+      "registration_contact": "",
+      "instructor_contact": "邀请赛",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "GENIUS Olympiad",
+          "raw_excerpt": "rd system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registration website/Contact /Contact 世界青少年英才奥 Contact Science Contact GENIUS Olympiad Feb. Online Feb.15 廖辉、陈琳 Research Essay 林匹克竞赛 instructor research instructor Club Canadian Computing Contact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） instructor instructor activities http://scla 宋庆龄少年儿童发 宋庆龄少年儿童发明 Feb.- Science Late Feb. http://sclaci.sclc20 Online ci.sclc2017 陈琳 Research Essay 明奖 奖 Mar. research (appr.) 17.org/ .org/ American AIME美国高中数学 Invitational Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past pape",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities",
+      "canonical_name": "Hong Kong Young Writer's Awards",
+      "name_zh": "香港青年作家奖",
+      "name_en": "Hong Kong Young Writer's Awards",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Chemistry",
+        "Arts"
+      ],
+      "category": "Scientific research, Writing, Chemistry, Arts",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Oct.-Jan.",
+      "deadline_text": "Sept.",
+      "deadline_date": null,
+      "website_url": "https://www.hkywa.co",
+      "registration_contact": "",
+      "instructor_contact": "庄臻敏",
+      "preparation": "Past papers",
+      "description": "",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "Hong Kong Young Writer's Awards",
+          "raw_excerpt": "oard system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registrat website/Contact /Contact y ion l n Hong Kong Online Online 香港青年作家奖 Young Writer's Oct.-Jan. Submissio Submissio Writing O Jan. https://www.hkywa.co 沈晨荔 Creative m Writing Awards n n e S.-T.Yau High s School Online 丘成桐中学科学 ScUientific http://yau- 科技指导团 Research Scientific May.-Jul. 3 months submissio Jul.31 奖（各科）申报 research awards.com/ 队/校内导师 essay Awards n l Registration a n Canadian Past papers 加拿大化学奥林 Onrline “阿思丹国际理科 Chemistry May.-Aug. 2hr e Chemistry Aug.23 赵涛 and club 匹克 submision 测评”小程序 Olympiad activities t n I 上海市青少年“ Online Aug.- Online Scientific Sept.30 Research 双碳”方案提案 r submissio 张非凡 张非凡 Sept. osubmision research (appr.) essay 大赛 n F Online 鲁迅青少年文学 Luxun Young Jun.- http://www.luxun 3 months submissio Writing Sept.20 庄臻敏 Essay 奖 Award Sept. young.com n ht",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "International Linguistics Olympiad",
+      "name_zh": "语言学奥赛初赛",
+      "name_en": "International Linguistics Olympiad",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Chemistry",
+        "Arts",
+        "Social Science"
+      ],
+      "category": "Scientific research, Writing, Chemistry, Arts, Social Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Mar. 3",
+      "deadline_text": "Apr.",
+      "deadline_date": null,
+      "website_url": "https://sh.invention",
+      "registration_contact": "",
+      "instructor_contact": "赵涛",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 3",
+          "row_or_text_ref": "International Linguistics Olympiad",
+          "raw_excerpt": "d system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registration website/Contact /Contact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed 李逸 and club instructor Olympiad activities Chinese Earth Contact Earth Contact 地球科学奥赛预赛 Mar. 2.5 hours Jan. 张非凡 Past papers Science Olympiad instructor Science instructor https://sh.invention Creative 全球发明大会中国 Invention Jan.- Contact Scientific 2 months Apr. convention.cn/web/in 廖辉 intention and 赛 Convention China Apr. instructor research dex.html essay S.-T.Yau High 丘成桐中学科学奖 Apr.- http://yau- Science http://yau- School Science Online Jul. 廖辉、陈琳 Research Essay （各科）申报 Jul. awards.com/ research awards.com/ Awards Canadian Past papers Contact Contact 加拿大化学竞赛 Chemistry Contest Apr.24 60 mins Chemistry Apr. 赵涛 and club instructor instructor (CCC) activities",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Physics Bowl",
+      "name_zh": "物理杯美国高中生物理思维挑战",
+      "name_en": "Physics Bowl",
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research",
+        "Writing",
+        "Biology",
+        "Physics",
+        "Arts",
+        "Social Science"
+      ],
+      "category": "Scientific research, Writing, Biology, Physics, Arts, Social Science",
+      "region": "SHSID / International",
+      "format": "online",
+      "date_text": "Mar. submissio",
+      "deadline_text": "Mar.",
+      "deadline_date": null,
+      "website_url": "https://www.ashg.org",
+      "registration_contact": "",
+      "instructor_contact": "本创作比",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "Physics Bowl",
+          "raw_excerpt": "gh School Onine Mar. submissio Psychology Mar.1 ed/precollege/topss/ 沈玉婷 Research Essay 中生心理写作竞赛 Psychology submission n student-competition Students 物理杯美国高中生 Contact Contact Club Physics Bowl Mar. 45 mins Physics Mar. 徐臻成 物理思维挑战 instructor instructor activities 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. instructor /dna-day/ British Astronomy 英国天文学和天体 Mar.(ap Contact Contact Club and Astrophysics Online Physics Mar. 徐臻成 物理学奥赛 pr.) instructor instructor activities Olympiad(BAAO) https://arts.princet Princeton Ten- on.edu/about/opportu 普林斯顿10分钟剧 Mar.(ap Online Minute Play Online Writing Mar. nities/high-school- 沈晨荔 Play writing 本创作比赛 pr.) submission Contest contests/ten-minute- play-contest/ Internation",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "US National Chemistry Competition (USNCO)",
+      "name_zh": "美国国家化学竞赛",
+      "name_en": "US National Chemistry Competition (USNCO)",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics",
+        "Scientific research",
+        "Writing",
+        "Chemistry"
+      ],
+      "category": "Mathematics, Scientific research, Writing, Chemistry",
+      "region": "SHSID / International",
+      "format": "in_person",
+      "date_text": "Feb. 3",
+      "deadline_text": "Mar.",
+      "deadline_date": null,
+      "website_url": "https://cemc.uwaterl",
+      "registration_contact": "Official WeChat account",
+      "instructor_contact": "廖辉、陈琳",
+      "preparation": "Research Essay",
+      "description": "",
+      "confidence": "historical_information_only",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 1",
+          "row_or_text_ref": "US National Chemistry Competition (USNCO)",
+          "raw_excerpt": "tional Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past papers Chemistry Contact Contact 美国国家化学竞赛 Mar.16 110 mins Chemistry Jan.19 赵涛 and club Competition instructor instructor activities (USNCO) The International 国际数学建模挑战 Mathematical Contact https://immchallenge 张明欣、王 Club Mar. 2 weeks Math Apr. 赛 Modeling Challenge instructor .org/ 倩、朱雅婷 activities (IMMC) International 国际格林威治奥林 Contact Science Greenwich Olympiad Jun. Onsite Mar. 青少年科学社公众号 廖辉、陈琳 Research Essay 匹克竞赛 instructor research (IGO)",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "USACO",
+      "name_zh": "USACO美国计算机奥赛",
+      "name_en": "USACO",
+      "type": "competition",
+      "subject_tags": [
+        "Computer Science"
+      ],
+      "category": "Computer Science",
+      "region": "SHSID / International",
+      "format": "hybrid",
+      "date_text": "Sep.- Nov. 3",
+      "deadline_text": "novation",
+      "deadline_date": null,
+      "website_url": "https://www.noi.cn/",
+      "registration_contact": "",
+      "instructor_contact": "创新大赛",
+      "preparation": "",
+      "description": "",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 2",
+          "row_or_text_ref": "USACO",
+          "raw_excerpt": " 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissio Online 机奥赛 USACO Dec.- Mar. 4 months n IT Dec. https://www.usac何o.天or舟g Training",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        },
+        {
+          "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+          "source_type": "pdf",
+          "page_or_sheet": "page 3",
+          "row_or_text_ref": "USACO",
+          "raw_excerpt": "NOI- CSP,NOIP全国青 NOI Online CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.cn/ 何天舟 少年信息学奥林 training 匹克联赛 Online USACO USACO美国计算 USACO Dec.- Mar. 4 months submissio IT Dec. https://www.usaco.org 何天舟 Online 机奥赛 n Training y l Contact High School n https://www.coma instructors Mathematical O 美国高中生数学 Nov.(appr p.com/highschool 张明欣、朱 and Contest in 14 days Online Mathematics Nov. 建模竞赛 .) /contests/himcm/ 雅婷、王倩 participate Modeling e index.html in club (HiMCM) s activities U The Contact International instructors l 国际数学建模挑 Mathematical Nov.(appr a https://www.immchalle 张明欣、朱 and 4 days Online Mathematics Nov. 战赛 Modeling .) n nge.org/ 雅婷、王倩 participate Challenge（IMM r in club C） e activities t Youth n Artificial I 青少年人工智能 Jun.- 青少年AI大赛公众 Innovative Intelligence Offline Online IT Aug.15 何天舟 创新大赛 Sept. r 号 Project Innovation o Co",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-babson-summer-study-for-high-school-students",
+      "canonical_name": "Babson Summer Study for High School Students",
+      "name_en": "Babson Summer Study for High School Students",
+      "type": "summer_program",
+      "subject_tags": [
+        "Business"
+      ],
+      "category": "Business",
+      "region": "US",
+      "format": "online",
+      "date_text": "July,2024",
+      "deadline_text": "March,2024",
+      "deadline_date": null,
+      "website_url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+      "description": "Babson Summer Study is a 4-week experiential online program for rising high school juniors and seniors to develop an entrepreneurial mindset and become innovators and changemakers.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "2",
+          "raw_excerpt": "Babson Summer Study for High School Students Babson Summer Study is a 4-week experiential online program for rising high school juniors and seniors to develop an entrepreneurial mindset and become innovators and changemakers. Business US Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-berkeley-business-academy-for-youth",
+      "canonical_name": "Berkeley Business Academy for Youth",
+      "name_en": "Berkeley Business Academy for Youth",
+      "type": "summer_program",
+      "subject_tags": [
+        "Business"
+      ],
+      "category": "Business",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Session I: July 6-20, 2024. Session II: July 20-August 3, 2024",
+      "deadline_text": "March,2024",
+      "deadline_date": null,
+      "website_url": "https://haas.berkeley.edu/business-academy/",
+      "description": "For two weeks every summer, the Berkeley Business Academy for Youth gives middle- and high-school students a glimpse into their future.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "3",
+          "raw_excerpt": "Berkeley Business Academy for Youth For two weeks every summer, the Berkeley Business Academy for Youth gives middle- and high-school students a glimpse into their future. Business US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-brown-pre-college-programs",
+      "canonical_name": "Brown Pre-College Programs",
+      "name_en": "Brown Pre-College Programs",
+      "type": "summer_program",
+      "subject_tags": [
+        "Arts"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Multiple",
+      "deadline_text": "May , 2024",
+      "deadline_date": null,
+      "website_url": "https://precollege.brown.edu/",
+      "description": "Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing challenging academics and enriching social activities—without the pressure of formal grades.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "4",
+          "raw_excerpt": "Brown Pre-College Programs Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing challenging academics and enriching social activities—without the pressure of formal grades. Multiple US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-california-state-summer-school-for-mathematics-science-cosmos",
+      "canonical_name": "California State Summer School for Mathematics & Science ( cosmos )",
+      "name_en": "California State Summer School for Mathematics & Science ( cosmos )",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July- August , 2024",
+      "deadline_text": "February , 2024",
+      "deadline_date": null,
+      "website_url": "https://cosmos-ucop.ucdavis.edu/app/main",
+      "description": "COSMOS is an intensive four-week summer residential program for students who have demonstrated an aptitude for academic and professional careers in science, technology, engineering, and mathematics (STEM) subjects.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "5",
+          "raw_excerpt": "California State Summer School for Mathematics & Science ( cosmos ) COSMOS is an intensive four-week summer residential program for students who have demonstrated an aptitude for academic and professional careers in science, technology, engineering, and mathematics (STEM) subjects. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-cambridge-virtual-pre-university-summer-programme",
+      "canonical_name": "Cambridge Virtual Pre-University Summer Programme",
+      "name_en": "Cambridge Virtual Pre-University Summer Programme",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "UK",
+      "format": "online",
+      "date_text": "Multiple",
+      "deadline_text": "TBA",
+      "deadline_date": null,
+      "website_url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+      "description": "The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessions hosted by current University of Cambridge students, as well as exchanging ideas with fellow participants via our online forums.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "38",
+          "raw_excerpt": "Cambridge Virtual Pre-University Summer Programme The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessions hosted by current University of Cambridge students, as well as exchanging ideas with fellow participants via our online forums. Multiple UK Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-clark-scholars-program",
+      "canonical_name": "Clark Scholars Program",
+      "name_en": "Clark Scholars Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science",
+        "Scientific research",
+        "Arts"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June,2024 to August , 2024",
+      "deadline_text": "February, 2024",
+      "deadline_date": null,
+      "website_url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+      "description": "The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost any area of academe from not only the natural sciences and mathematics but to the humanities and fine arts as well.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "6",
+          "raw_excerpt": "Clark Scholars Program The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost any area of academe from not only the natural sciences and mathematics but to the humanities and fine arts as well. Multiple US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-cornell-pre-college-studies",
+      "canonical_name": "Cornell Pre-College Studies",
+      "name_en": "Cornell Pre-College Studies",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Multiple",
+      "deadline_text": "Multiple",
+      "deadline_date": null,
+      "website_url": "https://sce.cornell.edu/precollege",
+      "description": "Cornell University's precollege programs give high school students the chance to benefit from an Ivy League education before they apply to or attend college.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "7",
+          "raw_excerpt": "Cornell Pre-College Studies Cornell University's precollege programs give high school students the chance to benefit from an Ivy League education before they apply to or attend college. Multiple US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-hampshire-college-summer-studies-in-mathematics-hcssim",
+      "canonical_name": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+      "name_en": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July to August , 2024",
+      "deadline_text": "April , 2024",
+      "deadline_date": null,
+      "website_url": "https://hcssim.org/",
+      "description": "HCSSiM is an intensive six-week encounter with college-level mathematics for talented and highly motivated high school students. It is demanding and expanding.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "8",
+          "raw_excerpt": "Hampshire College Summer Studies in Mathematics (HCSSiM) HCSSiM is an intensive six-week encounter with college-level mathematics for talented and highly motivated high school students. It is demanding and expanding. Multiple US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-high-school-honors-science-math-and-engineering-program",
+      "canonical_name": "High School Honors Science, Math and Engineering Program",
+      "name_en": "High School Honors Science, Math and Engineering Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Scientific research",
+        "Arts"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June to August , 2024",
+      "deadline_text": "March , 2024",
+      "deadline_date": null,
+      "website_url": "https://education.msu.edu/hshsp/",
+      "description": "The Michigan State University High School Honors Science/Engineering/Mathematics Program (HSHSP) is a seven-week, intensive summer research program designed for motivated students from across the United States who wish to gain more experience conducting research while living on the campus of a major research-intensive university.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "9",
+          "raw_excerpt": "High School Honors Science, Math and Engineering Program The Michigan State University High School Honors Science/Engineering/Mathematics Program (HSHSP) is a seven-week, intensive summer research program designed for motivated students from across the United States who wish to gain more experience conducting research while living on the campus of a major research-intensive university. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-hku-summer-institute",
+      "canonical_name": "HKU Summer Institute",
+      "name_en": "HKU Summer Institute",
+      "type": "summer_program",
+      "subject_tags": [
+        "Computer Science"
+      ],
+      "category": "Multiple",
+      "region": "HK China",
+      "format": "hybrid",
+      "date_text": "Rolling",
+      "deadline_text": "Rolling",
+      "deadline_date": null,
+      "website_url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+      "description": "We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life in the summer. It is the best platform to take up intellectual challenges and make new friends from different cultures.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "42",
+          "raw_excerpt": "HKU Summer Institute We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life in the summer. It is the best platform to take up intellectual challenges and make new friends from different cultures. Multiple HK China In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-hkust-summer-institute",
+      "canonical_name": "HKUST Summer Institute",
+      "name_en": "HKUST Summer Institute",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "HK China",
+      "format": "in_person",
+      "date_text": "August,2024",
+      "deadline_text": "May , 2024",
+      "deadline_date": null,
+      "website_url": "https://summer.ust.hk/",
+      "description": "For Grade 10/11 students at the time of application",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "43",
+          "raw_excerpt": "HKUST Summer Institute For Grade 10/11 students at the time of application Multiple HK China In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-imperial-global-summer-school",
+      "canonical_name": "Imperial Global Summer School",
+      "name_en": "Imperial Global Summer School",
+      "type": "summer_program",
+      "subject_tags": [
+        "Computer Science"
+      ],
+      "category": "STEM",
+      "region": "UK",
+      "format": "in_person",
+      "date_text": "Multiple",
+      "deadline_text": "Multiple",
+      "deadline_date": null,
+      "website_url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+      "description": "Imperial’s Global Summer School offers a unique experience for students. At its heart is an intensive residential STEM programme, giving students a taste of what it is like to learn at a world-leading university.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "39",
+          "raw_excerpt": "Imperial Global Summer School Imperial’s Global Summer School offers a unique experience for students. At its heart is an intensive residential STEM programme, giving students a taste of what it is like to learn at a world-leading university. STEM UK In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-international-summer-school-for-young-physicists-issyp",
+      "canonical_name": "International Summer School for Young Physicists (ISSYP)",
+      "name_en": "International Summer School for Young Physicists (ISSYP)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Physics"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "online",
+      "date_text": "July , 2024",
+      "deadline_text": "March , 2024",
+      "deadline_date": null,
+      "website_url": "https://perimeterinstitute.ca/issyp",
+      "description": "ISSYP is an exciting and challenging two-week online program for Canadian and international high school students with a keen interest in theoretical physics who intend to pursue physics at the university level.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "10",
+          "raw_excerpt": "International Summer School for Young Physicists (ISSYP) ISSYP is an exciting and challenging two-week online program for Canadian and international high school students with a keen interest in theoretical physics who intend to pursue physics at the university level. STEM US Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-iowa-young-writers-studio-iyws",
+      "canonical_name": "Iowa Young Writers’ Studio (IYWS)",
+      "name_en": "Iowa Young Writers’ Studio (IYWS)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Writing",
+        "Arts"
+      ],
+      "category": "Writing",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Session 1: June, 2024. Session 2: July, 2024.",
+      "deadline_text": "February , 2024",
+      "deadline_date": null,
+      "website_url": "https://iyws.clas.uiowa.edu/",
+      "description": "The Studio gives promising high school-age creative writers the opportunity to share their writing with teachers and peers, receive constructive critique, participate in writing exercises and activities, and attend (actually or virtually) readings and literary events.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "11",
+          "raw_excerpt": "Iowa Young Writers’ Studio (IYWS) The Studio gives promising high school-age creative writers the opportunity to share their writing with teachers and peers, receive constructive critique, participate in writing exercises and activities, and attend (actually or virtually) readings and literary events. Writing US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-johns-hopkins-engineering-innovation",
+      "canonical_name": "Johns Hopkins Engineering Innovation",
+      "name_en": "Johns Hopkins Engineering Innovation",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Scientific research"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Multiple",
+      "deadline_text": "Multiple",
+      "deadline_date": null,
+      "website_url": "https://ei.jhu.edu/",
+      "description": "Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) engineering.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "13",
+          "raw_excerpt": "Johns Hopkins Engineering Innovation Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) engineering. STEM US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-launchx-high-school-entrepreneurship-summer-program",
+      "canonical_name": "LaunchX High School Entrepreneurship Summer Program",
+      "name_en": "LaunchX High School Entrepreneurship Summer Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Business"
+      ],
+      "category": "Business",
+      "region": "US",
+      "format": "online",
+      "date_text": "June - July, 2024",
+      "deadline_text": "February , 2024",
+      "deadline_date": null,
+      "website_url": "https://launchx.com/summer-program/",
+      "description": "LaunchX entrepreneurship summer program taps into the potential of ambitious high school students, supporting our young entrepreneurs through the process of launching an actual startup.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "14",
+          "raw_excerpt": "LaunchX High School Entrepreneurship Summer Program LaunchX entrepreneurship summer program taps into the potential of ambitious high school students, supporting our young entrepreneurs through the process of launching an actual startup. Business US Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-leadership-in-the-business-world-lbw",
+      "canonical_name": "Leadership in the Business World (LBW)",
+      "name_en": "Leadership in the Business World (LBW)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Business"
+      ],
+      "category": "Business",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Multiple",
+      "deadline_text": "April , 2024",
+      "deadline_date": null,
+      "website_url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "description": "LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulations, and team-building activities.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "15",
+          "raw_excerpt": "Leadership in the Business World (LBW) LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulations, and team-building activities. Business US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-management-technology-summer-institute-m-tsi",
+      "canonical_name": "Management & Technology Summer Institute (M&TSI)",
+      "name_en": "Management & Technology Summer Institute (M&TSI)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July, 2024",
+      "deadline_text": "April , 2024",
+      "deadline_date": null,
+      "website_url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "description": "M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technological concepts and management principles.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "16",
+          "raw_excerpt": "Management & Technology Summer Institute (M&TSI) M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technological concepts and management principles. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-mit-research-science-institute-rsi",
+      "canonical_name": "MIT Research Science Institute (RSI)",
+      "name_en": "MIT Research Science Institute (RSI)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Scientific research"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June to August , 2024",
+      "deadline_text": "December，2023",
+      "deadline_date": null,
+      "website_url": "https://www.cee.org/research-science-institute",
+      "description": "Each summer, 80 of the world's most accomplished high school students gather at the Massachusetts Institute of Technology (MIT) for the Research Science Institute (RSI). RSI is the first cost-free to students, summer science & engineering program to combine on-campus course work in scientific theory with off-campus work in science and technology research.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "17",
+          "raw_excerpt": "MIT Research Science Institute (RSI) Each summer, 80 of the world's most accomplished high school students gather at the Massachusetts Institute of Technology (MIT) for the Research Science Institute (RSI). RSI is the first cost-free to students, summer science & engineering program to combine on-campus course work in scientific theory with off-campus work in science and technology research. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-northwestern-pre-college-summer-programs",
+      "canonical_name": "Northwestern Pre-College Summer Programs",
+      "name_en": "Northwestern Pre-College Summer Programs",
+      "type": "summer_program",
+      "subject_tags": [
+        "Computer Science"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Multiple",
+      "deadline_text": "April , 2024",
+      "deadline_date": null,
+      "website_url": "https://sps.northwestern.edu/pre-college/",
+      "description": "Even though it looks like fun, Northwestern takes its supplemental enrichment programs seriously. From credit-granting coursework to weekend music lessons, children and teens can take advantage of Northwestern faculty, resources and academic expertise.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "18",
+          "raw_excerpt": "Northwestern Pre-College Summer Programs Even though it looks like fun, Northwestern takes its supplemental enrichment programs seriously. From credit-granting coursework to weekend music lessons, children and teens can take advantage of Northwestern faculty, resources and academic expertise. Multiple US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-notre-dame-leadership-seminars",
+      "canonical_name": "Notre Dame Leadership Seminars",
+      "name_en": "Notre Dame Leadership Seminars",
+      "type": "summer_program",
+      "subject_tags": [
+        "Social Science"
+      ],
+      "category": "Social Science",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July , 2024",
+      "deadline_text": "January, 2024",
+      "deadline_date": null,
+      "website_url": "https://precollege.nd.edu/leadership-seminars/",
+      "description": "Leadership Seminars is a competitive, 10-day program on Notre Dame's campus for academically talented students who show impressive leadership within their communities.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "19",
+          "raw_excerpt": "Notre Dame Leadership Seminars Leadership Seminars is a competitive, 10-day program on Notre Dame's campus for academically talented students who show impressive leadership within their communities. Social Science US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-nyu-pre-college-program",
+      "canonical_name": "NYU Pre-College Program",
+      "name_en": "NYU Pre-College Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July - August,2024",
+      "deadline_text": "April ,2024",
+      "deadline_date": null,
+      "website_url": "https://www.nyu.edu/admissions/high-school-programs/precollege.html",
+      "description": "NYU Precollege offers highschoolers the opportunity to experience life as an NYU student, earn college credits toward a future degree, and immerse themselves in the dynamic, global community that is New York University.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "20",
+          "raw_excerpt": "NYU Pre-College Program NYU Precollege offers highschoolers the opportunity to experience life as an NYU student, earn college credits toward a future degree, and immerse themselves in the dynamic, global community that is New York University. Multiple US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-oxford-ppe-online-program",
+      "canonical_name": "Oxford PPE Online Program",
+      "name_en": "Oxford PPE Online Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Social Science"
+      ],
+      "category": "Social Science",
+      "region": "UK",
+      "format": "online",
+      "date_text": "TBA",
+      "deadline_text": "TBA",
+      "deadline_date": null,
+      "website_url": "https://www.seedasdan.org/en/university-of-oxford/",
+      "description": "PPE is one of the most well-known majors at the University of Oxford. Oxford PPE online programme is officially hosted by the University of Oxford and taught by Oxford faculties and instructors, issuing the official certificate of completion to students.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "40",
+          "raw_excerpt": "Oxford PPE Online Program PPE is one of the most well-known majors at the University of Oxford. Oxford PPE online programme is officially hosted by the University of Oxford and taught by Oxford faculties and instructors, issuing the official certificate of completion to students. Social Science UK Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-program-in-mathematics-for-young-scientists-promys",
+      "canonical_name": "Program in Mathematics for Young Scientists (PROMYS)",
+      "name_en": "Program in Mathematics for Young Scientists (PROMYS)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July -August,2024",
+      "deadline_text": "March,2024",
+      "deadline_date": null,
+      "website_url": "https://promys.org/",
+      "description": "PROMYS is a 6-week summer program in mathematics for strongly motivated high school students from across the U.S. and around the world.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "21",
+          "raw_excerpt": "Program in Mathematics for Young Scientists (PROMYS) PROMYS is a 6-week summer program in mathematics for strongly motivated high school students from across the U.S. and around the world. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-rhode-island-school-of-design-pre-collegiate-programs",
+      "canonical_name": "Rhode Island School of Design Pre-Collegiate Programs",
+      "name_en": "Rhode Island School of Design Pre-Collegiate Programs",
+      "type": "summer_program",
+      "subject_tags": [
+        "Arts"
+      ],
+      "category": "Arts",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July - August,2024",
+      "deadline_text": "TBA",
+      "deadline_date": null,
+      "website_url": "https://precollege.risd.edu/",
+      "description": "RISD Pre-College offers rising high school juniors and seniors the chance to experience life as a RISD undergrad. For six weeks you’ll follow a college-level curriculum with day-long studio classes, critiques and final projects.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "22",
+          "raw_excerpt": "Rhode Island School of Design Pre-Collegiate Programs RISD Pre-College offers rising high school juniors and seniors the chance to experience life as a RISD undergrad. For six weeks you’ll follow a college-level curriculum with day-long studio classes, critiques and final projects. Arts US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-ross-mathematics-program",
+      "canonical_name": "Ross Mathematics Program",
+      "name_en": "Ross Mathematics Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Arts"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June- July , 2024",
+      "deadline_text": "March,2024",
+      "deadline_date": null,
+      "website_url": "https://rossprogram.org/",
+      "description": "The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "23",
+          "raw_excerpt": "Ross Mathematics Program The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-stanford-summer-humanities-institute",
+      "canonical_name": "Stanford Summer Humanities Institute",
+      "name_en": "Stanford Summer Humanities Institute",
+      "type": "summer_program",
+      "subject_tags": [
+        "Social Science"
+      ],
+      "category": "Social Science",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Session I: June 26, 2024 - July 10, 2024;Session II: July 17, 2024 - July 31, 2024.",
+      "deadline_text": "March ,2024",
+      "deadline_date": null,
+      "website_url": "https://summerhumanities.spcs.stanford.edu/",
+      "description": "Stanford Summer Humanities Institute is a summer enrichment program where rising high school juniors and seniors explore the big questions at the heart of the humanities in seminars led by distinguished Stanford professors.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "25",
+          "raw_excerpt": "Stanford Summer Humanities Institute Stanford Summer Humanities Institute is a summer enrichment program where rising high school juniors and seniors explore the big questions at the heart of the humanities in seminars led by distinguished Stanford professors. Social Science US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-stanford-university-mathematics-camp-sumac",
+      "canonical_name": "Stanford University Mathematics Camp (SUMaC)",
+      "name_en": "Stanford University Mathematics Camp (SUMaC)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Session One: Online June-July , 2024 Session One: Residential June-July 2024 Session Two: Online July -July 26, 2024",
+      "deadline_text": "February, 2024",
+      "deadline_date": null,
+      "website_url": "https://sumac.spcs.stanford.edu/",
+      "description": "The SUMaC courses focus on pure mathematics—that is, mathematics that is motivated independently of ties to other sciences; nonetheless, important applications are introduced and pursued along the way.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "26",
+          "raw_excerpt": "Stanford University Mathematics Camp (SUMaC) The SUMaC courses focus on pure mathematics—that is, mathematics that is motivated independently of ties to other sciences; nonetheless, important applications are introduced and pursued along the way. STEM US Online& In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-summer-science-program-ssp",
+      "canonical_name": "Summer Science Program (SSP)",
+      "name_en": "Summer Science Program (SSP)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Scientific research"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June-August, 2024",
+      "deadline_text": "February,2024",
+      "deadline_date": null,
+      "website_url": "https://summerscience.org/",
+      "description": "The Summer Science Program offers teens an exhilarating and inspiring immersion into hands-on experimental science. Working in teams of three, 36 participants and 7 faculty form a supportive “living and learning community” over 39 days. Each team completes a real research project, taking and analyzing original data.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "27",
+          "raw_excerpt": "Summer Science Program (SSP) The Summer Science Program offers teens an exhilarating and inspiring immersion into hands-on experimental science. Working in teams of three, 36 participants and 7 faculty form a supportive “living and learning community” over 39 days. Each team completes a real research project, taking and analyzing original data. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-telluride-association-summer-seminars-tass",
+      "canonical_name": "Telluride Association Summer Seminars (TASS)",
+      "name_en": "Telluride Association Summer Seminars (TASS)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Social Science"
+      ],
+      "category": "Social Science",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June-August, 2024",
+      "deadline_text": "January , 2024",
+      "deadline_date": null,
+      "website_url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+      "description": "The Telluride Association Summer Seminars (TASS) are six-week educational experiences for high school sophomores and juniors.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "28",
+          "raw_excerpt": "Telluride Association Summer Seminars (TASS) The Telluride Association Summer Seminars (TASS) are six-week educational experiences for high school sophomores and juniors. Social Science US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-the-national-high-school-game-academy-nhsga",
+      "canonical_name": "The National High School Game Academy (NHSGA)",
+      "name_en": "The National High School Game Academy (NHSGA)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Multiple",
+      "deadline_text": "February , 2024",
+      "deadline_date": null,
+      "website_url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "description": "The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "29",
+          "raw_excerpt": "The National High School Game Academy (NHSGA) The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-the-yale-young-global-scholars-program-yygs",
+      "canonical_name": "The Yale Young Global Scholars Program (YYGS)",
+      "name_en": "The Yale Young Global Scholars Program (YYGS)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Interdisciplinary",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "Multiple",
+      "deadline_text": "January , 2025",
+      "deadline_date": null,
+      "website_url": "https://globalscholars.yale.edu/",
+      "description": "Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U.S. states) participate in one interdisciplinary , two-week session online or at Yale’s historic campus.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "30",
+          "raw_excerpt": "The Yale Young Global Scholars Program (YYGS) Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U.S. states) participate in one interdisciplinary , two-week session online or at Yale’s historic campus. Interdisciplinary US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-tisch-summer-high-school-program",
+      "canonical_name": "Tisch Summer High School Program",
+      "name_en": "Tisch Summer High School Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Writing",
+        "Arts"
+      ],
+      "category": "Arts",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "July- August , 2025",
+      "deadline_text": "December,2024",
+      "deadline_date": null,
+      "website_url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+      "description": "Students in the Tisch Summer High School Program are expected to complete any coursework and professional training requirements of the artistic track they are enrolled in. Students apply to one of these artistic tracks: Dance, Drama, Production & Design, Dramatic Writing, Filmmaking, Game Design, Photography and Imaging, or Recorded Music.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "31",
+          "raw_excerpt": "Tisch Summer High School Program Students in the Tisch Summer High School Program are expected to complete any coursework and professional training requirements of the artistic track they are enrolled in. Students apply to one of these artistic tracks: Dance, Drama, Production & Design, Dramatic Writing, Filmmaking, Game Design, Photography and Imaging, or Recorded Music. Arts US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-uc-davis-young-scholars-program",
+      "canonical_name": "UC Davis Young Scholars Program",
+      "name_en": "UC Davis Young Scholars Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Scientific research",
+        "Arts"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June - August, 2025",
+      "deadline_text": "March, 2025",
+      "deadline_date": null,
+      "website_url": "https://ysprogram.ucdavis.edu/",
+      "description": "The UC Davis Young Scholars Program is a summer residential research program designed to expose approximately 40 high achieving high school students to the world of original research in the natural sciences with emphasis on the biological, environmental and agricultural sciences.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "32",
+          "raw_excerpt": "UC Davis Young Scholars Program The UC Davis Young Scholars Program is a summer residential research program designed to expose approximately 40 high achieving high school students to the world of original research in the natural sciences with emphasis on the biological, environmental and agricultural sciences. STEM US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-ucl-pre-university-summer-school",
+      "canonical_name": "UCL Pre-University Summer School",
+      "name_en": "UCL Pre-University Summer School",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "UK",
+      "format": "in_person",
+      "date_text": "July- August, 2024",
+      "deadline_text": "May , 2024",
+      "deadline_date": null,
+      "website_url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+      "description": "The UCL Pre-University Summer School for International High School Students is a unique two-week residential course for students who want to experience life at one of the world's leading universities in the heart of London.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "41",
+          "raw_excerpt": "UCL Pre-University Summer School The UCL Pre-University Summer School for International High School Students is a unique two-week residential course for students who want to experience life at one of the world's leading universities in the heart of London. Multiple UK In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-university-of-chicago-pre-college-program",
+      "canonical_name": "University of Chicago Pre-College Program",
+      "name_en": "University of Chicago Pre-College Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "Multiple",
+      "deadline_text": "Multiple",
+      "deadline_date": null,
+      "website_url": "https://summer.uchicago.edu/pre-college-students",
+      "description": "The University of Chicago’s Summer Session brings together a global community of thinkers who ask tough question, embrace new ideas, and are excited to connect with each other.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "33",
+          "raw_excerpt": "University of Chicago Pre-College Program The University of Chicago’s Summer Session brings together a global community of thinkers who ask tough question, embrace new ideas, and are excited to connect with each other. Multiple US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-upenn-pre-college-program",
+      "canonical_name": "Upenn Pre-College Program",
+      "name_en": "Upenn Pre-College Program",
+      "type": "summer_program",
+      "subject_tags": [
+        "Arts"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "June - August , 2024",
+      "deadline_text": "April , 2024",
+      "deadline_date": null,
+      "website_url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+      "description": "The Pre-College Program is designed for academically curious high school students interested in the intellectual challenge and residential freedom of a true undergraduate experience.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "34",
+          "raw_excerpt": "Upenn Pre-College Program The Pre-College Program is designed for academically curious high school students interested in the intellectual challenge and residential freedom of a true undergraduate experience. Multiple US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-usc-summer-programs",
+      "canonical_name": "USC Summer Programs",
+      "name_en": "USC Summer Programs",
+      "type": "summer_program",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "Multiple",
+      "region": "US",
+      "format": "in_person",
+      "date_text": "June- July, 2024",
+      "deadline_text": "April, 2024",
+      "deadline_date": null,
+      "website_url": "https://summerprograms.usc.edu/",
+      "description": "USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "35",
+          "raw_excerpt": "USC Summer Programs USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses. Multiple US In person",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": "summer-yale-summer-program-in-astrophysics-yspa",
+      "canonical_name": "Yale Summer Program in Astrophysics(YSPA)",
+      "name_en": "Yale Summer Program in Astrophysics(YSPA)",
+      "type": "summer_program",
+      "subject_tags": [
+        "Mathematics",
+        "Computer Science",
+        "Scientific research",
+        "Physics"
+      ],
+      "category": "STEM",
+      "region": "US",
+      "format": "hybrid",
+      "date_text": "July - August,2024",
+      "deadline_text": "March , 2024",
+      "deadline_date": null,
+      "website_url": "https://yspa.yale.edu/",
+      "description": "YSPA is a 2-week online + 4-week residential research and enrichment program for 32 rising high school seniors who are interested in astronomy, physics, math, computer programming, and other science and tech fields.",
+      "confidence": "partially_verified",
+      "last_verified_at": null,
+      "sources": [
+        {
+          "source_file": "2024 Summer_Programs.xlsx",
+          "source_type": "xlsx",
+          "page_or_sheet": "工作表 1 - Summer Programs",
+          "row_or_text_ref": "37",
+          "raw_excerpt": "Yale Summer Program in Astrophysics(YSPA) YSPA is a 2-week online + 4-week residential research and enrichment program for 32 rising high school seniors who are interested in astronomy, physics, math, computer programming, and other science and tech fields. STEM US In person Online",
+          "extracted_at": "2026-07-09T09:28:01+00:00"
+        }
+      ]
+    }
+  ]
+}

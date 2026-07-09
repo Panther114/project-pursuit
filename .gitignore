@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+coverage/
+*.log
+__pycache__/
+.pytest_cache/
+data/raw/
+data/reports/
