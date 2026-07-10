@@ -1,17 +1,20 @@
 # Project Pursuit
 
-Project Pursuit is a prototype competition discovery and recommendation product for SHSID international high-school students.
+Project Pursuit is a prototype competition and course discovery product for SHSID international high-school students.
 
-The first prototype is intentionally narrow: ingest the offline files in `shsid_sources/`, normalize them into a verified competition catalog, and ship a clean web UI for search, filtering, detail review, shortlist comparison, and basic fit recommendations.
+The first prototype is intentionally narrow: ingest the offline files in `shsid_sources/`, normalize them into a source-backed opportunity catalog, and ship a focused web UI for search, filtering, detail review, saved opportunities, and basic fit recommendations.
+
+## Interface routes
+
+- `/` — full-screen Project Pursuit lander.
+- `/competitions` — the 14-record Competition Board and its source-review queue.
+- `/programs` — the 39-record Program Board.
+
+The application uses browser-history navigation, so these routes are shareable during local development and on hosts configured with an SPA fallback.
 
 ## Project Documents
 
-- `CONCEPT.md` - original product concept and long-term direction.
-- `docs/DATA_SOURCE_INVENTORY.md` - current source inventory and extraction notes.
-- `docs/DATA_DICTIONARY.md` - normalized opportunity fields and confidence labels.
-- `docs/IMPORT_WORKFLOW.md` - repeatable offline-source import workflow.
-- `docs/VERIFICATION_POLICY.md` - source reliability and online verification rules.
-- `PRODUCT.md` and `DESIGN.md` - product and UI system context for future implementation work.
+Start with [`docs/README.md`](docs/README.md), the index for product, design, data, verification, and contribution documentation.
 
 ## Run Locally
 
@@ -21,12 +24,16 @@ npm run import:sources
 npm run dev
 ```
 
+On Windows, double-click `quickrun.bat` to stop any existing local servers for this project, start a fresh dev server, and open the app in your default browser.
+
 Build and test:
 
 ```bash
 npm test
 npm run build
 ```
+
+See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for the complete local development and data-import workflow.
 
 ## Current Offline Sources
 

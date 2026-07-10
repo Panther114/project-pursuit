@@ -25,6 +25,7 @@ Last updated: 2026-07-09
 | `description` | string | Description, mainly from the summer-program spreadsheet. |
 | `confidence` | enum | Reliability label shown in the UI. |
 | `last_verified_at` | string/null | Official online verification timestamp, when performed. |
+| `verification_note` | string | Human-readable scope and limitation of the latest official-source check. |
 | `sources` | Source[] | Source trace records. |
 
 ## Source

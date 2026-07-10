@@ -42,6 +42,7 @@ export interface Opportunity {
   admissions_relevance_notes?: string;
   confidence: Confidence;
   last_verified_at?: string | null;
+  verification_note?: string;
   sources: OpportunitySource[];
 }
 
