@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.noi.cn/",
+  "final_url": "https://www.noi.cn/",
+  "retrieved_at": "2026-07-11T12:28:28+00:00",
+  "content_hash": "321f8688e5a80ceb1b61767294290d2eb5e81a5a08d5aa6cc95f451231f0b20f",
+  "content_type": "text/html",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.noi.cn/321f8688e5a80ceb.html.gz"
+}

@@ -14,7 +14,7 @@ SHSID international high-school students who are comparing academic competitions
 
 ## Product Purpose
 
-Project Pursuit turns school-provided competition lists into a searchable, source-backed planning tool. Success means a student can quickly find relevant opportunities, understand uncertainty in the data, save a shortlist, and compare options without losing source traceability.
+Project Pursuit turns school-provided lists and reproducible web snapshots into a China-relevant factual catalog. Success means a student can filter opportunities by published facts, distinguish missing information from verified information, and trace every populated field to retained evidence.
 
 ## Brand Personality
 

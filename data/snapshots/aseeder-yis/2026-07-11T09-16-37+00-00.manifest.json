@@ -1,0 +1,12 @@
+{
+  "source_id": "aseeder-yis",
+  "original_url": "https://www.seedasdan.com/en/yis-eng/",
+  "final_url": "https://www.seedasdan.com/en/yis-eng/",
+  "parent_listing_url": "https://www.seedasdan.com/en/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "retrieved_at": "2026-07-11T09:16:37+00:00",
+  "content_hash": "fbc93926200820dba47beb0ae1e26797c2fc16bef65d7674cfa4ccb10346659b",
+  "parser_version": "official-page-v1",
+  "snapshot_path": "data/snapshots/aseeder-yis/2026-07-11T09-16-37+00-00.html.gz"
+}

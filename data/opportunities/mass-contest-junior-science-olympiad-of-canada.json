@@ -1,0 +1,312 @@
+{
+  "id": "mass-contest-junior-science-olympiad-of-canada",
+  "canonical_name": "Junior Science Olympiad of Canada",
+  "name_zh": "",
+  "name_en": "Junior Science Olympiad of Canada",
+  "type": "competition",
+  "subject_tags": [
+    "Scientific research"
+  ],
+  "category": "Olympiad",
+  "organizer": "Junior Science Olympiad of Canada",
+  "region": "Mainland China / International",
+  "region_tier": "international_only",
+  "country": "Canada",
+  "city": null,
+  "format": "hybrid",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Canadian citizens aged 15 or younger compete through a two-stage selection process.",
+  "eligible_grades": [],
+  "eligible_ages": [
+    15
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "team_mode": "individual",
+  "cost_text": "",
+  "time_commitment": "Online or written qualification followed by a national selection camp or final.",
+  "description": "Canadian junior science competition and selection process for the International Junior Science Olympiad.",
+  "website_url": "https://www.jsoc.ca/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Junior Science Olympiad of Canada",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "http://www.seedasdan.org/en/jsoc-en/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Junior Science Olympiad of Canada Date: 30th May, 2020(Saturday)",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "http://www.seedasdan.org/en/jsoc-en/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-junior-science-olympiad-of-canada",
+      "raw_excerpt": "Junior Science Olympiad of Canada",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-junior-science-olympiad-of-canada]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-junior-science-olympiad-of-canada-e1",
+      "url": "http://www.seedasdan.org/en/jsoc-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "mass-contest-junior-science-olympiad-of-canada-e2",
+      "url": "http://www.seedasdan.org/en/jsoc-en/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    },
+    {
+      "evidence_id": "research-mass-contest-junior-science-olympiad-of-canada-1",
+      "url": "https://www.jsoc.ca/",
+      "publisher": "Junior Science Olympiad of Canada",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Canadian junior science competition and selection process for the International Junior Science Olympiad. Eligibility: Canadian citizens aged 15 or younger compete through a two-stage selection process. Format: Online or written qualification followed by a national selection camp or final."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "country": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-junior-science-olympiad-of-canada-e1",
+        "mass-contest-junior-science-olympiad-of-canada-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-junior-science-olympiad-of-canada-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "National medals and selection for Canada’s International Junior Science Olympiad team.",
+  "china_participation_route": "No China route; eligibility is limited to Canadian citizens.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_grades",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

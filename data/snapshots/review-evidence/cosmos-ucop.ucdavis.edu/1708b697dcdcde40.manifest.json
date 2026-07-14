@@ -1,0 +1,10 @@
+{
+  "original_url": "https://cosmos-ucop.ucdavis.edu/app/main",
+  "final_url": "https://cosmos-ucop.ucdavis.edu/app/main",
+  "retrieved_at": "2026-07-11T12:26:07+00:00",
+  "content_hash": "1708b697dcdcde409e4aaaa2863fabb9f811440fb8bb6ab6501b46cd72174e59",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/cosmos-ucop.ucdavis.edu/1708b697dcdcde40.html.gz"
+}

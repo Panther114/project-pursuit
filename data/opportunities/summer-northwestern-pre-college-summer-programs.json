@@ -1,0 +1,202 @@
+{
+  "id": "summer-northwestern-pre-college-summer-programs",
+  "canonical_name": "Northwestern Pre-College Summer Programs",
+  "name_en": "Northwestern Pre-College Summer Programs",
+  "type": "summer_program",
+  "subject_tags": [
+    "Computer Science"
+  ],
+  "category": "Multiple",
+  "region": "US",
+  "format": "hybrid",
+  "date_text": "Multiple",
+  "deadline_text": "April , 2024",
+  "deadline_date": null,
+  "website_url": "https://sps.northwestern.edu/pre-college/",
+  "description": "Even though it looks like fun, Northwestern takes its supplemental enrichment programs seriously. From credit-granting coursework to weekend music lessons, children and teens can take advantage of Northwestern faculty, resources and academic expertise.",
+  "confidence": "partially_verified",
+  "last_verified_at": null,
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "18",
+      "raw_excerpt": "Northwestern Pre-College Summer Programs Even though it looks like fun, Northwestern takes its supplemental enrichment programs seriously. From credit-granting coursework to weekend music lessons, children and teens can take advantage of Northwestern faculty, resources and academic expertise. Multiple US In person Online",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "partially_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-northwestern-pre-college-summer-programs-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Northwestern Pre-College Summer Programs Even though it looks like fun, Northwestern takes its supplemental enrichment programs seriously. From credit-granting coursework to weekend music lessons, children and teens can take advantage of No"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "date_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-northwestern-pre-college-summer-programs-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  }
+}

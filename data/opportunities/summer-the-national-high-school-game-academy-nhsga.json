@@ -1,0 +1,289 @@
+{
+  "id": "summer-the-national-high-school-game-academy-nhsga",
+  "canonical_name": "The National High School Game Academy (NHSGA)",
+  "name_en": "The National High School Game Academy (NHSGA)",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "STEM",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "Multiple",
+  "deadline_text": "February , 2024",
+  "deadline_date": null,
+  "website_url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+  "description": "The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "29",
+      "raw_excerpt": "The National High School Game Academy (NHSGA) The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development. STEM US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "40946ebaaa10d1eb.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Live pre-college program page confirms identity and active existence.",
+      "extracted_at": "2026-07-11T12:17:09+00:00",
+      "source_id": "luna-b68e8d547485",
+      "original_url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "snapshot_path": "data/snapshots/review-evidence/www.cmu.edu/40946ebaaa10d1eb.html.gz",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "content_hash": "40946ebaaa10d1eb7391af61627f99e2ba65270c49a7ad4d17e01ba20cd8e5cb",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-the-national-high-school-game-academy-nhsga-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "The National High School Game Academy (NHSGA) The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development. STEM US In person"
+    },
+    {
+      "evidence_id": "luna-b68e8d547485",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-88a470a053e5",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-2b15ba603a0a",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-41d174065ffe",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-c53002f12ea8",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-b46d81f3baa0",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-f75bff1599c1",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-43918be05ca0",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-25170fb5bdd8",
+      "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+      "publisher": "Carnegie Mellon University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:09+00:00",
+      "note": "Live pre-college program page confirms identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-b68e8d547485"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-88a470a053e5"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-the-national-high-school-game-academy-nhsga-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-the-national-high-school-game-academy-nhsga-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-2b15ba603a0a"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-41d174065ffe"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-c53002f12ea8"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-b46d81f3baa0"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-f75bff1599c1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-43918be05ca0"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-25170fb5bdd8"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

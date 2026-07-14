@@ -1,41 +1,31 @@
 # Import Workflow
 
-Last updated: 2026-07-09
-
-## Purpose
-
-The prototype catalog is generated from offline SHSID source files. The import step writes `src/data/opportunities.generated.json`, which is consumed directly by the React app.
+The catalog is generated from school files and committed official-page snapshots. A normal rebuild never needs network access.
 
 ## Commands
 
 ```bash
-npm run import:sources
+npm run import:sources      # deterministic offline rebuild
+npm run refresh:sources     # allow-listed download, snapshot, then rebuild
+npm run validate:sources    # validate without replacing generated JSON
+npm run test:importer       # importer unit tests
+npm run review:prepare      # export unpublished discovery candidates
+npm run review:promote      # validate a submission and snapshot its evidence
+npm run review:apply-batches # snapshot and merge bounded Luna review batches
 ```
 
-The script:
+`refresh:sources` reads `data/sources/registry.json`, rejects non-HTTPS or non-allow-listed redirects, validates the response, and writes a compressed HTML snapshot plus manifest. A manifest records the source ID, original/final URL, parent listing, status, content type, retrieval time, SHA-256 hash, parser version, and snapshot path. Failed refreshes leave the most recent valid snapshot intact.
 
-1. Reads `shsid_sources/2024 Summer_Programs.xlsx` with `pandas` and `openpyxl`.
-2. Reads SHSID contest PDFs with `pdfplumber`.
-3. Normalizes records into the `Opportunity` schema.
-4. Preserves source excerpts for traceability.
-5. Deduplicates repeated competition names across school years.
-6. Writes an import summary to `data/reports/import_report.json`.
+The offline build parses the freshest hash-valid snapshots, imports the SHSID files, merges reviewed canonical records, validates `data/opportunities/*.json`, and writes the deterministic public projection `src/data/opportunities.generated.json`. Historical/unverified records stay in the canonical database.
 
-## Current Output
+## Adding or repairing a source
 
-The latest reviewed run generated 53 normalized records.
+1. Confirm the page is controlled by the organizer, institution, or its official China operator.
+2. Add a registry entry with an HTTPS allow-list, parser version, refresh policy, reliability note, and complete normalized record mapping.
+3. Add narrow evidence terms that must occur in the saved page.
+4. Refresh, inspect the snapshot and report, then run an offline rebuild twice and compare hashes.
+5. Add/adjust importer fixtures before changing parser behavior. Missing non-core facts remain null; never invent a value to satisfy the schema.
 
-## Parser Notes
+When markup changes, increment `parser_version`, retain the old snapshot, update the adapter/registry mapping, and document the limitation in `docs/ONLINE_SOURCES.md`.
 
-Excel extraction is structured and high confidence.
-
-PDF extraction is inherently less reliable because table cells wrap across lines. The importer uses known competition names from the SHSID files plus page-level raw excerpts. Any parser-derived deadline, contact, or website should be treated as reviewable until official verification is performed.
-
-## Adding New Offline Sources
-
-1. Add the file to `shsid_sources/`.
-2. Update `docs/DATA_SOURCE_INVENTORY.md`.
-3. Extend `scripts/import_sources.py` if the source has a new format.
-4. Run `npm run import:sources`.
-5. Check `data/reports/import_report.json`.
-6. Run `npm test` and `npm run build`.
+Delegated research uses the separate fail-closed process in `docs/REVIEW_WORKFLOW.md`. Verified review records are imported only when their evidence snapshots exist and retain matching hashes.

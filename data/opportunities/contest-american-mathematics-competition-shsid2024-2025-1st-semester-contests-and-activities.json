@@ -1,0 +1,345 @@
+{
+  "id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
+  "canonical_name": "American Mathematics Competitions",
+  "name_zh": "美国数学竞赛",
+  "name_en": "American Mathematics Competitions",
+  "type": "competition",
+  "subject_tags": [
+    "Mathematics"
+  ],
+  "category": "Contest Series",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "The next competition cycle is 2026–2027; exact dates were not verified in the reviewed source.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://maa.org/student-programs/amc/",
+  "registration_contact": "",
+  "instructor_contact": "学锦标赛",
+  "preparation": "",
+  "description": "The MAA American Mathematics Competitions comprise the AMC 8, AMC 10, and AMC 12 school mathematics contests and their invitational pathway.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 2",
+      "row_or_text_ref": "American Mathematics Competition",
+      "raw_excerpt": "bmissio Mathemati http://www.seed Problem 赛 Competition .) 1 day n cs Sep.10 asdan.asia/amc/ 洪洋/赵伟霞 solving l a American Offline Mathematics Nov.(appr submissio Mathematni Problem 美国数学竞赛 Competition .) 1 day n cs Sep.10 洪洋 洪洋/赵伟霞 solving r Berkeley Online e http://www.seed 伯克利大学数学 Mathematics Early submissio Mathemati Late asdan.asia/en/b Problem t 竞赛 Tournament Nov. 1 day n cs November mt-en/ 洪洋/赵伟霞 solving n Canadian I Senior and IntermediateMa Ofrfline thematics Nov.(appr osubmissio Mathemati Problem 加拿大数学竞赛 Contests .) 1 day n cs Oct.8 洪洋 洪洋/赵伟霞 solving F https://cms.mat Canadian Open y Online h.ca/competitio 加拿大数学公开 Mathematics Oct.(appr submissio Mathemati ns/comc/comc202 Problem l 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissi",
+      "extracted_at": "2026-07-09T04:46:54+00:00"
+    },
+    {
+      "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 2",
+      "row_or_text_ref": "American Mathematics Competition",
+      "raw_excerpt": "nline 澳大利亚数学竞 Sep.(appr http://www.seeda Problem Mathematics 1 day submissio Mathematics Sep.10 洪洋/赵伟霞 赛 .) sdan.asia/amc/ solving Competition n American Offline Nov.(appr Problem 美国数学竞赛 Mathematics 1 day submissio Mathematics Sep.10 洪洋 洪洋/赵伟霞 .) solving Competition n Berkeley Online http://www.seeda 伯克利大学数学 Early Late y Problem Mathematics 1 day submissio Mathematics sdan.asia/en/bmt-洪洋/赵伟霞 l 竞赛 Nov. November solving Tournament n n en/ O Canadian Senior and Offline Nov.(appr Problem 加拿大数学竞赛 IntermediateMa 1 day submissio Mathemateics Oct.8 洪洋 洪洋/赵伟霞 .) solving thematics n s U Contests Canadian Open Online https://cms.math 加拿大数学公开 Oct.(appr l Problem Mathematics 1 day submissaio Mathematics Sep. .ca/competitions 洪洋/赵伟霞 赛 .) solving Challenge nn /comc/comc2023/ r Contact e instructors Harvard MIT t 哈佛麻省理工数 https://www.hmmt.org and Mathematics Nov.9 4 dayns Online Mathematics Aug. 洪洋 学锦标赛 ",
+      "extracted_at": "2026-07-09T04:46:51+00:00"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "American Mathematics Competition",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "http://www.seeda",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "American Mathematics Competitions",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/American_Mathematics_Competitions",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "American Mathematics Competitions",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/American_Mathematics_Competitions",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
+      "raw_excerpt": "American Mathematics Competitions",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "partially_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:54+00:00",
+      "source_id": null,
+      "note": "bmissio Mathemati http://www.seed Problem 赛 Competition .) 1 day n cs Sep.10 asdan.asia/amc/ 洪洋/赵伟霞 solving l a American Offline Mathematics Nov.(appr submissio Mathematni Problem 美国数学竞赛 Competition .) 1 day n cs Sep.10 洪洋 洪洋/赵伟霞 solving r "
+    },
+    {
+      "evidence_id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2",
+      "url": null,
+      "publisher": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:51+00:00",
+      "source_id": null,
+      "note": "nline 澳大利亚数学竞 Sep.(appr http://www.seeda Problem Mathematics 1 day submissio Mathematics Sep.10 洪洋/赵伟霞 赛 .) sdan.asia/amc/ solving Competition n American Offline Nov.(appr Problem 美国数学竞赛 Mathematics 1 day submissio Mathematics Sep.10 洪洋 洪洋/"
+    },
+    {
+      "evidence_id": "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1",
+      "url": "https://maa.org/student-programs/amc/",
+      "publisher": "Mathematical Association of America",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: The MAA American Mathematics Competitions comprise the AMC 8, AMC 10, and AMC 12 school mathematics contests and their invitational pathway. Eligibility: School students enter the age-appropriate AMC 8, AMC 10, or AMC 12 under MAA rules. Format: AMC 8: 25 questions in 40 minutes; AMC 10/12: 25 questions in 75 minutes."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "name_zh": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "date_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "Mathematical Association of America",
+  "region_tier": "china_participation_route",
+  "country": "United States",
+  "city": null,
+  "eligibility_text": "School students enter the age-appropriate AMC 8, AMC 10, or AMC 12 under MAA rules.",
+  "eligible_grades": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "upcoming",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "AMC 8: 25 questions in 40 minutes; AMC 10/12: 25 questions in 75 minutes.",
+  "awards_and_recognition": "Certificates and distinctions; AMC 10/12 scores may qualify students for AIME.",
+  "china_participation_route": "Registration in mainland China is through the authorized AMC China operator.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

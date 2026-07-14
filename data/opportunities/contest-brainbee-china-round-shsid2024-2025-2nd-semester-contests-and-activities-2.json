@@ -1,0 +1,326 @@
+{
+  "id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
+  "canonical_name": "Brainbee China Round",
+  "name_zh": "脑科学大赛全国赛",
+  "name_en": "Brainbee China Round",
+  "type": "competition",
+  "subject_tags": [
+    "Biology",
+    "Neuroscience"
+  ],
+  "category": "Olympiad",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "The reviewed current China cycle had concluded by July 2026; exact dates were not fully verified.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://chinabrainbee.com/",
+  "registration_contact": "",
+  "instructor_contact": "朱雅婷",
+  "preparation": "Research Essay",
+  "description": "China chapter of the International Brain Bee, used to select students for later international competition.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 1",
+      "row_or_text_ref": "Brainbee China Round",
+      "raw_excerpt": "ntact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） instructor instructor activities http://scla 宋庆龄少年儿童发 宋庆龄少年儿童发明 Feb.- Science Late Feb. http://sclaci.sclc20 Online ci.sclc2017 陈琳 Research Essay 明奖 奖 Mar. research (appr.) 17.org/ .org/ American AIME美国高中数学 Invitational Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past papers Chemistry Contact Contact 美国国家化学竞赛 Mar.16 110 mins Chemistry Jan.19 赵涛 and club Competition instructor instructor activities (USNCO) The International 国际数学建模挑战 Mathematical Contact https://immchallenge 张明欣、王 Club Mar. 2 weeks Math Apr. 赛 Modeling Challenge instructor .org/ 倩、朱雅婷 activities (IMMC",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "96df6e93959377d4.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Official Brain Bee site shows the competition identity.",
+      "extracted_at": "2026-07-11T12:26:29+00:00",
+      "source_id": "luna-b3dd0c069c1f",
+      "original_url": "https://www.thebrainbee.org/",
+      "snapshot_path": "data/snapshots/review-evidence/www.thebrainbee.org/96df6e93959377d4.html.gz",
+      "retrieved_at": "2026-07-11T12:26:29+00:00",
+      "content_hash": "96df6e93959377d45d3a980f462fdd98bd8842a5a9079f497301e4cefa4c224d",
+      "extraction_locator": "Luna batch field: canonical_name"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Brainbee China Round",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://thebrainbee.org/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "raw_excerpt": "Brainbee China Round",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": "ntact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） ins"
+    },
+    {
+      "evidence_id": "luna-b3dd0c069c1f",
+      "url": "https://www.thebrainbee.org/",
+      "publisher": "The Brain Bee",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:26:29+00:00",
+      "note": "Official Brain Bee site shows the competition identity."
+    },
+    {
+      "evidence_id": "luna-23a8c817e45d",
+      "url": "https://www.thebrainbee.org/",
+      "publisher": "The Brain Bee",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:28:21+00:00",
+      "note": "Official Brain Bee site shows the competition identity."
+    },
+    {
+      "evidence_id": "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1",
+      "url": "https://chinabrainbee.com/",
+      "publisher": "International Brain Bee China Organizing Committee",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: China chapter of the International Brain Bee, used to select students for later international competition. Eligibility: Chinese secondary-school students enter age-appropriate regional and national Brain Bee rounds. Format: Regional and national neuroscience examinations and, for finalists, additional selection activities."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "date_text": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "International Brain Bee China Organizing Committee",
+  "region_tier": "mainland_china",
+  "country": "China",
+  "city": null,
+  "eligibility_text": "Chinese secondary-school students enter age-appropriate regional and national Brain Bee rounds.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "Chinese",
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "closed",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "Regional and national neuroscience examinations and, for finalists, additional selection activities.",
+  "awards_and_recognition": "National awards and potential selection to the International Brain Bee.",
+  "china_participation_route": "Register through the official Brain Bee China chapter.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

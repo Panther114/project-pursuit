@@ -1,0 +1,221 @@
+{
+  "id": "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul",
+  "canonical_name": "Frontiers in Excitation-Contraction Coupling: A Convergent Study from Neuromuscular Disorders to Exercise Performance",
+  "name_en": "Frontiers in Excitation-Contraction Coupling: A Convergent Study from Neuromuscular Disorders to Exercise Performance",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "Multiple",
+  "organizer": "ASEEDER",
+  "region": "Shenzhen",
+  "region_tier": "mainland_china",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "languages": [],
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "",
+  "website_url": "https://xlab.seedasdan.com/en/muscle-en/",
+  "confidence": "partially_verified",
+  "last_verified_at": "2026-07-11",
+  "publication_status": "partially_verified",
+  "verification_note": "Identity discovered on the retained official ASEEDER catalog snapshot; detail fields are not yet enriched.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "Frontiers in Excitation-Contraction Coupling: A Convergent Study from Neuromuscular Disorders to Exercise Performance",
+      "raw_excerpt": "【Shenzhen】Frontiers in Excitation-Contraction Coupling: A Convergent Study from Neuromuscular Disorders to Exercise Performance",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://xlab.seedasdan.com/en/muscle-en/"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1",
+      "url": "https://www.seedasdan.com/en/",
+      "publisher": "aseeder-catalog",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "note": "【Shenzhen】Frontiers in Excitation-Contraction Coupling: A Convergent Study from Neuromuscular Disorders to Exercise Performance"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-program-frontiers-in-excitation-contraction-coupling-a-convergent-study-from-neuromuscul-e1"
+      ]
+    }
+  }
+}

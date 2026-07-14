@@ -1,0 +1,327 @@
+{
+  "canonical_name": "YIS Global Stock Pitch Competition",
+  "organizer": "Young Investors Society",
+  "type": "competition",
+  "subject_tags": [
+    "Finance",
+    "Investment"
+  ],
+  "category": "Stock Pitch Competition",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "country": "United States",
+  "format": "hybrid",
+  "eligibility_text": "High-school students form teams and submit an investment thesis and stock-pitch presentation under regional rules.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "current_cycle_status": "unknown",
+  "cost_text": "",
+  "time_commitment": "Company research, written analysis, and live or recorded pitch through regional and global rounds.",
+  "difficulty_level": "Intermediate",
+  "recognition_level": "International",
+  "description": "High-school stock-pitch competition in which teams research and present an investment thesis, with regional and global pathways.",
+  "website_url": "https://yis.org/",
+  "id": "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition",
+  "last_verified_at": "2026-07-12",
+  "confidence": "verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-16-37+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-yis",
+      "raw_excerpt": "--> YIS Global Stock Pitch Competition - 阿思丹（ASEEDER）—中国领先的国际素质教育平台 常见问题 Q & A --> About Us Online Education Our Partners Teacher Training 中文 (中国) High School Research Programs ASDAN Extended Project Qualification ASEEDER- Lumiere Research Scholar Program Summer School Oxbridge Accelerate Programme 【Online】Oxbridge Accelerate Programme UK 【UK】Fitzwilliam College Summer School Highly Recommend 【UK】Oxford Biological Chemistry Summer School Highly Recommend 【UK】The Rosetta Institute of Biomedical Reseach Summer School Highly Recommend US Recommended 【US】Cornell University Economics and Business Summer School Recommended 【US】Johns Hopkins Pre-College Summer Program Highly Recommend 【US】UCLA Extension Winter School in collaboration with ASEEDER 【US】The Rosetta Institute of Biomedical Reseach Summer School Singapore 【SG】Nanyang Technological University Recommended Domestic 【BeiJing】New York Fi",
+      "extracted_at": "2026-07-11T09:16:37+00:00",
+      "source_id": "aseeder-yis",
+      "original_url": "https://www.seedasdan.com/en/yis-eng/",
+      "snapshot_path": "data/snapshots/aseeder-yis/2026-07-11T09-16-37+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:16:37+00:00",
+      "content_hash": "fbc93926200820dba47beb0ae1e26797c2fc16bef65d7674cfa4ccb10346659b",
+      "extraction_locator": "document"
+    },
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "YIS Global Stock Pitch Competition",
+      "raw_excerpt": "YIS Global Stock Pitch Competition",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://www.seedasdan.com/en/yis-eng/"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "YIS Global Stock Pitch Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/yis-eng/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "fbc93926200820db.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "YIS Global Stock Pitch Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:33+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/yis-eng/",
+      "retrieved_at": "2026-07-11T15:19:33+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/fbc93926200820db.html.gz",
+      "content_hash": "fbc93926200820dba47beb0ae1e26797c2fc16bef65d7674cfa4ccb10346659b"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition",
+      "raw_excerpt": "YIS Global Stock Pitch Competition",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1",
+      "url": "https://www.seedasdan.com/en/yis-eng/",
+      "publisher": "aseeder-yis",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:16:37+00:00",
+      "source_id": "aseeder-yis",
+      "note": "--> YIS Global Stock Pitch Competition - 阿思丹（ASEEDER）—中国领先的国际素质教育平台 常见问题 Q & A --> About Us Online Education Our Partners Teacher Training 中文 (中国) High School Research Programs ASDAN Extended Project Qualification ASEEDER- Lumiere Research "
+    },
+    {
+      "evidence_id": "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1",
+      "url": "https://yis.org/",
+      "publisher": "Young Investors Society",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: High-school stock-pitch competition in which teams research and present an investment thesis, with regional and global pathways. Eligibility: High-school students form teams and submit an investment thesis and stock-pitch presentation under regional rules. Format: Company research, written analysis, and live or recorded pitch through regional and global rounds."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition-1"
+      ]
+    }
+  },
+  "name_en": "YIS Global Stock Pitch Competition",
+  "city": null,
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "start_date": null,
+  "end_date": null,
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Regional and global rankings, scholarships or cash awards, and investor-education recognition.",
+  "china_participation_route": "Mainland-China teams enter through the authorized ASEEDER/Young Investors Society regional pathway.",
+  "review_conflicts": [
+    "ASEEDER is a China operator; Young Investors Society is the program organizer."
+  ],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

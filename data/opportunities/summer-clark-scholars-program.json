@@ -1,0 +1,206 @@
+{
+  "id": "summer-clark-scholars-program",
+  "canonical_name": "Clark Scholars Program",
+  "name_en": "Clark Scholars Program",
+  "type": "summer_program",
+  "subject_tags": [
+    "Mathematics",
+    "Computer Science",
+    "Scientific research",
+    "Arts"
+  ],
+  "category": "Multiple",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "June,2024 to August , 2024",
+  "deadline_text": "February, 2024",
+  "deadline_date": null,
+  "website_url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+  "description": "The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost any area of academe from not only the natural sciences and mathematics but to the humanities and fine arts as well.",
+  "confidence": "partially_verified",
+  "last_verified_at": null,
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "6",
+      "raw_excerpt": "Clark Scholars Program The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost any area of academe from not only the natural sciences and mathematics but to the humanities and fine arts as well. Multiple US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "unverified",
+  "evidence": [
+    {
+      "evidence_id": "summer-clark-scholars-program-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Clark Scholars Program The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost a"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "date_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-clark-scholars-program-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Luna review completed, but identity evidence did not pass the official or two-independent-source snapshot gate."
+}

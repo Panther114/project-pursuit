@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { getCatalogItems, getReviewReason, pathForRoute, routeFromPathname } from "./catalog";
+import { getCatalogItems, pathForRoute, routeFromPathname } from "./catalog";
 import type { Opportunity } from "./types";
 
 const competition: Opportunity = {
@@ -37,7 +37,4 @@ describe("catalog data boundaries", () => {
     expect(getCatalogItems([competition, program], "program")).toEqual([program]);
   });
 
-  it("makes an unverified deadline explicit in the review queue", () => {
-    expect(getReviewReason({ ...competition, deadline_text: "Mar.", last_verified_at: "2026-07-10" })).toContain("deadline");
-  });
 });

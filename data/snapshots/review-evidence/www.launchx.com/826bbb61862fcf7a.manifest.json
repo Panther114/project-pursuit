@@ -1,0 +1,10 @@
+{
+  "original_url": "https://launchx.com/summer-program/",
+  "final_url": "https://www.launchx.com/programs",
+  "retrieved_at": "2026-07-11T12:28:11+00:00",
+  "content_hash": "826bbb61862fcf7ae8131336401ffe904d3fd9a3f8565b6533bed6cad9eb101b",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.launchx.com/826bbb61862fcf7a.html.gz"
+}

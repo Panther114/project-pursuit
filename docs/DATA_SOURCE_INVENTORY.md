@@ -1,52 +1,19 @@
 # Data Source Inventory
 
-Last reviewed: 2026-07-09
+## School sources
 
-## Offline Sources
+The four files under `shsid_sources/` remain school-endorsement and historical-recurrence evidence: one 2024 summer-program XLSX and three SHSID semester competition PDFs. PDF table extraction remains reviewable because wrapped cells can be misordered.
 
-| Source | Type | Observed structure | Prototype use |
-|---|---:|---|---|
-| `shsid_sources/2024 Summer_Programs.xlsx` | Excel | 1 sheet, 42 data rows after header normalization | Summer program catalog import |
-| `shsid_sources/SHSID2024-2025 1st Semester Contests and Activities.pdf` | PDF | 8 pages, table-like bilingual SHSID contest list, 25 extracted URL occurrences | Historical contest import and source comparison |
-| `shsid_sources/SHSID2024-2025 2nd Semester Contests and Activities(2).pdf` | PDF | 5 pages, table-like bilingual SHSID contest list, 15 extracted URL occurrences | Historical contest import and source comparison |
-| `shsid_sources/SHSID2025-2026 1st Semester Contests and Activities.pdf` | PDF | 9 pages, table-like bilingual SHSID contest list, 24 extracted URL occurrences | Primary current contest import |
+The initial bounded review sweep was followed by mass China-competition, international-competition, and program discovery batches. Counts are build outputs rather than editorial targets and should be read from `src/data/catalog-metadata.generated.json` after every import. Competition identities are cleaned through `data/curation/competition_cleanup.json`, which records aliases, combined-record splits, organizer corrections, and non-competition exclusions.
 
-## Excel Fields Observed
+## Online source registry
 
-The summer-program spreadsheet contains these normalized columns:
+`data/sources/registry.json` is the authoritative machine-readable inventory. The initial operational adapter uses the official ASEEDER/阿思丹 catalog and official detail pages for China participation routes and Shanghai/mainland programs. It currently covers English, psychology, economics, finance, public speaking, performance, robotics, synthetic biology, and mathematical modeling.
 
-- `Name`
-- `Intro`
-- `Website`
-- `Region`
-- `Category`
-- `Date`
-- `Application Deadline`
-- `Form`
+The listing adapter snapshots the ASEEDER catalog and emits additional matching detail links as review candidates. Structured batches under `data/reviews/mass/` extend this with official and secondary web references. Discovery does not imply high confidence: records without retained official evidence are deliberately shown with a hollow status dot. Non-core fields may remain empty.
 
-Observed category values include `Business`, `STEM`, `Writing`, `Arts`, `Social Science`, `Interdisciplinary`, and `Multiple`. Observed region values include `US`, `UK`, and `HK China`. Observed form values include `Online`, `In person`, and mixed online/in-person variants.
+Program discovery includes official and secondary references for pre-college, summer, research, academy, and enrichment offerings in China and internationally. Stable official indexes from Duke Kunshan, HKU, HKUST, CUHK, NYU Shanghai, and other institutions remain preferred enrichment targets; a generic university home page is not sufficient for a filled verification dot.
 
-## PDF Fields Observed
+`npm run discover:wikipedia` reproducibly queries a fixed set of competition categories and retains youth-relevant candidates as unverified discovery records. `npm run snapshot:mass-sources` attempts to retain official evidence for review-batch records. Neither command upgrades confidence without the deterministic import checks.
 
-The SHSID contest PDFs use table-like columns:
-
-- Chinese name
-- English name
-- Date
-- Time or duration
-- Site or format
-- Subject
-- Registration deadline
-- Registration website or contact
-- Instructor or contact
-- Preparation
-
-PDF extraction is imperfect because text order is line-based and some wrapped cells split across lines. The prototype should preserve raw extracted text and source coordinates or page references so human review can correct parser mistakes.
-
-## Data Rules For Prototype
-
-- Treat `SHSID2025-2026 1st Semester Contests and Activities.pdf` as the freshest offline source among overlapping SHSID contest records.
-- Preserve historical records from 2024-2025 for recurring-competition detection and deadline inference, but label them as historical unless verified against the 2025-2026 file or an official source.
-- Do not guess critical fields. Unknown deadlines, eligibility, cost, or location should remain null with a visible confidence label.
-- Store every imported record with `source_file`, `source_page_or_sheet`, `source_row_or_text_ref`, `imported_at`, and `confidence`.
-- Online lookups, when used, should target official competition pages already present in the offline material or official organizer websites. They should update verification fields, not silently add new competitions.
+See `docs/ONLINE_SOURCES.md` for authority and maintenance rules.

@@ -1,0 +1,289 @@
+{
+  "id": "summer-cambridge-virtual-pre-university-summer-programme",
+  "canonical_name": "Cambridge Virtual Pre-University Summer Programme",
+  "name_en": "Cambridge Virtual Pre-University Summer Programme",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "Multiple",
+  "region": "UK",
+  "format": "online",
+  "date_text": "Multiple",
+  "deadline_text": "TBA",
+  "deadline_date": null,
+  "website_url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+  "description": "The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessions hosted by current University of Cambridge students, as well as exchanging ideas with fellow participants via our online forums.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "38",
+      "raw_excerpt": "Cambridge Virtual Pre-University Summer Programme The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessions hosted by current University of Cambridge students, as well as exchanging ideas with fellow participants via our online forums. Multiple UK Online",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "9e40ae44a0e33427.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Current official program page used to verify identity and active existence.",
+      "extracted_at": "2026-07-11T12:21:03+00:00",
+      "source_id": "luna-4e022fd4ce64",
+      "original_url": "https://www.pace.cam.ac.uk/",
+      "snapshot_path": "data/snapshots/review-evidence/www.pace.cam.ac.uk/9e40ae44a0e33427.html.gz",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "content_hash": "9e40ae44a0e334275925c92128c655d2c4c9cc1432a69c6cd102acc004c40842",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-cambridge-virtual-pre-university-summer-programme-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Cambridge Virtual Pre-University Summer Programme The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessi"
+    },
+    {
+      "evidence_id": "luna-4e022fd4ce64",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-2c364d2ee813",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-707192614820",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-e4ceb6b7374a",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-dfcfd17fa552",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-63aa59e0a706",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-15d44a7df895",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-03f3d1e2da56",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-441742b83cb0",
+      "url": "https://www.pace.cam.ac.uk/",
+      "publisher": "University of Cambridge",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:21:03+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-4e022fd4ce64"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-2c364d2ee813"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-cambridge-virtual-pre-university-summer-programme-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-cambridge-virtual-pre-university-summer-programme-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-707192614820"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-e4ceb6b7374a"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-dfcfd17fa552"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-63aa59e0a706"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-15d44a7df895"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-03f3d1e2da56"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-441742b83cb0"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

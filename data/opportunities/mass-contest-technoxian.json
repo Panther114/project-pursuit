@@ -1,0 +1,290 @@
+{
+  "id": "mass-contest-technoxian",
+  "canonical_name": "Technoxian",
+  "name_zh": "",
+  "name_en": "Technoxian",
+  "type": "competition",
+  "subject_tags": [
+    "Robotics",
+    "Engineering"
+  ],
+  "category": "Robotics Championship",
+  "organizer": "All India Council for Robotics and Automation",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "India",
+  "city": "New Delhi",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Young participants approximately ages 8–20 form teams through schools, colleges, clubs, or independent groups.",
+  "eligible_grades": [],
+  "eligible_ages": [
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "Robot design and construction followed by a multi-day championship in India.",
+  "description": "International youth robotics championship with multiple robot sport and engineering challenge categories.",
+  "website_url": "https://technoxian.com/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Technoxian",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/Technoxian",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-technoxian",
+      "raw_excerpt": "Technoxian",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-technoxian]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-technoxian-e1",
+      "url": "https://en.wikipedia.org/wiki/Technoxian",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-technoxian-1",
+      "url": "https://technoxian.com/",
+      "publisher": "All India Council for Robotics and Automation",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International youth robotics championship with multiple robot sport and engineering challenge categories. Eligibility: Young participants approximately ages 8–20 form teams through schools, colleges, clubs, or independent groups. Format: Robot design and construction followed by a multi-day championship in India."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-technoxian-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Winner and runner-up trophies, certificates, and cash awards by category.",
+  "china_participation_route": "China-based teams may register as international teams through the official Technoxian system.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "eligible_grades",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

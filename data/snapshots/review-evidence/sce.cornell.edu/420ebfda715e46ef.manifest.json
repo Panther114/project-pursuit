@@ -1,0 +1,10 @@
+{
+  "original_url": "https://sce.cornell.edu/precollege",
+  "final_url": "https://sce.cornell.edu/news-event/precollege-online/",
+  "retrieved_at": "2026-07-11T12:28:11+00:00",
+  "content_hash": "420ebfda715e46ef9d6f4e97aef5188c897617bcbd7a0f247d7e66796dab7f4f",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/sce.cornell.edu/420ebfda715e46ef.html.gz"
+}

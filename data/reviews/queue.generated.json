@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-11T09:33:37+00:00",
+  "instructions": "Research current official sources. Never infer missing facts. Submit verified only when every required field is supported; otherwise submit insufficient_evidence.",
+  "candidates": [
+    {
+      "source_id": "aseeder-catalog",
+      "name": "2026 Boston International Composition Competition",
+      "url": "https://www.seedasdan.com/en/bicc-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "2026 Boston International Music Competition",
+      "url": "https://www.seedasdan.com/en/bimc-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "AAPT Photo Contest",
+      "url": "https://www.seedasdan.com/en/aaptphoto-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "ASDAN Business Simulation Regional Business Simulation → All-Star Competition → Business Simulation Final (WYEF)",
+      "url": "https://abs.seedasdan.com/en/home-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "ASEEDER- Lumiere Research Scholar Program",
+      "url": "https://www.seedasdan.com/en/lumiere-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Biology",
+      "url": "https://xlab.seedasdan.com/en/programs-en/#biology"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Biomedicine",
+      "url": "https://xlab.seedasdan.com/en/programs-en/#medicine"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Career Exploration Programs",
+      "url": "https://ma.seedasdan.com/en/index-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Career Exploration Programs",
+      "url": "https://www.seedasdan.com/en/major-achiever-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Chemistry & Physics",
+      "url": "https://xlab.seedasdan.com/en/programs-en/#chemistry"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Computer Science",
+      "url": "https://xlab.seedasdan.com/en/programs-en/#computer"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Discovery Programs",
+      "url": "https://globaldiscovery.seedasdan.com/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Discovery Programs",
+      "url": "https://globaldiscovery.seedasdan.com/en/home/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Engineering",
+      "url": "https://xlab.seedasdan.com/en/programs-en/#physical"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "English Assessments and Speech & Drama Qualifications",
+      "url": "https://www.seedasdan.com/en/language-programs/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "International Writing, Visual and Multimedia Contest",
+      "url": "https://www.seedasdan.com/en/quillandscroll-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "LanguageCert English Literacy Challenge (LCELC)",
+      "url": "https://www.seedasdan.com/en/lcelc-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "London Young Musician International Music Competition",
+      "url": "https://www.seedasdan.com/en/lym-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "MILSET STEAM PHOTO CONTEST",
+      "url": "https://www.seedasdan.com/en/spc-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Minds Underground Economics Essay Competition",
+      "url": "https://www.seedasdan.com/en/mu-economics-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Mini-MBA Oversea Program Valuable for university application with extra UCAS points World-Renowned University | Discipline Exploration Industry Visit | Culture Experience | Five Ov",
+      "url": "https://www.seedasdan.com/en/minimba-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "North International Music Competition",
+      "url": "https://www.seedasdan.com/en/nimc-en/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Oxbridge Accelerate Programme",
+      "url": "https://www.seedasdan.com/en/oxbridge-accelerate-programme/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Research Programs",
+      "url": "https://www.seedasdan.com/en/research/"
+    },
+    {
+      "source_id": "aseeder-catalog",
+      "name": "Social Study Academic Challenges",
+      "url": "https://www.seedasdan.com/en/comprehensive-en/"
+    }
+  ]
+}

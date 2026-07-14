@@ -22,14 +22,17 @@ Run the unit tests and production build before committing:
 
 ```bash
 npm test
+npm run test:importer
 npm run build
 ```
 
-When source files change, regenerate the catalog with `npm run import:sources`, inspect `data/reports/import_report.json` when present, and rerun both checks.
+When source files or snapshots change, regenerate with `npm run import:sources`, inspect `data/reports/import_report.json`, confirm a second offline rebuild has the same hash, and rerun all checks. Network access is used only by `npm run refresh:sources`.
+
+Canonical factual records live in `data/opportunities/`; do not hand-edit the generated frontend bundle. Review changes must retain field-level evidence and pass the bounded-batch or single-submission promotion command.
 
 ## Data provenance
 
-The prototype catalog is scoped to files under `shsid_sources/`. New or changed records must retain source file and location metadata. Online verification may update verification fields for existing records, but must not silently add catalog records. See [`VERIFICATION_POLICY.md`](VERIFICATION_POLICY.md), [`DATA_SOURCE_INVENTORY.md`](DATA_SOURCE_INVENTORY.md), and [`IMPORT_WORKFLOW.md`](IMPORT_WORKFLOW.md).
+New sources require an official-page registry entry, a strict domain allow-list, committed snapshots, complete provenance, and the online publication gate. Discovery candidates never publish automatically. See [`VERIFICATION_POLICY.md`](VERIFICATION_POLICY.md), [`ONLINE_SOURCES.md`](ONLINE_SOURCES.md), and [`IMPORT_WORKFLOW.md`](IMPORT_WORKFLOW.md).
 
 ## Branches and commits
 

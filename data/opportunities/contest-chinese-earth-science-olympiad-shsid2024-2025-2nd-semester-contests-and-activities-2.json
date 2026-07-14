@@ -1,0 +1,272 @@
+{
+  "id": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+  "canonical_name": "Chinese Earth Science Olympiad",
+  "name_zh": "地球科学奥赛预赛",
+  "name_en": "Chinese Earth Science Olympiad",
+  "type": "competition",
+  "subject_tags": [
+    "Earth Science",
+    "Geoscience"
+  ],
+  "category": "Olympiad",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": null,
+  "registration_contact": "",
+  "instructor_contact": "李泳池",
+  "preparation": "Research Essay",
+  "description": "Chinese earth-science olympiad and national-selection program; the current legal organizer and stable official page were not verified.",
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 3",
+      "row_or_text_ref": "Chinese Earth Science Olympiad",
+      "raw_excerpt": "ontact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed 李逸 and club instructor Olympiad activities Chinese Earth Contact Earth Contact 地球科学奥赛预赛 Mar. 2.5 hours Jan. 张非凡 Past papers Science Olympiad instructor Science instructor https://sh.invention Creative 全球发明大会中国 Invention Jan.- Contact Scientific 2 months Apr. convention.cn/web/in 廖辉 intention and 赛 Convention China Apr. instructor research dex.html essay S.-T.Yau High 丘成桐中学科学奖 Apr.- http://yau- Science http://yau- School Science Online Jul. 廖辉、陈琳 Research Essay （各科）申报 Jul. awards.com/ research awards.com/ Awards Canadian Past papers Contact Contact 加拿大化学竞赛 Chemistry Contest Apr.24 60 mins Chemistry Apr. 赵涛 and club instructor instructor (CCC) activities BioOlympiad Past papers 美国生物奥林匹克 Initiative Apr.(ap Contact Contact 50 mins Biology Mar. 李泳池 and club 竞赛 USAChina（BIO pr.) instructor inst",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Chinese Earth Science Olympiad",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://sh.invention",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "raw_excerpt": "Chinese Earth Science Olympiad",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "unverified",
+  "evidence": [
+    {
+      "evidence_id": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": "ontact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed 李逸 and club instructor Olympiad activities Chinese Earth Contact Earth Contact 地球科学奥赛预赛 Mar. 2.5 hours Jan. 张非凡 Past papers Science Olympia"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "description": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": null,
+  "region_tier": "mainland_china",
+  "country": "China",
+  "city": null,
+  "eligibility_text": null,
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "",
+  "awards_and_recognition": null,
+  "china_participation_route": null,
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "organizer",
+    "official_url",
+    "city",
+    "eligibility_text",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "languages",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency",
+    "time_commitment",
+    "awards_and_recognition",
+    "china_participation_route",
+    "evidence"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "summer-hku-summer-institute",
+  "canonical_name": "HKU Summer Institute",
+  "name_en": "HKU Summer Institute",
+  "type": "summer_program",
+  "subject_tags": [
+    "Computer Science"
+  ],
+  "category": "Multiple",
+  "region": "HK China",
+  "format": "hybrid",
+  "date_text": "Rolling",
+  "deadline_text": "Rolling",
+  "deadline_date": null,
+  "website_url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+  "description": "We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life in the summer. It is the best platform to take up intellectual challenges and make new friends from different cultures.",
+  "confidence": "partially_verified",
+  "last_verified_at": null,
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "42",
+      "raw_excerpt": "HKU Summer Institute We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life in the summer. It is the best platform to take up intellectual challenges and make new friends from different cultures. Multiple HK China In person Online",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "unverified",
+  "evidence": [
+    {
+      "evidence_id": "summer-hku-summer-institute-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "HKU Summer Institute We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life "
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "date_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-hku-summer-institute-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Luna review completed, but identity evidence did not pass the official or two-independent-source snapshot gate."
+}

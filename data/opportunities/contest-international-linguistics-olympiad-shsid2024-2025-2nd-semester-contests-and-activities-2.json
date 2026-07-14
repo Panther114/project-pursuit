@@ -1,0 +1,318 @@
+{
+  "id": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+  "canonical_name": "International Linguistics Olympiad",
+  "name_zh": "语言学奥赛初赛",
+  "name_en": "International Linguistics Olympiad",
+  "type": "competition",
+  "subject_tags": [
+    "Linguistics",
+    "Logic"
+  ],
+  "category": "Olympiad",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://ioling.org/",
+  "registration_contact": "",
+  "instructor_contact": "赵涛",
+  "preparation": "Research Essay",
+  "description": "International linguistics problem-solving olympiad for national teams of secondary students.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 3",
+      "row_or_text_ref": "International Linguistics Olympiad",
+      "raw_excerpt": "d system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registration website/Contact /Contact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed 李逸 and club instructor Olympiad activities Chinese Earth Contact Earth Contact 地球科学奥赛预赛 Mar. 2.5 hours Jan. 张非凡 Past papers Science Olympiad instructor Science instructor https://sh.invention Creative 全球发明大会中国 Invention Jan.- Contact Scientific 2 months Apr. convention.cn/web/in 廖辉 intention and 赛 Convention China Apr. instructor research dex.html essay S.-T.Yau High 丘成桐中学科学奖 Apr.- http://yau- Science http://yau- School Science Online Jul. 廖辉、陈琳 Research Essay （各科）申报 Jul. awards.com/ research awards.com/ Awards Canadian Past papers Contact Contact 加拿大化学竞赛 Chemistry Contest Apr.24 60 mins Chemistry Apr. 赵涛 and club instructor instructor (CCC) activities",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "0f6a397ca723f1dc.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Official IOL site.",
+      "extracted_at": "2026-07-11T12:26:12+00:00",
+      "source_id": "luna-5f0033c98913",
+      "original_url": "https://ioling.org/",
+      "snapshot_path": "data/snapshots/review-evidence/ioling.org/0f6a397ca723f1dc.html.gz",
+      "retrieved_at": "2026-07-11T12:26:12+00:00",
+      "content_hash": "0f6a397ca723f1dce1c05965a5745eeb7c6f82717a0bd00d45892ea56801e017",
+      "extraction_locator": "Luna batch field: canonical_name"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Linguistics Olympiad",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ioling.org/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "raw_excerpt": "International Linguistics Olympiad",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": "d system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registration website/Contact /Contact International Past papers Contact 语言学奥赛初赛 Linguistics Mar. 3 hours On-site Linguistics Closed "
+    },
+    {
+      "evidence_id": "luna-5f0033c98913",
+      "url": "https://ioling.org/",
+      "publisher": "International Linguistics Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:26:12+00:00",
+      "note": "Official IOL site."
+    },
+    {
+      "evidence_id": "luna-0d47d0b1421c",
+      "url": "https://ioling.org/",
+      "publisher": "International Linguistics Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:28:01+00:00",
+      "note": "Official IOL site."
+    },
+    {
+      "evidence_id": "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1",
+      "url": "https://ioling.org/",
+      "publisher": "International Linguistics Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International linguistics problem-solving olympiad for national teams of secondary students. Eligibility: Students participate through national selection; national teams normally contain four contestants and two team leaders. Format: Two days of individual linguistics problem-solving plus team activities."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "International Linguistics Olympiad",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "eligibility_text": "Students participate through national selection; national teams normally contain four contestants and two team leaders.",
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "Two days of individual linguistics problem-solving plus team activities.",
+  "awards_and_recognition": "Gold, silver, and bronze medals and honorable mentions.",
+  "china_participation_route": "China participation requires a recognized national selection and delegation; no direct public final entry.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

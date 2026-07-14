@@ -1,0 +1,265 @@
+{
+  "id": "mass-contest-berkeley-psychology-tournament",
+  "canonical_name": "Berkeley Psychology Tournament",
+  "name_zh": "",
+  "name_en": "Berkeley Psychology Tournament",
+  "type": "competition",
+  "subject_tags": [
+    "Psychology"
+  ],
+  "category": "Tournament",
+  "organizer": "Berkeley Psychology Tournament",
+  "region": "China participation route",
+  "region_tier": "international_only",
+  "country": "United States",
+  "city": "Berkeley",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": null,
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "languages": [],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "",
+  "description": "Student psychology tournament associated with Berkeley; a current authoritative rules page was not verified.",
+  "website_url": null,
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "publication_status": "unverified",
+  "verification_note": "The exact legal organizer and active official URL require manual review.",
+  "sources": [
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Berkeley Psychology Tournament",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/bpt-en/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-berkeley-psychology-tournament",
+      "raw_excerpt": "The exact legal organizer and active official URL require manual review.",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-berkeley-psychology-tournament]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-berkeley-psychology-tournament-e1",
+      "url": "https://www.seedasdan.com/en/bpt-en/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "organizer": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "country": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-berkeley-psychology-tournament-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": null,
+  "china_participation_route": null,
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "official_url",
+    "participation_format",
+    "eligibility_text",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "languages",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency",
+    "time_commitment",
+    "awards_and_recognition",
+    "china_participation_route",
+    "evidence"
+  ]
+}

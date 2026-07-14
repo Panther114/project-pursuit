@@ -1,0 +1,10 @@
+{
+  "original_url": "https://ei.jhu.edu/",
+  "final_url": "https://ei.jhu.edu/",
+  "retrieved_at": "2026-07-11T12:20:35+00:00",
+  "content_hash": "16f742b52d94bfc4b07490593c7306bb0181d43a15cf3f091896c282e3363a2e",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/ei.jhu.edu/16f742b52d94bfc4.html.gz"
+}

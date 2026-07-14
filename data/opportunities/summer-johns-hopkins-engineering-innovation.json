@@ -1,0 +1,290 @@
+{
+  "id": "summer-johns-hopkins-engineering-innovation",
+  "canonical_name": "Johns Hopkins Engineering Innovation",
+  "name_en": "Johns Hopkins Engineering Innovation",
+  "type": "summer_program",
+  "subject_tags": [
+    "Mathematics",
+    "Scientific research"
+  ],
+  "category": "STEM",
+  "region": "US",
+  "format": "hybrid",
+  "date_text": "Multiple",
+  "deadline_text": "Multiple",
+  "deadline_date": null,
+  "website_url": "https://ei.jhu.edu/",
+  "description": "Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) engineering.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "13",
+      "raw_excerpt": "Johns Hopkins Engineering Innovation Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) engineering. STEM US In person Online",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "0ad7ffbaae50bb5f.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Current official program page used to verify identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:47+00:00",
+      "source_id": "luna-0976251384b9",
+      "original_url": "https://ei.jhu.edu/",
+      "snapshot_path": "data/snapshots/review-evidence/ei.jhu.edu/0ad7ffbaae50bb5f.html.gz",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "content_hash": "0ad7ffbaae50bb5f8f87c989758e0c451af9586924a0ca8bf3dffc7427fcabba",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-johns-hopkins-engineering-innovation-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Johns Hopkins Engineering Innovation Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) enginee"
+    },
+    {
+      "evidence_id": "luna-0976251384b9",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-222bc2489300",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-fd1b120ae19a",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-6ea13f735166",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-02c5b0f50bf3",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-26d27fc58c55",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-95c1154825e4",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-5d9c26951284",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-008a92b7ba23",
+      "url": "https://ei.jhu.edu/",
+      "publisher": "Johns Hopkins University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-0976251384b9"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-222bc2489300"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-johns-hopkins-engineering-innovation-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-johns-hopkins-engineering-innovation-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-fd1b120ae19a"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-6ea13f735166"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-02c5b0f50bf3"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-26d27fc58c55"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-95c1154825e4"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-5d9c26951284"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-008a92b7ba23"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

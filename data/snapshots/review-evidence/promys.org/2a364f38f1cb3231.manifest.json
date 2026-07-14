@@ -1,0 +1,10 @@
+{
+  "original_url": "https://promys.org/",
+  "final_url": "https://promys.org/",
+  "retrieved_at": "2026-07-11T12:28:07+00:00",
+  "content_hash": "2a364f38f1cb3231f27320035e8e47fa851c23507875a9c6cd8b2893dca280bd",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/promys.org/2a364f38f1cb3231.html.gz"
+}

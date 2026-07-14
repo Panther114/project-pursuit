@@ -1,0 +1,282 @@
+{
+  "id": "mass-contest-nasa-human-exploration-rover-challenge",
+  "canonical_name": "NASA Human Exploration Rover Challenge",
+  "name_zh": "",
+  "name_en": "NASA Human Exploration Rover Challenge",
+  "type": "competition",
+  "subject_tags": [
+    "Engineering",
+    "Aerospace"
+  ],
+  "category": "Engineering Challenge",
+  "organizer": "National Aeronautics and Space Administration",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "United States",
+  "city": "Huntsville",
+  "format": "hybrid",
+  "date_text": "The 2026 challenge had concluded by July 2026.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "U.S. and eligible international middle-school, high-school, and university teams enter the appropriate division.",
+  "eligible_grades": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "Approximately nine months of design and construction followed by an in-person NASA challenge.",
+  "description": "Multi-month student engineering challenge to design, build, and operate a human-powered rover through a NASA-designed course.",
+  "website_url": "https://www.nasa.gov/learning-resources/nasa-human-exploration-rover-challenge/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "NASA Human Exploration Rover Challenge",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/NASA_Human_Exploration_Rover_Challenge",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-nasa-human-exploration-rover-challenge",
+      "raw_excerpt": "NASA Human Exploration Rover Challenge",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-nasa-human-exploration-rover-challenge]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-nasa-human-exploration-rover-challenge-e1",
+      "url": "https://en.wikipedia.org/wiki/NASA_Human_Exploration_Rover_Challenge",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-nasa-human-exploration-rover-challenge-1",
+      "url": "https://www.nasa.gov/learning-resources/nasa-human-exploration-rover-challenge/",
+      "publisher": "National Aeronautics and Space Administration",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Multi-month student engineering challenge to design, build, and operate a human-powered rover through a NASA-designed course. Eligibility: U.S. and eligible international middle-school, high-school, and university teams enter the appropriate division. Format: Approximately nine months of design and construction followed by an in-person NASA challenge."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-nasa-human-exploration-rover-challenge-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Division and technical awards, NASA recognition, and educational opportunities.",
+  "china_participation_route": "International teams from China may apply through NASA’s international-team process when the annual solicitation permits.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source_id": "aseeder-catalog",
+  "original_url": "https://www.seedasdan.com/en/",
+  "final_url": "https://www.seedasdan.com/en/home-en/",
+  "parent_listing_url": "https://www.seedasdan.com/en/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "retrieved_at": "2026-07-11T09:20:01+00:00",
+  "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+  "parser_version": "aseeder-listing-v1",
+  "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz"
+}

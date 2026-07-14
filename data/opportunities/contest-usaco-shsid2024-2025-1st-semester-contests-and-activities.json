@@ -1,0 +1,348 @@
+{
+  "id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
+  "canonical_name": "USACO",
+  "name_zh": "USACO美国计算机奥赛",
+  "name_en": "USACO",
+  "type": "competition",
+  "subject_tags": [
+    "Computer Science",
+    "Programming"
+  ],
+  "category": "Programming Contest",
+  "region": "SHSID / International",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://usaco.org/",
+  "registration_contact": "",
+  "instructor_contact": "创新大赛",
+  "preparation": "",
+  "description": "Online algorithmic programming contest series with Bronze through Platinum divisions; U.S. citizenship restrictions apply to camp and team selection, not ordinary contest participation.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 2",
+      "row_or_text_ref": "USACO",
+      "raw_excerpt": " 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissio Online 机奥赛 USACO Dec.- Mar. 4 months n IT Dec. https://www.usac何o.天or舟g Training",
+      "extracted_at": "2026-07-09T04:46:54+00:00"
+    },
+    {
+      "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 3",
+      "row_or_text_ref": "USACO",
+      "raw_excerpt": "NOI- CSP,NOIP全国青 NOI Online CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.cn/ 何天舟 少年信息学奥林 training 匹克联赛 Online USACO USACO美国计算 USACO Dec.- Mar. 4 months submissio IT Dec. https://www.usaco.org 何天舟 Online 机奥赛 n Training y l Contact High School n https://www.coma instructors Mathematical O 美国高中生数学 Nov.(appr p.com/highschool 张明欣、朱 and Contest in 14 days Online Mathematics Nov. 建模竞赛 .) /contests/himcm/ 雅婷、王倩 participate Modeling e index.html in club (HiMCM) s activities U The Contact International instructors l 国际数学建模挑 Mathematical Nov.(appr a https://www.immchalle 张明欣、朱 and 4 days Online Mathematics Nov. 战赛 Modeling .) n nge.org/ 雅婷、王倩 participate Challenge（IMM r in club C） e activities t Youth n Artificial I 青少年人工智能 Jun.- 青少年AI大赛公众 Innovative Intelligence Offline Online IT Aug.15 何天舟 创新大赛 Sept. r 号 Project Innovation o Co",
+      "extracted_at": "2026-07-09T04:46:51+00:00"
+    },
+    {
+      "source_file": "060891ac8bc62c2a.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Official USACO site.",
+      "extracted_at": "2026-07-11T12:27:02+00:00",
+      "source_id": "luna-2853bd64ff12",
+      "original_url": "https://usaco.org/",
+      "snapshot_path": "data/snapshots/review-evidence/usaco.org/060891ac8bc62c2a.html.gz",
+      "retrieved_at": "2026-07-11T12:27:02+00:00",
+      "content_hash": "060891ac8bc62c2ad668af04e23a98afb650a6b592aabcfd2f495fe546e8c599",
+      "extraction_locator": "Luna batch field: canonical_name"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "USACO",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.usaco.org/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
+      "raw_excerpt": "USACO",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-usaco-shsid2024-2025-1st-semester-contests-and-activities]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:54+00:00",
+      "source_id": null,
+      "note": " 赛 Challenge .) n1 day n cs Sep. 3/ 洪洋/赵伟霞 solving NOI- O CSP,NOIP全国青 少年信息学奥林 NOI Online 匹克联赛 CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.何cn天/ 舟 training Online USACO USACO美国计算 submissio Online 机奥赛 USACO Dec.- Mar. 4 mont"
+    },
+    {
+      "evidence_id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2",
+      "url": null,
+      "publisher": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:51+00:00",
+      "source_id": null,
+      "note": "NOI- CSP,NOIP全国青 NOI Online CSP, NOIP Sep.- Nov. 3 months On-site IT Sep. https://www.noi.cn/ 何天舟 少年信息学奥林 training 匹克联赛 Online USACO USACO美国计算 USACO Dec.- Mar. 4 months submissio IT Dec. https://www.usaco.org 何天舟 Online 机奥赛 n Training y l C"
+    },
+    {
+      "evidence_id": "luna-2853bd64ff12",
+      "url": "https://usaco.org/",
+      "publisher": "USACO",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:27:02+00:00",
+      "note": "Official USACO site."
+    },
+    {
+      "evidence_id": "luna-44dc4e6f2f3f",
+      "url": "https://usaco.org/",
+      "publisher": "USACO",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:28:38+00:00",
+      "note": "Official USACO site."
+    },
+    {
+      "evidence_id": "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1",
+      "url": "https://usaco.org/",
+      "publisher": "USA Computing Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Online algorithmic programming contest series with Bronze through Platinum divisions; U.S. citizenship restrictions apply to camp and team selection, not ordinary contest participation. Eligibility: Students worldwide may create accounts and enter ordinary online contests; U.S. training-camp and international-team selection have citizenship and residency restrictions. Format: Several online contests each season, normally four to five hours per contest."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "name_zh": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "USA Computing Olympiad",
+  "region_tier": "international_only",
+  "country": "United States",
+  "city": null,
+  "eligibility_text": "Students worldwide may create accounts and enter ordinary online contests; U.S. training-camp and international-team selection have citizenship and residency restrictions.",
+  "eligible_grades": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "Free",
+  "cost_amount": 0,
+  "cost_currency": "USD",
+  "time_commitment": "Several online contests each season, normally four to five hours per contest.",
+  "awards_and_recognition": "Division promotion and online ranking; top eligible U.S. students may be invited to training camp.",
+  "china_participation_route": "Students in China register directly on usaco.org for open online contests; they are not eligible for the U.S. national team unless they meet U.S. rules.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text"
+  ]
+}

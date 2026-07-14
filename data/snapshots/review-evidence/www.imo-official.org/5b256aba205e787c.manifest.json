@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.imo-official.org/editions/1965/",
+  "final_url": "https://www.imo-official.org/editions/1965/",
+  "retrieved_at": "2026-07-11T15:19:17+00:00",
+  "content_hash": "5b256aba205e787c9bbd495aa484690f20a629952dbfde51bb79204b0fc17cb0",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/5b256aba205e787c.html.gz"
+}

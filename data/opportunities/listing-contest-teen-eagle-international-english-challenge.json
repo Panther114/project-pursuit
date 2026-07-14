@@ -1,0 +1,310 @@
+{
+  "id": "listing-contest-teen-eagle-international-english-challenge",
+  "canonical_name": "TEEN EAGLE International English Challenge",
+  "name_en": "TEEN EAGLE International English Challenge",
+  "type": "competition",
+  "subject_tags": [
+    "English",
+    "Language"
+  ],
+  "category": "English Challenge",
+  "organizer": "TeenEagle",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "format": "hybrid",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Students enter the appropriate age division and complete the English challenge stages under annual rules.",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "either",
+  "cost_text": "",
+  "time_commitment": "Online preliminary assessment followed by regional or global events for qualifiers.",
+  "description": "International English-language competition with age divisions, online rounds, and global events.",
+  "website_url": "https://teeneagle.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "official_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "TEEN EAGLE International English Challenge",
+      "raw_excerpt": "TEEN EAGLE International English Challenge",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://www.seedasdan.com/en/teen-en/"
+    },
+    {
+      "source_file": "5d338b03b4d3509a.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "TEEN EAGLE International English Challenge",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:33+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/teen-en/",
+      "retrieved_at": "2026-07-11T15:19:33+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/5d338b03b4d3509a.html.gz",
+      "content_hash": "5d338b03b4d3509a4099aefba4b694ff62e5152f5dc0fae3545c5f069106ddbb"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "listing-contest-teen-eagle-international-english-challenge",
+      "raw_excerpt": "TEEN EAGLE International English Challenge",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=listing-contest-teen-eagle-international-english-challenge]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "listing-contest-teen-eagle-international-english-challenge-e1",
+      "url": "https://www.seedasdan.com/en/",
+      "publisher": "aseeder-catalog",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "note": "TEEN EAGLE International English Challenge"
+    },
+    {
+      "evidence_id": "listing-contest-teen-eagle-international-english-challenge-e2",
+      "url": "https://www.seedasdan.com/en/teen-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:33+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "research-listing-contest-teen-eagle-international-english-challenge-1",
+      "url": "https://teeneagle.org/",
+      "publisher": "TeenEagle",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International English-language competition with age divisions, online rounds, and global events. Eligibility: Students enter the appropriate age division and complete the English challenge stages under annual rules. Format: Online preliminary assessment followed by regional or global events for qualifiers."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-teen-eagle-international-english-challenge-e1",
+        "listing-contest-teen-eagle-international-english-challenge-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-teen-eagle-international-english-challenge-1"
+      ]
+    }
+  },
+  "country": null,
+  "city": null,
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "start_date": null,
+  "end_date": null,
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Certificates, medals, trophies, and global-final recognition.",
+  "china_participation_route": "Mainland-China students register through the authorized ASEEDER TeenEagle channel.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

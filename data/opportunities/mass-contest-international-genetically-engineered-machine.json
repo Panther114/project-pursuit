@@ -1,0 +1,280 @@
+{
+  "id": "mass-contest-international-genetically-engineered-machine",
+  "canonical_name": "iGEM Competition",
+  "name_zh": "",
+  "name_en": "iGEM Competition",
+  "type": "competition",
+  "subject_tags": [
+    "Biology",
+    "Synthetic Biology",
+    "Engineering"
+  ],
+  "category": "Research Competition",
+  "organizer": "iGEM Foundation",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "format": "hybrid",
+  "date_text": "The 2026 Grand Jamboree is scheduled for 13–16 November 2026 in Paris.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": "2026-11-13",
+  "end_date": "2026-11-16",
+  "current_cycle_status": "upcoming",
+  "eligibility_text": "Student teams register in the high-school or other applicable iGEM village/division and comply with biosafety and project rules.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "A full research season, typically many months, ending with project documentation and the Grand Jamboree.",
+  "description": "Global synthetic-biology competition in which teams design, build, document, and present biological engineering projects.",
+  "website_url": "https://igem.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Genetically Engineered Machine",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-international-genetically-engineered-machine",
+      "raw_excerpt": "iGEM Competition",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-international-genetically-engineered-machine]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-international-genetically-engineered-machine-e1",
+      "url": "https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-international-genetically-engineered-machine-1",
+      "url": "https://igem.org/",
+      "publisher": "iGEM Foundation",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Global synthetic-biology competition in which teams design, build, document, and present biological engineering projects. Eligibility: Student teams register in the high-school or other applicable iGEM village/division and comply with biosafety and project rules. Format: A full research season, typically many months, ending with project documentation and the Grand Jamboree."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-genetically-engineered-machine-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-genetically-engineered-machine-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Gold, silver, and bronze medals; track awards; special prizes; and Grand Prizes.",
+  "china_participation_route": "China-based teams register directly with the iGEM Foundation and follow iGEM’s official team-registration process.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

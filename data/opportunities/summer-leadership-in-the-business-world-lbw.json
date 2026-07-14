@@ -1,0 +1,289 @@
+{
+  "id": "summer-leadership-in-the-business-world-lbw",
+  "canonical_name": "Leadership in the Business World (LBW)",
+  "name_en": "Leadership in the Business World (LBW)",
+  "type": "summer_program",
+  "subject_tags": [
+    "Business"
+  ],
+  "category": "Business",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "Multiple",
+  "deadline_text": "April , 2024",
+  "deadline_date": null,
+  "website_url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+  "description": "LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulations, and team-building activities.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "15",
+      "raw_excerpt": "Leadership in the Business World (LBW) LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulations, and team-building activities. Business US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "89727aeb84fe116e.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Current official program page used to verify identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:52+00:00",
+      "source_id": "luna-c77bb059bf4b",
+      "original_url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "snapshot_path": "data/snapshots/review-evidence/globalyouth.wharton.upenn.edu/89727aeb84fe116e.html.gz",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "content_hash": "89727aeb84fe116e661f949310dc455d582715536fe02a9de483765992ec2687",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-leadership-in-the-business-world-lbw-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Leadership in the Business World (LBW) LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulatio"
+    },
+    {
+      "evidence_id": "luna-c77bb059bf4b",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-4e5687b57b16",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-7059cff568a3",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-7c3c4c0ed422",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-4e1adc35bae6",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-c3bcc50d5cfd",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-84e77531f847",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-8f5ffda2c5a5",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-81279366e635",
+      "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:52+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-c77bb059bf4b"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-4e5687b57b16"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-leadership-in-the-business-world-lbw-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-leadership-in-the-business-world-lbw-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-7059cff568a3"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-7c3c4c0ed422"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-4e1adc35bae6"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-c3bcc50d5cfd"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-84e77531f847"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-8f5ffda2c5a5"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-81279366e635"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

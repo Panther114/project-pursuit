@@ -1,0 +1,278 @@
+{
+  "id": "mass-contest-international-geography-bee",
+  "canonical_name": "International Geography Bee",
+  "name_zh": "",
+  "name_en": "International Geography Bee",
+  "type": "competition",
+  "subject_tags": [
+    "Geography"
+  ],
+  "category": "Academic Bee",
+  "organizer": "International Academic Competitions",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "country": null,
+  "city": null,
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Students enter individual geography-bee events in the appropriate age division through an approved regional operator.",
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "cost_text": "",
+  "time_commitment": "Regional quiz events and championship rounds for qualifiers.",
+  "description": "Individual geography quiz competition with regional and championship pathways administered by International Academic Competitions.",
+  "website_url": "https://www.internationalgeographybee.com/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Geography Bee",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/igb-en/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-international-geography-bee",
+      "raw_excerpt": "International Geography Bee",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-international-geography-bee]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-international-geography-bee-e1",
+      "url": "https://www.seedasdan.com/en/igb-en/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    },
+    {
+      "evidence_id": "research-mass-contest-international-geography-bee-1",
+      "url": "https://www.internationalgeographybee.com/",
+      "publisher": "International Academic Competitions",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Individual geography quiz competition with regional and championship pathways administered by International Academic Competitions. Eligibility: Students enter individual geography-bee events in the appropriate age division through an approved regional operator. Format: Regional quiz events and championship rounds for qualifiers."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-geography-bee-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Medals, trophies, and qualification to championship events.",
+  "china_participation_route": "Register through ASEEDER’s authorized International Geography Bee program in mainland China.",
+  "review_conflicts": [
+    "ASEEDER is a China operator, not the global organizer."
+  ],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

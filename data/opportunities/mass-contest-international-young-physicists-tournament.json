@@ -1,0 +1,282 @@
+{
+  "id": "mass-contest-international-young-physicists-tournament",
+  "canonical_name": "International Young Physicists’ Tournament",
+  "name_zh": "",
+  "name_en": "International Young Physicists’ Tournament",
+  "type": "competition",
+  "subject_tags": [
+    "Physics",
+    "Scientific research",
+    "Public Speaking"
+  ],
+  "category": "Physics Tournament",
+  "organizer": "International Young Physicists’ Tournament",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "format": "in_person",
+  "date_text": "The 2026 IYPT was announced for Zurich; exact reviewed dates were not verified.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "Each country is represented by one five-student high-school team selected through a national tournament.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "Year-long research on 17 open physics problems followed by a week of Physics Fights.",
+  "description": "International team physics tournament based on year-long investigation of open problems and judged Physics Fights.",
+  "website_url": "https://www.iypt.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Young Physicists' Tournament",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Young_Physicists%27_Tournament",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-international-young-physicists-tournament",
+      "raw_excerpt": "International Young Physicists’ Tournament",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-international-young-physicists-tournament]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-international-young-physicists-tournament-e1",
+      "url": "https://en.wikipedia.org/wiki/International_Young_Physicists%27_Tournament",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-international-young-physicists-tournament-1",
+      "url": "https://www.iypt.org/",
+      "publisher": "International Young Physicists’ Tournament",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International team physics tournament based on year-long investigation of open problems and judged Physics Fights. Eligibility: Each country is represented by one five-student high-school team selected through a national tournament. Format: Year-long research on 17 open physics problems followed by a week of Physics Fights."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-young-physicists-tournament-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-young-physicists-tournament-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Team ranking, medals, and individual or special recognition under tournament rules.",
+  "china_participation_route": "China’s team is selected through its national Young Physicists’ Tournament pathway; no direct registration.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

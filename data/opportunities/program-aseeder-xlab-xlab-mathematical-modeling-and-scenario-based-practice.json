@@ -1,0 +1,255 @@
+{
+  "canonical_name": "XLAB Mathematical Modeling and Scenario-based Practice",
+  "organizer": "ASEEDER XLAB",
+  "type": "research_program",
+  "subject_tags": [
+    "Mathematics",
+    "Scientific research"
+  ],
+  "category": "Mathematical modeling",
+  "region": "Shenzhen, China",
+  "region_tier": "mainland_china",
+  "country": "China",
+  "city": "Shenzhen",
+  "format": "in_person",
+  "eligibility_text": "Secondary-school students; the content exceeds standard high-school curricula.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "languages": [
+    "Bilingual"
+  ],
+  "team_mode": "team",
+  "date_text": "July 27-31, 2026",
+  "deadline_text": "Application status published on official page",
+  "deadline_date": null,
+  "start_date": "2026-07-27",
+  "end_date": "2026-07-31",
+  "current_cycle_status": "upcoming",
+  "cost_text": "Program fee amount not stated in extracted page text",
+  "time_commitment": "high",
+  "difficulty_level": "Advanced",
+  "recognition_level": "Regional research program",
+  "description": "Shenzhen-based mathematical modeling research and scenario-practice program.",
+  "website_url": "https://xlab.seedasdan.com/en/math-en/",
+  "id": "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice",
+  "last_verified_at": "2026-07-11",
+  "confidence": "verified",
+  "verification_note": "Official page snapshot retrieved 2026-07-11; verify time-sensitive details before applying.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-20+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-math-modeling",
+      "raw_excerpt": "【Shenzhen】Mathematical Modeling and Scenario-based Practice - XLAB ASDAN China About ASDAN China 中文 (中国) Home About Us International Programs 【Göttingen】XLAB Göttingen Experimentallabor für junge Leute e.V Domestic Programs Biomedicine 【Nanjing】Development of a Biomimetic Cerebral Organ-on-Chip Platform for Studying Neuroprotective Mechanisms 【Shenzhen】Application of Optogenetics Techniques in the Study of Depression 【Beijing】Behavioral & Pathological Mechanisms of Neurodegenerative Diseases 【Suzhou】Multilevel Studies on the Efficacy of Anti-tumor Drugs 【Suzhou】CAR-T Cell Immunotherapy for Novel Anticancer Treatment 【Suzhou】Exploration of Combination Therapies for Solid Tumors Based on TCR-T Technology 【Suzhou】Gene Editing Technologies for Anti-Inflammatory and Antiviral Research 【Shanghai】Application of Stem Cell Therapy Technology in Regenerative Medicine in the Intelligent Era 【Guangz",
+      "extracted_at": "2026-07-11T09:20:20+00:00",
+      "source_id": "aseeder-math-modeling",
+      "original_url": "https://xlab.seedasdan.com/en/math-en/",
+      "snapshot_path": "data/snapshots/aseeder-math-modeling/2026-07-11T09-20-20+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:20+00:00",
+      "content_hash": "417b8950240abe585a5d666389dc9e11804c2023b9fe4fd8ca35a27eebac40c7",
+      "extraction_locator": "document"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1",
+      "url": "https://xlab.seedasdan.com/en/math-en/",
+      "publisher": "aseeder-math-modeling",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:20+00:00",
+      "source_id": "aseeder-math-modeling",
+      "note": "【Shenzhen】Mathematical Modeling and Scenario-based Practice - XLAB ASDAN China About ASDAN China 中文 (中国) Home About Us International Programs 【Göttingen】XLAB Göttingen Experimentallabor für junge Leute e.V Domestic Programs Biomedicine 【Nan"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "city": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "end_date": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-mathematical-modeling-and-scenario-based-practice-e1"
+      ]
+    }
+  }
+}

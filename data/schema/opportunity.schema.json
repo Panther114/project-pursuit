@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://project-pursuit.local/schema/opportunity-v1.json",
+  "title": "Project Pursuit Opportunity",
+  "type": "object",
+  "required": ["schema_version", "id", "canonical_name", "type", "format", "publication_status", "sources", "evidence", "field_evidence"],
+  "properties": {
+    "schema_version": { "const": 1 },
+    "id": { "type": "string", "minLength": 1 },
+    "canonical_name": { "type": "string", "minLength": 1 },
+    "type": { "enum": ["competition", "summer_program", "research_program", "other"] },
+    "format": { "enum": ["online", "in_person", "hybrid", "contact_instructor", "unknown"] },
+    "publication_status": { "enum": ["official_verified", "corroborated", "partially_verified", "historical", "unverified"] },
+    "sources": { "type": "array", "minItems": 1 },
+    "evidence": { "type": "array", "minItems": 1 },
+    "field_evidence": { "type": "object" }
+  },
+  "additionalProperties": true
+}

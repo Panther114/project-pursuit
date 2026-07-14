@@ -1,43 +1,17 @@
 # Verification Policy
 
-Last updated: 2026-07-09
+## Display and confidence gate
 
-## Catalog Scope
+The broad catalog displays discovered records even when identity/current-cycle verification is incomplete, so users can see the full research surface. Confidence is explicit rather than implied: a filled dot is reserved for records backed by retained official verification, while a hollow dot covers partially verified, unverified, and historical records. Non-core facts may remain empty and must never be guessed. Conflicting facts remain empty until resolved.
 
-The prototype catalog is offline-source scoped. A competition or program should appear in the app only if it is present in `shsid_sources/`.
+## Source priority
 
-## Online Verification
+1. Current official organizer/institution detail page.
+2. Official China operator page, such as ASEEDER.
+3. Current SHSID source file.
+4. Historical official or SHSID material.
+5. Third-party pages, which may support discovery and hollow-dot factual fields but cannot produce a filled verification dot on their own.
 
-Online sources may be used to verify:
+Every filled-dot web record must expose an official URL, retrieval date, snapshot path, content hash, parser version, and extraction trace. Hollow-dot records may instead retain a `web_reference` while awaiting a successful snapshot and stronger evidence. Refresh failure never deletes last-good evidence. Time-sensitive facts must carry an explicit current-cycle status; unknown or stale dates must remain visibly unknown.
 
-- Official website URLs.
-- Registration deadlines.
-- Eligibility.
-- Format/location.
-- Fees.
-- Current-year availability.
-
-Online sources must not be used to silently add new records to the prototype catalog unless the product scope is explicitly expanded.
-
-## Source Priority
-
-1. Current official competition or organizer website.
-2. Current SHSID source file.
-3. Older SHSID source file.
-4. Historical official page.
-5. Third-party summaries.
-
-Third-party summaries should not upgrade a record to `verified`.
-
-## UI Requirements
-
-- Display confidence labels near critical facts.
-- Show raw source excerpts on detail pages.
-- Mark missing deadlines as `Needs review`.
-- Do not present admissions relevance as a guaranteed outcome.
-- Explain recommendation scores with visible reasons and cautions.
-- Preserve an explicit verification note when an organizer URL has been checked but the current-cycle schedule remains unconfirmed.
-
-## Motion Policy
-
-Project Pursuit uses staged reveals, orbit motion, and panel transitions as part of the product identity. Do not disable visual effects through `prefers-reduced-motion`; Windows and Edge may expose that setting in environments where the product still needs to render its primary content and motion states. Only non-visual comfort behavior, such as `scroll-behavior`, may use that media query. Critical UI must have a visible static end state so it remains usable if CSS animation is unavailable.
+The student UI is factual only. It displays confidence status, missing values, verification age, and source traces without suitability scores or admissions judgments. The maintenance review queue itself is not rendered, although its hollow-dot candidates are visible in the broad catalog.

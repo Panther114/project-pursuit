@@ -1,0 +1,277 @@
+{
+  "id": "mass-contest-european-girls-mathematical-olympiad",
+  "canonical_name": "European Girls’ Mathematical Olympiad",
+  "name_zh": "",
+  "name_en": "European Girls’ Mathematical Olympiad",
+  "type": "competition",
+  "subject_tags": [
+    "Mathematics"
+  ],
+  "category": "Olympiad",
+  "organizer": "European Girls’ Mathematical Olympiad",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "format": "in_person",
+  "date_text": "The 2026 EGMO was held in Bordeaux in April 2026.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "National delegations normally contain up to four female contestants who are under 20 and not enrolled at university.",
+  "eligible_grades": [],
+  "eligible_ages": [
+    19
+  ],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "cost_text": "",
+  "time_commitment": "Two 4.5-hour proof-based examinations.",
+  "description": "International proof-based mathematics olympiad for national delegations of female secondary-school students.",
+  "website_url": "https://www.egmo.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "European Girls’ Mathematical Olympiad",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.egmo.org/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-european-girls-mathematical-olympiad",
+      "raw_excerpt": "European Girls’ Mathematical Olympiad",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-european-girls-mathematical-olympiad]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-european-girls-mathematical-olympiad-e1",
+      "url": "https://www.egmo.org/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    },
+    {
+      "evidence_id": "research-mass-contest-european-girls-mathematical-olympiad-1",
+      "url": "https://www.egmo.org/",
+      "publisher": "European Girls’ Mathematical Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International proof-based mathematics olympiad for national delegations of female secondary-school students. Eligibility: National delegations normally contain up to four female contestants who are under 20 and not enrolled at university. Format: Two 4.5-hour proof-based examinations."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-european-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-european-girls-mathematical-olympiad-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Gold, silver, and bronze medals and honorable mentions.",
+  "china_participation_route": "China participates through national selection; there is no open public registration.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

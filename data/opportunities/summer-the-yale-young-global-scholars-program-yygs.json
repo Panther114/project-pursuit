@@ -1,0 +1,289 @@
+{
+  "id": "summer-the-yale-young-global-scholars-program-yygs",
+  "canonical_name": "The Yale Young Global Scholars Program (YYGS)",
+  "name_en": "The Yale Young Global Scholars Program (YYGS)",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "Interdisciplinary",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "Multiple",
+  "deadline_text": "January , 2025",
+  "deadline_date": null,
+  "website_url": "https://globalscholars.yale.edu/",
+  "description": "Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U.S. states) participate in one interdisciplinary , two-week session online or at Yale’s historic campus.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "30",
+      "raw_excerpt": "The Yale Young Global Scholars Program (YYGS) Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U.S. states) participate in one interdisciplinary , two-week session online or at Yale’s historic campus. Interdisciplinary US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "fcdffa05c188b273.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Live Yale Young Global Scholars homepage confirms identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:45+00:00",
+      "source_id": "luna-552ba35252dc",
+      "original_url": "https://globalscholars.yale.edu/",
+      "snapshot_path": "data/snapshots/review-evidence/globalscholars.yale.edu/fcdffa05c188b273.html.gz",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "content_hash": "fcdffa05c188b2736fa2f77d771f0c3f295c7bd5f010796ff9c8fc981d3a5d00",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-the-yale-young-global-scholars-program-yygs-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "The Yale Young Global Scholars Program (YYGS) Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U."
+    },
+    {
+      "evidence_id": "luna-552ba35252dc",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-4fe4a1001e4a",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-b517ab2abe62",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-3c775008afb2",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-db7d5df1fc86",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-80dbba6767b8",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-4faf45a85adb",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-70bfcf1efbb9",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-09851ea28e14",
+      "url": "https://globalscholars.yale.edu/",
+      "publisher": "Yale University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:45+00:00",
+      "note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-552ba35252dc"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-4fe4a1001e4a"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-the-yale-young-global-scholars-program-yygs-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-the-yale-young-global-scholars-program-yygs-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-b517ab2abe62"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-3c775008afb2"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-db7d5df1fc86"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-80dbba6767b8"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-4faf45a85adb"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-70bfcf1efbb9"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-09851ea28e14"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}
