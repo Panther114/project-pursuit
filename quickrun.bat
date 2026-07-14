@@ -2,7 +2,7 @@
 setlocal
 
 set "ROOT=%~dp0"
-set "PORT=5173"
+set "PORT=3800"
 
 powershell -NoProfile -ExecutionPolicy Bypass -Command ^
   "$root = $env:ROOT.TrimEnd('\');" ^

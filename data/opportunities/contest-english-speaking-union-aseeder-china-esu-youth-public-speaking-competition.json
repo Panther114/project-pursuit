@@ -1,0 +1,321 @@
+{
+  "canonical_name": "ESU Youth Public Speaking Competition",
+  "organizer": "English-Speaking Union",
+  "type": "competition",
+  "subject_tags": [
+    "English",
+    "Public Speaking"
+  ],
+  "category": "Public Speaking Competition",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "country": "United Kingdom",
+  "format": "in_person",
+  "eligibility_text": "Students selected through an ESU national public-speaking competition; international age rules apply.",
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "current_cycle_status": "unknown",
+  "cost_text": "",
+  "time_commitment": "Prepared speech, impromptu speaking, and international final activities.",
+  "difficulty_level": "Intermediate",
+  "recognition_level": "International",
+  "description": "International public-speaking competition with national selection rounds and a global final.",
+  "website_url": "https://www.esu.org/competitions/international-public-speaking-competition/",
+  "id": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition",
+  "last_verified_at": "2026-07-12",
+  "confidence": "verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-16-39+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-esu-speaking",
+      "raw_excerpt": "--> ESU Youth Public Speaking Competition - 阿思丹（ASEEDER）—中国领先的国际素质教育平台 常见问题 Q & A --> About Us Online Education Our Partners Teacher Training 中文 (中国) High School Research Programs ASDAN Extended Project Qualification ASEEDER- Lumiere Research Scholar Program Summer School Oxbridge Accelerate Programme 【Online】Oxbridge Accelerate Programme UK 【UK】Fitzwilliam College Summer School Highly Recommend 【UK】Oxford Biological Chemistry Summer School Highly Recommend 【UK】The Rosetta Institute of Biomedical Reseach Summer School Highly Recommend US Recommended 【US】Cornell University Economics and Business Summer School Recommended 【US】Johns Hopkins Pre-College Summer Program Highly Recommend 【US】UCLA Extension Winter School in collaboration with ASEEDER 【US】The Rosetta Institute of Biomedical Reseach Summer School Singapore 【SG】Nanyang Technological University Recommended Domestic 【BeiJing】New York",
+      "extracted_at": "2026-07-11T09:16:39+00:00",
+      "source_id": "aseeder-esu-speaking",
+      "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
+      "snapshot_path": "data/snapshots/aseeder-esu-speaking/2026-07-11T09-16-39+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:16:39+00:00",
+      "content_hash": "539a8b60809796c078e78d7fb8f387aff3225fa07fd3c8b95c601a70fc9ec4af",
+      "extraction_locator": "document"
+    },
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "ESU Youth Public Speaking Competition",
+      "raw_excerpt": "ESU Youth Public Speaking Competition",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://www.seedasdan.com/en/esuypsc-en/"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "ESU Youth Public Speaking Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "539a8b60809796c0.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "ESU Youth Public Speaking Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:31+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
+      "retrieved_at": "2026-07-11T15:19:31+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/539a8b60809796c0.html.gz",
+      "content_hash": "539a8b60809796c078e78d7fb8f387aff3225fa07fd3c8b95c601a70fc9ec4af"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition",
+      "raw_excerpt": "ESU Youth Public Speaking Competition",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1",
+      "url": "https://www.seedasdan.com/en/esuypsc-en/",
+      "publisher": "aseeder-esu-speaking",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:16:39+00:00",
+      "source_id": "aseeder-esu-speaking",
+      "note": "--> ESU Youth Public Speaking Competition - 阿思丹（ASEEDER）—中国领先的国际素质教育平台 常见问题 Q & A --> About Us Online Education Our Partners Teacher Training 中文 (中国) High School Research Programs ASDAN Extended Project Qualification ASEEDER- Lumiere Resear"
+    },
+    {
+      "evidence_id": "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1",
+      "url": "https://www.esu.org/competitions/international-public-speaking-competition/",
+      "publisher": "English-Speaking Union",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International public-speaking competition with national selection rounds and a global final. Eligibility: Students selected through an ESU national public-speaking competition; international age rules apply. Format: Prepared speech, impromptu speaking, and international final activities."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
+      ]
+    }
+  },
+  "name_en": "ESU Youth Public Speaking Competition",
+  "city": null,
+  "eligible_grades": [],
+  "eligible_curricula": [],
+  "start_date": null,
+  "end_date": null,
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "National titles and participation in the International Public Speaking Competition final.",
+  "china_participation_route": "Mainland-China selection is run through the approved ESU China/ASEEDER route.",
+  "review_conflicts": [
+    "ASEEDER is a China operator; the English-Speaking Union is the global organizer."
+  ],
+  "review_missing_fields": [
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

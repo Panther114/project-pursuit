@@ -1,0 +1,289 @@
+{
+  "id": "summer-management-technology-summer-institute-m-tsi",
+  "canonical_name": "Management & Technology Summer Institute (M&TSI)",
+  "name_en": "Management & Technology Summer Institute (M&TSI)",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "STEM",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "July, 2024",
+  "deadline_text": "April , 2024",
+  "deadline_date": null,
+  "website_url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+  "description": "M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technological concepts and management principles.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "16",
+      "raw_excerpt": "Management & Technology Summer Institute (M&TSI) M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technological concepts and management principles. STEM US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "6e25f79b5b14a811.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Current official program page used to verify identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:47+00:00",
+      "source_id": "luna-606d01d0416f",
+      "original_url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "snapshot_path": "data/snapshots/review-evidence/fisher.wharton.upenn.edu/6e25f79b5b14a811.html.gz",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "content_hash": "6e25f79b5b14a811f7adad086e6fa72cf54e809d595fb7acde29252425ee6ebb",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-management-technology-summer-institute-m-tsi-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Management & Technology Summer Institute (M&TSI) M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technol"
+    },
+    {
+      "evidence_id": "luna-606d01d0416f",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-b9f58d1ac92a",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-119a18deb782",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-c44cb4288652",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-b50dbbcf8a3a",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-5b9405b3d4d2",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-bcc5f993bc7f",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-c15994199367",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-1d07f5a9446b",
+      "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+      "publisher": "University of Pennsylvania",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:47+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-606d01d0416f"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-b9f58d1ac92a"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-management-technology-summer-institute-m-tsi-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-management-technology-summer-institute-m-tsi-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-119a18deb782"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-c44cb4288652"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-b50dbbcf8a3a"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-5b9405b3d4d2"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-bcc5f993bc7f"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-c15994199367"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-1d07f5a9446b"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

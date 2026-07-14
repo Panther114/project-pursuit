@@ -1,0 +1,1924 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "summer-babson-summer-study-for-high-school-students",
+      "canonical_name": "Babson Summer Study for High School Students",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Babson Summer Study for High School Students",
+        "name_en": "Babson Summer Study for High School Students",
+        "category": "Business",
+        "region": "US",
+        "format": "online",
+        "date_text": "July,2024",
+        "deadline_text": "March,2024",
+        "website_url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+        "description": "Babson Summer Study is a 4-week experiential online program for rising high school juniors and seniors to develop an entrepreneurial mindset and become innovators and changemakers."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.babson.edu/admission/visiting-student-programs/babson-summer-study/",
+            "publisher": "Babson College",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-berkeley-business-academy-for-youth",
+      "canonical_name": "Berkeley Business Academy for Youth",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Berkeley Business Academy for Youth",
+        "name_en": "Berkeley Business Academy for Youth",
+        "category": "Business",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Session I: July 6-20, 2024. Session II: July 20-August 3, 2024",
+        "deadline_text": "March,2024",
+        "website_url": "https://haas.berkeley.edu/business-academy/",
+        "description": "For two weeks every summer, the Berkeley Business Academy for Youth gives middle- and high-school students a glimpse into their future."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://haas.berkeley.edu/business-academy/",
+            "publisher": "UC Berkeley Haas School of Business",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-brown-pre-college-programs",
+      "canonical_name": "Brown Pre-College Programs",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Brown Pre-College Programs",
+        "name_en": "Brown Pre-College Programs",
+        "category": "Multiple",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "Multiple",
+        "deadline_text": "May , 2024",
+        "website_url": "https://precollege.brown.edu/",
+        "description": "Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing challenging academics and enriching social activities—without the pressure of formal grades."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://precollege.brown.edu/",
+            "publisher": "Brown University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-california-state-summer-school-for-mathematics-science-cosmos",
+      "canonical_name": "California State Summer School for Mathematics & Science ( cosmos )",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "California State Summer School for Mathematics & Science ( cosmos )",
+        "name_en": "California State Summer School for Mathematics & Science ( cosmos )",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July- August , 2024",
+        "deadline_text": "February , 2024",
+        "website_url": "https://cosmos-ucop.ucdavis.edu/app/main",
+        "description": "COSMOS is an intensive four-week summer residential program for students who have demonstrated an aptitude for academic and professional careers in science, technology, engineering, and mathematics (STEM) subjects."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://cosmos-ucop.ucdavis.edu/app/main",
+            "publisher": "cosmos-ucop.ucdavis.edu",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-cambridge-virtual-pre-university-summer-programme",
+      "canonical_name": "Cambridge Virtual Pre-University Summer Programme",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Cambridge Virtual Pre-University Summer Programme",
+        "name_en": "Cambridge Virtual Pre-University Summer Programme",
+        "category": "Multiple",
+        "region": "UK",
+        "format": "online",
+        "date_text": "Multiple",
+        "deadline_text": "TBA",
+        "website_url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+        "description": "The two-week programme combines subject specific lectures with sessions on study skills, careers and how to apply to a UK University. There will also be the opportunity to take part in sessions hosted by current University of Cambridge students, as well as exchanging ideas with fellow participants via our online forums."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.ice.cam.ac.uk/virtual-pre-university-summer-programme",
+            "publisher": "University of Cambridge",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-clark-scholars-program",
+      "canonical_name": "Clark Scholars Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Clark Scholars Program",
+        "name_en": "Clark Scholars Program",
+        "category": "Multiple",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June,2024 to August , 2024",
+        "deadline_text": "February, 2024",
+        "website_url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+        "description": "The Clark Scholar Program is an intensive seven week summer research program for highly qualified high school juniors and seniors. The Clark Scholars Program is unique in that it is open to gifted students in almost any area of academe from not only the natural sciences and mathematics but to the humanities and fine arts as well."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+            "publisher": "Texas Tech University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-cornell-pre-college-studies",
+      "canonical_name": "Cornell Pre-College Studies",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Cornell Pre-College Studies",
+        "name_en": "Cornell Pre-College Studies",
+        "category": "Multiple",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "Multiple",
+        "deadline_text": "Multiple",
+        "website_url": "https://sce.cornell.edu/precollege",
+        "description": "Cornell University's precollege programs give high school students the chance to benefit from an Ivy League education before they apply to or attend college."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://sce.cornell.edu/precollege",
+            "publisher": "Cornell University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-hampshire-college-summer-studies-in-mathematics-hcssim",
+      "canonical_name": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+        "name_en": "Hampshire College Summer Studies in Mathematics (HCSSiM)",
+        "category": "Multiple",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July to August , 2024",
+        "deadline_text": "April , 2024",
+        "website_url": "https://hcssim.org/",
+        "description": "HCSSiM is an intensive six-week encounter with college-level mathematics for talented and highly motivated high school students. It is demanding and expanding."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://hcssim.org/",
+            "publisher": "Hampshire College Summer Studies in Mathematics",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-high-school-honors-science-math-and-engineering-program",
+      "canonical_name": "High School Honors Science, Math and Engineering Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "High School Honors Science, Math and Engineering Program",
+        "name_en": "High School Honors Science, Math and Engineering Program",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June to August , 2024",
+        "deadline_text": "March , 2024",
+        "website_url": "https://education.msu.edu/hshsp/",
+        "description": "The Michigan State University High School Honors Science/Engineering/Mathematics Program (HSHSP) is a seven-week, intensive summer research program designed for motivated students from across the United States who wish to gain more experience conducting research while living on the campus of a major research-intensive university."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://education.msu.edu/hshsp/",
+            "publisher": "Michigan State University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-hku-summer-institute",
+      "canonical_name": "HKU Summer Institute",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "HKU Summer Institute",
+        "name_en": "HKU Summer Institute",
+        "category": "Multiple",
+        "region": "HK China",
+        "format": "hybrid",
+        "date_text": "Rolling",
+        "deadline_text": "Rolling",
+        "website_url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+        "description": "We offer a variety of inspiring and interactive programmes for students to identify their passion in various fields, acquire more in-depth knowledge of their subjects of interest and have a taste of HKU university life in the summer. It is the best platform to take up intellectual challenges and make new friends from different cultures."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/",
+            "publisher": "The University of Hong Kong",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-hkust-summer-institute",
+      "canonical_name": "HKUST Summer Institute",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "HKUST Summer Institute",
+        "name_en": "HKUST Summer Institute",
+        "category": "Multiple",
+        "region": "HK China",
+        "format": "in_person",
+        "date_text": "August,2024",
+        "deadline_text": "May , 2024",
+        "website_url": "https://summer.ust.hk/",
+        "description": "For Grade 10/11 students at the time of application"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summer.ust.hk/",
+            "publisher": "The Hong Kong University of Science and Technology",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-imperial-global-summer-school",
+      "canonical_name": "Imperial Global Summer School",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Imperial Global Summer School",
+        "name_en": "Imperial Global Summer School",
+        "category": "STEM",
+        "region": "UK",
+        "format": "in_person",
+        "date_text": "Multiple",
+        "deadline_text": "Multiple",
+        "website_url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+        "description": "Imperial’s Global Summer School offers a unique experience for students. At its heart is an intensive residential STEM programme, giving students a taste of what it is like to learn at a world-leading university."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.imperial.ac.uk/be-inspired/global-summer-school/",
+            "publisher": "Imperial College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-international-summer-school-for-young-physicists-issyp",
+      "canonical_name": "International Summer School for Young Physicists (ISSYP)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "International Summer School for Young Physicists (ISSYP)",
+        "name_en": "International Summer School for Young Physicists (ISSYP)",
+        "category": "STEM",
+        "region": "US",
+        "format": "online",
+        "date_text": "July , 2024",
+        "deadline_text": "March , 2024",
+        "website_url": "https://perimeterinstitute.ca/issyp",
+        "description": "ISSYP is an exciting and challenging two-week online program for Canadian and international high school students with a keen interest in theoretical physics who intend to pursue physics at the university level."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://perimeterinstitute.ca/issyp",
+            "publisher": "Perimeter Institute",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-iowa-young-writers-studio-iyws",
+      "canonical_name": "Iowa Young Writers’ Studio (IYWS)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Iowa Young Writers’ Studio (IYWS)",
+        "name_en": "Iowa Young Writers’ Studio (IYWS)",
+        "category": "Writing",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Session 1: June, 2024. Session 2: July, 2024.",
+        "deadline_text": "February , 2024",
+        "website_url": "https://iyws.clas.uiowa.edu/",
+        "description": "The Studio gives promising high school-age creative writers the opportunity to share their writing with teachers and peers, receive constructive critique, participate in writing exercises and activities, and attend (actually or virtually) readings and literary events."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://iyws.clas.uiowa.edu/",
+            "publisher": "University of Iowa",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-johns-hopkins-engineering-innovation",
+      "canonical_name": "Johns Hopkins Engineering Innovation",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Johns Hopkins Engineering Innovation",
+        "name_en": "Johns Hopkins Engineering Innovation",
+        "category": "STEM",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "Multiple",
+        "deadline_text": "Multiple",
+        "website_url": "https://ei.jhu.edu/",
+        "description": "Explore Engineering Innovation (EEI), is an exciting, college-level, summer program for motivated high school students with an aptitude in math and science and an interest in (or curiosity about) engineering."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://ei.jhu.edu/",
+            "publisher": "Johns Hopkins University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-launchx-high-school-entrepreneurship-summer-program",
+      "canonical_name": "LaunchX High School Entrepreneurship Summer Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "LaunchX High School Entrepreneurship Summer Program",
+        "name_en": "LaunchX High School Entrepreneurship Summer Program",
+        "category": "Business",
+        "region": "US",
+        "format": "online",
+        "date_text": "June - July, 2024",
+        "deadline_text": "February , 2024",
+        "website_url": "https://launchx.com/summer-program/",
+        "description": "LaunchX entrepreneurship summer program taps into the potential of ambitious high school students, supporting our young entrepreneurs through the process of launching an actual startup."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://launchx.com/summer-program/",
+            "publisher": "LaunchX",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-leadership-in-the-business-world-lbw",
+      "canonical_name": "Leadership in the Business World (LBW)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Leadership in the Business World (LBW)",
+        "name_en": "Leadership in the Business World (LBW)",
+        "category": "Business",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Multiple",
+        "deadline_text": "April , 2024",
+        "website_url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+        "description": "LBW offers opportunities to learn about leadership in 21st century organizations through a dynamic and rigorous mix of classes with Wharton professors and business leaders, real-time business simulations, and team-building activities."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-management-technology-summer-institute-m-tsi",
+      "canonical_name": "Management & Technology Summer Institute (M&TSI)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Management & Technology Summer Institute (M&TSI)",
+        "name_en": "Management & Technology Summer Institute (M&TSI)",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July, 2024",
+        "deadline_text": "April , 2024",
+        "website_url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+        "description": "M&TSI is a rigorous and rewarding for-credit summer program for rising high school seniors and a select number of rising high school juniors interested in exploring the integration of technological concepts and management principles."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://fisher.wharton.upenn.edu/management-technology-summer-institute/",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-mit-research-science-institute-rsi",
+      "canonical_name": "MIT Research Science Institute (RSI)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "MIT Research Science Institute (RSI)",
+        "name_en": "MIT Research Science Institute (RSI)",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June to August , 2024",
+        "deadline_text": "December，2023",
+        "website_url": "https://www.cee.org/research-science-institute",
+        "description": "Each summer, 80 of the world's most accomplished high school students gather at the Massachusetts Institute of Technology (MIT) for the Research Science Institute (RSI). RSI is the first cost-free to students, summer science & engineering program to combine on-campus course work in scientific theory with off-campus work in science and technology research."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.cee.org/research-science-institute",
+            "publisher": "www.cee.org",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current official program page used to verify identity and active existence."
+          }
+        ]
+      }
+    }
+  ]
+}

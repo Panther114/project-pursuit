@@ -1,0 +1,307 @@
+{
+  "id": "mass-contest-international-philosophy-olympiad",
+  "canonical_name": "International Philosophy Olympiad",
+  "name_zh": "",
+  "name_en": "International Philosophy Olympiad",
+  "type": "competition",
+  "subject_tags": [
+    "Philosophy",
+    "Writing"
+  ],
+  "category": "Olympiad",
+  "organizer": "International Philosophy Olympiad",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "format": "in_person",
+  "date_text": "The 2026 International Philosophy Olympiad was held in Warsaw and had concluded by July 2026.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "Secondary students are selected through a recognized national philosophy competition; each country normally sends up to two contestants.",
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "team_mode": "individual",
+  "cost_text": "",
+  "time_commitment": "One four-hour philosophical essay examination during a multi-day event.",
+  "description": "International philosophy essay olympiad for students selected through national competitions.",
+  "website_url": "https://www.philosophy-olympiad.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Philosophy Olympiad",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.philosophy-olympiad.org/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Philosophy Olympiad",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Philosophy_Olympiad",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-international-philosophy-olympiad",
+      "raw_excerpt": "International Philosophy Olympiad",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-international-philosophy-olympiad]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-international-philosophy-olympiad-e1",
+      "url": "https://www.philosophy-olympiad.org/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    },
+    {
+      "evidence_id": "mass-contest-international-philosophy-olympiad-e2",
+      "url": "https://en.wikipedia.org/wiki/International_Philosophy_Olympiad",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-international-philosophy-olympiad-1",
+      "url": "https://www.philosophy-olympiad.org/",
+      "publisher": "International Philosophy Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International philosophy essay olympiad for students selected through national competitions. Eligibility: Secondary students are selected through a recognized national philosophy competition; each country normally sends up to two contestants. Format: One four-hour philosophical essay examination during a multi-day event."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1",
+        "mass-contest-international-philosophy-olympiad-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Gold, silver, and bronze medals and honorable mentions.",
+  "china_participation_route": "China participation requires national selection and organizer recognition; no public registration route was verified.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

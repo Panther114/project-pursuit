@@ -1,0 +1,255 @@
+{
+  "canonical_name": "XLAB Synthetic Biology",
+  "organizer": "ASEEDER XLAB",
+  "type": "research_program",
+  "subject_tags": [
+    "Biology",
+    "Scientific research"
+  ],
+  "category": "Synthetic biology",
+  "region": "Shanghai, China",
+  "region_tier": "shanghai_local",
+  "country": "China",
+  "city": "Shanghai",
+  "format": "in_person",
+  "eligibility_text": "Secondary-school students; the content exceeds standard high-school curricula.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "languages": [
+    "Bilingual"
+  ],
+  "team_mode": "team",
+  "date_text": "July 13-17, 2026",
+  "deadline_text": "Application status published on official page",
+  "deadline_date": null,
+  "start_date": "2026-07-13",
+  "end_date": "2026-07-17",
+  "current_cycle_status": "upcoming",
+  "cost_text": "Program fee amount not stated in extracted page text",
+  "time_commitment": "high",
+  "difficulty_level": "Advanced",
+  "recognition_level": "Regional research program",
+  "description": "Shanghai laboratory-based synthetic biology program for secondary students.",
+  "website_url": "https://xlab.seedasdan.com/en/synthetic-en/",
+  "id": "program-aseeder-xlab-xlab-synthetic-biology",
+  "last_verified_at": "2026-07-11",
+  "confidence": "verified",
+  "verification_note": "Official page snapshot retrieved 2026-07-11; verify time-sensitive details before applying.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-18+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-synthetic-biology",
+      "raw_excerpt": "【Shanghai】Synthetic Biology - XLAB ASDAN China About ASDAN China 中文 (中国) Home About Us International Programs 【Göttingen】XLAB Göttingen Experimentallabor für junge Leute e.V Domestic Programs Biomedicine 【Nanjing】Development of a Biomimetic Cerebral Organ-on-Chip Platform for Studying Neuroprotective Mechanisms 【Shenzhen】Application of Optogenetics Techniques in the Study of Depression 【Beijing】Behavioral & Pathological Mechanisms of Neurodegenerative Diseases 【Suzhou】Multilevel Studies on the Efficacy of Anti-tumor Drugs 【Suzhou】CAR-T Cell Immunotherapy for Novel Anticancer Treatment 【Suzhou】Exploration of Combination Therapies for Solid Tumors Based on TCR-T Technology 【Suzhou】Gene Editing Technologies for Anti-Inflammatory and Antiviral Research 【Shanghai】Application of Stem Cell Therapy Technology in Regenerative Medicine in the Intelligent Era 【Guangzhou】Preparation and Application ",
+      "extracted_at": "2026-07-11T09:20:18+00:00",
+      "source_id": "aseeder-synthetic-biology",
+      "original_url": "https://xlab.seedasdan.com/en/synthetic-en/",
+      "snapshot_path": "data/snapshots/aseeder-synthetic-biology/2026-07-11T09-20-18+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:18+00:00",
+      "content_hash": "ac3b76cbfa2d0a3f50bb1e25c1c047923577ffe9a5f49571e6a3ead5b4101270",
+      "extraction_locator": "document"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "program-aseeder-xlab-xlab-synthetic-biology-e1",
+      "url": "https://xlab.seedasdan.com/en/synthetic-en/",
+      "publisher": "aseeder-synthetic-biology",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:18+00:00",
+      "source_id": "aseeder-synthetic-biology",
+      "note": "【Shanghai】Synthetic Biology - XLAB ASDAN China About ASDAN China 中文 (中国) Home About Us International Programs 【Göttingen】XLAB Göttingen Experimentallabor für junge Leute e.V Domestic Programs Biomedicine 【Nanjing】Development of a Biomimetic"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "city": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "end_date": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-xlab-xlab-synthetic-biology-e1"
+      ]
+    }
+  }
+}

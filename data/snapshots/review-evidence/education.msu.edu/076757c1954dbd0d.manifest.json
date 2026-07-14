@@ -1,0 +1,10 @@
+{
+  "original_url": "https://education.msu.edu/hshsp/",
+  "final_url": "https://education.msu.edu/hshsp/",
+  "retrieved_at": "2026-07-11T12:27:57+00:00",
+  "content_hash": "076757c1954dbd0d5fb9e2102eb69bee694d0b4d2801e617631323fe1fb86dcc",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/education.msu.edu/076757c1954dbd0d.html.gz"
+}

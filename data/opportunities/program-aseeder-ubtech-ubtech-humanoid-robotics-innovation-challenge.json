@@ -1,0 +1,382 @@
+{
+  "canonical_name": "UBTECH Humanoid Robotics Innovation Challenge",
+  "organizer": "ASEEDER / UBTECH",
+  "type": "summer_program",
+  "subject_tags": [
+    "Computer Science",
+    "Engineering",
+    "Robotics"
+  ],
+  "category": "Robotics",
+  "region": "Zhuhai, China",
+  "region_tier": "mainland_china",
+  "country": "China",
+  "city": "Zhuhai",
+  "format": "in_person",
+  "eligibility_text": "Secondary-school students; cohort requirements are published on the official page.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "languages": [
+    "Bilingual"
+  ],
+  "team_mode": "team",
+  "date_text": "Current session on official page",
+  "deadline_text": "Application status published on official page",
+  "deadline_date": null,
+  "current_cycle_status": "upcoming",
+  "cost_text": "Program fee published on official page",
+  "time_commitment": "high",
+  "difficulty_level": "Intermediate",
+  "recognition_level": "Regional program",
+  "description": "Zhuhai-based humanoid robotics innovation program and challenge for secondary students.",
+  "website_url": "https://ma.seedasdan.com/en/ubtech-en/",
+  "id": "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge",
+  "last_verified_at": "2026-07-11",
+  "confidence": "partially_verified",
+  "verification_note": "Official page snapshot retrieved 2026-07-11; verify time-sensitive details before applying.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-16+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-ubtech",
+      "raw_excerpt": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge - 阿思丹全球专业实践计划 ASDAN China About ASDAN China 中文 (中国) Home About Us About Us ASDAN CAREER Academic Design Model Domestic Programs > Official Academic Courses in HongKong 【Hong Kong】HKU Official Academic Courses: Medicine & Health Management 【HK】HongKong University Summer School – Artificial Intelligence & Technological Innovation 【Hong Kong, China】International Finance & Economics 【Hong Kong, China】Business Management & Marketing 【Hong Kong, China】Education & Social Science 【Hong Kong】HKU Official Academic Courses-Finance & Business Management 【Hong Kong, China】Mathematics 【Hong Kong, China】Energy Science & Engineering 【Hong Kong, China】Innovation in Multimodal LLMs & AI Agents Business & Finance 【Hong Kong, China】AER Capital Global Finance & Asset Management 【Shanghai/Shenzhen】AT Global Capital Investment & Quantitative Finance 【Shangh",
+      "extracted_at": "2026-07-11T09:20:16+00:00",
+      "source_id": "aseeder-ubtech",
+      "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "snapshot_path": "data/snapshots/aseeder-ubtech/2026-07-11T09-20-16+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:16+00:00",
+      "content_hash": "b9655bd17889b2c64707e5eb40259d9d42a4ff05768f182e3751032520b9140c",
+      "extraction_locator": "document"
+    },
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "UBTECH Humanoid Robotics Innovation Challenge",
+      "raw_excerpt": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://ma.seedasdan.com/en/ubtech-en/"
+    },
+    {
+      "source_file": "f07d7d4dc2e876df.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "UBTECH Humanoid Robotics Innovation Challenge",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz",
+      "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe"
+    },
+    {
+      "source_file": "f07d7d4dc2e876df.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz",
+      "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "partially_verified",
+  "evidence": [
+    {
+      "evidence_id": "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+      "url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "publisher": "aseeder-ubtech",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:16+00:00",
+      "source_id": "aseeder-ubtech",
+      "note": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge - 阿思丹全球专业实践计划 ASDAN China About ASDAN China 中文 (中国) Home About Us About Us ASDAN CAREER Academic Design Model Domestic Programs > Official Academic Courses in HongKong 【Hong Kong】HKU Off"
+    },
+    {
+      "evidence_id": "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+      "url": "https://www.seedasdan.com/en/",
+      "publisher": "aseeder-catalog",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "note": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge"
+    },
+    {
+      "evidence_id": "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+      "url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4",
+      "url": "https://ma.seedasdan.com/en/ubtech-en/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "city": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e1",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e2",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e3",
+        "program-aseeder-ubtech-ubtech-humanoid-robotics-innovation-challenge-e4"
+      ]
+    }
+  }
+}

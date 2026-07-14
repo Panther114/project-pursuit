@@ -5,9 +5,9 @@ coverage/
 *.log
 __pycache__/
 .pytest_cache/
-data/raw/
 data/reports/
 .playwright-mcp/
+.playwright-cli/
 .DS_Store
 Thumbs.db
 .env

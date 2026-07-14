@@ -1,0 +1,288 @@
+{
+  "id": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities",
+  "canonical_name": "Hong Kong Young Writers Awards",
+  "name_zh": "香港青年作家奖",
+  "name_en": "Hong Kong Young Writers Awards",
+  "type": "competition",
+  "subject_tags": [
+    "Writing",
+    "Literature"
+  ],
+  "category": "Writing Competition",
+  "region": "SHSID / International",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://www.hkywa.com/",
+  "registration_contact": "",
+  "instructor_contact": "庄臻敏",
+  "preparation": "Past papers",
+  "description": "Annual writing and visual-art awards for students in Hong Kong and the region, organized around a China-related theme.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 1",
+      "row_or_text_ref": "Hong Kong Young Writer's Awards",
+      "raw_excerpt": "oard system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registrat website/Contact /Contact y ion l n Hong Kong Online Online 香港青年作家奖 Young Writer's Oct.-Jan. Submissio Submissio Writing O Jan. https://www.hkywa.co 沈晨荔 Creative m Writing Awards n n e S.-T.Yau High s School Online 丘成桐中学科学 ScUientific http://yau- 科技指导团 Research Scientific May.-Jul. 3 months submissio Jul.31 奖（各科）申报 research awards.com/ 队/校内导师 essay Awards n l Registration a n Canadian Past papers 加拿大化学奥林 Onrline “阿思丹国际理科 Chemistry May.-Aug. 2hr e Chemistry Aug.23 赵涛 and club 匹克 submision 测评”小程序 Olympiad activities t n I 上海市青少年“ Online Aug.- Online Scientific Sept.30 Research 双碳”方案提案 r submissio 张非凡 张非凡 Sept. osubmision research (appr.) essay 大赛 n F Online 鲁迅青少年文学 Luxun Young Jun.- http://www.luxun 3 months submissio Writing Sept.20 庄臻敏 Essay 奖 Award Sept. young.com n ht",
+      "extracted_at": "2026-07-09T04:46:51+00:00"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Hong Kong Young Writer's Awards",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.hkywa.co",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities",
+      "raw_excerpt": "Hong Kong Young Writers Awards",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "partially_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1",
+      "url": null,
+      "publisher": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:51+00:00",
+      "source_id": null,
+      "note": "oard system and class wechat. Deadline for Registration Instructor 中文名 Name Date Time Site Subject Preparation registrat website/Contact /Contact y ion l n Hong Kong Online Online 香港青年作家奖 Young Writer's Oct.-Jan. Submissio Submissio Writing"
+    },
+    {
+      "evidence_id": "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1",
+      "url": "https://www.hkywa.com/",
+      "publisher": "Hong Kong Young Writers Awards",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Annual writing and visual-art awards for students in Hong Kong and the region, organized around a China-related theme. Eligibility: Students submit in age divisions through eligible Hong Kong or regional schools under annual rules. Format: One original writing or visual-art submission responding to the annual theme."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "name_zh": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "preparation": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "Hong Kong Young Writers Awards",
+  "region_tier": "greater_china",
+  "country": "Hong Kong",
+  "city": null,
+  "eligibility_text": "Students submit in age divisions through eligible Hong Kong or regional schools under annual rules.",
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English",
+    "Chinese"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "One original writing or visual-art submission responding to the annual theme.",
+  "awards_and_recognition": "Category awards and publication or exhibition of selected work.",
+  "china_participation_route": "Participating schools in Hong Kong and the region submit through the official HKKYWA portal.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

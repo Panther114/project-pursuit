@@ -137,7 +137,7 @@ export function DreamsPage({ header }: { header: ReactNode }) {
                 <textarea value={profile.notes} onChange={(event) => updateProfile("notes", event.target.value)} placeholder="Deadlines to watch, coaches to ask, ideas for later…" />
               </label>
               <p className="dreams-profile__note">
-                This profile is purely visual for now. It will not filter programs, alter fit scores, or leave this browser.
+                This profile is purely visual for now. It will not filter or alter catalog results, or leave this browser.
               </p>
             </form>
           </section>

@@ -1,0 +1,10 @@
+{
+  "original_url": "https://summerprograms.usc.edu/",
+  "final_url": "https://precollege.usc.edu/summer-programs/",
+  "retrieved_at": "2026-07-11T12:28:24+00:00",
+  "content_hash": "964900482fa6b26c35ab4a8d499c6c893c3b57ee0cc17a464df5faea03db48da",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/precollege.usc.edu/964900482fa6b26c.html.gz"
+}

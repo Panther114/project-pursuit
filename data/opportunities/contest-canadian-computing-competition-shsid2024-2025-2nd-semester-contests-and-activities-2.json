@@ -1,0 +1,306 @@
+{
+  "id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
+  "canonical_name": "Canadian Computing Competition",
+  "name_zh": "加拿大计算机竞赛",
+  "name_en": "Canadian Computing Competition",
+  "type": "competition",
+  "subject_tags": [
+    "Computer Science",
+    "Programming"
+  ],
+  "category": "Programming Contest",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://cemc.uwaterloo.ca/contests/ccc",
+  "registration_contact": "",
+  "instructor_contact": "赵涛",
+  "preparation": "Research Essay",
+  "description": "Three-hour school-proctored programming contest offered in Junior and Senior divisions.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 1",
+      "row_or_text_ref": "Canadian Computing Competition",
+      "raw_excerpt": " Contact Science Contact GENIUS Olympiad Feb. Online Feb.15 廖辉、陈琳 Research Essay 林匹克竞赛 instructor research instructor Club Canadian Computing Contact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition instructor science oo.ca/contests/ccc Q&A Past papers Brainbee（China Contact Contact 脑科学大赛全国赛 Feb.22 Online Biology Closed 檀沐 and club Round） instructor instructor activities http://scla 宋庆龄少年儿童发 宋庆龄少年儿童发明 Feb.- Science Late Feb. http://sclaci.sclc20 Online ci.sclc2017 陈琳 Research Essay 明奖 奖 Mar. research (appr.) 17.org/ .org/ American AIME美国高中数学 Invitational Contact 洪洋、赵伟 Club Feb. 3 hours Math After AMC AMC wechat group 邀请赛 Mathematics instructor 霞 activities Examination (AIME) US National Past papers Chemistry Contact Contact 美国国家化学竞赛 Mar.16 110 mins Chemistry Jan.19 赵涛 and club Competition instructor instructor activities (USNCO) The International 国",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Canadian Computing Competition",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://cemc.uwaterl",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Canadian Computing Competition",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/Canadian_Computing_Competition",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "raw_excerpt": "Canadian Computing Competition",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "partially_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": " Contact Science Contact GENIUS Olympiad Feb. Online Feb.15 廖辉、陈琳 Research Essay 林匹克竞赛 instructor research instructor Club Canadian Computing Contact Computer https://cemc.uwaterl 加拿大计算机竞赛 Feb. Online Feb.15 何天舟 activities and Competition i"
+    },
+    {
+      "evidence_id": "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1",
+      "url": "https://cemc.uwaterloo.ca/contests/ccc",
+      "publisher": "Centre for Education in Mathematics and Computing, University of Waterloo",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Three-hour school-proctored programming contest offered in Junior and Senior divisions. Eligibility: School students enter the Junior or Senior division through an approved contest location; international schools may participate under CEMC rules. Format: One 3-hour programming contest."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "Centre for Education in Mathematics and Computing, University of Waterloo",
+  "region_tier": "international_only",
+  "country": "Canada",
+  "city": null,
+  "eligibility_text": "School students enter the Junior or Senior division through an approved contest location; international schools may participate under CEMC rules.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "One 3-hour programming contest.",
+  "awards_and_recognition": "Certificates, rankings, and invitation to the Canadian Computing Olympiad for eligible top Canadian Senior contestants.",
+  "china_participation_route": "Schools in China may register directly with CEMC as international schools when current CEMC registration rules permit.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

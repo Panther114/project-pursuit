@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.usaco.org/",
+  "final_url": "https://usaco.org/",
+  "retrieved_at": "2026-07-11T12:27:02+00:00",
+  "content_hash": "060891ac8bc62c2ad668af04e23a98afb650a6b592aabcfd2f495fe546e8c599",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/usaco.org/060891ac8bc62c2a.html.gz"
+}

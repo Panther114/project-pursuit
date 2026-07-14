@@ -1,0 +1,312 @@
+{
+  "id": "listing-contest-aapt-photo-contest",
+  "canonical_name": "AAPT Photo Contest",
+  "name_en": "AAPT Photo Contest",
+  "type": "competition",
+  "subject_tags": [
+    "Physics",
+    "Photography"
+  ],
+  "category": "Photo Contest",
+  "organizer": "American Association of Physics Teachers",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "format": "online",
+  "date_text": "Teacher registration closed 15 May 2026; student uploads closed 29 May 2026.",
+  "deadline_text": "2026-05-15",
+  "deadline_date": "2026-05-15",
+  "current_cycle_status": "closed",
+  "eligibility_text": "High-school students submit through a teacher; entry limits and school procedures apply.",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "cost_text": "USD 5 per photo for AAPT members; USD 10 per photo for non-members",
+  "time_commitment": "One physics photograph plus a written explanation; school submission cycle.",
+  "description": "High-school students submit an original photograph illustrating a physics phenomenon with an accompanying explanation.",
+  "website_url": "https://www.aapt.org/Programs/PhotoContest/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "official_verified",
+  "verification_note": "China registration is handled by ASEEDER as a regional operator; AAPT remains the global organizer.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "AAPT Photo Contest",
+      "raw_excerpt": "AAPT Photo Contest",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://www.seedasdan.com/en/aaptphoto-en/"
+    },
+    {
+      "source_file": "d30ce5cf7fa50e53.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "AAPT Photo Contest",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:31+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/aaptphoto-en/",
+      "retrieved_at": "2026-07-11T15:19:31+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/d30ce5cf7fa50e53.html.gz",
+      "content_hash": "d30ce5cf7fa50e53fb16a0ef215679e67c8c42c6461753d0f332bb8650365daa"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "listing-contest-aapt-photo-contest",
+      "raw_excerpt": "China registration is handled by ASEEDER as a regional operator; AAPT remains the global organizer.",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=listing-contest-aapt-photo-contest]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "listing-contest-aapt-photo-contest-e1",
+      "url": "https://www.seedasdan.com/en/",
+      "publisher": "aseeder-catalog",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "note": "AAPT Photo Contest"
+    },
+    {
+      "evidence_id": "listing-contest-aapt-photo-contest-e2",
+      "url": "https://www.seedasdan.com/en/aaptphoto-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:31+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "research-listing-contest-aapt-photo-contest-1",
+      "url": "https://www.aapt.org/Programs/PhotoContest/",
+      "publisher": "American Association of Physics Teachers",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: High-school students submit an original photograph illustrating a physics phenomenon with an accompanying explanation. Eligibility: High-school students submit through a teacher; entry limits and school procedures apply. Format: One physics photograph plus a written explanation; school submission cycle."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "listing-contest-aapt-photo-contest-e1",
+        "listing-contest-aapt-photo-contest-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-listing-contest-aapt-photo-contest-1"
+      ]
+    }
+  },
+  "country": "United States",
+  "city": null,
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "start_date": null,
+  "end_date": "2026-05-29",
+  "cost_amount": null,
+  "cost_currency": "USD",
+  "awards_and_recognition": "AAPT judging and category recognition; participation certificates may be available through regional delivery.",
+  "china_participation_route": "Students in mainland China register through the official ASEEDER China delivery channel.",
+  "review_conflicts": [
+    "The supplied organizer ASEEDER is a China operator, not the global organizer."
+  ],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.start_date",
+    "cost.amount"
+  ]
+}

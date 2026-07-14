@@ -1,0 +1,219 @@
+{
+  "id": "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents",
+  "canonical_name": "Hong Kong University Summer School: Innovation in Multimodal LLMs & AI Agents",
+  "name_zh": "",
+  "name_en": "Hong Kong University Summer School: Innovation in Multimodal LLMs & AI Agents",
+  "type": "summer_program",
+  "subject_tags": [
+    "Computer Science",
+    "Scientific research"
+  ],
+  "category": "",
+  "organizer": "",
+  "region": "",
+  "region_tier": null,
+  "country": "",
+  "city": "",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "eligible_grades": null,
+  "eligible_ages": null,
+  "languages": null,
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "",
+  "website_url": "https://www.seedasdan.com/en/home-en/",
+  "confidence": "partially_verified",
+  "last_verified_at": null,
+  "publication_status": "partially_verified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "programs.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Hong Kong University Summer School: Innovation in Multimodal LLMs & AI Agents",
+      "raw_excerpt": "Official organizer page or official catalog reference.",
+      "extracted_at": "2026-07-11T15:16:38+00:00",
+      "source_id": "mass-programs-1",
+      "original_url": "https://www.seedasdan.com/en/home-en/",
+      "retrieved_at": "2026-07-11T15:16:38+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1",
+      "url": "https://www.seedasdan.com/en/home-en/",
+      "publisher": "mass-programs-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:16:38+00:00",
+      "source_id": "mass-programs-1",
+      "note": "Official organizer page or official catalog reference."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "category": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "region": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-program-hong-kong-university-summer-school-innovation-in-multimodal-llms-ai-agents-e1"
+      ]
+    }
+  }
+}

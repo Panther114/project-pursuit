@@ -1,0 +1,12 @@
+{
+  "source_id": "aseeder-shakespeare",
+  "original_url": "https://www.seedasdan.com/en/shakespeare-en/",
+  "final_url": "https://www.seedasdan.com/en/shakespeare-en/",
+  "parent_listing_url": "https://www.seedasdan.com/en/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "retrieved_at": "2026-07-11T09:16:41+00:00",
+  "content_hash": "bb2f5870ffd37bbee9880be7457030e1fd71fae8c316b08a785cc3788899278c",
+  "parser_version": "official-page-v1",
+  "snapshot_path": "data/snapshots/aseeder-shakespeare/2026-07-11T09-16-41+00-00.html.gz"
+}

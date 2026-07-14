@@ -8,13 +8,14 @@ import {
 import { lazy, Suspense, useEffect, useRef, useState, type ReactNode } from "react";
 import { pathForRoute, routeFromPathname, type AppRoute } from "./catalog";
 import { HeroOrbitsCanvas } from "./hero-orbits-canvas";
+import catalogMetadata from "./data/catalog-metadata.generated.json";
 
 const CatalogPage = lazy(() => import("./CatalogPage").then((module) => ({ default: module.CatalogPage })));
 const DreamsPage = lazy(() => import("./DreamsPage").then((module) => ({ default: module.DreamsPage })));
 
 const themeStorageKey = "project-pursuit-theme";
-/** Landing stats — kept static so the home route does not parse the full catalog JSON. */
-const counts = { competitions: 14, programs: 39 };
+/** Small generated summary keeps the full catalog out of the home-route bundle. */
+const counts = catalogMetadata;
 
 type Theme = "light" | "dark";
 
@@ -150,7 +151,7 @@ function LandingPage({ header, navigate }: { header: ReactNode; navigate: (route
             <h1 className="landing-reveal landing-reveal--2">Find your dream worth pursuing.</h1>
             <p className="lander__lede landing-reveal landing-reveal--3">
               A source-backed menu for high-school students comparing academic competitions and selective programs.
-              Explore competitions and programs, compare their features, and find the best fit for your academic journey.
+              Explore competitions and programs, compare factual details, and follow every record back to its sources.
             </p>
             <div className="lander__actions landing-reveal landing-reveal--4">
               <button className="action action--light" type="button" onClick={() => navigate("competitions")}>
@@ -166,7 +167,7 @@ function LandingPage({ header, navigate }: { header: ReactNode; navigate: (route
             <dl>
               <div><dt>{counts.competitions}</dt><dd>Competitions</dd></div>
               <div><dt>{counts.programs}</dt><dd>Programs</dd></div>
-              <div><dt>14/14</dt><dd>Organizer links reviewed</dd></div>
+              <div><dt>{counts.official_web_records}</dt><dd>Official web snapshots</dd></div>
             </dl>
           </div>
         </div>

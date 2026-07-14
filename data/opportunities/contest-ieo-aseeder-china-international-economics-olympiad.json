@@ -1,0 +1,347 @@
+{
+  "canonical_name": "International Economics Olympiad",
+  "organizer": "International Economics Olympiad / ASEEDER China",
+  "type": "competition",
+  "subject_tags": [
+    "Economics",
+    "Finance",
+    "Business"
+  ],
+  "category": "Olympiad",
+  "region": "China participation route",
+  "region_tier": "china_participation_route",
+  "country": null,
+  "format": "hybrid",
+  "eligibility_text": "Teams of up to five students represent countries after national selection.",
+  "eligible_grades": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "date_text": "The 2026 international event was announced for Shenzhen with hybrid participation; exact reviewed dates were not verified.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "current_cycle_status": "closed",
+  "cost_text": "",
+  "time_commitment": "Economics examination, financial-literacy game, and team business-case presentation over a multi-day olympiad.",
+  "difficulty_level": "Advanced",
+  "recognition_level": "International olympiad",
+  "description": "International olympiad for national teams featuring economics, financial-literacy, and business-case components.",
+  "website_url": "https://ieo-official.org/",
+  "id": "contest-ieo-aseeder-china-international-economics-olympiad",
+  "last_verified_at": "2026-07-12",
+  "confidence": "verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "2026-07-11T09-20-07+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official detail page",
+      "row_or_text_ref": "aseeder-ieo",
+      "raw_excerpt": "International Economics Olympiad - International Economics Olympiad ASDAN China 中文 (中国) International Economics Olympiad Exam Entrance Register Now Scan to register ● If your schools are located in China, please scan the registration QR Code below: ● If not, please contact us via: siwei.wang@seedasdan.org upload answer About IEO Network Testimonials Advisors Academic Board Highlights Development & Divisions Academic Modules Reading Recommendations St Catharine’s College Photo Gallery International Economics Olympiad - Under the Auspices of the International Olympic Academy - IOA Under the auspices of International Olympiad Academy 0 Countries and regions, 51.32% of global GDP 0 Over 500,000 students have participated Rapidly growing global influence Nobel Prize Emeritus Chairman VERNON L. SMITH Nobel Laureate in Economic Sciences Olympic Heritage The Global Final began in Ancient Olympia",
+      "extracted_at": "2026-07-11T09:20:07+00:00",
+      "source_id": "aseeder-ieo",
+      "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "snapshot_path": "data/snapshots/aseeder-ieo/2026-07-11T09-20-07+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:07+00:00",
+      "content_hash": "064fb4f335fed2fbfc1059eddb9a79f55a2df823ad0f166396c71b0e92d61045",
+      "extraction_locator": "document"
+    },
+    {
+      "source_file": "2026-07-11T09-20-01+00-00.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official listing page",
+      "row_or_text_ref": "IEO International Economics Olympiad",
+      "raw_excerpt": "IEO International Economics Olympiad",
+      "extracted_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "original_url": "https://www.seedasdan.com/en/",
+      "snapshot_path": "data/snapshots/aseeder-catalog/2026-07-11T09-20-01+00-00.html.gz",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "content_hash": "fbb8e89a7e75be66a1ef33e6f6c14a7eaf02e0a717beecddc7e27f874868c0e5",
+      "extraction_locator": "https://ieo.seedasdan.com/en/international-economics-olympiad/"
+    },
+    {
+      "source_file": "0ad78019a2871eb3.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "International Economics Olympiad",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/0ad78019a2871eb3.html.gz",
+      "content_hash": "0ad78019a2871eb3d3c9d151ae008d21d04301337e6a33ba407583494037d21a"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-ieo-aseeder-china-international-economics-olympiad",
+      "raw_excerpt": "International Economics Olympiad",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-ieo-aseeder-china-international-economics-olympiad]"
+    }
+  ],
+  "name_en": "International Economics Olympiad",
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+      "url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "publisher": "aseeder-ieo",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:07+00:00",
+      "source_id": "aseeder-ieo",
+      "note": "International Economics Olympiad - International Economics Olympiad ASDAN China 中文 (中国) International Economics Olympiad Exam Entrance Register Now Scan to register ● If your schools are located in China, please scan the registration QR Cod"
+    },
+    {
+      "evidence_id": "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+      "url": "https://www.seedasdan.com/en/",
+      "publisher": "aseeder-catalog",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T09:20:01+00:00",
+      "source_id": "aseeder-catalog",
+      "note": "IEO International Economics Olympiad"
+    },
+    {
+      "evidence_id": "contest-ieo-aseeder-china-international-economics-olympiad-e3",
+      "url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "research-contest-ieo-aseeder-china-international-economics-olympiad-1",
+      "url": "https://ieo-official.org/",
+      "publisher": "International Economics Olympiad",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International olympiad for national teams featuring economics, financial-literacy, and business-case components. Eligibility: Teams of up to five students represent countries after national selection. Format: Economics examination, financial-literacy game, and team business-case presentation over a multi-day olympiad."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e2",
+        "contest-ieo-aseeder-china-international-economics-olympiad-e3"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    }
+  },
+  "city": null,
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "start_date": null,
+  "end_date": null,
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Individual and team medals in economics, finance, and business case, plus overall team standings.",
+  "china_participation_route": "Mainland-China students qualify through the authorized ASEEDER China IEO selection process.",
+  "review_conflicts": [
+    "ASEEDER is a China selection operator; the International Economics Olympiad is the global organizer."
+  ],
+  "review_missing_fields": [
+    "country",
+    "city",
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

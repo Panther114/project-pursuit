@@ -1,0 +1,717 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "contest-hippo-aseeder-china-2026-hippo-english-olympiad",
+      "canonical_name": "2026 Hippo English Olympiad",
+      "publication_recommendation": "official_verified",
+      "factual_fields": {
+        "organizer": "HIPPO / ASEEDER China",
+        "website_url": "https://www.seedasdan.com/en/hippo-en/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "in_person",
+        "eligibility_text": "Students aged 6-19 enter age-based divisions through the China route.",
+        "deadline_date": "2026-03-09",
+        "current_cycle_status": "closed"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.seedasdan.com/en/hippo-en/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:31+00:00",
+            "note": "Official page title and competition name."
+          }
+        ],
+        "organizer": [
+          {
+            "url": "https://www.seedasdan.com/en/hippo-en/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:31+00:00",
+            "note": "ASEEDER China hosts the China participation route."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.seedasdan.com/en/hippo-en/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:31+00:00",
+            "note": "Official competition page exists."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "American Mathematics Competition",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "美国数学竞赛",
+        "website_url": "https://www.maa.org/math-competitions/american-mathematics-competitions",
+        "region": "SHSID / International",
+        "format": "hybrid",
+        "date_text": "Sep.",
+        "deadline_text": "Aug."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.maa.org/math-competitions/american-mathematics-competitions",
+            "publisher": "Mathematical Association of America",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official AMC competition page."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names American Mathematics Competition."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.maa.org/math-competitions/american-mathematics-competitions",
+            "publisher": "Mathematical Association of America",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official AMC page."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "Annual DNA Day Essay Contest",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "DNA论文竞赛",
+        "website_url": "https://www.ashg.org/dna-day/",
+        "format": "online",
+        "date_text": "Sept. 30",
+        "deadline_text": "Mar. 1",
+        "preparation": "Essay"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.ashg.org/dna-day/",
+            "publisher": "American Society of Human Genetics",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official DNA Day essay contest page."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.ashg.org/dna-day/",
+            "publisher": "American Society of Human Genetics",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official contest page."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Brainbee China Round",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "脑科学大赛全国赛",
+        "website_url": "https://thebrainbee.org/",
+        "region": "SHSID / International",
+        "format": "online",
+        "date_text": "Feb. Online",
+        "deadline_text": "all",
+        "preparation": "Research Essay"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://thebrainbee.org/",
+            "publisher": "The Brain Bee",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official Brain Bee site shows the competition identity."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the China round."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-british-psychology-olympiad-aseeder-china-british-psychology-olympiad",
+      "canonical_name": "British Psychology Olympiad",
+      "publication_recommendation": "official_verified",
+      "factual_fields": {
+        "organizer": "British Psychology Olympiad / ASEEDER China",
+        "website_url": "https://www.seedasdan.com/en/bpo1-en/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "in_person",
+        "languages": [
+          "English"
+        ]
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.seedasdan.com/en/bpo1-en/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:33+00:00",
+            "note": "Official page title names the competition."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.seedasdan.com/en/bpo1-en/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:33+00:00",
+            "note": "Official detail page exists."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Canadian Computing Competition",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "加拿大计算机竞赛",
+        "website_url": "https://cemc.uwaterloo.ca/contests/ccc.html",
+        "region": "SHSID / International",
+        "format": "online",
+        "date_text": "Feb. Online",
+        "deadline_text": "Feb. 15",
+        "preparation": "Past papers"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://cemc.uwaterloo.ca/contests/ccc.html",
+            "publisher": "University of Waterloo CEMC",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official CCC page."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "Canadian Senior and Intermediate Mathematics Contests",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "加拿大数学竞赛",
+        "website_url": "https://cemc.uwaterloo.ca/contests/csmc.html",
+        "region": "SHSID / International",
+        "format": "hybrid",
+        "date_text": "Nov. / November",
+        "deadline_text": "Sep.",
+        "preparation": "Club activities"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://cemc.uwaterloo.ca/contests/csmc.html",
+            "publisher": "University of Waterloo CEMC",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official CSMC page."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Chinese Earth Science Olympiad",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "地球科学奥赛预赛",
+        "website_url": "https://sh.inventionconvention.cn/web/index.html",
+        "region": "SHSID / International",
+        "format": "on-site",
+        "date_text": "Mar. 3",
+        "deadline_text": "Apr."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://sh.inventionconvention.cn/web/index.html",
+            "publisher": "Invention Convention China",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official page in the SHSID source path for the Earth Science Olympiad listing."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "CSP, NOIP",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "CSP, NOIP全国青少年信息学奥林匹克联赛",
+        "website_url": "https://www.noi.cn/",
+        "region": "SHSID / International",
+        "format": "hybrid",
+        "date_text": "Sep.-Nov.",
+        "deadline_text": "Sep."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.noi.cn/",
+            "publisher": "Chinese Association for Artificial Intelligence / NOI",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official NOI site."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names CSP and NOIP."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-english-speaking-union-aseeder-china-esu-performing-shakespeare-competition",
+      "canonical_name": "ESU Performing Shakespeare Competition",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "organizer": "English-Speaking Union / ASEEDER China",
+        "website_url": "https://www.esu.org/competitions/performing-shakespeare/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "in_person",
+        "languages": [
+          "English"
+        ]
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.esu.org/competitions/performing-shakespeare/",
+            "publisher": "English-Speaking Union",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official ESU competition page."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names the competition."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition",
+      "canonical_name": "ESU Youth Public Speaking Competition",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "organizer": "English-Speaking Union / ASEEDER China",
+        "website_url": "https://www.esu.org/competitions/youth-public-speaking/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "in_person",
+        "languages": [
+          "English"
+        ]
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.esu.org/competitions/youth-public-speaking/",
+            "publisher": "English-Speaking Union",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official ESU competition page."
+          },
+          {
+            "url": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:51+00:00",
+            "note": "SHSID list names the competition."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Exporecerca Jove",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "website_url": "https://www.exporecercajove.cat/",
+        "region": "SHSID / International",
+        "format": "online",
+        "date_text": "Jan.-Apr.",
+        "deadline_text": "Apr."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.exporecercajove.cat/",
+            "publisher": "Exporecerca Jove",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official competition site."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "GENIUS Olympiad",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "website_url": "https://geniusolympiad.org/",
+        "region": "SHSID / International",
+        "format": "online",
+        "date_text": "Feb. Online",
+        "deadline_text": "After AMC",
+        "preparation": "Research Essay"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://geniusolympiad.org/",
+            "publisher": "GENIUS Olympiad",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official competition site."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities",
+      "canonical_name": "Hong Kong Young Writer's Awards",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "香港青年作家奖",
+        "website_url": "https://www.hkywa.co",
+        "region": "SHSID / International",
+        "format": "online",
+        "date_text": "Oct.-Jan.",
+        "deadline_text": "Sept.",
+        "preparation": "Past papers"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.hkywa.co",
+            "publisher": "Hong Kong Young Writer's Awards",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official competition domain appears in SHSID source."
+          },
+          {
+            "url": "SHSID2025-2026 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:51+00:00",
+            "note": "SHSID list names the award."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-ieo-aseeder-china-international-economics-olympiad",
+      "canonical_name": "International Economics Olympiad",
+      "publication_recommendation": "official_verified",
+      "factual_fields": {
+        "organizer": "IEO / ASEEDER China",
+        "website_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "hybrid",
+        "languages": [
+          "English"
+        ],
+        "current_cycle_status": "upcoming"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:20:07+00:00",
+            "note": "Official page title and competition identity."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:20:07+00:00",
+            "note": "Official competition page exists."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "International Linguistics Olympiad",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "语言学奥赛初赛",
+        "website_url": "https://ioling.org/",
+        "region": "SHSID / International",
+        "format": "hybrid",
+        "date_text": "Mar. 3",
+        "deadline_text": "Apr."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://ioling.org/",
+            "publisher": "International Linguistics Olympiad",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official IOL site."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "Physics Bowl",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "物理杯美国高中生物理思维挑战",
+        "website_url": "https://www.aapt.org/programs/physicsbowl/",
+        "region": "SHSID / International",
+        "format": "online",
+        "deadline_text": "Mar.",
+        "preparation": "Research Essay"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.aapt.org/programs/physicsbowl/",
+            "publisher": "American Association of Physics Teachers",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official Physics Bowl page."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "canonical_name": "US National Chemistry Competition (USNCO)",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "美国国家化学竞赛",
+        "website_url": "https://www.acs.org/education/whatischemistry/awards/usnco.html",
+        "region": "SHSID / International",
+        "format": "in_person",
+        "date_text": "Feb. 3",
+        "deadline_text": "Mar."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.acs.org/education/whatischemistry/awards/usnco.html",
+            "publisher": "American Chemical Society",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official USNCO page."
+          },
+          {
+            "url": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:57+00:00",
+            "note": "SHSID list names the contest."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
+      "canonical_name": "USACO",
+      "publication_recommendation": "corroborated",
+      "factual_fields": {
+        "name_zh": "USACO美国计算机奥赛",
+        "website_url": "https://www.usaco.org/",
+        "region": "SHSID / International",
+        "format": "hybrid",
+        "date_text": "Sep.-Nov.",
+        "deadline_text": "novation"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.usaco.org/",
+            "publisher": "USACO",
+            "authority": "official",
+            "retrieved_at": "2026-07-11",
+            "note": "Official USACO site."
+          },
+          {
+            "url": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+            "publisher": "Shanghai Singapore International School",
+            "authority": "school",
+            "retrieved_at": "2026-07-09T04:46:54+00:00",
+            "note": "SHSID list names USACO."
+          }
+        ]
+      }
+    },
+    {
+      "id": "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition",
+      "canonical_name": "YIS Global Stock Pitch Competition",
+      "publication_recommendation": "official_verified",
+      "factual_fields": {
+        "organizer": "Young Investors Society / ASEEDER China",
+        "website_url": "https://www.seedasdan.com/en/yis-eng/",
+        "country": "China",
+        "region_tier": "china_participation_route",
+        "format": "hybrid",
+        "languages": [
+          "English"
+        ],
+        "current_cycle_status": "upcoming"
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.seedasdan.com/en/yis-eng/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:37+00:00",
+            "note": "Official page title and competition identity."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.seedasdan.com/en/yis-eng/",
+            "publisher": "ASEEDER",
+            "authority": "official",
+            "retrieved_at": "2026-07-11T09:16:37+00:00",
+            "note": "Official competition page exists."
+          }
+        ]
+      }
+    }
+  ]
+}

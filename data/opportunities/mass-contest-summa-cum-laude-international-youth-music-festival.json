@@ -1,0 +1,279 @@
+{
+  "id": "mass-contest-summa-cum-laude-international-youth-music-festival",
+  "canonical_name": "Summa Cum Laude International Youth Music Festival",
+  "name_zh": "",
+  "name_en": "Summa Cum Laude International Youth Music Festival",
+  "type": "competition",
+  "subject_tags": [
+    "Music"
+  ],
+  "category": "Music Festival and Competition",
+  "organizer": "VIA MUSICA",
+  "region": "Mainland China / International",
+  "region_tier": "international_only",
+  "country": "Austria",
+  "city": "Vienna",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Youth choirs, orchestras, and bands participate as ensembles in the competitive or celebration program.",
+  "eligible_grades": [],
+  "eligible_ages": [],
+  "languages": [
+    "English",
+    "German"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "Multi-day Vienna festival with concerts, adjudication, workshops, and cultural activities.",
+  "description": "International youth festival in Vienna for choirs, bands, and orchestras, with competitive and noncompetitive participation options.",
+  "website_url": "https://www.sclfestival.org/",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "official_verified",
+  "verification_note": "Imported from the structured competition research review.",
+  "sources": [
+    {
+      "source_file": "a56eecd587f1adb1.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Summa Cum Laude International Youth Music Festival",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:19:33+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/scl-en/",
+      "retrieved_at": "2026-07-11T15:19:33+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/a56eecd587f1adb1.html.gz",
+      "content_hash": "a56eecd587f1adb15a405cd6be4fb122d1fbb0d92e135e30137bf43ed8a49dd3"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-summa-cum-laude-international-youth-music-festival",
+      "raw_excerpt": "Summa Cum Laude International Youth Music Festival",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-summa-cum-laude-international-youth-music-festival]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-summa-cum-laude-international-youth-music-festival-e1",
+      "url": "https://www.seedasdan.com/en/scl-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T15:19:33+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "research-mass-contest-summa-cum-laude-international-youth-music-festival-1",
+      "url": "https://www.sclfestival.org/",
+      "publisher": "VIA MUSICA",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: International youth festival in Vienna for choirs, bands, and orchestras, with competitive and noncompetitive participation options. Eligibility: Youth choirs, orchestras, and bands participate as ensembles in the competitive or celebration program. Format: Multi-day Vienna festival with concerts, adjudication, workshops, and cultural activities."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "country": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Competition rankings and Summa Cum Laude awards for ensembles.",
+  "china_participation_route": "Ensembles from China may apply directly through the festival’s international registration process.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "eligible_grades",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

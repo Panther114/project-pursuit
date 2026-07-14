@@ -1,0 +1,1878 @@
+{
+  "schema_version": "1.0",
+  "records": [
+    {
+      "id": "summer-notre-dame-leadership-seminars",
+      "canonical_name": "Notre Dame Leadership Seminars",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Notre Dame Leadership Seminars",
+        "name_en": "Notre Dame Leadership Seminars",
+        "category": "Social Science",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July , 2024",
+        "deadline_text": "January, 2024",
+        "website_url": "https://precollege.nd.edu/leadership-seminars/",
+        "description": "Leadership Seminars is a competitive, 10-day program on Notre Dame's campus for academically talented students who show impressive leadership within their communities."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://precollege.nd.edu/leadership-seminars/",
+            "publisher": "University of Notre Dame",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-nyu-pre-college-program",
+      "canonical_name": "NYU Pre-College Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "NYU Pre-College Program",
+        "name_en": "NYU Pre-College Program",
+        "category": "Multiple",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July - August,2024",
+        "deadline_text": "April ,2024",
+        "website_url": "https://www.nyu.edu/admissions/high-school-programs/precollege.html",
+        "description": "NYU Precollege offers highschoolers the opportunity to experience life as an NYU student, earn college credits toward a future degree, and immerse themselves in the dynamic, global community that is New York University."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.nyu.edu/admissions/high-school-and-middle-school-programs.html",
+            "publisher": "New York University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live NYU high school and middle school programs page confirms current institutional listing."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-oxford-ppe-online-program",
+      "canonical_name": "Oxford PPE Online Program",
+      "publication_recommendation": "hold",
+      "factual_fields": {
+        "canonical_name": "Oxford PPE Online Program",
+        "name_en": "Oxford PPE Online Program",
+        "category": "Social Science",
+        "region": "UK",
+        "format": "online",
+        "date_text": null,
+        "deadline_text": null,
+        "website_url": "https://www.seedasdan.org/en/university-of-oxford/",
+        "description": null
+      },
+      "missing_fields": [
+        "date_text",
+        "deadline_text",
+        "description"
+      ],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.seedasdan.org/en/university-of-oxford/",
+            "publisher": "ASEEDER",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Legacy URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-program-in-mathematics-for-young-scientists-promys",
+      "canonical_name": "Program in Mathematics for Young Scientists (PROMYS)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Program in Mathematics for Young Scientists (PROMYS)",
+        "name_en": "Program in Mathematics for Young Scientists (PROMYS)",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July -August,2024",
+        "deadline_text": "March,2024",
+        "website_url": "https://promys.org/",
+        "description": "PROMYS is a 6-week summer program in mathematics for strongly motivated high school students from across the U.S. and around the world."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://promys.org/",
+            "publisher": "PROMYS",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-rhode-island-school-of-design-pre-collegiate-programs",
+      "canonical_name": "Rhode Island School of Design Pre-Collegiate Programs",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Rhode Island School of Design Pre-Collegiate Programs",
+        "name_en": "Rhode Island School of Design Pre-Collegiate Programs",
+        "category": "Arts",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July - August,2024",
+        "deadline_text": "TBA",
+        "website_url": "https://precollege.risd.edu/",
+        "description": "RISD Pre-College offers rising high school juniors and seniors the chance to experience life as a RISD undergrad. For six weeks you’ll follow a college-level curriculum with day-long studio classes, critiques and final projects."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://precollege.risd.edu/",
+            "publisher": "Rhode Island School of Design",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-ross-mathematics-program",
+      "canonical_name": "Ross Mathematics Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Ross Mathematics Program",
+        "name_en": "Ross Mathematics Program",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June- July , 2024",
+        "deadline_text": "March,2024",
+        "website_url": "https://rossprogram.org/",
+        "description": "The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://rossprogram.org/",
+            "publisher": "Ross Mathematics Program",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live program homepage confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-stanford-summer-humanities-institute",
+      "canonical_name": "Stanford Summer Humanities Institute",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Stanford Summer Humanities Institute",
+        "name_en": "Stanford Summer Humanities Institute",
+        "category": "Social Science",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Session I: June 26, 2024 - July 10, 2024;Session II: July 17, 2024 - July 31, 2024.",
+        "deadline_text": "March ,2024",
+        "website_url": "https://summerhumanities.spcs.stanford.edu/",
+        "description": "Stanford Summer Humanities Institute is a summer enrichment program where rising high school juniors and seniors explore the big questions at the heart of the humanities in seminars led by distinguished Stanford professors."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summerhumanities.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Stanford Summer Humanities Institute page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-stanford-university-mathematics-camp-sumac",
+      "canonical_name": "Stanford University Mathematics Camp (SUMaC)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Stanford University Mathematics Camp (SUMaC)",
+        "name_en": "Stanford University Mathematics Camp (SUMaC)",
+        "category": "STEM",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "Session One: Online June-July , 2024 Session One: Residential June-July 2024 Session Two: Online July -July 26, 2024",
+        "deadline_text": "February, 2024",
+        "website_url": "https://sumac.spcs.stanford.edu/",
+        "description": "The SUMaC courses focus on pure mathematics—that is, mathematics that is motivated independently of ties to other sciences; nonetheless, important applications are introduced and pursued along the way."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://sumac.spcs.stanford.edu/",
+            "publisher": "Stanford University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live SUMaC page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-summer-science-program-ssp",
+      "canonical_name": "Summer Science Program (SSP)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Summer Science Program (SSP)",
+        "name_en": "Summer Science Program (SSP)",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June-August, 2024",
+        "deadline_text": "February,2024",
+        "website_url": "https://summerscience.org/",
+        "description": "The Summer Science Program offers teens an exhilarating and inspiring immersion into hands-on experimental science. Working in teams of three, 36 participants and 7 faculty form a supportive “living and learning community” over 39 days. Each team completes a real research project, taking and analyzing original data."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://ssp.org/",
+            "publisher": "SSP International",
+            "authority": "official program page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live homepage confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-telluride-association-summer-seminars-tass",
+      "canonical_name": "Telluride Association Summer Seminars (TASS)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Telluride Association Summer Seminars (TASS)",
+        "name_en": "Telluride Association Summer Seminars (TASS)",
+        "category": "Social Science",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June-August, 2024",
+        "deadline_text": "January , 2024",
+        "website_url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+        "description": "The Telluride Association Summer Seminars (TASS) are six-week educational experiences for high school sophomores and juniors."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+            "publisher": "Telluride Association",
+            "authority": "official organizer page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Official high-school-students page confirms the TASS program exists."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-the-national-high-school-game-academy-nhsga",
+      "canonical_name": "The National High School Game Academy (NHSGA)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "The National High School Game Academy (NHSGA)",
+        "name_en": "The National High School Game Academy (NHSGA)",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Multiple",
+        "deadline_text": "February , 2024",
+        "website_url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+        "description": "The National High School Game Academy (NHSGA) allows disciplined, passionate, and dedicated high school students to experience modern video game development."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.cmu.edu/pre-college/academic-programs/game-academy.html",
+            "publisher": "Carnegie Mellon University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college program page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-the-yale-young-global-scholars-program-yygs",
+      "canonical_name": "The Yale Young Global Scholars Program (YYGS)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "The Yale Young Global Scholars Program (YYGS)",
+        "name_en": "The Yale Young Global Scholars Program (YYGS)",
+        "category": "Interdisciplinary",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "Multiple",
+        "deadline_text": "January , 2025",
+        "website_url": "https://globalscholars.yale.edu/",
+        "description": "Yale Young Global Scholars (YYGS) is an academic enrichment program for outstanding high school students from around the world. Each summer, students from over 150 countries (including all 50 U.S. states) participate in one interdisciplinary , two-week session online or at Yale’s historic campus."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://globalscholars.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Young Global Scholars homepage confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-tisch-summer-high-school-program",
+      "canonical_name": "Tisch Summer High School Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Tisch Summer High School Program",
+        "name_en": "Tisch Summer High School Program",
+        "category": "Arts",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "July- August , 2025",
+        "deadline_text": "December,2024",
+        "website_url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+        "description": "Students in the Tisch Summer High School Program are expected to complete any coursework and professional training requirements of the artistic track they are enrolled in. Students apply to one of these artistic tracks: Dance, Drama, Production & Design, Dramatic Writing, Filmmaking, Game Design, Photography and Imaging, or Recorded Music."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://tisch.nyu.edu/special-programs/high-school-programs/tisch-summer-high-school",
+            "publisher": "New York University Tisch School of the Arts",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Tisch summer high school page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-uc-davis-young-scholars-program",
+      "canonical_name": "UC Davis Young Scholars Program",
+      "publication_recommendation": "hold",
+      "factual_fields": {
+        "canonical_name": "UC Davis Young Scholars Program",
+        "name_en": "UC Davis Young Scholars Program",
+        "category": "STEM",
+        "region": "US",
+        "format": "in_person",
+        "date_text": null,
+        "deadline_text": null,
+        "website_url": "https://ysprogram.ucdavis.edu/",
+        "description": null
+      },
+      "missing_fields": [
+        "date_text",
+        "deadline_text",
+        "description"
+      ],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://ysprogram.ucdavis.edu/",
+            "publisher": "University of California, Davis",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Current URL resolves to a 404, so current existence could not be confirmed from a live official page."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-ucl-pre-university-summer-school",
+      "canonical_name": "UCL Pre-University Summer School",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "UCL Pre-University Summer School",
+        "name_en": "UCL Pre-University Summer School",
+        "category": "Multiple",
+        "region": "UK",
+        "format": "in_person",
+        "date_text": "July- August, 2024",
+        "deadline_text": "May , 2024",
+        "website_url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+        "description": "The UCL Pre-University Summer School for International High School Students is a unique two-week residential course for students who want to experience life at one of the world's leading universities in the heart of London."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school",
+            "publisher": "University College London",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live page is present but protected by a bot check, which still confirms current existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-university-of-chicago-pre-college-program",
+      "canonical_name": "University of Chicago Pre-College Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "University of Chicago Pre-College Program",
+        "name_en": "University of Chicago Pre-College Program",
+        "category": "Multiple",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "Multiple",
+        "deadline_text": "Multiple",
+        "website_url": "https://summer.uchicago.edu/pre-college-students",
+        "description": "The University of Chicago’s Summer Session brings together a global community of thinkers who ask tough question, embrace new ideas, and are excited to connect with each other."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summer.uchicago.edu/pre-college/pre-college/",
+            "publisher": "University of Chicago",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live pre-college page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-upenn-pre-college-program",
+      "canonical_name": "Upenn Pre-College Program",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Upenn Pre-College Program",
+        "name_en": "Upenn Pre-College Program",
+        "category": "Multiple",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "June - August , 2024",
+        "deadline_text": "April , 2024",
+        "website_url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+        "description": "The Pre-College Program is designed for academically curious high school students interested in the intellectual challenge and residential freedom of a true undergraduate experience."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summer.sas.upenn.edu/programs/high-school/pre-college",
+            "publisher": "University of Pennsylvania",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Penn Arts and Sciences pre-college page confirms identity and active existence."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-usc-summer-programs",
+      "canonical_name": "USC Summer Programs",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "USC Summer Programs",
+        "name_en": "USC Summer Programs",
+        "category": "Multiple",
+        "region": "US",
+        "format": "in_person",
+        "date_text": "June- July, 2024",
+        "deadline_text": "April, 2024",
+        "website_url": "https://summerprograms.usc.edu/",
+        "description": "USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://summerprograms.usc.edu/",
+            "publisher": "University of Southern California",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+          }
+        ]
+      }
+    },
+    {
+      "id": "summer-yale-summer-program-in-astrophysics-yspa",
+      "canonical_name": "Yale Summer Program in Astrophysics(YSPA)",
+      "publication_recommendation": "publish",
+      "factual_fields": {
+        "canonical_name": "Yale Summer Program in Astrophysics(YSPA)",
+        "name_en": "Yale Summer Program in Astrophysics(YSPA)",
+        "category": "STEM",
+        "region": "US",
+        "format": "hybrid",
+        "date_text": "July - August,2024",
+        "deadline_text": "March , 2024",
+        "website_url": "https://yspa.yale.edu/",
+        "description": "YSPA is a 2-week online + 4-week residential research and enrichment program for 32 rising high school seniors who are interested in astronomy, physics, math, computer programming, and other science and tech fields."
+      },
+      "missing_fields": [],
+      "conflicts": [],
+      "field_evidence": {
+        "canonical_name": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "name_en": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "category": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "region": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "format": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "date_text": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "deadline_text": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "website_url": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ],
+        "description": [
+          {
+            "url": "https://yspa.yale.edu/",
+            "publisher": "Yale University",
+            "authority": "official institution page",
+            "retrieved_at": "2026-07-11",
+            "evidence_note": "Live Yale Summer Program in Astrophysics homepage confirms identity and active existence."
+          }
+        ]
+      }
+    }
+  ]
+}

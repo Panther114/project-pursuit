@@ -1,0 +1,324 @@
+{
+  "id": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2",
+  "canonical_name": "Physics Bowl",
+  "name_zh": "物理杯美国高中生物理思维挑战",
+  "name_en": "Physics Bowl",
+  "type": "competition",
+  "subject_tags": [
+    "Physics"
+  ],
+  "category": "Physics Contest",
+  "region": "SHSID / International",
+  "format": "in_person",
+  "date_text": "The 2026 PhysicsBowl cycle had concluded by July 2026.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://www.aapt.org/Programs/PhysicsBowl/",
+  "registration_contact": "",
+  "instructor_contact": "本创作比",
+  "preparation": "Research Essay",
+  "description": "Internationally administered 40-question, 45-minute physics contest run through participating schools.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 2",
+      "row_or_text_ref": "Physics Bowl",
+      "raw_excerpt": "gh School Onine Mar. submissio Psychology Mar.1 ed/precollege/topss/ 沈玉婷 Research Essay 中生心理写作竞赛 Psychology submission n student-competition Students 物理杯美国高中生 Contact Contact Club Physics Bowl Mar. 45 mins Physics Mar. 徐臻成 物理思维挑战 instructor instructor activities 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. instructor /dna-day/ British Astronomy 英国天文学和天体 Mar.(ap Contact Contact Club and Astrophysics Online Physics Mar. 徐臻成 物理学奥赛 pr.) instructor instructor activities Olympiad(BAAO) https://arts.princet Princeton Ten- on.edu/about/opportu 普林斯顿10分钟剧 Mar.(ap Online Minute Play Online Writing Mar. nities/high-school- 沈晨荔 Play writing 本创作比赛 pr.) submission Contest contests/ten-minute- play-contest/ Internation",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "15cff2ab9ff060c2.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Official Physics Bowl page.",
+      "extracted_at": "2026-07-11T12:26:28+00:00",
+      "source_id": "luna-1385e53ded2d",
+      "original_url": "https://www.aapt.org/programs/physicsbowl/",
+      "snapshot_path": "data/snapshots/review-evidence/www.aapt.org/15cff2ab9ff060c2.html.gz",
+      "retrieved_at": "2026-07-11T12:26:28+00:00",
+      "content_hash": "15cff2ab9ff060c23bc482c8d7648738e52be1bdc9996d86e348f61597d0fe5f",
+      "extraction_locator": "Luna batch field: canonical_name"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Physics Bowl",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.aapt.org/programs/physicsbowl/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "raw_excerpt": "Physics Bowl",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": "gh School Onine Mar. submissio Psychology Mar.1 ed/precollege/topss/ 沈玉婷 Research Essay 中生心理写作竞赛 Psychology submission n student-competition Students 物理杯美国高中生 Contact Contact Club Physics Bowl Mar. 45 mins Physics Mar. 徐臻成 物理思维挑战 instructor"
+    },
+    {
+      "evidence_id": "luna-1385e53ded2d",
+      "url": "https://www.aapt.org/programs/physicsbowl/",
+      "publisher": "American Association of Physics Teachers",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:26:28+00:00",
+      "note": "Official Physics Bowl page."
+    },
+    {
+      "evidence_id": "luna-25349fadda76",
+      "url": "https://www.aapt.org/programs/physicsbowl/",
+      "publisher": "American Association of Physics Teachers",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:28:17+00:00",
+      "note": "Official Physics Bowl page."
+    },
+    {
+      "evidence_id": "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1",
+      "url": "https://www.aapt.org/Programs/PhysicsBowl/",
+      "publisher": "American Association of Physics Teachers",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Internationally administered 40-question, 45-minute physics contest run through participating schools. Eligibility: Students currently enrolled in a physics course enter through a participating school in the appropriate division. Format: One 45-minute examination with 40 multiple-choice questions."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "date_text": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "American Association of Physics Teachers",
+  "region_tier": "china_participation_route",
+  "country": "United States",
+  "city": null,
+  "eligibility_text": "Students currently enrolled in a physics course enter through a participating school in the appropriate division.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "closed",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "One 45-minute examination with 40 multiple-choice questions.",
+  "awards_and_recognition": "Global and regional individual rankings, school awards, and certificates.",
+  "china_participation_route": "Mainland-China students register through the authorized ASEEDER PhysicsBowl program.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

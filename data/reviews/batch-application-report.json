@@ -1,0 +1,312 @@
+{
+  "reviewed": 58,
+  "updated": [
+    {
+      "id": "contest-hippo-aseeder-china-2026-hippo-english-olympiad",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-british-psychology-olympiad-aseeder-china-british-psychology-olympiad",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-english-speaking-union-aseeder-china-esu-performing-shakespeare-competition",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-ieo-aseeder-china-international-economics-olympiad",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-international-linguistics-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-physics-bowl-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-young-investors-society-aseeder-china-yis-global-stock-pitch-competition",
+      "status": "official_verified",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "summer-babson-summer-study-for-high-school-students",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-berkeley-business-academy-for-youth",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-brown-pre-college-programs",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-california-state-summer-school-for-mathematics-science-cosmos",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-cambridge-virtual-pre-university-summer-programme",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-cornell-pre-college-studies",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-hampshire-college-summer-studies-in-mathematics-hcssim",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-high-school-honors-science-math-and-engineering-program",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-imperial-global-summer-school",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-iowa-young-writers-studio-iyws",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-johns-hopkins-engineering-innovation",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-launchx-high-school-entrepreneurship-summer-program",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-leadership-in-the-business-world-lbw",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-management-technology-summer-institute-m-tsi",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-mit-research-science-institute-rsi",
+      "status": "official_verified",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-notre-dame-leadership-seminars",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-nyu-pre-college-program",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-program-in-mathematics-for-young-scientists-promys",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-rhode-island-school-of-design-pre-collegiate-programs",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-ross-mathematics-program",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-stanford-summer-humanities-institute",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-stanford-university-mathematics-camp-sumac",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-summer-science-program-ssp",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-telluride-association-summer-seminars-tass",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-the-national-high-school-game-academy-nhsga",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-the-yale-young-global-scholars-program-yygs",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-tisch-summer-high-school-program",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-university-of-chicago-pre-college-program",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-upenn-pre-college-program",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-usc-summer-programs",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-yale-summer-program-in-astrophysics-yspa",
+      "status": "official_verified",
+      "batch": "luna_programs_b.json"
+    }
+  ],
+  "unverified": [
+    {
+      "id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "contest-hong-kong-young-writer-s-awards-shsid2025-2026-1st-semester-contests-and-activities",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_competitions.json"
+    },
+    {
+      "id": "summer-clark-scholars-program",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-hku-summer-institute",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-hkust-summer-institute",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-international-summer-school-for-young-physicists-issyp",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_a.json"
+    },
+    {
+      "id": "summer-oxford-ppe-online-program",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-uc-davis-young-scholars-program",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_b.json"
+    },
+    {
+      "id": "summer-ucl-pre-university-summer-school",
+      "reason": "identity evidence did not pass official/two-source snapshot gate",
+      "batch": "luna_programs_b.json"
+    }
+  ],
+  "snapshot_failures": {
+    "https://cemc.uwaterloo.ca/contests/csmc.html": "HTTP Error 404: Not Found",
+    "https://cemc.uwaterloo.ca/contests/ccc.html": "HTTP Error 404: Not Found",
+    "https://perimeterinstitute.ca/issyp": "HTTP Error 403: Forbidden",
+    "https://summerinstitute.hku.hk/homepage/for-secondary-school-students/": "HTTP Error 404: Not Found",
+    "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/": "HTTP Error 404: Not Found",
+    "https://www.exporecercajove.cat/": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "https://www.hkywa.co": "<urlopen error [Errno 11001] getaddrinfo failed>",
+    "https://www.maa.org/math-competitions/american-mathematics-competitions": "HTTP Error 404: Not Found",
+    "https://ysprogram.ucdavis.edu/": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ysprogram.ucdavis.edu'. (_ssl.c:997)>",
+    "https://www.ucl.ac.uk/languages-international-education/short-summer-courses/pre-university-summer-school": "HTTP Error 404: Not Found",
+    "https://www.seedasdan.org/en/university-of-oxford/": "HTTP Error 404: Not Found",
+    "https://sh.inventionconvention.cn/web/index.html": "<urlopen error _ssl.c:980: The handshake operation timed out>",
+    "https://summer.ust.hk/": "<urlopen error _ssl.c:980: The handshake operation timed out>"
+  }
+}

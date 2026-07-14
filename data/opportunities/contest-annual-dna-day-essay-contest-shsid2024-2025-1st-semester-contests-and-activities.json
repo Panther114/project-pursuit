@@ -1,0 +1,350 @@
+{
+  "id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
+  "canonical_name": "Annual DNA Day Essay Contest",
+  "name_zh": "DNA论文竞赛",
+  "name_en": "Annual DNA Day Essay Contest",
+  "type": "competition",
+  "subject_tags": [
+    "Biology",
+    "Genetics",
+    "Writing"
+  ],
+  "category": "Essay Competition",
+  "region": "SHSID / International",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "website_url": "https://www.ashg.org/dna-day/",
+  "registration_contact": "",
+  "instructor_contact": "张非凡",
+  "preparation": "Essay",
+  "description": "Annual DNA Day essay contest asking high-school students to address a genetics or genomics prompt.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-12",
+  "sources": [
+    {
+      "source_file": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 1",
+      "row_or_text_ref": "Annual DNA Day Essay Contest",
+      "raw_excerpt": "o submissio c Sept.30 Research 大赛 Sept. n n research (appr.) 张非凡 张非凡 essay Online Online Annual DNA Day Feb.(appr submisio submissio Biology,w Mar.1(appr. https://www.ash Research DNA论文竞赛 Essay Contest .) n n riting ) g.org/dna-day/ 张非凡 essay",
+      "extracted_at": "2026-07-09T04:46:54+00:00"
+    },
+    {
+      "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "source_type": "pdf",
+      "page_or_sheet": "page 2",
+      "row_or_text_ref": "Annual DNA Day Essay Contest",
+      "raw_excerpt": "ies 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. instructor /dna-day/ British Astronomy 英国天文学和天体 Mar.(ap Contact Contact Club and Astrophysics Online Physics Mar. 徐臻成 物理学奥赛 pr.) instructor instructor activities Olympiad(BAAO) https://arts.princet Princeton Ten- on.edu/about/opportu 普林斯顿10分钟剧 Mar.(ap Online Minute Play Online Writing Mar. nities/high-school- 沈晨荔 Play writing 本创作比赛 pr.) submission Contest contests/ten-minute- play-contest/ International 国际哲学奥林匹克 Contact http://www.philosoph Philosophy Feb.25 Onsite Writing Feb.13 沈晨荔 Essay 大赛（IPO） instructor y-olympiad.org Olympiad (IPO)",
+      "extracted_at": "2026-07-09T04:46:57+00:00"
+    },
+    {
+      "source_file": "41f7df3a2c1d0d4d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "website_url",
+      "raw_excerpt": "Official contest page.",
+      "extracted_at": "2026-07-11T12:17:08+00:00",
+      "source_id": "luna-1b4019aed1b3",
+      "original_url": "https://www.ashg.org/dna-day/",
+      "snapshot_path": "data/snapshots/review-evidence/www.ashg.org/41f7df3a2c1d0d4d.html.gz",
+      "retrieved_at": "2026-07-11T12:17:08+00:00",
+      "content_hash": "41f7df3a2c1d0d4d0d2b1752e136b7fae054337afc664c81c522e2202f4b0958",
+      "extraction_locator": "Luna batch field: website_url"
+    },
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Annual DNA Day Essay Contest",
+      "raw_excerpt": "Official organizer page used for identification.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.ashg.org/dna-day/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
+      "raw_excerpt": "Annual DNA Day Essay Contest",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities]"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+      "url": null,
+      "publisher": "SHSID2024-2025 1st Semester Contests and Activities.pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:54+00:00",
+      "source_id": null,
+      "note": "o submissio c Sept.30 Research 大赛 Sept. n n research (appr.) 张非凡 张非凡 essay Online Online Annual DNA Day Feb.(appr submisio submissio Biology,w Mar.1(appr. https://www.ash Research DNA论文竞赛 Essay Contest .) n n riting ) g.org/dna-day/ 张非凡 ess"
+    },
+    {
+      "evidence_id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2",
+      "url": null,
+      "publisher": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:46:57+00:00",
+      "source_id": null,
+      "note": "ies 英国物理挑战赛 GCSE Physics Contact Contact Past papers Mar. 60 mins Physics Mar.10 徐臻成 （高级） Challenge instructor instructor and Q&A Annual DNA Day Jan.- Contact https://www.ashg.org DNA论文竞赛 Online Biology Mar. 张非凡 Essay Essay Contest Mar. ins"
+    },
+    {
+      "evidence_id": "luna-1b4019aed1b3",
+      "url": "https://www.ashg.org/dna-day/",
+      "publisher": "American Society of Human Genetics",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:08+00:00",
+      "note": "Official contest page."
+    },
+    {
+      "evidence_id": "luna-fa3f765c9ba0",
+      "url": "https://www.ashg.org/dna-day/",
+      "publisher": "American Society of Human Genetics",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:26:35+00:00",
+      "note": "Official DNA Day essay contest page."
+    },
+    {
+      "evidence_id": "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1",
+      "url": "https://www.ashg.org/dna-day/",
+      "publisher": "American Society of Human Genetics",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Annual DNA Day essay contest asking high-school students to address a genetics or genomics prompt. Eligibility: Students in grades 9–12 submit an individual essay through a teacher or school contact under annual rules. Format: One researched essay responding to the annual genetics prompt."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "name_zh": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "name_en": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "type": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "category": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "preparation": {
+      "status": "historical",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1",
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e2"
+      ]
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
+      ]
+    }
+  },
+  "verification_note": "Imported from the structured competition research review.",
+  "organizer": "American Society of Human Genetics",
+  "region_tier": "international_only",
+  "country": "United States",
+  "city": null,
+  "eligibility_text": "Students in grades 9–12 submit an individual essay through a teacher or school contact under annual rules.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "current_cycle_status": "unknown",
+  "start_date": null,
+  "end_date": null,
+  "cost_text": "",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "One researched essay responding to the annual genetics prompt.",
+  "awards_and_recognition": "Cash awards for winning students and grants or recognition for teachers or schools, subject to annual rules.",
+  "china_participation_route": "International eligibility depends on the annual official rules; no specific mainland-China operator was verified.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cycle.date_text",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

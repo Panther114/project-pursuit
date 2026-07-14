@@ -1,0 +1,10 @@
+{
+  "original_url": "https://haas.berkeley.edu/business-academy/",
+  "final_url": "https://haas.berkeley.edu/business-academy/",
+  "retrieved_at": "2026-07-11T12:28:02+00:00",
+  "content_hash": "4ffa973a4c39e45365ca139d910b80033560e190e6da01aed62df41acd41d1bc",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/haas.berkeley.edu/4ffa973a4c39e453.html.gz"
+}

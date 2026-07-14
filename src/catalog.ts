@@ -18,10 +18,3 @@ export function pathForRoute(route: AppRoute): string {
 export function getCatalogItems(items: Opportunity[], kind: CatalogKind): Opportunity[] {
   return items.filter((item) => (kind === "competition" ? item.type === "competition" : item.type !== "competition"));
 }
-
-export function getReviewReason(item: Opportunity): string | null {
-  if (!item.website_url) return "Official organizer page is missing.";
-  if (!item.last_verified_at) return "Official organizer page has not been checked.";
-  if (!item.deadline_text || !/\d{4}/.test(item.deadline_text)) return "Current-cycle deadline still needs confirmation.";
-  return null;
-}

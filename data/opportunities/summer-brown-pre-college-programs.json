@@ -1,0 +1,289 @@
+{
+  "id": "summer-brown-pre-college-programs",
+  "canonical_name": "Brown Pre-College Programs",
+  "name_en": "Brown Pre-College Programs",
+  "type": "summer_program",
+  "subject_tags": [
+    "Arts"
+  ],
+  "category": "Multiple",
+  "region": "US",
+  "format": "hybrid",
+  "date_text": "Multiple",
+  "deadline_text": "May , 2024",
+  "deadline_date": null,
+  "website_url": "https://precollege.brown.edu/",
+  "description": "Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing challenging academics and enriching social activities—without the pressure of formal grades.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "4",
+      "raw_excerpt": "Brown Pre-College Programs Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing challenging academics and enriching social activities—without the pressure of formal grades. Multiple US In person Online",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "afb60f97a0641f42.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Current official program page used to verify identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:51+00:00",
+      "source_id": "luna-26059a31c100",
+      "original_url": "https://precollege.brown.edu/",
+      "snapshot_path": "data/snapshots/review-evidence/precollege.brown.edu/afb60f97a0641f42.html.gz",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "content_hash": "afb60f97a0641f423f8805d6b8c8a1620daa0a31f2bb8cd875a2ccff003ee778",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-brown-pre-college-programs-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Brown Pre-College Programs Brown Pre-College Programs are designed for high school students to explore the challenges and opportunities of the college experience. You’ll enjoy the excitement and responsibility that comes from balancing chal"
+    },
+    {
+      "evidence_id": "luna-26059a31c100",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-e019466a4886",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-1786b27a229a",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-edd17052177c",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-2222883c072d",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-482e81cf0d43",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-787da51fcc6f",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-0b6e85fdfbcc",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    },
+    {
+      "evidence_id": "luna-d47c4d873f0b",
+      "url": "https://precollege.brown.edu/",
+      "publisher": "Brown University",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:51+00:00",
+      "note": "Current official program page used to verify identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-26059a31c100"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-e019466a4886"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-brown-pre-college-programs-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-brown-pre-college-programs-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-1786b27a229a"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-edd17052177c"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-2222883c072d"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-482e81cf0d43"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-787da51fcc6f"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-0b6e85fdfbcc"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-d47c4d873f0b"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

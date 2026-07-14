@@ -1,0 +1,10 @@
+{
+  "original_url": "https://thebrainbee.org/",
+  "final_url": "https://www.thebrainbee.org/",
+  "retrieved_at": "2026-07-11T12:28:21+00:00",
+  "content_hash": "96df6e93959377d45d3a980f462fdd98bd8842a5a9079f497301e4cefa4c224d",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.thebrainbee.org/96df6e93959377d4.html.gz"
+}

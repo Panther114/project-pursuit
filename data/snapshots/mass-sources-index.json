@@ -1,0 +1,912 @@
+{
+  "https://abs.seedasdan.com/en/home-en/": {
+    "original_url": "https://abs.seedasdan.com/en/home-en/",
+    "final_url": "https://abs.seedasdan.com/en/home-en/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "860715c836e2f2132e8a51dd1a7c07aadec3e18a58dbe04c09dfa747aec96689",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/860715c836e2f213.html.gz"
+  },
+  "https://www.imo-official.org/editions/1962/": {
+    "original_url": "https://www.imo-official.org/editions/1962/",
+    "final_url": "https://www.imo-official.org/editions/1962/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "dd5acbe005053d9b9a692ef054f3c1f009fcd5a08348bcaf6ee6475b43a08865",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/dd5acbe005053d9b.html.gz"
+  },
+  "https://www.imo-official.org/editions/1960/": {
+    "original_url": "https://www.imo-official.org/editions/1960/",
+    "final_url": "https://www.imo-official.org/editions/1960/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "966eb685235914c8546b9a90828bac0c2345af00925d769343829b0baddceab4",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/966eb685235914c8.html.gz"
+  },
+  "https://www.imo-official.org/editions/1965/": {
+    "original_url": "https://www.imo-official.org/editions/1965/",
+    "final_url": "https://www.imo-official.org/editions/1965/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "5b256aba205e787c9bbd495aa484690f20a629952dbfde51bb79204b0fc17cb0",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/5b256aba205e787c.html.gz"
+  },
+  "https://www.imo-official.org/editions/1959/": {
+    "original_url": "https://www.imo-official.org/editions/1959/",
+    "final_url": "https://www.imo-official.org/editions/1959/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "91e3604ffdc4fcaf195f9d1759ebe6416b9e10bb9907c4c939defcbd22cec55b",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/91e3604ffdc4fcaf.html.gz"
+  },
+  "https://www.imo-official.org/editions/1963/": {
+    "original_url": "https://www.imo-official.org/editions/1963/",
+    "final_url": "https://www.imo-official.org/editions/1963/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "0d03efe45f59a37120f0bc37e9ae3974b6831cee78c6346fecc728e12d6550d8",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/0d03efe45f59a371.html.gz"
+  },
+  "https://www.imo-official.org/editions/1964/": {
+    "original_url": "https://www.imo-official.org/editions/1964/",
+    "final_url": "https://www.imo-official.org/editions/1964/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "cda9874b8ec5971e0aa7b288d2ab4171c905a39835a0f852136b51ab15515f08",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/cda9874b8ec5971e.html.gz"
+  },
+  "https://www.imo-official.org/editions/1961/": {
+    "original_url": "https://www.imo-official.org/editions/1961/",
+    "final_url": "https://www.imo-official.org/editions/1961/",
+    "retrieved_at": "2026-07-11T15:19:17+00:00",
+    "content_hash": "386d3c26c1a2b936f1ba5f7fd33d36413ec9490d070070d2cd02537a554eeecc",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/386d3c26c1a2b936.html.gz"
+  },
+  "https://ma.seedasdan.com/en/aerospace-en/": {
+    "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
+    "final_url": "https://ma.seedasdan.com/en/aerospace-en/",
+    "retrieved_at": "2026-07-11T15:19:18+00:00",
+    "content_hash": "d6049a12ec1a5befc268f689103a8b118ab358216e3125ceb569dcfe181eb205",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/d6049a12ec1a5bef.html.gz"
+  },
+  "https://ma.seedasdan.com/en/ubtech-en/": {
+    "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
+    "final_url": "https://ma.seedasdan.com/en/ubtech-en/",
+    "retrieved_at": "2026-07-11T15:19:18+00:00",
+    "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz"
+  },
+  "https://www.imo-official.org/editions/": {
+    "original_url": "https://www.imo-official.org/editions/",
+    "final_url": "https://www.imo-official.org/editions/",
+    "retrieved_at": "2026-07-11T15:19:18+00:00",
+    "content_hash": "eb784c25fc6d77c96496264c6aee650cdb9eda59e0395007d9c31306100ed0f6",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/eb784c25fc6d77c9.html.gz"
+  },
+  "https://ieo.seedasdan.com/en/international-economics-olympiad/": {
+    "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+    "final_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+    "retrieved_at": "2026-07-11T15:19:18+00:00",
+    "content_hash": "0ad78019a2871eb3d3c9d151ae008d21d04301337e6a33ba407583494037d21a",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/0ad78019a2871eb3.html.gz"
+  },
+  "https://www.imo-official.org/editions/1966/": {
+    "original_url": "https://www.imo-official.org/editions/1966/",
+    "final_url": "https://www.imo-official.org/editions/1966/",
+    "retrieved_at": "2026-07-11T15:19:19+00:00",
+    "content_hash": "d673e6531605e4b2464b0411a13751a407d423376995bb0e76e1af62f155d9b9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/d673e6531605e4b2.html.gz"
+  },
+  "https://www.imo-official.org/editions/1971/": {
+    "original_url": "https://www.imo-official.org/editions/1971/",
+    "final_url": "https://www.imo-official.org/editions/1971/",
+    "retrieved_at": "2026-07-11T15:19:19+00:00",
+    "content_hash": "a1af9ff73e28e04d938fe02b94719b487436bd03431c0330216a88e8ecaedd3d",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/a1af9ff73e28e04d.html.gz"
+  },
+  "https://www.imo-official.org/editions/1967/": {
+    "original_url": "https://www.imo-official.org/editions/1967/",
+    "final_url": "https://www.imo-official.org/editions/1967/",
+    "retrieved_at": "2026-07-11T15:19:19+00:00",
+    "content_hash": "6260348611be54af7f5db77b7b5a6cd8c9eaabcb768716f8f856e3cfdb2fd69d",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/6260348611be54af.html.gz"
+  },
+  "https://www.imo-official.org/editions/1973/": {
+    "original_url": "https://www.imo-official.org/editions/1973/",
+    "final_url": "https://www.imo-official.org/editions/1973/",
+    "retrieved_at": "2026-07-11T15:19:19+00:00",
+    "content_hash": "43daa5645b2cc89605f79bf7d708c141c25ca113571fa590445819cc99413c6c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/43daa5645b2cc896.html.gz"
+  },
+  "https://www.imo-official.org/editions/1968/": {
+    "original_url": "https://www.imo-official.org/editions/1968/",
+    "final_url": "https://www.imo-official.org/editions/1968/",
+    "retrieved_at": "2026-07-11T15:19:20+00:00",
+    "content_hash": "fee44deef5127c514ad8b019743c1268e9f5c9e8b367f9279e0f3b821daeb79d",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/fee44deef5127c51.html.gz"
+  },
+  "https://www.imo-official.org/editions/1969/": {
+    "original_url": "https://www.imo-official.org/editions/1969/",
+    "final_url": "https://www.imo-official.org/editions/1969/",
+    "retrieved_at": "2026-07-11T15:19:20+00:00",
+    "content_hash": "6191bc8bffbc1ede21ea2fabe748d87b24986a7b9fe11b563ef2847be116e0d2",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/6191bc8bffbc1ede.html.gz"
+  },
+  "https://www.imo-official.org/editions/1972/": {
+    "original_url": "https://www.imo-official.org/editions/1972/",
+    "final_url": "https://www.imo-official.org/editions/1972/",
+    "retrieved_at": "2026-07-11T15:19:20+00:00",
+    "content_hash": "4512e25f9f5d10f6ab3ed7dd5256fda907ffc9c66d9cd5abf92ce032a7647900",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/4512e25f9f5d10f6.html.gz"
+  },
+  "https://www.imo-official.org/editions/1970/": {
+    "original_url": "https://www.imo-official.org/editions/1970/",
+    "final_url": "https://www.imo-official.org/editions/1970/",
+    "retrieved_at": "2026-07-11T15:19:20+00:00",
+    "content_hash": "a558a980f13623645aff4357eabbba2120f2100b3ebc5d2d801486cb0bf0b79b",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/a558a980f1362364.html.gz"
+  },
+  "https://www.imo-official.org/editions/1974/": {
+    "original_url": "https://www.imo-official.org/editions/1974/",
+    "final_url": "https://www.imo-official.org/editions/1974/",
+    "retrieved_at": "2026-07-11T15:19:20+00:00",
+    "content_hash": "46fad8bf25c07a2dfafd47bafc323f3587efbddc7fabb4c10809c622fc9197ff",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/46fad8bf25c07a2d.html.gz"
+  },
+  "https://www.imo-official.org/editions/1975/": {
+    "original_url": "https://www.imo-official.org/editions/1975/",
+    "final_url": "https://www.imo-official.org/editions/1975/",
+    "retrieved_at": "2026-07-11T15:19:21+00:00",
+    "content_hash": "e5ed0ac2b4c8dd12c5e041e728ddc75ee9166ef86034d22f38b697bef5305076",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/e5ed0ac2b4c8dd12.html.gz"
+  },
+  "https://www.imo-official.org/editions/1977/": {
+    "original_url": "https://www.imo-official.org/editions/1977/",
+    "final_url": "https://www.imo-official.org/editions/1977/",
+    "retrieved_at": "2026-07-11T15:19:21+00:00",
+    "content_hash": "21a5d1f093b3c2353f795ea4e1ae9d1c00d487771a0a38a28d24a28dea3c6a89",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/21a5d1f093b3c235.html.gz"
+  },
+  "https://www.imo-official.org/editions/1976/": {
+    "original_url": "https://www.imo-official.org/editions/1976/",
+    "final_url": "https://www.imo-official.org/editions/1976/",
+    "retrieved_at": "2026-07-11T15:19:21+00:00",
+    "content_hash": "00dc3edad8e8b25cbb7e2424875eeaff53d7d96d552a2460229985e16945423a",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/00dc3edad8e8b25c.html.gz"
+  },
+  "https://www.imo-official.org/editions/1978/": {
+    "original_url": "https://www.imo-official.org/editions/1978/",
+    "final_url": "https://www.imo-official.org/editions/1978/",
+    "retrieved_at": "2026-07-11T15:19:21+00:00",
+    "content_hash": "a5d345859ac5155db017d1a07e16c3066a09d07ef4014109a544001a1cf96191",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/a5d345859ac5155d.html.gz"
+  },
+  "https://www.imo-official.org/editions/1979/": {
+    "original_url": "https://www.imo-official.org/editions/1979/",
+    "final_url": "https://www.imo-official.org/editions/1979/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "8427643b093fbbec5d943aa1ebf16ead0d934a2a7875c120bae084250ab6ff90",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/8427643b093fbbec.html.gz"
+  },
+  "https://www.imo-official.org/editions/1986/": {
+    "original_url": "https://www.imo-official.org/editions/1986/",
+    "final_url": "https://www.imo-official.org/editions/1986/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "61021fdc7cf1b57c8603f76e3ec79ab0fda8a47821373566ed19fec62e40adf9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/61021fdc7cf1b57c.html.gz"
+  },
+  "https://www.imo-official.org/editions/1983/": {
+    "original_url": "https://www.imo-official.org/editions/1983/",
+    "final_url": "https://www.imo-official.org/editions/1983/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "d3e8910f0995364c7e1735f55729a075f8856bcf2e24ed0c10a3615032ab7d2e",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/d3e8910f0995364c.html.gz"
+  },
+  "https://www.imo-official.org/editions/1981/": {
+    "original_url": "https://www.imo-official.org/editions/1981/",
+    "final_url": "https://www.imo-official.org/editions/1981/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "79959f30913f08f7b38463896b75599aa5029788470813aede6852da0fa77f59",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/79959f30913f08f7.html.gz"
+  },
+  "https://www.imo-official.org/editions/1987/": {
+    "original_url": "https://www.imo-official.org/editions/1987/",
+    "final_url": "https://www.imo-official.org/editions/1987/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "343bf34ba3a2b649e96c16cffbee3f7402129f7aa96d796e4683cb184ab1e5f2",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/343bf34ba3a2b649.html.gz"
+  },
+  "https://www.imo-official.org/editions/1984/": {
+    "original_url": "https://www.imo-official.org/editions/1984/",
+    "final_url": "https://www.imo-official.org/editions/1984/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "1090a938f56b725d6d8c8e4509d232fb888ec3a6e6af4b21ec40d0d660944fa9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/1090a938f56b725d.html.gz"
+  },
+  "https://www.imo-official.org/editions/1985/": {
+    "original_url": "https://www.imo-official.org/editions/1985/",
+    "final_url": "https://www.imo-official.org/editions/1985/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "ae44250aba8a09e0db77867d6204bbb1da5118b6fe7255c3c6cac654b81e020d",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/ae44250aba8a09e0.html.gz"
+  },
+  "https://www.imo-official.org/editions/1982/": {
+    "original_url": "https://www.imo-official.org/editions/1982/",
+    "final_url": "https://www.imo-official.org/editions/1982/",
+    "retrieved_at": "2026-07-11T15:19:22+00:00",
+    "content_hash": "99ff2662e583ca9a367f98417f30e413e7232b06b07a9ccc628f1909d4c446a3",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/99ff2662e583ca9a.html.gz"
+  },
+  "https://www.imo-official.org/editions/1990/": {
+    "original_url": "https://www.imo-official.org/editions/1990/",
+    "final_url": "https://www.imo-official.org/editions/1990/",
+    "retrieved_at": "2026-07-11T15:19:23+00:00",
+    "content_hash": "e6a467b1e2dd0e20394e2ee42402cc888d57ae7952890d1f17a0527c9c3e89a5",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/e6a467b1e2dd0e20.html.gz"
+  },
+  "https://www.imo-official.org/editions/1988/": {
+    "original_url": "https://www.imo-official.org/editions/1988/",
+    "final_url": "https://www.imo-official.org/editions/1988/",
+    "retrieved_at": "2026-07-11T15:19:23+00:00",
+    "content_hash": "8400d0d54de5d71b4142c041e5d01460e8caa46baf0860b9d03a5400fc0831b8",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/8400d0d54de5d71b.html.gz"
+  },
+  "https://www.imo-official.org/editions/1989/": {
+    "original_url": "https://www.imo-official.org/editions/1989/",
+    "final_url": "https://www.imo-official.org/editions/1989/",
+    "retrieved_at": "2026-07-11T15:19:23+00:00",
+    "content_hash": "1a8559cdceea3f7cfddfc1b11cb46787d86d020ace174496a189b4b3d69c8fd5",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/1a8559cdceea3f7c.html.gz"
+  },
+  "https://www.imo-official.org/editions/1991/": {
+    "original_url": "https://www.imo-official.org/editions/1991/",
+    "final_url": "https://www.imo-official.org/editions/1991/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "95b96d05ca5127b3a317cac15d4785b96d4025299964e573552964227a141a86",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/95b96d05ca5127b3.html.gz"
+  },
+  "https://www.imo-official.org/editions/1995/": {
+    "original_url": "https://www.imo-official.org/editions/1995/",
+    "final_url": "https://www.imo-official.org/editions/1995/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "d2e46604b1888ad7ca77a6d28dd3dcac3a0bf2f234fc81be6d4e4c1406fa5685",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/d2e46604b1888ad7.html.gz"
+  },
+  "https://www.imo-official.org/editions/1992/": {
+    "original_url": "https://www.imo-official.org/editions/1992/",
+    "final_url": "https://www.imo-official.org/editions/1992/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "5f719002ba5805a15a4305f2a75334c5689272a7a663f11a4f3c33811ee943e7",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/5f719002ba5805a1.html.gz"
+  },
+  "https://www.imo-official.org/editions/1996/": {
+    "original_url": "https://www.imo-official.org/editions/1996/",
+    "final_url": "https://www.imo-official.org/editions/1996/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "3f841af084a15ff647440291345955c2570be082d2a0b896c0b2cdffc410e23f",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/3f841af084a15ff6.html.gz"
+  },
+  "https://www.imo-official.org/editions/1994/": {
+    "original_url": "https://www.imo-official.org/editions/1994/",
+    "final_url": "https://www.imo-official.org/editions/1994/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "117fd1de3cda24628836b9d3c5a100095d9885928cead3ce3a00b4cf66fbf69b",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/117fd1de3cda2462.html.gz"
+  },
+  "https://www.imo-official.org/editions/1999/": {
+    "original_url": "https://www.imo-official.org/editions/1999/",
+    "final_url": "https://www.imo-official.org/editions/1999/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "d9b4b42ada9f8976adf4bae34e5487d677a8f2c5fa4b12821b6d4750b7111435",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/d9b4b42ada9f8976.html.gz"
+  },
+  "https://www.imo-official.org/editions/1993/": {
+    "original_url": "https://www.imo-official.org/editions/1993/",
+    "final_url": "https://www.imo-official.org/editions/1993/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "45724ed6d23fa3fea7137601bd15caefe9121ae14788f44f0e66d8d3a5264537",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/45724ed6d23fa3fe.html.gz"
+  },
+  "https://www.imo-official.org/editions/1998/": {
+    "original_url": "https://www.imo-official.org/editions/1998/",
+    "final_url": "https://www.imo-official.org/editions/1998/",
+    "retrieved_at": "2026-07-11T15:19:24+00:00",
+    "content_hash": "dc0c7c926af2f0d1e8c444101042fc0ffba57dcda7a73cc6f3718d1d1e6d0dd9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/dc0c7c926af2f0d1.html.gz"
+  },
+  "https://www.imo-official.org/editions/1997/": {
+    "original_url": "https://www.imo-official.org/editions/1997/",
+    "final_url": "https://www.imo-official.org/editions/1997/",
+    "retrieved_at": "2026-07-11T15:19:25+00:00",
+    "content_hash": "104c91ae1e7c01ad2c688dc4bab09f67e30efe358a6a337dc1da6fbe90d26619",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/104c91ae1e7c01ad.html.gz"
+  },
+  "https://www.imo-official.org/editions/2000/": {
+    "original_url": "https://www.imo-official.org/editions/2000/",
+    "final_url": "https://www.imo-official.org/editions/2000/",
+    "retrieved_at": "2026-07-11T15:19:25+00:00",
+    "content_hash": "0ffb1124b3c4e8b228653f0169a46f05def6e6b6b4deaedfabb970912a3b1812",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/0ffb1124b3c4e8b2.html.gz"
+  },
+  "https://www.imo-official.org/editions/2001/": {
+    "original_url": "https://www.imo-official.org/editions/2001/",
+    "final_url": "https://www.imo-official.org/editions/2001/",
+    "retrieved_at": "2026-07-11T15:19:25+00:00",
+    "content_hash": "911821ac821b8677c1a84bd85b2161076cbdf5c5b2f26c626452833433865829",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/911821ac821b8677.html.gz"
+  },
+  "https://www.imo-official.org/editions/2002/": {
+    "original_url": "https://www.imo-official.org/editions/2002/",
+    "final_url": "https://www.imo-official.org/editions/2002/",
+    "retrieved_at": "2026-07-11T15:19:25+00:00",
+    "content_hash": "be85cac0c77b328dff9cd7d7ff3c9064aa0d0764e9d06f554522b17458006d6c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/be85cac0c77b328d.html.gz"
+  },
+  "https://www.imo-official.org/editions/2003/": {
+    "original_url": "https://www.imo-official.org/editions/2003/",
+    "final_url": "https://www.imo-official.org/editions/2003/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "93f504da5aa353a8e40c00f82942487c5761715c1b35e4d3228d8e5c32c80432",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/93f504da5aa353a8.html.gz"
+  },
+  "https://www.imo-official.org/editions/2005/": {
+    "original_url": "https://www.imo-official.org/editions/2005/",
+    "final_url": "https://www.imo-official.org/editions/2005/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "83d625c5bc6bfcc6085627e5d845f8ca43967a2aea061b2d87747211c0d53e55",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/83d625c5bc6bfcc6.html.gz"
+  },
+  "https://www.imo-official.org/editions/2008/": {
+    "original_url": "https://www.imo-official.org/editions/2008/",
+    "final_url": "https://www.imo-official.org/editions/2008/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "0988d74ebbbafb70877873bc60fba864dec40c2fdb98a38e103e0747fbc0db95",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/0988d74ebbbafb70.html.gz"
+  },
+  "https://www.imo-official.org/editions/2010/": {
+    "original_url": "https://www.imo-official.org/editions/2010/",
+    "final_url": "https://www.imo-official.org/editions/2010/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "cb5c724793d61651a6bda7ed95fae5e7121e77bc0bd3d96cba28d5a7fc14ef59",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/cb5c724793d61651.html.gz"
+  },
+  "https://www.imo-official.org/editions/2009/": {
+    "original_url": "https://www.imo-official.org/editions/2009/",
+    "final_url": "https://www.imo-official.org/editions/2009/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "52fd6f438daaaa751011707842b68274766efccc431c4c22937d9baca97582ad",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/52fd6f438daaaa75.html.gz"
+  },
+  "https://www.imo-official.org/editions/2004/": {
+    "original_url": "https://www.imo-official.org/editions/2004/",
+    "final_url": "https://www.imo-official.org/editions/2004/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "c35fcdeca760f04d2a29c4459b26948dd7f0d418da71c091314eae6cd4b5fa49",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/c35fcdeca760f04d.html.gz"
+  },
+  "https://www.imo-official.org/editions/2007/": {
+    "original_url": "https://www.imo-official.org/editions/2007/",
+    "final_url": "https://www.imo-official.org/editions/2007/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "090fbd3c06f1ba47e9a1194738cd45acdee69e02e50e1c6cf9231428a839472c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/090fbd3c06f1ba47.html.gz"
+  },
+  "https://www.imo-official.org/editions/2006/": {
+    "original_url": "https://www.imo-official.org/editions/2006/",
+    "final_url": "https://www.imo-official.org/editions/2006/",
+    "retrieved_at": "2026-07-11T15:19:26+00:00",
+    "content_hash": "95e06d440516eb08c738fbca9860ce33b4f4d2e0a87e0304536beac58fad5008",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/95e06d440516eb08.html.gz"
+  },
+  "https://www.imo-official.org/editions/2011/": {
+    "original_url": "https://www.imo-official.org/editions/2011/",
+    "final_url": "https://www.imo-official.org/editions/2011/",
+    "retrieved_at": "2026-07-11T15:19:27+00:00",
+    "content_hash": "4d0a989bb1784804b2499080f38bb9a2fff2179b4650698dcd13e0fc708fe432",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/4d0a989bb1784804.html.gz"
+  },
+  "https://www.imo-official.org/editions/2013/": {
+    "original_url": "https://www.imo-official.org/editions/2013/",
+    "final_url": "https://www.imo-official.org/editions/2013/",
+    "retrieved_at": "2026-07-11T15:19:28+00:00",
+    "content_hash": "15e1ceb24b7305c9fd5ff09efc3eeefcb71b6e316e6398e3294e8ea86871bad0",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/15e1ceb24b7305c9.html.gz"
+  },
+  "https://www.imo-official.org/editions/2014/": {
+    "original_url": "https://www.imo-official.org/editions/2014/",
+    "final_url": "https://www.imo-official.org/editions/2014/",
+    "retrieved_at": "2026-07-11T15:19:28+00:00",
+    "content_hash": "49d980ddd41253176c0e456dfecfbba823069d53de2485b9e10a36c2f8838249",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/49d980ddd4125317.html.gz"
+  },
+  "https://www.imo-official.org/editions/2012/": {
+    "original_url": "https://www.imo-official.org/editions/2012/",
+    "final_url": "https://www.imo-official.org/editions/2012/",
+    "retrieved_at": "2026-07-11T15:19:28+00:00",
+    "content_hash": "aead53f8e8e6aa2037c0ba457404bba1996516523dcfa2214229fd378ca07234",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/aead53f8e8e6aa20.html.gz"
+  },
+  "https://www.imo-official.org/editions/2015/": {
+    "original_url": "https://www.imo-official.org/editions/2015/",
+    "final_url": "https://www.imo-official.org/editions/2015/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "44dfc9b002d751819f43bcb77ce8faf9be228a5031d0d089d67e337161bad8d2",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/44dfc9b002d75181.html.gz"
+  },
+  "https://www.imo-official.org/editions/2019/": {
+    "original_url": "https://www.imo-official.org/editions/2019/",
+    "final_url": "https://www.imo-official.org/editions/2019/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "27098238dcd5845c9c3f8ce1b9a53afd8b338c37bf4db06a84194969ad923e96",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/27098238dcd5845c.html.gz"
+  },
+  "https://www.imo-official.org/editions/2017/": {
+    "original_url": "https://www.imo-official.org/editions/2017/",
+    "final_url": "https://www.imo-official.org/editions/2017/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "edbaa8be591219c4d8963864cd658343d682783ddf6a7c379cbff7776842012a",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/edbaa8be591219c4.html.gz"
+  },
+  "https://www.imo-official.org/editions/2016/": {
+    "original_url": "https://www.imo-official.org/editions/2016/",
+    "final_url": "https://www.imo-official.org/editions/2016/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "6a022990b15de22c2720c1c5f47734cd6a29fa2424adbc39e88c83bce11f7ff9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/6a022990b15de22c.html.gz"
+  },
+  "https://www.imo-official.org/editions/2018/": {
+    "original_url": "https://www.imo-official.org/editions/2018/",
+    "final_url": "https://www.imo-official.org/editions/2018/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "2a898a5efaf966d69ea7f1e3320c4478d409d0d0eb0750d675bff8aedf9070e0",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/2a898a5efaf966d6.html.gz"
+  },
+  "https://www.imo-official.org/editions/2022/": {
+    "original_url": "https://www.imo-official.org/editions/2022/",
+    "final_url": "https://www.imo-official.org/editions/2022/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "0eef6a0a70327a9e57bcaaeb2f6d6ce26aea53237b1d8fb63e6be26f07787dc7",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/0eef6a0a70327a9e.html.gz"
+  },
+  "https://www.imo-official.org/editions/2020/": {
+    "original_url": "https://www.imo-official.org/editions/2020/",
+    "final_url": "https://www.imo-official.org/editions/2020/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "d5de41b9e8601a4f8eb99cde9a3fc4681db64716fca04ca8126d1202958e53cb",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/d5de41b9e8601a4f.html.gz"
+  },
+  "https://www.imo-official.org/editions/2021/": {
+    "original_url": "https://www.imo-official.org/editions/2021/",
+    "final_url": "https://www.imo-official.org/editions/2021/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "dd354b776080bec27293877a63f3542dae8b81bea8c7e35538620ce5a859ea50",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/dd354b776080bec2.html.gz"
+  },
+  "https://www.imo-official.org/editions/2023/": {
+    "original_url": "https://www.imo-official.org/editions/2023/",
+    "final_url": "https://www.imo-official.org/editions/2023/",
+    "retrieved_at": "2026-07-11T15:19:29+00:00",
+    "content_hash": "a9df3073d2dead67231faf7dc75d1c31aaa75e26266395041a3d5cbc5449a14d",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/a9df3073d2dead67.html.gz"
+  },
+  "https://www.imo-official.org/editions/2024/": {
+    "original_url": "https://www.imo-official.org/editions/2024/",
+    "final_url": "https://www.imo-official.org/editions/2024/",
+    "retrieved_at": "2026-07-11T15:19:30+00:00",
+    "content_hash": "78866b25fa5481d90e6b86969be965bae75cc7bb6718c08bf5ea0824a977c4e9",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/78866b25fa5481d9.html.gz"
+  },
+  "https://www.imo-official.org/editions/2025/": {
+    "original_url": "https://www.imo-official.org/editions/2025/",
+    "final_url": "https://www.imo-official.org/editions/2025/",
+    "retrieved_at": "2026-07-11T15:19:30+00:00",
+    "content_hash": "0bb23134f9b8d5b30dc32b09da8b473654eb5e807fb4f47a640609cf66e5c058",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/0bb23134f9b8d5b3.html.gz"
+  },
+  "https://www.seedasdan.com/en/bicc-en/": {
+    "original_url": "https://www.seedasdan.com/en/bicc-en/",
+    "final_url": "https://www.seedasdan.com/en/bicc-en/",
+    "retrieved_at": "2026-07-11T15:19:30+00:00",
+    "content_hash": "129c9fcff60ee12af51b3a2367b79b7aabad47aff0aa1b4e024ed36e04140c80",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/129c9fcff60ee12a.html.gz"
+  },
+  "https://www.seedasdan.com/en/asdan-en/": {
+    "original_url": "https://www.seedasdan.com/en/asdan-en/",
+    "final_url": "https://www.seedasdan.com/en/asdan-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "bd3a0b0c3b2ab5f2ba14802b0f50d11bd6650170f6c71a8ee7c2c68292f19c04",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/bd3a0b0c3b2ab5f2.html.gz"
+  },
+  "https://www.seedasdan.com/en/bpo1-en/": {
+    "original_url": "https://www.seedasdan.com/en/bpo1-en/",
+    "final_url": "https://www.seedasdan.com/en/bpo1-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "7d2ad16a7c37d248a8104642ff1296eb34b3f027a8fd3fb6f9dfa2b572027498",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7d2ad16a7c37d248.html.gz"
+  },
+  "https://www.seedasdan.com/en/aaptphoto-en/": {
+    "original_url": "https://www.seedasdan.com/en/aaptphoto-en/",
+    "final_url": "https://www.seedasdan.com/en/aaptphoto-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "d30ce5cf7fa50e53fb16a0ef215679e67c8c42c6461753d0f332bb8650365daa",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/d30ce5cf7fa50e53.html.gz"
+  },
+  "https://www.seedasdan.com/en/bimc-en/": {
+    "original_url": "https://www.seedasdan.com/en/bimc-en/",
+    "final_url": "https://www.seedasdan.com/en/bimc-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "7707859c5691b31ff47d97d236b3d1b0137fd3e41bc4690585aa37dc670ef69e",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7707859c5691b31f.html.gz"
+  },
+  "https://www.seedasdan.com/en/esuypsc-en/": {
+    "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
+    "final_url": "https://www.seedasdan.com/en/esuypsc-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "539a8b60809796c078e78d7fb8f387aff3225fa07fd3c8b95c601a70fc9ec4af",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/539a8b60809796c0.html.gz"
+  },
+  "https://www.seedasdan.com/en/lcelc-en/": {
+    "original_url": "https://www.seedasdan.com/en/lcelc-en/",
+    "final_url": "https://www.seedasdan.com/en/lcelc-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "daa52eafb2c79e512953f62c0df9d29d30756e1ef39a2834050078b0fdbfd866",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/daa52eafb2c79e51.html.gz"
+  },
+  "https://www.seedasdan.com/en/hippo-en/": {
+    "original_url": "https://www.seedasdan.com/en/hippo-en/",
+    "final_url": "https://www.seedasdan.com/en/hippo-en/",
+    "retrieved_at": "2026-07-11T15:19:31+00:00",
+    "content_hash": "b1d128536e9f62bc6d3c01fd844a044ddae63f5932adb1454a5101b2223e91e7",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/b1d128536e9f62bc.html.gz"
+  },
+  "https://www.seedasdan.com/en/mu-economics-en/": {
+    "original_url": "https://www.seedasdan.com/en/mu-economics-en/",
+    "final_url": "https://www.seedasdan.com/en/mu-economics-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "ea04b4e852f71fd4f5dac3cae96bde3c3b05b443021660094c570aad37a15bf8",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/ea04b4e852f71fd4.html.gz"
+  },
+  "https://www.seedasdan.com/en/quillandscroll-en/": {
+    "original_url": "https://www.seedasdan.com/en/quillandscroll-en/",
+    "final_url": "https://www.seedasdan.com/en/quillandscroll-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "c1fe55c3f095f85fa062fa0d3e5b6a679d6010711b7a604276f88f8d4e7b1fd1",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c1fe55c3f095f85f.html.gz"
+  },
+  "https://www.seedasdan.com/en/mimas-en/": {
+    "original_url": "https://www.seedasdan.com/en/mimas-en/",
+    "final_url": "https://www.seedasdan.com/en/mimas-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "36bb4af8309abfac6d169cfb99bbfcd3e451ec337ab0b2aa6383c896c670178b",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/36bb4af8309abfac.html.gz"
+  },
+  "https://www.seedasdan.com/en/lym-en/": {
+    "original_url": "https://www.seedasdan.com/en/lym-en/",
+    "final_url": "https://www.seedasdan.com/en/lym-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "18806d484f9f2830df874c7ef1e450086355012f23e239f85747189c3d78707f",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/18806d484f9f2830.html.gz"
+  },
+  "https://www.seedasdan.com/en/nimc-en/": {
+    "original_url": "https://www.seedasdan.com/en/nimc-en/",
+    "final_url": "https://www.seedasdan.com/en/nimc-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "f99a530a46f43e6c7fe8edb3d4a51157a92274b7d8f26e8c1d985bb409eb7022",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/f99a530a46f43e6c.html.gz"
+  },
+  "https://www.seedasdan.com/en/spc-en/": {
+    "original_url": "https://www.seedasdan.com/en/spc-en/",
+    "final_url": "https://www.seedasdan.com/en/spc-en/",
+    "retrieved_at": "2026-07-11T15:19:32+00:00",
+    "content_hash": "8e00eaec47bb7364936a07f5fc65b77405993f949b5145fca5a5c7e6b2754f61",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/8e00eaec47bb7364.html.gz"
+  },
+  "https://www.seedasdan.com/en/teen-en/": {
+    "original_url": "https://www.seedasdan.com/en/teen-en/",
+    "final_url": "https://www.seedasdan.com/en/teen-en/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "5d338b03b4d3509a4099aefba4b694ff62e5152f5dc0fae3545c5f069106ddbb",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/5d338b03b4d3509a.html.gz"
+  },
+  "https://www.seedasdan.com/en/scl-en/": {
+    "original_url": "https://www.seedasdan.com/en/scl-en/",
+    "final_url": "https://www.seedasdan.com/en/scl-en/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "a56eecd587f1adb15a405cd6be4fb122d1fbb0d92e135e30137bf43ed8a49dd3",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/a56eecd587f1adb1.html.gz"
+  },
+  "https://www.seedasdan.com/en/shakespeare-en/": {
+    "original_url": "https://www.seedasdan.com/en/shakespeare-en/",
+    "final_url": "https://www.seedasdan.com/en/shakespeare-en/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "bb2f5870ffd37bbee9880be7457030e1fd71fae8c316b08a785cc3788899278c",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/bb2f5870ffd37bbe.html.gz"
+  },
+  "https://www.seedasdan.com/en/wsc-en/": {
+    "original_url": "https://www.seedasdan.com/en/wsc-en/",
+    "final_url": "https://www.seedasdan.com/en/wsc-en/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "2d251f11035716166f8ec3f91c59d94be0e9b423099bb93c2949cb0f1c1d6aa9",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/2d251f1103571616.html.gz"
+  },
+  "https://www.seedasdan.com/en/yis-eng/": {
+    "original_url": "https://www.seedasdan.com/en/yis-eng/",
+    "final_url": "https://www.seedasdan.com/en/yis-eng/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "fbc93926200820dba47beb0ae1e26797c2fc16bef65d7674cfa4ccb10346659b",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/fbc93926200820db.html.gz"
+  },
+  "https://www.seedasdan.asia/en/": {
+    "original_url": "https://www.seedasdan.asia/en/",
+    "final_url": "https://www.seedasdan.asia/en/",
+    "retrieved_at": "2026-07-11T15:19:33+00:00",
+    "content_hash": "016401afad4d6e43b5f0401329630e2e9b3f86f240bc83e00766dcf554e61059",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.asia/016401afad4d6e43.html.gz"
+  }
+}

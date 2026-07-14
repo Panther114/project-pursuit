@@ -1,0 +1,313 @@
+{
+  "id": "mass-contest-libf-student-investor-challenge",
+  "canonical_name": "LIBF Student Investor Challenge",
+  "name_zh": "",
+  "name_en": "LIBF Student Investor Challenge",
+  "type": "competition",
+  "subject_tags": [
+    "Finance",
+    "Investment"
+  ],
+  "category": "Student Investor Challenge",
+  "organizer": "London Institute of Banking & Finance",
+  "region": "Mainland China / International",
+  "region_tier": "international_only",
+  "country": "United Kingdom",
+  "city": null,
+  "format": "online",
+  "date_text": "A current active cycle was not verified.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "United Kingdom school students historically formed teams of four for the virtual investment competition.",
+  "eligible_grades": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "Several months of virtual portfolio management followed by semifinal or final activities.",
+  "description": "United Kingdom school investment simulation in which teams manage a virtual portfolio.",
+  "website_url": "https://www.libf.ac.uk/study/financial-education/student-investor-challenge",
+  "confidence": "partially_verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "The program has historical official documentation; current operating status requires review.",
+  "sources": [
+    {
+      "source_file": "china_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "LIBF Student Investor Challenge",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "http://www.seedasdan.org/en/libf-en/",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "international_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "LIBF Student Investor Challenge Date: 11th April 2021 Application Deadline: 28th March",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "http://www.seedasdan.org/en/libf-en/",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-libf-student-investor-challenge",
+      "raw_excerpt": "The program has historical official documentation; current operating status requires review.",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-libf-student-investor-challenge]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-libf-student-investor-challenge-e1",
+      "url": "http://www.seedasdan.org/en/libf-en/",
+      "publisher": "mass-china-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:08:51+00:00",
+      "source_id": "mass-china-competitions-1",
+      "note": "Official organizer page or ASEEDER catalog page."
+    },
+    {
+      "evidence_id": "mass-contest-libf-student-investor-challenge-e2",
+      "url": "http://www.seedasdan.org/en/libf-en/",
+      "publisher": "mass-international-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "source_id": "mass-international-competitions-1",
+      "note": "Official current page title and URL used."
+    },
+    {
+      "evidence_id": "research-mass-contest-libf-student-investor-challenge-1",
+      "url": "https://www.libf.ac.uk/study/financial-education/student-investor-challenge",
+      "publisher": "London Institute of Banking & Finance",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: United Kingdom school investment simulation in which teams manage a virtual portfolio. Eligibility: United Kingdom school students historically formed teams of four for the virtual investment competition. Format: Several months of virtual portfolio management followed by semifinal or final activities."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "country": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-libf-student-investor-challenge-e1",
+        "mass-contest-libf-student-investor-challenge-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-libf-student-investor-challenge-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Team prizes and financial-education recognition.",
+  "china_participation_route": "No verified China route; the program was UK-focused.",
+  "review_conflicts": [],
+  "review_missing_fields": [
+    "city",
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.label",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}

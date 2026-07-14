@@ -1,0 +1,289 @@
+{
+  "id": "summer-usc-summer-programs",
+  "canonical_name": "USC Summer Programs",
+  "name_en": "USC Summer Programs",
+  "type": "summer_program",
+  "subject_tags": [
+    "Multiple"
+  ],
+  "category": "Multiple",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "June- July, 2024",
+  "deadline_text": "April, 2024",
+  "deadline_date": null,
+  "website_url": "https://summerprograms.usc.edu/",
+  "description": "USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "35",
+      "raw_excerpt": "USC Summer Programs USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses. Multiple US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "46c969f530f2035c.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page.",
+      "extracted_at": "2026-07-11T12:17:07+00:00",
+      "source_id": "luna-38b2094cdb14",
+      "original_url": "https://precollege.usc.edu/summer-programs/",
+      "snapshot_path": "data/snapshots/review-evidence/precollege.usc.edu/46c969f530f2035c.html.gz",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "content_hash": "46c969f530f2035cd808c2cc955f619e4c58258bdebe616912a8b4bea9d45852",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-usc-summer-programs-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "USC Summer Programs USC Summer Programs extends a tradition of excellence to outstanding high school students through a diverse offering of 4-week summer courses. Multiple US In person"
+    },
+    {
+      "evidence_id": "luna-38b2094cdb14",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-f4286a61bc06",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-abb536a45e17",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-e32d352fa49d",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-33518123c797",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-8e88eeb05e73",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-106be0ff0f1b",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-203f762f0463",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    },
+    {
+      "evidence_id": "luna-42a108bfb950",
+      "url": "https://precollege.usc.edu/summer-programs/",
+      "publisher": "University of Southern California",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:17:07+00:00",
+      "note": "Live USC Summer Programs homepage confirms identity and active existence despite the access challenge page."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-38b2094cdb14"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-f4286a61bc06"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-usc-summer-programs-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-usc-summer-programs-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-abb536a45e17"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-e32d352fa49d"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-33518123c797"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-8e88eeb05e73"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-106be0ff0f1b"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-203f762f0463"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-42a108bfb950"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

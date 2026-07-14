@@ -8,7 +8,17 @@
     "build": "tsc && vite build",
     "preview": "vite preview --host 127.0.0.1",
     "test": "vitest run",
-    "import:sources": "python scripts/import_sources.py"
+    "import:sources": "python scripts/import_sources.py",
+    "refresh:sources": "python scripts/import_sources.py --refresh-online",
+    "validate:sources": "python scripts/import_sources.py --validate-only",
+    "test:importer": "python -m unittest scripts.test_import_sources",
+    "review:prepare": "python scripts/review_candidates.py --prepare",
+    "review:promote": "python scripts/review_candidates.py --submission data/reviews/submission.json --refresh-evidence",
+    "review:apply-batches": "python scripts/apply_review_batches.py --refresh-evidence",
+    "snapshot:mass-sources": "python scripts/snapshot_mass_sources.py",
+    "discover:wikipedia": "python scripts/discover_wikipedia_competitions.py",
+    "export:research-queue": "python scripts/export_competition_research_queue.py",
+    "import:completed-research": "python scripts/import_completed_research.py"
   },
   "dependencies": {
     "@vitejs/plugin-react": "^4.3.4",

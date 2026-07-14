@@ -14,6 +14,8 @@ This directory contains the project’s maintainable product, design, data, veri
 - [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) — normalized opportunity and source fields, types, and confidence labels.
 - [`IMPORT_WORKFLOW.md`](IMPORT_WORKFLOW.md) — repeatable source import process and parser notes.
 - [`VERIFICATION_POLICY.md`](VERIFICATION_POLICY.md) — source priority, UI provenance requirements, and motion policy.
+- [`ONLINE_SOURCES.md`](ONLINE_SOURCES.md) — official-source registry, authority, adapters, and maintenance.
+- [`REVIEW_WORKFLOW.md`](REVIEW_WORKFLOW.md) — low-cost agent review queue, promotion gates, and unverified retention.
 
 ## Development
 

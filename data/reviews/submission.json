@@ -1,0 +1,72 @@
+[
+  {
+    "candidate_url": "https://www.seedasdan.com/en/mithksc-en/",
+    "canonical_name": "MIT Hong Kong Innovation Node Summer Academy",
+    "organizer": "ASEEDER in collaboration with MIT Hong Kong Innovation Node / MIT Game Lab",
+    "type": "summer academy",
+    "subject_tags": ["game design", "computer science", "engineering", "innovation"],
+    "region": "Hong Kong", "region_tier": null, "country": "China", "city": "Hong Kong", "format": "in-person",
+    "eligibility_text": "Students aged 15-18; English proficiency equivalent to IELTS 6.0 / TOEFL 80, with interview fallback if unmet.",
+    "eligible_grades": null, "eligible_ages": "15-18", "languages": ["English"], "team_mode": "individual",
+    "date_text": "Jul.19 - Jul.25, 2026 (7 Days)", "deadline_text": null, "deadline_date": null,
+    "start_date": "2026-07-19", "end_date": "2026-07-25", "current_cycle_status": "upcoming",
+    "cost_text": "Includes tuition, lunches, group leader support, insurance, and materials; excludes travel, accommodation, and personal meals.",
+    "cost_amount": null, "cost_currency": null, "time_commitment": "7 days", "difficulty_level": null,
+    "recognition_level": "high", "description": "Hands-on MIT-linked summer academy focused on game design and creation in Hong Kong.",
+    "website_url": "https://www.seedasdan.com/en/mithksc-en/", "evidence_urls": ["https://www.seedasdan.com/en/mithksc-en/"],
+    "evidence_notes": "Official page supports identity, location, dates, age band, English requirements, fee inclusions/exclusions, and description.",
+    "reviewed_at": "2026-07-11T00:00:00+08:00", "reviewer_confidence": "verified"
+  },
+  {
+    "candidate_url": "https://www.seedasdan.com/en/ocsz-en/",
+    "canonical_name": "Oxford STEM Summer School (Suzhou)",
+    "organizer": "ASEEDER in partnership with Oxford Suzhou Centre for Advanced Research (OSCAR)",
+    "type": "summer school", "subject_tags": ["STEM", "biotechnology", "medical engineering", "optoelectronics", "energy"],
+    "region": "Suzhou", "region_tier": null, "country": "China", "city": "Suzhou", "format": "in-person",
+    "eligibility_text": "Applicants must be at least 16 years old by July 20, 2026 and have good English reading skills.",
+    "eligible_grades": null, "eligible_ages": "16+", "languages": ["English", "Chinese"], "team_mode": "individual",
+    "date_text": "July 20-29, 2026", "deadline_text": null, "deadline_date": null, "start_date": "2026-07-20", "end_date": "2026-07-29",
+    "current_cycle_status": "upcoming", "cost_text": "Includes tuition, certificates, facilities, laboratory equipment, group leader service, and insurance; excludes transport, food, and accommodation.",
+    "cost_amount": null, "cost_currency": null, "time_commitment": "10 days", "difficulty_level": null,
+    "recognition_level": "high", "description": "STEM summer school at OSCAR in Suzhou with laboratory work and English academic outputs.",
+    "website_url": "https://www.seedasdan.com/en/ocsz-en/", "evidence_urls": ["https://www.seedasdan.com/en/ocsz-en/"],
+    "evidence_notes": "Official page supports identity, location, dates, age eligibility, language, fee inclusions/exclusions, and description.",
+    "reviewed_at": "2026-07-11T00:00:00+08:00", "reviewer_confidence": "verified"
+  },
+  {
+    "candidate_url": "https://ma.seedasdan.com/en/creality-en/", "canonical_name": "CREALITY 3D Modeling & Automotive Printing",
+    "organizer": "ASEEDER in collaboration with CREALITY", "type": "career exploration program",
+    "subject_tags": ["3D printing", "industrial design", "mechanical engineering", "materials science"],
+    "region": "Shenzhen", "region_tier": null, "country": "China", "city": "Shenzhen", "format": "in-person",
+    "eligibility_text": "Grade 9-12.", "eligible_grades": "9-12", "eligible_ages": null, "languages": ["Chinese"], "team_mode": "team-based",
+    "date_text": "July 19-25, 2026", "deadline_text": null, "deadline_date": null, "start_date": "2026-07-19", "end_date": "2026-07-25",
+    "current_cycle_status": "upcoming", "cost_text": null, "cost_amount": null, "cost_currency": null, "time_commitment": "7 days",
+    "difficulty_level": null, "recognition_level": "high", "description": "Hands-on 3D modeling and automotive printing program.",
+    "website_url": "https://ma.seedasdan.com/en/creality-en/", "evidence_urls": ["https://ma.seedasdan.com/en/creality-en/"],
+    "evidence_notes": "Fee details were not visible.", "reviewed_at": "2026-07-11T00:00:00+08:00", "reviewer_confidence": "insufficient_evidence"
+  },
+  {
+    "candidate_url": "https://ma.seedasdan.com/en/ifish-en/", "canonical_name": "Innovative Design of Underwater Robots and Ocean Exploration",
+    "organizer": "ASEEDER with Fablab, Shenzhen Open Innovation Laboratory, and CHASING", "type": "career exploration program",
+    "subject_tags": ["robotics", "marine technology", "mechanical engineering"], "region": "Shenzhen", "region_tier": null,
+    "country": "China", "city": "Shenzhen", "format": "in-person", "eligibility_text": null, "eligible_grades": null,
+    "eligible_ages": null, "languages": ["Chinese"], "team_mode": "team-based", "date_text": "July 10-16, 2026",
+    "deadline_text": null, "deadline_date": null, "start_date": "2026-07-10", "end_date": "2026-07-16", "current_cycle_status": "current",
+    "cost_text": null, "cost_amount": null, "cost_currency": null, "time_commitment": "7 days", "difficulty_level": null,
+    "recognition_level": "high", "description": "Hands-on underwater robotics and ocean exploration program.",
+    "website_url": "https://ma.seedasdan.com/en/ifish-en/", "evidence_urls": ["https://ma.seedasdan.com/en/ifish-en/"],
+    "evidence_notes": "Eligibility and fee details were not exposed.", "reviewed_at": "2026-07-11T00:00:00+08:00", "reviewer_confidence": "insufficient_evidence"
+  },
+  {
+    "candidate_url": "https://ma.seedasdan.com/en/aicloud-en/", "canonical_name": "AITIC Big Data Analysis & Artificial Intelligence",
+    "organizer": "ASEEDER in collaboration with Alibaba Cloud", "type": "career exploration program",
+    "subject_tags": ["artificial intelligence", "big data", "cloud computing", "data analytics"], "region": "Hangzhou", "region_tier": null,
+    "country": "China", "city": "Hangzhou", "format": "in-person", "eligibility_text": "Grade 9-12.", "eligible_grades": "9-12",
+    "eligible_ages": null, "languages": ["Chinese"], "team_mode": "team-based", "date_text": "July 30-August 5, 2026",
+    "deadline_text": null, "deadline_date": null, "start_date": "2026-07-30", "end_date": "2026-08-05", "current_cycle_status": "upcoming",
+    "cost_text": null, "cost_amount": null, "cost_currency": null, "time_commitment": "7 days", "difficulty_level": null,
+    "recognition_level": "high", "description": "Hangzhou AI and big-data program with Alibaba Cloud.",
+    "website_url": "https://ma.seedasdan.com/en/aicloud-en/", "evidence_urls": ["https://ma.seedasdan.com/en/aicloud-en/"],
+    "evidence_notes": "Fee details were not visible.", "reviewed_at": "2026-07-11T00:00:00+08:00", "reviewer_confidence": "insufficient_evidence"
+  }
+]

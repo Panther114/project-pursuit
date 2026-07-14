@@ -1,0 +1,290 @@
+{
+  "id": "summer-ross-mathematics-program",
+  "canonical_name": "Ross Mathematics Program",
+  "name_en": "Ross Mathematics Program",
+  "type": "summer_program",
+  "subject_tags": [
+    "Mathematics",
+    "Arts"
+  ],
+  "category": "STEM",
+  "region": "US",
+  "format": "in_person",
+  "date_text": "June- July , 2024",
+  "deadline_text": "March,2024",
+  "deadline_date": null,
+  "website_url": "https://rossprogram.org/",
+  "description": "The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-11",
+  "sources": [
+    {
+      "source_file": "2024 Summer_Programs.xlsx",
+      "source_type": "xlsx",
+      "page_or_sheet": "工作表 1 - Summer Programs",
+      "row_or_text_ref": "23",
+      "raw_excerpt": "Ross Mathematics Program The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery. STEM US In person",
+      "extracted_at": "2026-07-09T04:44:22+00:00"
+    },
+    {
+      "source_file": "b5d809b0b2a4ce73.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "review evidence",
+      "row_or_text_ref": "canonical_name",
+      "raw_excerpt": "Live program homepage confirms identity and active existence.",
+      "extracted_at": "2026-07-11T12:16:54+00:00",
+      "source_id": "luna-9c2a399f5326",
+      "original_url": "https://rossprogram.org/",
+      "snapshot_path": "data/snapshots/review-evidence/rossprogram.org/b5d809b0b2a4ce73.html.gz",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "content_hash": "b5d809b0b2a4ce7383ad636bc1568b88694037b12e7d61aa8e575fec55ff2b2c",
+      "extraction_locator": "Luna batch field: canonical_name"
+    }
+  ],
+  "schema_version": 1,
+  "publication_status": "official_verified",
+  "evidence": [
+    {
+      "evidence_id": "summer-ross-mathematics-program-e1",
+      "url": null,
+      "publisher": "2024 Summer_Programs.xlsx",
+      "authority": "school",
+      "retrieved_at": "2026-07-09T04:44:22+00:00",
+      "source_id": null,
+      "note": "Ross Mathematics Program The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery. STEM US"
+    },
+    {
+      "evidence_id": "luna-9c2a399f5326",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-be1cfbf112ce",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-2e247688ef06",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-3989be5f2b26",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-77b395e64ddd",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-39130f822dcf",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-377e8a9fcbf8",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-8cb59fac6e6e",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    },
+    {
+      "evidence_id": "luna-8eba8b941d26",
+      "url": "https://rossprogram.org/",
+      "publisher": "Ross Mathematics Program",
+      "authority": "official",
+      "retrieved_at": "2026-07-11T12:16:54+00:00",
+      "note": "Live program homepage confirms identity and active existence."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-9c2a399f5326"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-be1cfbf112ce"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-ross-mathematics-program-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "summer-ross-mathematics-program-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-2e247688ef06"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-3989be5f2b26"
+      ]
+    },
+    "region_tier": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-77b395e64ddd"
+      ]
+    },
+    "date_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-39130f822dcf"
+      ]
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-377e8a9fcbf8"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-8cb59fac6e6e"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "luna-8eba8b941d26"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "missing",
+      "evidence_ids": []
+    }
+  },
+  "verification_note": "Identity and factual fields reviewed through the Luna evidence pipeline; blank fields were not inferred."
+}

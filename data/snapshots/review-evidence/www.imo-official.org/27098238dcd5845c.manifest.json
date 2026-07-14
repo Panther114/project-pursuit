@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.imo-official.org/editions/2019/",
+  "final_url": "https://www.imo-official.org/editions/2019/",
+  "retrieved_at": "2026-07-11T15:19:29+00:00",
+  "content_hash": "27098238dcd5845c9c3f8ce1b9a53afd8b338c37bf4db06a84194969ad923e96",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/27098238dcd5845c.html.gz"
+}

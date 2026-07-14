@@ -1,0 +1,284 @@
+{
+  "id": "mass-contest-young-scientist-and-technology-exhibition",
+  "canonical_name": "Stripe Young Scientist and Technology Exhibition",
+  "name_zh": "",
+  "name_en": "Stripe Young Scientist and Technology Exhibition",
+  "type": "competition",
+  "subject_tags": [
+    "Scientific research",
+    "Engineering"
+  ],
+  "category": "Science Exhibition",
+  "organizer": "Young Scientist & Technology Exhibition charity",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "Ireland",
+  "city": "Dublin",
+  "format": "in_person",
+  "date_text": "The 2026 exhibition was held in Dublin in January 2026.",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "Second-level students in Ireland enter individual or group science and technology projects in junior, intermediate, or senior levels.",
+  "eligible_grades": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
+  "eligible_ages": [],
+  "languages": [
+    "English",
+    "Irish"
+  ],
+  "team_mode": "either",
+  "cost_text": "",
+  "time_commitment": "Project application and development followed by a three-day judged public exhibition for selected entries.",
+  "description": "Annual Irish secondary-school science and technology project competition and public exhibition at the Royal Dublin Society.",
+  "website_url": "https://stripeyste.com/",
+  "confidence": "partially_verified",
+  "last_verified_at": "2026-07-12",
+  "publication_status": "partially_verified",
+  "verification_note": "The supplied generic title was resolved to Ireland’s Young Scientist and Technology Exhibition, title-sponsored by Stripe from 2026.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Young Scientist and Technology Exhibition",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/Young_Scientist_and_Technology_Exhibition",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "competition_research_completed.json",
+      "source_type": "structured_review",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "mass-contest-young-scientist-and-technology-exhibition",
+      "raw_excerpt": "The supplied generic title was resolved to Ireland’s Young Scientist and Technology Exhibition, title-sponsored by Stripe from 2026.",
+      "extracted_at": "2026-07-12T09:25:29+00:00",
+      "source_id": "competition-research-completed-v1",
+      "snapshot_path": "data/reviews/competition_research_completed.json",
+      "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
+      "extraction_locator": "records[record_id=mass-contest-young-scientist-and-technology-exhibition]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-young-scientist-and-technology-exhibition-e1",
+      "url": "https://en.wikipedia.org/wiki/Young_Scientist_and_Technology_Exhibition",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-11T15:31:04+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "evidence_id": "research-mass-contest-young-scientist-and-technology-exhibition-1",
+      "url": "https://stripeyste.com/",
+      "publisher": "Young Scientist & Technology Exhibition charity",
+      "authority": "official",
+      "retrieved_at": "2026-07-12",
+      "source_id": "competition-research-completed-v1",
+      "note": "Paraphrase of the cited source: Annual Irish secondary-school science and technology project competition and public exhibition at the Royal Dublin Society. Eligibility: Second-level students in Ireland enter individual or group science and technology projects in junior, intermediate, or senior levels. Format: Project application and development followed by a three-day judged public exhibition for selected entries."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "research-mass-contest-young-scientist-and-technology-exhibition-1"
+      ]
+    }
+  },
+  "eligible_curricula": [],
+  "cost_amount": null,
+  "cost_currency": null,
+  "awards_and_recognition": "Overall Young Scientist title, category and age-level prizes, display awards, highly commended recognition, and advancement opportunities to European science competitions.",
+  "china_participation_route": "No China route; eligibility is centered on students attending second-level schools in Ireland.",
+  "review_conflicts": [
+    "The sponsor changed from BT Ireland to Stripe for 2026; the competition is owned and governed by the YSTE charity."
+  ],
+  "review_missing_fields": [
+    "eligible_ages",
+    "eligible_curricula",
+    "cycle.registration_deadline",
+    "cycle.start_date",
+    "cycle.end_date",
+    "cost.text",
+    "cost.amount",
+    "cost.currency"
+  ]
+}
