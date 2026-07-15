@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Indonesian school students qualify through district, provincial, and national selection under ministry rules.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "Indonesian"
@@ -136,8 +136,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-indonesia-national-science-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -250,6 +252,30 @@
       "evidence_ids": [
         "research-mass-contest-indonesia-national-science-olympiad-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

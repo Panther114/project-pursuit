@@ -1,0 +1,230 @@
+{
+  "id": "mass-contest-for-inspiration-and-recognition-of-science-and-technology",
+  "canonical_name": "For Inspiration and Recognition of Science and Technology",
+  "name_zh": "",
+  "name_en": "For Inspiration and Recognition of Science and Technology",
+  "type": "competition",
+  "subject_tags": [
+    "Engineering",
+    "Robotics"
+  ],
+  "category": "Robotics competitions",
+  "organizer": "",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "eligible_grades": null,
+  "eligible_ages": null,
+  "languages": null,
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "For Inspiration and Recognition of Science and Technology (FIRST) is an international youth organization that operates the FIRST Robotics Competition, FIRST Tech Challenge, FIRST Lego League Challenge, FIRST Lego League Explore, and FIRST Lego League Discover competitions. Founded by Dean Kamen and Woodie Flowers in 1989, its expressed goal is to develop ways to inspire students in engineering and technology fields. Its philosophy is expressed by the organization as Coopertition and Gracious Professionalism. FIRST also operates FIRST Place, a research facility at FIRST headquarters in Manchester, New Hampshire, where it holds educational programs and day camps for students and teachers.",
+  "website_url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "publication_status": "unverified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "For Inspiration and Recognition of Science and Technology",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1",
+      "url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-for-inspiration-and-recognition-of-science-and-technology-e1"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.seedasdan.com/en/shakespeare-en/",
+  "final_url": "https://www.seedasdan.com/en/shakespeare-en/",
+  "retrieved_at": "2026-07-14T10:01:19+00:00",
+  "content_hash": "53435d25e93d9bd5013c9afbe7d6c5772a5c8610ff487e72b4ba98741b4520a4",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/53435d25e93d9bd5.html.gz"
+}

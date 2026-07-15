@@ -29,6 +29,9 @@
   "time_commitment": "unknown",
   "description": "",
   "website_url": "https://volunteer.seedasdan.com/en/volunteer-en/",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
   "confidence": "partially_verified",
   "last_verified_at": null,
   "publication_status": "partially_verified",
@@ -40,10 +43,10 @@
       "page_or_sheet": "web research",
       "row_or_text_ref": "Qionghai, Hainan Rural Education Support",
       "raw_excerpt": "Official organizer page or official catalog reference.",
-      "extracted_at": "2026-07-11T15:16:38+00:00",
+      "extracted_at": "2026-07-14T08:46:27+00:00",
       "source_id": "mass-programs-1",
       "original_url": "https://volunteer.seedasdan.com/en/volunteer-en/",
-      "retrieved_at": "2026-07-11T15:16:38+00:00",
+      "retrieved_at": "2026-07-14T08:46:27+00:00",
       "extraction_locator": "mass discovery artifact"
     }
   ],
@@ -54,7 +57,7 @@
       "url": "https://volunteer.seedasdan.com/en/volunteer-en/",
       "publisher": "mass-programs-1",
       "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-11T15:16:38+00:00",
+      "retrieved_at": "2026-07-14T08:46:27+00:00",
       "source_id": "mass-programs-1",
       "note": "Official organizer page or official catalog reference."
     }

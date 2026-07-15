@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.iymc.info/",
+  "final_url": "https://www.iymc.info/en/language",
+  "retrieved_at": "2026-07-14T10:01:12+00:00",
+  "content_hash": "d8c42d43e02d494b91b17c234fd804d47568b23301df2fa20abf93edbac28897",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.iymc.info/d8c42d43e02d494b.html.gz"
+}

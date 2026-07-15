@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-robocupjunior",
   "canonical_name": "RoboCupJunior",
-  "name_zh": "",
+  "name_zh": "RoboCupJunior 机器人杯青少年组",
   "name_en": "RoboCupJunior",
   "type": "competition",
   "subject_tags": [
@@ -20,9 +20,14 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students participate in age-appropriate Junior leagues through an official regional or national RoboCup organization.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [
     19
   ],
@@ -30,14 +35,14 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "A season of robot design and programming followed by regional, national, and world events for qualifiers.",
+  "cost_text": "Team travel + registration",
+  "time_commitment": "high",
   "description": "International student robotics program with Soccer, Rescue, and OnStage leagues reached through regional and national events.",
   "website_url": "https://junior.robocup.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -62,6 +67,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-robocupjunior]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "RoboCupJunior",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-robocupjunior]"
     }
   ],
   "schema_version": 1,
@@ -93,8 +110,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -185,8 +204,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
+      ]
     },
     "eligible_ages": {
       "status": "official",
@@ -239,8 +260,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -254,6 +277,36 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-robocupjunior-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-robocupjunior-e1"
       ]
     }
   },
@@ -276,5 +329,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Regional opens then super-regional/world."
 }

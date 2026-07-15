@@ -21,7 +21,7 @@
   "end_date": "2026-07-19",
   "current_cycle_status": "closed",
   "eligibility_text": "National delegations normally contain up to four secondary students selected through national chemistry olympiads.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English"
@@ -150,8 +150,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-chemistry-olympiad-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -162,12 +164,16 @@
       "evidence_ids": []
     },
     "start_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-chemistry-olympiad-e1"
+      ]
     },
     "end_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-chemistry-olympiad-e1"
+      ]
     },
     "current_cycle_status": {
       "status": "official",
@@ -250,6 +256,30 @@
       "evidence_ids": [
         "research-mass-contest-international-chemistry-olympiad-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

@@ -5,8 +5,7 @@
   "name_en": "Chinese Earth Science Olympiad",
   "type": "competition",
   "subject_tags": [
-    "Earth Science",
-    "Geoscience"
+    "Earth Science"
   ],
   "category": "Olympiad",
   "region": "SHSID / International",
@@ -20,7 +19,7 @@
   "preparation": "Research Essay",
   "description": "Chinese earth-science olympiad and national-selection program; the current legal organizer and stable official page were not verified.",
   "confidence": "unverified",
-  "last_verified_at": null,
+  "last_verified_at": "2026-07-15",
   "sources": [
     {
       "source_file": "SHSID2024-2025 2nd Semester Contests and Activities(2).pdf",
@@ -53,6 +52,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Chinese Earth Science Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
     }
   ],
   "schema_version": 1,
@@ -88,8 +99,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "type": {
       "status": "historical",
@@ -116,12 +129,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -154,16 +171,20 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligibility_text": {
       "status": "missing",
       "evidence_ids": []
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -174,12 +195,16 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -206,12 +231,16 @@
       ]
     },
     "description": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -222,28 +251,67 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "aliases": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-chinese-earth-science-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
-  "organizer": null,
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
+  "organizer": "China earth-science education organizers",
   "region_tier": "mainland_china",
   "country": "China",
   "city": null,
   "eligibility_text": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "eligible_curricula": [],
-  "languages": [],
+  "languages": [
+    "Chinese"
+  ],
   "team_mode": "individual",
   "current_cycle_status": "unknown",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Local fees",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "",
+  "time_commitment": "medium",
   "awards_and_recognition": null,
   "china_participation_route": null,
   "review_conflicts": [],
@@ -268,5 +336,8 @@
     "awards_and_recognition",
     "china_participation_route",
     "evidence"
-  ]
+  ],
+  "audience_scope": "national_only",
+  "route_type": "school",
+  "entry_pathway": "Mainland school/province pathway."
 }

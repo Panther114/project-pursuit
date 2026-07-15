@@ -572,6 +572,30 @@ def normalize_mass_region_tier(value: Any, region: str) -> str | None:
     return "international_only" if region else None
 
 
+def mass_evidence_matches(item: dict[str, Any], manifest: dict[str, Any] | None) -> bool:
+    """Return whether retained evidence satisfies every configured term group."""
+    if not manifest:
+        return False
+    groups = item.get("evidence_term_groups") or []
+    if not groups:
+        return True
+    snapshot_path = ROOT / manifest.get("snapshot_path", "")
+    if not snapshot_path.exists():
+        return False
+    try:
+        content = gzip.decompress(snapshot_path.read_bytes())
+    except (OSError, EOFError):
+        return False
+    # SPA pages often place their meaningful page payload in JSON script tags.
+    # Search both rendered-text candidates and the decoded source, while still
+    # requiring explicit, record-specific terms configured by the curator.
+    text = f'{html_text(content)} {unescape(content.decode("utf-8", "ignore"))}'.lower()
+    return all(
+        any(normalize_space(term).lower() in text for term in group if normalize_space(term))
+        for group in groups if isinstance(group, list) and group
+    )
+
+
 def import_mass_discovery(imported_at: str) -> list[dict[str, Any]]:
     records: list[dict[str, Any]] = []
     snapshot_index = json.loads(MASS_SNAPSHOT_INDEX.read_text(encoding="utf-8")) if MASS_SNAPSHOT_INDEX.exists() else {}
@@ -590,7 +614,8 @@ def import_mass_discovery(imported_at: str) -> list[dict[str, Any]]:
             website = item.get("website_url") or (evidence_urls[0] if evidence_urls else "")
             requested_confidence = item.get("confidence") if item.get("confidence") in {"verified", "partially_verified", "unverified"} else "unverified"
             retained = next((snapshot_index[url] for url in evidence_urls if url in snapshot_index and (ROOT / snapshot_index[url]["snapshot_path"]).exists()), None)
-            confidence = "verified" if requested_confidence == "verified" and retained else "partially_verified" if requested_confidence != "unverified" else "unverified"
+            evidence_matches = mass_evidence_matches(item, retained)
+            confidence = "verified" if requested_confidence == "verified" and retained and evidence_matches else "partially_verified" if requested_confidence != "unverified" else "unverified"
             region = normalize_space(item.get("region"))
             record = {
                 "id": f'mass-{"contest" if opportunity_type == "competition" else "program"}-{slug(name)}',
@@ -608,6 +633,8 @@ def import_mass_discovery(imported_at: str) -> list[dict[str, Any]]:
                 "team_mode": item.get("team_mode") if item.get("team_mode") in {"individual", "team", "either", "unknown"} else "unknown",
                 "cost_text": normalize_space(item.get("cost_text")), "time_commitment": item.get("time_commitment") if item.get("time_commitment") in {"low", "medium", "high", "unknown"} else "unknown",
                 "description": normalize_space(item.get("description")), "website_url": website,
+                "aliases": item.get("aliases") or [], "audience_scope": item.get("audience_scope") or "unknown",
+                "entry_pathway": normalize_space(item.get("entry_pathway")),
                 "confidence": confidence, "last_verified_at": None,
                 "publication_status": "official_verified" if confidence == "verified" else "partially_verified" if confidence != "unverified" else "unverified",
                 "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
@@ -622,7 +649,7 @@ def import_mass_discovery(imported_at: str) -> list[dict[str, Any]]:
                 record["sources"].append(source_record)
             if retained:
                 record["last_verified_at"] = retained["retrieved_at"][:10]
-                record["verification_note"] = "Official discovery evidence was retained offline; missing detail fields were not inferred."
+                record["verification_note"] = "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred." if evidence_matches else "Official evidence was retained, but configured identity or eligibility terms did not match; the record remains partially verified."
             if not record["sources"]:
                 record["sources"] = [{"source_file": path.name, "source_type": "web_reference", "page_or_sheet": "web research", "row_or_text_ref": name, "raw_excerpt": normalize_space(item.get("evidence_note"))[:900], "extracted_at": artifact_at}]
             records.append(record)

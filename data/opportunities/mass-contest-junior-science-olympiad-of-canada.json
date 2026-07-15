@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Canadian citizens aged 15 or younger compete through a two-stage selection process.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     15
   ],
@@ -288,6 +288,30 @@
       "evidence_ids": [
         "research-mass-contest-junior-science-olympiad-of-canada-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

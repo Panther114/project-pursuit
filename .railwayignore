@@ -1,0 +1,22 @@
+# Keep the Railway build context small and avoid shipping offline research assets.
+node_modules
+.git
+.playwright-cli
+.playwright-mcp
+mcps
+data/snapshots
+data/opportunities
+data/reviews
+data/reports
+data/curation
+shsid_sources
+scripts
+docs
+coverage
+.vite
+*.log
+__pycache__
+.pytest_cache
+.venv
+venv
+env

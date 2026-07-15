@@ -24,10 +24,10 @@
   "current_cycle_status": "closed",
   "eligibility_text": "Historical U.S. high-school students submitted individual or two-to-three-person team research projects.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -98,8 +98,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -132,8 +134,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -146,8 +150,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -162,8 +168,10 @@
       "evidence_ids": []
     },
     "end_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "current_cycle_status": {
       "status": "single_source",
@@ -172,12 +180,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -188,8 +200,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-siemens-competition-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -240,6 +254,30 @@
       "evidence_ids": [
         "mass-contest-siemens-competition-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

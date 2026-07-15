@@ -1,19 +1,19 @@
 {
   "id": "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2",
   "canonical_name": "GENIUS Olympiad",
-  "name_zh": "世界青少年英才奥林匹克竞赛",
+  "name_zh": "世界青少年英才奥林匹克（GENIUS）",
   "name_en": "GENIUS Olympiad",
   "type": "competition",
   "subject_tags": [
-    "Scientific research",
     "Environment",
+    "Scientific research",
     "Arts"
   ],
   "category": "Project Olympiad",
   "region": "SHSID / International",
-  "format": "in_person",
+  "format": "hybrid",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Winter/spring project submission deadlines",
   "deadline_date": null,
   "website_url": "https://geniusolympiad.org/",
   "registration_contact": "",
@@ -68,6 +68,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "GENIUS Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2]"
     }
   ],
   "schema_version": 1,
@@ -158,16 +170,22 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "format": {
       "status": "historical",
@@ -180,8 +198,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -196,8 +216,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -226,8 +248,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -262,8 +286,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -278,19 +304,49 @@
       "evidence_ids": [
         "research-contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-genius-olympiad-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
-  "organizer": "Terra Science and Education and SUNY Oswego",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
+  "organizer": "GENIUS Olympiad / Rochester partners",
   "region_tier": "international_only",
   "country": "United States",
   "city": "Oswego",
   "eligibility_text": "High-school students worldwide submit individual or team projects under category rules.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
@@ -298,13 +354,13 @@
     "English"
   ],
   "team_mode": "either",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Paid registration if accepted; travel extra",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "Project submission followed by a multi-day finalist event in Oswego, New York.",
+  "time_commitment": "high",
   "awards_and_recognition": "Grand, gold, silver, and bronze awards plus scholarships and special prizes.",
   "china_participation_route": "Students from China may submit through the global GENIUS Olympiad process and any officially recognized national fair partner.",
   "review_conflicts": [],
@@ -319,5 +375,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students."
 }

@@ -1,14 +1,14 @@
 {
   "id": "mass-contest-china-girls-mathematical-olympiad",
   "canonical_name": "China Girls’ Mathematical Olympiad",
-  "name_zh": "",
+  "name_zh": "中国女子数学奥林匹克（CGMO）",
   "name_en": "China Girls’ Mathematical Olympiad",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Olympiad",
-  "organizer": "Chinese Mathematical Society",
+  "organizer": "Chinese Mathematical Society / partners",
   "region": "International",
   "region_tier": "mainland_china",
   "country": "China",
@@ -22,10 +22,10 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Female high-school students are selected by participating national or regional teams.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -33,14 +33,14 @@
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Two days of proof-based mathematics examinations.",
+  "cost_text": "Team nomination pathway",
+  "time_commitment": "high",
   "description": "Girls’ national mathematical olympiad conducted within the Chinese mathematical-olympiad system, with invited overseas teams in some editions.",
   "website_url": "https://www.cms.org.cn/",
   "confidence": "partially_verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "The organizer site is verified, but a stable competition-specific current page was not found.",
+  "verification_note": "The organizer site is verified, but a stable competition-specific current page was not found. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -65,6 +65,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-china-girls-mathematical-olympiad]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "China Girls’ Mathematical Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-china-girls-mathematical-olympiad]"
     }
   ],
   "schema_version": 1,
@@ -96,8 +108,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -142,8 +156,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -242,8 +258,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -257,6 +275,40 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-china-girls-mathematical-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-china-girls-mathematical-olympiad-e1"
       ]
     }
   },
@@ -278,5 +330,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "CGMO"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "national_selection",
+  "entry_pathway": "Team nomination / national selection; international girl teams participate by invitation systems.",
+  "difficulty_level": "advanced"
 }

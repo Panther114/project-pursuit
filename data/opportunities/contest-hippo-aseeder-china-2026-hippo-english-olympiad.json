@@ -3,35 +3,39 @@
   "organizer": "Global Hippo Association / ASEEDER China",
   "type": "competition",
   "subject_tags": [
-    "English",
-    "Language"
+    "English"
   ],
   "category": "Language Olympiad",
   "region": "China participation route",
   "region_tier": "china_participation_route",
   "country": null,
-  "format": "hybrid",
+  "format": "in_person",
   "eligibility_text": "School-age learners enter an age or proficiency category through a national coordinator.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Multiple rounds through school year",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
-  "cost_text": "",
-  "time_commitment": "Preliminary English examination followed by semifinal and world-final stages for qualifiers.",
+  "current_cycle_status": "upcoming",
+  "cost_text": "Paid round fees",
+  "time_commitment": "medium",
   "difficulty_level": "Intermediate",
   "recognition_level": "International",
   "description": "International English-language olympiad organized in age and proficiency categories through national coordinators.",
-  "website_url": "https://hippo-olympiad.org/",
+  "website_url": "https://www.seedasdan.com/en/hippo-en/",
   "id": "contest-hippo-aseeder-china-2026-hippo-english-olympiad",
   "last_verified_at": "2026-07-12",
   "confidence": "verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-16-31+00-00.html.gz",
@@ -142,6 +146,88 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-hippo-aseeder-china-2026-hippo-english-olympiad]"
+    },
+    {
+      "source_file": "169d658ac1185916.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Hippo English Olympiad",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/hippo-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz",
+      "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df"
+    },
+    {
+      "source_file": "169d658ac1185916.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Global Youth English Challenge",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/hippo-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz",
+      "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df"
+    },
+    {
+      "source_file": "169d658ac1185916.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "2026 Hippo English Olympiad",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/hippo-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz",
+      "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df"
+    },
+    {
+      "source_file": "169d658ac1185916.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Hippo English Olympiad",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/hippo-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz",
+      "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df"
+    },
+    {
+      "source_file": "169d658ac1185916.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Hippo English Olympiad The Global Youth English (Non-native) Challenge",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/hippo-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz",
+      "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Hippo English Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-hippo-aseeder-china-2026-hippo-english-olympiad]"
     }
   ],
   "name_en": "Hippo English Olympiad",
@@ -229,8 +315,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -335,8 +423,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -369,8 +459,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -427,8 +519,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -442,6 +536,40 @@
       "status": "official",
       "evidence_ids": [
         "research-contest-hippo-aseeder-china-2026-hippo-english-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-hippo-aseeder-china-2026-hippo-english-olympiad-e1"
       ]
     }
   },
@@ -470,5 +598,9 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "name_zh": "Hippo 英语奥林匹克",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "China rounds via ASEEDER. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

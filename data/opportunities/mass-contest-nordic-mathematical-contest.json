@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Up to approximately 20 nationally selected secondary students from each Nordic country participate.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "Danish",
@@ -96,8 +96,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nordic-mathematical-contest-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -170,8 +172,10 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nordic-mathematical-contest-e1"
+      ]
     },
     "eligible_grades": {
       "status": "missing",
@@ -186,8 +190,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nordic-mathematical-contest-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -238,6 +244,30 @@
       "evidence_ids": [
         "mass-contest-nordic-mathematical-contest-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

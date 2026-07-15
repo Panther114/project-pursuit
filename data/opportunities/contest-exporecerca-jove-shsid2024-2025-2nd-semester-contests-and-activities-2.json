@@ -126,16 +126,22 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "format": {
       "status": "historical",
@@ -164,8 +170,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -192,8 +200,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -246,6 +256,30 @@
       "evidence_ids": [
         "research-contest-exporecerca-jove-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "verification_note": "Imported from the structured competition research review.",
@@ -254,7 +288,7 @@
   "country": "Spain",
   "city": "Barcelona",
   "eligibility_text": "Student researchers enter individual or group projects under the fair’s age categories.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "eligible_curricula": [],
   "languages": [

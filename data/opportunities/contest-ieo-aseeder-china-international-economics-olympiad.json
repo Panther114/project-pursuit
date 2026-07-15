@@ -3,9 +3,7 @@
   "organizer": "International Economics Olympiad / ASEEDER China",
   "type": "competition",
   "subject_tags": [
-    "Economics",
-    "Finance",
-    "Business"
+    "Economics"
   ],
   "category": "Olympiad",
   "region": "China participation route",
@@ -13,25 +11,30 @@
   "country": null,
   "format": "hybrid",
   "eligibility_text": "Teams of up to five students represent countries after national selection.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "languages": [
     "English"
   ],
-  "team_mode": "team",
+  "team_mode": "individual",
   "date_text": "The 2026 international event was announced for Shenzhen with hybrid participation; exact reviewed dates were not verified.",
-  "deadline_text": "",
+  "deadline_text": "National round registration windows before international final",
   "deadline_date": null,
-  "current_cycle_status": "closed",
-  "cost_text": "",
-  "time_commitment": "Economics examination, financial-literacy game, and team business-case presentation over a multi-day olympiad.",
-  "difficulty_level": "Advanced",
+  "current_cycle_status": "upcoming",
+  "cost_text": "Paid national-round fees via channel",
+  "time_commitment": "high",
+  "difficulty_level": "advanced",
   "recognition_level": "International olympiad",
   "description": "International olympiad for national teams featuring economics, financial-literacy, and business-case components.",
-  "website_url": "https://ieo-official.org/",
+  "website_url": "https://ecolymp.org/",
   "id": "contest-ieo-aseeder-china-international-economics-olympiad",
   "last_verified_at": "2026-07-12",
   "confidence": "verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-20-07+00-00.html.gz",
@@ -86,6 +89,46 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-ieo-aseeder-china-international-economics-olympiad]"
+    },
+    {
+      "source_file": "74d0473160ddedc6.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "International Economics Olympiad",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:27+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "retrieved_at": "2026-07-14T09:27:27+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/74d0473160ddedc6.html.gz",
+      "content_hash": "74d0473160ddedc6031f376930dfee1ffd42a5dc5c9a00c92245c5efb84c6a0c"
+    },
+    {
+      "source_file": "3bd5a2ad857abfcf.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "International Economics Olympiad",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T10:01:04+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
+      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/3bd5a2ad857abfcf.html.gz",
+      "content_hash": "3bd5a2ad857abfcfb0d7392f71a667d4cd15198135a2ce55f89e5b114ae7d2dd"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "International Economics Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-ieo-aseeder-china-international-economics-olympiad]"
     }
   ],
   "name_en": "International Economics Olympiad",
@@ -137,8 +180,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -219,8 +264,10 @@
       ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -247,8 +294,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -301,8 +350,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -316,6 +367,42 @@
       "status": "official",
       "evidence_ids": [
         "research-contest-ieo-aseeder-china-international-economics-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-ieo-aseeder-china-international-economics-olympiad-e1"
       ]
     }
   },
@@ -343,5 +430,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "name_zh": "国际经济学奥林匹克（IEO）",
+  "aliases": [
+    "IEO"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "National/online selection rounds; China route commonly via ASEEDER. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

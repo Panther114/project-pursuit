@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-international-philosophy-olympiad",
   "canonical_name": "International Philosophy Olympiad",
-  "name_zh": "",
+  "name_zh": "国际哲学奥林匹克（IPO）",
   "name_en": "International Philosophy Olympiad",
   "type": "competition",
   "subject_tags": [
@@ -9,7 +9,7 @@
     "Writing"
   ],
   "category": "Olympiad",
-  "organizer": "International Philosophy Olympiad",
+  "organizer": "IPO",
   "region": "International",
   "region_tier": "international_only",
   "country": null,
@@ -20,25 +20,26 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "closed",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Secondary students are selected through a recognized national philosophy competition; each country normally sends up to two contestants.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "languages": [
-    "English",
-    "French",
-    "German",
-    "Spanish"
+    "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "One four-hour philosophical essay examination during a multi-day event.",
+  "cost_text": "National team",
+  "time_commitment": "high",
   "description": "International philosophy essay olympiad for students selected through national competitions.",
   "website_url": "https://www.philosophy-olympiad.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -75,6 +76,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-international-philosophy-olympiad]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "International Philosophy Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-international-philosophy-olympiad]"
     }
   ],
   "schema_version": 1,
@@ -115,8 +128,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -182,8 +197,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -214,8 +231,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -267,8 +286,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -282,6 +303,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-international-philosophy-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-philosophy-olympiad-e1"
       ]
     }
   },
@@ -303,5 +356,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "IPO",
+    "International Philosophy Olympiad"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "national_selection",
+  "entry_pathway": "Entry via national selection / national olympiad pathway; not open direct individual entry for most students."
 }

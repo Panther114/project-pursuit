@@ -24,13 +24,13 @@
   "current_cycle_status": "closed",
   "eligibility_text": "Students in grades 6–12 enter individually or in small and large teams under division limits.",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -146,8 +146,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -160,16 +162,22 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "deadline_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "start_date": {
       "status": "missing",
@@ -252,18 +260,46 @@
       ]
     },
     "cost_amount": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "cost_currency": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nss-space-settlement-contest-e1"
+      ]
     },
     "time_commitment": {
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-nss-space-settlement-contest-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

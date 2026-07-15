@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Singapore citizens or permanent residents aged 15–21 who are secondary or pre-university students and have received a Gold, Silver, or Bronze award at the Singapore Science and Engineering Fair.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     15,
     16,
@@ -144,12 +144,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-a-star-talent-search-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-a-star-talent-search-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -250,18 +254,46 @@
       ]
     },
     "cost_amount": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-a-star-talent-search-e1"
+      ]
     },
     "cost_currency": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-a-star-talent-search-e1"
+      ]
     },
     "time_commitment": {
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-a-star-talent-search-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

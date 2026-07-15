@@ -22,7 +22,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Young participants approximately ages 8–20 form teams through schools, colleges, clubs, or independent groups.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     8,
     9,
@@ -151,12 +151,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-technoxian-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -267,6 +271,30 @@
       "evidence_ids": [
         "research-mass-contest-technoxian-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

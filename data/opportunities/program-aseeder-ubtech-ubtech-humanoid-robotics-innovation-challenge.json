@@ -68,32 +68,32 @@
       "extraction_locator": "https://ma.seedasdan.com/en/ubtech-en/"
     },
     {
-      "source_file": "f07d7d4dc2e876df.html.gz",
+      "source_file": "a96fda0e59737d08.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "UBTECH Humanoid Robotics Innovation Challenge",
       "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
-      "extracted_at": "2026-07-11T15:19:18+00:00",
+      "extracted_at": "2026-07-14T10:01:06+00:00",
       "source_id": "mass-china-competitions-1",
       "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
-      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "retrieved_at": "2026-07-14T10:01:06+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz",
-      "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe"
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/a96fda0e59737d08.html.gz",
+      "content_hash": "a96fda0e59737d08adeace21e931aa1ab23eda939a461257dcb148b080ce6e0d"
     },
     {
-      "source_file": "f07d7d4dc2e876df.html.gz",
+      "source_file": "a96fda0e59737d08.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "【Zhuhai】UBTECH Humanoid Robotics Innovation Challenge",
       "raw_excerpt": "Official current page title and URL used.",
-      "extracted_at": "2026-07-11T15:19:18+00:00",
+      "extracted_at": "2026-07-14T10:01:06+00:00",
       "source_id": "mass-international-competitions-1",
       "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
-      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "retrieved_at": "2026-07-14T10:01:06+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz",
-      "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe"
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/a96fda0e59737d08.html.gz",
+      "content_hash": "a96fda0e59737d08adeace21e931aa1ab23eda939a461257dcb148b080ce6e0d"
     }
   ],
   "schema_version": 1,
@@ -122,7 +122,7 @@
       "url": "https://ma.seedasdan.com/en/ubtech-en/",
       "publisher": "mass-china-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "retrieved_at": "2026-07-14T10:01:06+00:00",
       "source_id": "mass-china-competitions-1",
       "note": "Official organizer page or ASEEDER catalog page."
     },
@@ -131,7 +131,7 @@
       "url": "https://ma.seedasdan.com/en/ubtech-en/",
       "publisher": "mass-international-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-11T15:19:18+00:00",
+      "retrieved_at": "2026-07-14T10:01:06+00:00",
       "source_id": "mass-international-competitions-1",
       "note": "Official current page title and URL used."
     }

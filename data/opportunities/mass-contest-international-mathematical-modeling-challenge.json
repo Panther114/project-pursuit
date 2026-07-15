@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-international-mathematical-modeling-challenge",
   "canonical_name": "International Mathematical Modeling Challenge",
-  "name_zh": "",
+  "name_zh": "国际数学建模挑战赛（IM2C）",
   "name_en": "International Mathematical Modeling Challenge",
   "type": "competition",
   "subject_tags": [
@@ -9,39 +9,38 @@
     "Modeling"
   ],
   "category": "Mathematical Modeling Challenge",
-  "organizer": "COMAP and NeoUnion ESC Organization",
+  "organizer": "IM2C / COMAP partners",
   "region": "International",
-  "region_tier": "greater_china",
+  "region_tier": "china_participation_route",
   "country": null,
   "city": null,
   "format": "online",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Regional nomination windows after HiMCM cycle",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Teams of one to four secondary students register through a participating country or regional program.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
-    "English",
-    "Chinese"
+    "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "Up to five consecutive days to research, model, and write a report.",
+  "cost_text": "Varies by national organization",
+  "time_commitment": "high",
   "description": "International team challenge in which secondary students develop and submit a mathematical model and report within a fixed work period.",
   "website_url": "https://www.immchallenge.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -66,6 +65,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-international-mathematical-modeling-challenge]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "International Mathematical Modeling Challenge",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:46:01+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
+      "extraction_locator": "enrichment[mass-contest-international-mathematical-modeling-challenge]"
     }
   ],
   "schema_version": 1,
@@ -97,8 +108,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -161,8 +174,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -243,8 +258,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -258,6 +275,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-international-mathematical-modeling-challenge-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-mathematical-modeling-challenge-e1"
       ]
     }
   },
@@ -280,5 +329,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "IM2C",
+    "The International Mathematical Modeling Challenge"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "china_partner",
+  "entry_pathway": "Often via regional HiMCM outstanding teams or national IM2C process depending on region."
 }

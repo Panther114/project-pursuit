@@ -1,6 +1,6 @@
 {
   "canonical_name": "ESU Youth Public Speaking Competition",
-  "organizer": "English-Speaking Union",
+  "organizer": "English-Speaking Union / ASEEDER China",
   "type": "competition",
   "subject_tags": [
     "English",
@@ -18,19 +18,19 @@
   ],
   "team_mode": "individual",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Seasonal China round deadlines",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
-  "cost_text": "",
-  "time_commitment": "Prepared speech, impromptu speaking, and international final activities.",
+  "current_cycle_status": "upcoming",
+  "cost_text": "Paid channel registration",
+  "time_commitment": "medium",
   "difficulty_level": "Intermediate",
   "recognition_level": "International",
   "description": "International public-speaking competition with national selection rounds and a global final.",
-  "website_url": "https://www.esu.org/competitions/international-public-speaking-competition/",
+  "website_url": "https://www.seedasdan.com/en/esuypsc-en/",
   "id": "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition",
   "last_verified_at": "2026-07-12",
   "confidence": "verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-16-39+00-00.html.gz",
@@ -97,6 +97,32 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition]"
+    },
+    {
+      "source_file": "c54e9544ff159a0d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "ESU Youth Public Speaking Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:42+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
+      "retrieved_at": "2026-07-14T09:27:42+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c54e9544ff159a0d.html.gz",
+      "content_hash": "c54e9544ff159a0dd5bc2d84e3e0e66b64d30ac37f9a477fcc6363d55484b118"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "ESU Youth Public Speaking Competition",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition]"
     }
   ],
   "schema_version": 1,
@@ -129,12 +155,16 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     },
     "name_en": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     },
     "organizer": {
       "status": "official",
@@ -193,8 +223,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -221,8 +253,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -273,8 +307,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -289,11 +325,50 @@
       "evidence_ids": [
         "research-contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-english-speaking-union-aseeder-china-esu-youth-public-speaking-competition-e1"
+      ]
     }
   },
   "name_en": "ESU Youth Public Speaking Competition",
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_curricula": [],
   "start_date": null,
   "end_date": null,
@@ -317,5 +392,9 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "name_zh": "ESU 青年公共演讲比赛",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

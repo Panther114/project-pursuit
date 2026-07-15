@@ -4,29 +4,30 @@
   "name_en": "LanguageCert English Literacy Challenge",
   "type": "competition",
   "subject_tags": [
-    "English",
-    "Literacy"
+    "English"
   ],
   "category": "Language Challenge",
   "organizer": "LanguageCert / ASEEDER China",
   "region": "China participation route",
   "region_tier": "china_participation_route",
-  "format": "unknown",
+  "format": "hybrid",
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": null,
-  "languages": [],
+  "languages": [
+    "English"
+  ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "",
+  "cost_text": "Paid",
+  "time_commitment": "medium",
   "description": "English literacy challenge promoted in China through LanguageCert and ASEEDER.",
-  "website_url": "https://www.seedasdan.com/en/",
+  "website_url": "https://www.seedasdan.com/en/lcelc-en/",
   "confidence": "partially_verified",
   "last_verified_at": "2026-07-11",
   "publication_status": "partially_verified",
-  "verification_note": "A stable official competition page and current cycle were not verified.",
+  "verification_note": "A stable official competition page and current cycle were not verified. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-20-01+00-00.html.gz",
@@ -67,6 +68,32 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-languagecert-english-literacy-challenge-lcelc]"
+    },
+    {
+      "source_file": "5ac0cc5b6a7d4728.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "LanguageCert English Literacy Challenge",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/lcelc-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/5ac0cc5b6a7d4728.html.gz",
+      "content_hash": "5ac0cc5b6a7d4728f91e87e87f7dffc7d69843e7198f5b25339bdc057d3301d3"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "LanguageCert English Literacy Challenge",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[listing-contest-languagecert-english-literacy-challenge-lcelc]"
     }
   ],
   "schema_version": 1,
@@ -99,8 +126,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -152,8 +181,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -198,8 +229,10 @@
       "evidence_ids": []
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -210,8 +243,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "team_mode": {
       "status": "official",
@@ -225,8 +260,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -241,12 +278,16 @@
       "evidence_ids": []
     },
     "description": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -257,13 +298,50 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
+    },
+    "aliases": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-languagecert-english-literacy-challenge-lcelc-e1"
+      ]
     }
   },
   "country": "China",
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,
@@ -294,5 +372,9 @@
     "awards_and_recognition",
     "china_participation_route",
     "evidence"
-  ]
+  ],
+  "name_zh": "LanguageCert 英语素养挑战",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

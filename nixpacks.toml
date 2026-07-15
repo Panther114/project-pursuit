@@ -1,0 +1,18 @@
+# Prefer a pruned production install after the static build so the
+# running container does not keep Vite, Vitest, Playwright, or TypeScript.
+
+[phases.setup]
+nixPkgs = ["nodejs_22"]
+
+[phases.install]
+cmds = ["npm ci"]
+
+[phases.build]
+cmds = [
+  "npm run build",
+  "npm prune --omit=dev",
+  "rm -rf src scripts data shsid_sources docs mcps .playwright-cli .playwright-mcp coverage || true"
+]
+
+[start]
+cmd = "node server.mjs"

@@ -1,14 +1,14 @@
 {
   "id": "mass-contest-chinese-chemistry-olympiad",
   "canonical_name": "Chinese Chemistry Olympiad",
-  "name_zh": "",
+  "name_zh": "中国化学奥林匹克",
   "name_en": "Chinese Chemistry Olympiad",
   "type": "competition",
   "subject_tags": [
     "Chemistry"
   ],
   "category": "Olympiad",
-  "organizer": "Chinese Chemical Society",
+  "organizer": "Chinese Chemical Society pathway",
   "region": "International",
   "region_tier": "mainland_china",
   "country": "China",
@@ -22,24 +22,23 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Chinese high-school students advance through provincial and national chemistry-olympiad selection.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "Chinese"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Multiple selection stages including a national chemistry examination.",
+  "cost_text": "Selection pathway",
+  "time_commitment": "high",
   "description": "Chinese national chemistry olympiad pathway used for advanced competition and national-team selection.",
-  "website_url": "https://www.chemsoc.org.cn/",
+  "website_url": "https://www.ccs.ac.cn/",
   "confidence": "partially_verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "The organizer site is verified; current cycle details were not located on a stable competition page.",
+  "verification_note": "The organizer site is verified; current cycle details were not located on a stable competition page. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -64,6 +63,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-chinese-chemistry-olympiad]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Chinese Chemistry Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-chinese-chemistry-olympiad]"
     }
   ],
   "schema_version": 1,
@@ -95,8 +106,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -141,8 +154,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -241,8 +256,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -256,6 +273,36 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-chinese-chemistry-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-chinese-chemistry-olympiad-e1"
       ]
     }
   },
@@ -277,5 +324,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "national_only",
+  "route_type": "national_selection",
+  "entry_pathway": "Entry via national selection / national olympiad pathway; not open direct individual entry for most students."
 }

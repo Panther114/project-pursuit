@@ -29,24 +29,27 @@
   "time_commitment": "unknown",
   "description": "",
   "website_url": "https://abs.seedasdan.com/en/home-en/",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
   "confidence": "partially_verified",
-  "last_verified_at": "2026-07-11",
+  "last_verified_at": "2026-07-14",
   "publication_status": "partially_verified",
-  "verification_note": "Official discovery evidence was retained offline; missing detail fields were not inferred.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "860715c836e2f213.html.gz",
+      "source_file": "635eee8b4c7a4a9d.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "ASEEDER Business Simulation",
       "raw_excerpt": "Official organizer page or official catalog reference.",
-      "extracted_at": "2026-07-11T15:19:17+00:00",
+      "extracted_at": "2026-07-14T10:01:05+00:00",
       "source_id": "mass-programs-1",
       "original_url": "https://abs.seedasdan.com/en/home-en/",
-      "retrieved_at": "2026-07-11T15:19:17+00:00",
+      "retrieved_at": "2026-07-14T10:01:05+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/860715c836e2f213.html.gz",
-      "content_hash": "860715c836e2f2132e8a51dd1a7c07aadec3e18a58dbe04c09dfa747aec96689"
+      "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/635eee8b4c7a4a9d.html.gz",
+      "content_hash": "635eee8b4c7a4a9d4c5ff9068de814cc49d757a22d4cee94d51a74dbe85f14d2"
     }
   ],
   "schema_version": 1,
@@ -56,7 +59,7 @@
       "url": "https://abs.seedasdan.com/en/home-en/",
       "publisher": "mass-programs-1",
       "authority": "official",
-      "retrieved_at": "2026-07-11T15:19:17+00:00",
+      "retrieved_at": "2026-07-14T10:01:05+00:00",
       "source_id": "mass-programs-1",
       "note": "Official organizer page or official catalog reference."
     }

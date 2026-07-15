@@ -23,10 +23,10 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "National delegations from invited countries send high-performing secondary students.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -142,12 +142,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-master-of-mathematics-and-sciences-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-master-of-mathematics-and-sciences-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -258,6 +262,30 @@
       "evidence_ids": [
         "research-mass-contest-romanian-master-of-mathematics-and-sciences-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

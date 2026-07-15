@@ -24,10 +24,10 @@
   "current_cycle_status": "closed",
   "eligibility_text": "High-school school-based teams of four students prepare published research problems with a teacher-coach.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -143,8 +143,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-invitational-young-physicists-tournament-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -157,8 +159,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-invitational-young-physicists-tournament-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -259,6 +263,30 @@
       "evidence_ids": [
         "research-mass-contest-united-states-invitational-young-physicists-tournament-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

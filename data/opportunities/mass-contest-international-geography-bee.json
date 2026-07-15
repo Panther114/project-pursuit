@@ -1,14 +1,14 @@
 {
   "id": "mass-contest-international-geography-bee",
   "canonical_name": "International Geography Bee",
-  "name_zh": "",
+  "name_zh": "国际地理竞赛（Geography Bee）",
   "name_en": "International Geography Bee",
   "type": "competition",
   "subject_tags": [
     "Geography"
   ],
   "category": "Academic Bee",
-  "organizer": "International Academic Competitions",
+  "organizer": "International Academic Competitions / partners",
   "region": "China participation route",
   "region_tier": "china_participation_route",
   "country": null,
@@ -19,22 +19,27 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students enter individual geography-bee events in the appropriate age division through an approved regional operator.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Regional quiz events and championship rounds for qualifiers.",
+  "cost_text": "Paid event entry",
+  "time_commitment": "medium",
   "description": "Individual geography quiz competition with regional and championship pathways administered by International Academic Competitions.",
-  "website_url": "https://www.internationalgeographybee.com/",
+  "website_url": "https://www.iacompetitions.com/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -59,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-international-geography-bee]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "International Geography Bee",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-international-geography-bee]"
     }
   ],
   "schema_version": 1,
@@ -90,8 +107,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -182,8 +201,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -234,8 +255,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -249,6 +272,36 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-international-geography-bee-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-geography-bee-e1"
       ]
     }
   },
@@ -274,5 +327,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

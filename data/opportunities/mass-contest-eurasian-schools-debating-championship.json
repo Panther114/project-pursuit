@@ -21,7 +21,7 @@
   "end_date": "2026-01-19",
   "current_cycle_status": "closed",
   "eligibility_text": "School teams of three students compete under the championship’s age and school rules.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English"
@@ -136,12 +136,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-eurasian-schools-debating-championship-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-eurasian-schools-debating-championship-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -150,8 +154,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-eurasian-schools-debating-championship-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -162,12 +168,16 @@
       "evidence_ids": []
     },
     "start_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-eurasian-schools-debating-championship-e1"
+      ]
     },
     "end_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-eurasian-schools-debating-championship-e1"
+      ]
     },
     "current_cycle_status": {
       "status": "official",
@@ -250,6 +260,30 @@
       "evidence_ids": [
         "research-mass-contest-eurasian-schools-debating-championship-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

@@ -1,0 +1,287 @@
+{
+  "id": "mass-contest-first-global-challenge",
+  "canonical_name": "FIRST Global Challenge",
+  "name_zh": "",
+  "name_en": "FIRST Global Challenge",
+  "type": "competition",
+  "subject_tags": [
+    "Robotics",
+    "Engineering"
+  ],
+  "category": "National-team robotics",
+  "organizer": "FIRST Global",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "in_person",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "High-school-age students represent participating nations on one national team per country.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": null,
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
+  "cost_text": "",
+  "time_commitment": "high",
+  "description": "Annual international robotics challenge for national teams of high-school students.",
+  "website_url": "https://first.global/",
+  "aliases": [
+    "FGC"
+  ],
+  "audience_scope": "international_selection",
+  "entry_pathway": "Apply through the organization responsible for selecting the participating national team.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-14",
+  "publication_status": "official_verified",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
+  "sources": [
+    {
+      "source_file": "2882b0a4f323c4fe.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "FIRST Global Challenge",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-14T10:01:07+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://first.global/",
+      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/first.global/2882b0a4f323c4fe.html.gz",
+      "content_hash": "2882b0a4f323c4fe39a5a7560203b1825b8a857bc59224b5b0865935db00a358"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "FIRST Global Challenge",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/FIRST_Global_Challenge",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-first-global-challenge-e1",
+      "url": "https://first.global/",
+      "publisher": "mass-global-high-school-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "note": ""
+    },
+    {
+      "evidence_id": "mass-contest-first-global-challenge-e2",
+      "url": "https://en.wikipedia.org/wiki/FIRST_Global_Challenge",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-global-challenge-e1",
+        "mass-contest-first-global-challenge-e2"
+      ]
+    }
+  }
+}

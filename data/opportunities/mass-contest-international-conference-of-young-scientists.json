@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Secondary-school students present original research projects as selected national or school delegates.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English"
@@ -250,6 +250,30 @@
       "evidence_ids": [
         "research-mass-contest-international-conference-of-young-scientists-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

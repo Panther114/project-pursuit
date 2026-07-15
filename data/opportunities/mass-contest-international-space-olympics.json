@@ -22,7 +22,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Historical rules described national teams of students aged 14–18.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     14,
     15,
@@ -133,12 +133,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -147,8 +151,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -173,24 +179,30 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "eligible_grades": {
       "status": "missing",
       "evidence_ids": []
     },
     "eligible_ages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "eligible_curricula": {
       "status": "missing",
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-space-olympics-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -241,6 +253,30 @@
       "evidence_ids": [
         "mass-contest-international-space-olympics-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

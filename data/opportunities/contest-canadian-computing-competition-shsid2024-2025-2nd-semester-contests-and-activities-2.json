@@ -1,20 +1,19 @@
 {
   "id": "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2",
   "canonical_name": "Canadian Computing Competition",
-  "name_zh": "加拿大计算机竞赛",
+  "name_zh": "加拿大计算机竞赛（CCC）",
   "name_en": "Canadian Computing Competition",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Programming"
+    "Computer Science"
   ],
   "category": "Programming Contest",
   "region": "SHSID / International",
   "format": "in_person",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Winter registration for February contest",
   "deadline_date": null,
-  "website_url": "https://cemc.uwaterloo.ca/contests/ccc",
+  "website_url": "https://www.cemc.uwaterloo.ca/contests/computing.html",
   "registration_contact": "",
   "instructor_contact": "赵涛",
   "preparation": "Research Essay",
@@ -65,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Canadian Computing Competition",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2]"
     }
   ],
   "schema_version": 1,
@@ -139,12 +150,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -161,8 +176,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -177,8 +194,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -207,8 +226,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -243,8 +264,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -259,34 +282,65 @@
       "evidence_ids": [
         "research-contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-computing-competition-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
-  "organizer": "Centre for Education in Mathematics and Computing, University of Waterloo",
-  "region_tier": "international_only",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
+  "organizer": "University of Waterloo CEMC",
+  "region_tier": "china_participation_route",
   "country": "Canada",
   "city": null,
   "eligibility_text": "School students enter the Junior or Senior division through an approved contest location; international schools may participate under CEMC rules.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "languages": [
-    "English",
-    "French"
+    "English"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Paid via school/CEMC",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "One 3-hour programming contest.",
+  "time_commitment": "medium",
   "awards_and_recognition": "Certificates, rankings, and invitation to the Canadian Computing Olympiad for eligible top Canadian Senior contestants.",
   "china_participation_route": "Schools in China may register directly with CEMC as international schools when current CEMC registration rules permit.",
   "review_conflicts": [],
@@ -302,5 +356,11 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "CCC"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "school",
+  "entry_pathway": "School registration via CEMC. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

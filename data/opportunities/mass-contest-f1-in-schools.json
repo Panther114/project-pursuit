@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-f1-in-schools",
   "canonical_name": "STEM Racing",
-  "name_zh": "",
+  "name_zh": "STEM Racing（原 F1 in Schools）",
   "name_en": "STEM Racing",
   "type": "competition",
   "subject_tags": [
@@ -10,7 +10,7 @@
     "Physics"
   ],
   "category": "Engineering Competition",
-  "organizer": "STEM Racing",
+  "organizer": "STEM Racing / national organizers",
   "region": "International",
   "region_tier": "china_participation_route",
   "country": null,
@@ -21,22 +21,27 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "School teams of 3–6 students enter through a national STEM Racing organization.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "A season of CAD, manufacturing, testing, portfolio and presentation preparation followed by racing events.",
+  "cost_text": "Team package fees",
+  "time_commitment": "high",
   "description": "School engineering competition formerly branded F1 in Schools, centered on designing, manufacturing, and racing miniature cars.",
-  "website_url": "https://stemracing.com/",
+  "website_url": "https://www.stemracing.com/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -61,6 +66,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-f1-in-schools]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "STEM Racing",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-f1-in-schools]"
     }
   ],
   "schema_version": 1,
@@ -92,8 +109,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -184,8 +203,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -236,8 +257,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -251,6 +274,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-f1-in-schools-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-f1-in-schools-e1"
       ]
     }
   },
@@ -276,5 +331,11 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "F1 in Schools"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

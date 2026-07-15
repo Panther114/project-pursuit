@@ -1,13 +1,13 @@
 {
   "id": "mass-contest-conrad-challenge",
   "canonical_name": "Conrad Challenge",
-  "name_zh": "",
+  "name_zh": "康拉德创新挑战赛",
   "name_en": "Conrad Challenge",
   "type": "competition",
   "subject_tags": [
     "Scientific research",
-    "Engineering",
-    "Entrepreneurship"
+    "Entrepreneurship",
+    "Engineering"
   ],
   "category": "Innovation Challenge",
   "organizer": "Conrad Foundation",
@@ -15,15 +15,20 @@
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
-  "format": "hybrid",
+  "format": "online",
   "date_text": "The 2026–2027 season is announced; exact reviewed deadlines were not verified.",
-  "deadline_text": "",
+  "deadline_text": "Multi-stage deadlines through school year",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
   "current_cycle_status": "upcoming",
   "eligibility_text": "Students aged 13–18 form teams of 2–5 with an adult coach.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [
     13,
     14,
@@ -36,14 +41,14 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "Multi-stage innovation development over several months, with finalist presentations at an Innovation Summit.",
+  "cost_text": "Registration fees by stage",
+  "time_commitment": "high",
   "description": "Global innovation competition in which teams develop and present solutions in science, technology, and entrepreneurship categories.",
   "website_url": "https://www.conradchallenge.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -68,6 +73,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-conrad-challenge]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Conrad Challenge",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-conrad-challenge]"
     }
   ],
   "schema_version": 1,
@@ -99,8 +116,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -145,8 +164,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -159,12 +180,16 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -191,8 +216,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "eligible_ages": {
       "status": "official",
@@ -245,8 +272,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -260,6 +289,36 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-conrad-challenge-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-conrad-challenge-e1"
       ]
     }
   },
@@ -279,5 +338,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students."
 }

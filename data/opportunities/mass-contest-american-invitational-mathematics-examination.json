@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-american-invitational-mathematics-examination",
   "canonical_name": "American Invitational Mathematics Examination",
-  "name_zh": "",
+  "name_zh": "美国数学邀请赛（AIME）",
   "name_en": "American Invitational Mathematics Examination",
   "type": "competition",
   "subject_tags": [
@@ -9,37 +9,37 @@
   ],
   "category": "Invitational Examination",
   "organizer": "Mathematical Association of America",
-  "region": "International",
+  "region": "International / China participation",
   "region_tier": "china_participation_route",
   "country": "United States",
   "city": null,
   "format": "in_person",
-  "date_text": "AIME I was held 5 February 2026 and AIME II on 11 February 2026.",
-  "deadline_text": "",
+  "date_text": "Usually February (AIME I / II)",
+  "deadline_text": "No separate open registration; qualification after AMC",
   "deadline_date": null,
   "start_date": "2026-02-05",
   "end_date": "2026-02-11",
-  "current_cycle_status": "closed",
-  "eligibility_text": "Students qualify through high AMC 10 or AMC 12 scores under MAA qualification rules.",
+  "current_cycle_status": "upcoming",
+  "eligibility_text": "Students who meet AMC 10/12 score cutoffs published by MAA.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "No separate AIME fee stated for qualified China participants",
-  "time_commitment": "One 3-hour examination with 15 integer-answer questions.",
+  "cost_text": "No separate public AIME fee for qualified students in many channels",
+  "time_commitment": "high",
   "description": "Selective 15-question, three-hour mathematics examination for students qualifying through AMC 10 or AMC 12 results.",
   "website_url": "https://maa.org/student-programs/amc/maa-invitational-competitions/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -64,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-american-invitational-mathematics-examination]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "American Invitational Mathematics Examination",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-american-invitational-mathematics-examination]"
     }
   ],
   "schema_version": 1,
@@ -95,8 +107,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -141,8 +155,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -155,24 +171,32 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
       "evidence_ids": []
     },
     "start_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "end_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "current_cycle_status": {
       "status": "official",
@@ -197,8 +221,10 @@
       "evidence_ids": []
     },
     "eligible_curricula": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "languages": {
       "status": "official",
@@ -231,8 +257,10 @@
       "evidence_ids": []
     },
     "preparation": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "description": {
       "status": "official",
@@ -247,21 +275,66 @@
       ]
     },
     "cost_amount": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "cost_currency": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     },
     "time_commitment": {
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-american-invitational-mathematics-examination-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-american-invitational-mathematics-examination-e1"
+      ]
     }
   },
-  "eligible_curricula": [],
+  "eligible_curricula": [
+    "AP",
+    "IB",
+    "A-Level",
+    "CN"
+  ],
   "cost_amount": 0,
   "cost_currency": "CNY",
   "awards_and_recognition": "Scores contribute to USAMO/USAJMO qualification for students meeting residency and citizenship rules.",
@@ -272,5 +345,14 @@
     "eligible_ages",
     "eligible_curricula",
     "cycle.registration_deadline"
-  ]
+  ],
+  "aliases": [
+    "AIME"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "official",
+  "entry_pathway": "Invitation/qualification only after a prior contest score threshold. Qualify via high AMC 10/12 scores. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator.",
+  "difficulty_level": "advanced",
+  "recognition_level": "highly selective",
+  "preparation": "AIME past papers after AMC preparation"
 }

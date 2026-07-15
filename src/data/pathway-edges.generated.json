@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "edges": [
+    {
+      "from": "American Mathematics Competitions",
+      "to": "American Invitational Mathematics Examination",
+      "relation": "qualifies_to",
+      "note": "High AMC 10/12 scores invite AIME."
+    },
+    {
+      "from": "American Invitational Mathematics Examination",
+      "to": "United States of America Mathematical Olympiad",
+      "relation": "qualifies_to",
+      "note": "Top AMC+AIME index may lead to USAMO/USAJMO invitation."
+    },
+    {
+      "from": "UKMT Senior Mathematical Challenge",
+      "to": "British Mathematical Olympiad",
+      "relation": "qualifies_to",
+      "note": "High SMC scores can lead to BMO opportunities."
+    },
+    {
+      "from": "UKMT Intermediate Mathematical Challenge",
+      "to": "UKMT Senior Mathematical Challenge",
+      "relation": "next_level",
+      "note": "Progression within UKMT challenge ladder by year group."
+    },
+    {
+      "from": "High School Mathematical Contest in Modeling",
+      "to": "International Mathematical Modeling Challenge",
+      "relation": "may_lead_to",
+      "note": "Outstanding HiMCM teams may enter regional IM2C processes."
+    },
+    {
+      "from": "F=ma",
+      "to": "United States Physics Olympiad",
+      "relation": "qualifies_to",
+      "note": "F=ma is the first USAPhO selection stage."
+    },
+    {
+      "from": "NOI-CSP",
+      "to": "NOIP",
+      "relation": "pathway",
+      "note": "CCF informatics pathway progression (structure evolves by year)."
+    },
+    {
+      "from": "Canadian Computing Competition",
+      "to": "USACO",
+      "relation": "complementary",
+      "note": "Many CS students pair CCC practice with USACO monthly contests."
+    },
+    {
+      "from": "Canadian Open Mathematics Challenge",
+      "to": "Euclid Contest",
+      "relation": "seasonal_pair",
+      "note": "Common Canada math sequence: COMC in autumn, Euclid in spring."
+    },
+    {
+      "from": "Physics Bowl",
+      "to": "British Physics Olympiad",
+      "relation": "complementary",
+      "note": "China international physics students often attempt both."
+    }
+  ]
+}

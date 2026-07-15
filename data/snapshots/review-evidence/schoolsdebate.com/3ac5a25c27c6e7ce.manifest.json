@@ -1,0 +1,10 @@
+{
+  "original_url": "https://schoolsdebate.com/",
+  "final_url": "https://schoolsdebate.com/",
+  "retrieved_at": "2026-07-14T10:01:10+00:00",
+  "content_hash": "3ac5a25c27c6e7ce8047519703035247cfbd5945ee9cebde180bfe98d5a22708",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/schoolsdebate.com/3ac5a25c27c6e7ce.html.gz"
+}

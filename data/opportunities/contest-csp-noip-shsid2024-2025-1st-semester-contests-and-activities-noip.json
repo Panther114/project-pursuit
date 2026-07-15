@@ -1,12 +1,11 @@
 {
   "id": "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-noip",
   "canonical_name": "NOIP",
-  "name_zh": "NOI-CSP,NOIP全国青少年信息学奥林匹克联赛",
+  "name_zh": "全国青少年信息学奥林匹克（NOIP相关）",
   "name_en": "NOIP",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Programming"
+    "Computer Science"
   ],
   "category": "Olympiad",
   "region": "SHSID / International",
@@ -171,6 +170,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-noip]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "NOIP",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-noip]"
     }
   ],
   "schema_version": 1,
@@ -276,12 +287,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -315,8 +330,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -345,8 +362,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -380,8 +399,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -396,21 +417,53 @@
       "evidence_ids": [
         "research-contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-noip-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-csp-noip-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "organizer": "China Computer Federation",
   "region_tier": "mainland_china",
   "country": "China",
   "city": null,
   "eligibility_text": "Chinese mainland, Hong Kong, and Macao secondary students qualify under CCF NOIP rules and provincial selection.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
@@ -418,13 +471,13 @@
     "Chinese"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Selection pathway fees vary",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "A national programming examination, historically held over one or two contest days depending on rules.",
+  "time_commitment": "high",
   "awards_and_recognition": "National results and qualification significance within the NOI selection pathway.",
   "china_participation_route": "Register and qualify through the CCF NOI provincial system.",
   "review_conflicts": [],
@@ -440,5 +493,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "NOIP"
+  ],
+  "audience_scope": "national_only",
+  "route_type": "national_selection",
+  "entry_pathway": "Progression within CCF NOI system after CSP stages (structure evolves by year).",
+  "difficulty_level": "elite"
 }

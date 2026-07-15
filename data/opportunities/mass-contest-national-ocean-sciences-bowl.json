@@ -23,10 +23,10 @@
   "current_cycle_status": "closed",
   "eligibility_text": "U.S. high-school teams qualify through a regional ocean-science bowl.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -142,8 +142,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-national-ocean-sciences-bowl-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -156,8 +158,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-national-ocean-sciences-bowl-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -258,6 +262,30 @@
       "evidence_ids": [
         "research-mass-contest-national-ocean-sciences-bowl-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

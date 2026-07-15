@@ -1,0 +1,259 @@
+{
+  "id": "mass-contest-ocean-awareness-contest",
+  "canonical_name": "Ocean Awareness Contest",
+  "name_zh": "",
+  "name_en": "Ocean Awareness Contest",
+  "type": "competition",
+  "subject_tags": [
+    "Environment",
+    "Arts",
+    "Writing",
+    "Media"
+  ],
+  "category": "Environmental arts",
+  "organizer": "Bow Seat Ocean Awareness Programs",
+  "region": "Worldwide",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "June 8, 2026",
+  "deadline_date": "2026-06-08",
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "Middle- and high-school students ages 11-18 worldwide may enter.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": "11-18",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "either",
+  "cost_text": "Free",
+  "time_commitment": "medium",
+  "description": "International creative contest connecting ocean awareness with art, writing, film, and multimedia.",
+  "website_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
+  "aliases": [
+    "Bow Seat Ocean Awareness Contest"
+  ],
+  "audience_scope": "global_open",
+  "entry_pathway": "Direct online individual or group submission.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-14",
+  "publication_status": "official_verified",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
+  "sources": [
+    {
+      "source_file": "405e64f44661f578.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Ocean Awareness Contest",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-14T10:01:04+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
+      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/bowseat.org/405e64f44661f578.html.gz",
+      "content_hash": "405e64f44661f5782d4969ecef93fe43d94df1b3350cf679772d01c9ac7c596c"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-ocean-awareness-contest-e1",
+      "url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
+      "publisher": "mass-global-high-school-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "note": ""
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-ocean-awareness-contest-e1"
+      ]
+    }
+  }
+}

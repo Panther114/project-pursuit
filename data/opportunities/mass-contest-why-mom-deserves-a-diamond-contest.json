@@ -22,17 +22,17 @@
   "current_cycle_status": "closed",
   "eligibility_text": "Children submit a short essay honoring their mother; historical winners span elementary through high-school grades.",
   "eligible_grades": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
   ],
   "eligible_ages": [],
   "languages": [
@@ -103,8 +103,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -137,12 +139,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -151,8 +157,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -177,12 +185,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -193,8 +205,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-why-mom-deserves-a-diamond-contest-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -245,6 +259,30 @@
       "evidence_ids": [
         "mass-contest-why-mom-deserves-a-diamond-contest-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

@@ -1,7 +1,7 @@
 {
   "id": "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2",
   "canonical_name": "US National Chemistry Competition (USNCO)",
-  "name_zh": "美国国家化学竞赛",
+  "name_zh": "美国化学奥赛（USNCO）",
   "name_en": "US National Chemistry Competition (USNCO)",
   "type": "competition",
   "subject_tags": [
@@ -13,7 +13,7 @@
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
-  "website_url": "https://www.acs.org/education/olympiad.html",
+  "website_url": "https://www.acs.org/education/students/highschool/olympiad.html",
   "registration_contact": "Official WeChat account",
   "instructor_contact": "廖辉、陈琳",
   "preparation": "Research Essay",
@@ -66,6 +66,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "US National Chemistry Competition (USNCO)",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2]"
     }
   ],
   "schema_version": 1,
@@ -156,12 +168,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -194,8 +210,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -224,8 +242,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -262,8 +282,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -278,19 +300,51 @@
       "evidence_ids": [
         "research-contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-us-national-chemistry-competition-usnco-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "organizer": "American Chemical Society",
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
   "eligibility_text": "Eligible U.S. high-school students first take a local ACS examination; selected students advance to the national examination.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
@@ -298,13 +352,13 @@
     "English"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Local section fees",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "Local exam, three-part national exam, and study camp for top performers.",
+  "time_commitment": "high",
   "awards_and_recognition": "High honors, honors, national recognition, study-camp invitations, and selection of the U.S. IChO team.",
   "china_participation_route": "No China route; participation is restricted to the U.S. ACS local-section system.",
   "review_conflicts": [],
@@ -320,5 +374,11 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "USNCO"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "school",
+  "entry_pathway": "Local ACS section / school pathway; international access limited."
 }

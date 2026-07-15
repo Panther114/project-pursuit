@@ -2,6 +2,8 @@
   "schema_version": 1,
   "notes": "Editorial identity cleanup only. This file does not verify factual detail fields.",
   "aliases": {
+    "High School Mathematical Contest in Modeling (HiMCM)": "High School Mathematical Contest in Modeling",
+    "The International Mathematical Modeling Challenge": "International Mathematical Modeling Challenge",
     "2026 Boston International Composition Competition": "Boston International Composition Competition",
     "2026 Boston International Music Competition": "Boston International Music Competition",
     "2026 Hippo English Olympiad": "Hippo English Olympiad",

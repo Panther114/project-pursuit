@@ -81,6 +81,62 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-aerospace-industry-and-aircraft-manufacturing-challenges]"
+    },
+    {
+      "source_file": "b651d7f82ce6673d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Aerospace Industry and Aircraft Manufacturing Challenges",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:30+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
+      "retrieved_at": "2026-07-14T09:27:30+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/b651d7f82ce6673d.html.gz",
+      "content_hash": "b651d7f82ce6673d3ef856b006c04866e22c46399b71931a37dfd0d81df5176a"
+    },
+    {
+      "source_file": "b651d7f82ce6673d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "【Zhuhai】Aerospace Industry and Aircraft Manufacturing Challenges",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:30+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
+      "retrieved_at": "2026-07-14T09:27:30+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/b651d7f82ce6673d.html.gz",
+      "content_hash": "b651d7f82ce6673d3ef856b006c04866e22c46399b71931a37dfd0d81df5176a"
+    },
+    {
+      "source_file": "b3246f81fd257ffa.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Aerospace Industry and Aircraft Manufacturing Challenges",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T10:01:07+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
+      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/b3246f81fd257ffa.html.gz",
+      "content_hash": "b3246f81fd257ffa48d33fae31c0c02e191c9726c69a6aae392a822f21a2f117"
+    },
+    {
+      "source_file": "b3246f81fd257ffa.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "【Zhuhai】Aerospace Industry and Aircraft Manufacturing Challenges",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T10:01:07+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
+      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/b3246f81fd257ffa.html.gz",
+      "content_hash": "b3246f81fd257ffa48d33fae31c0c02e191c9726c69a6aae392a822f21a2f117"
     }
   ],
   "schema_version": 1,
@@ -251,8 +307,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-aerospace-industry-and-aircraft-manufacturing-challenges-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -285,11 +343,35 @@
     "time_commitment": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "country": null,
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,

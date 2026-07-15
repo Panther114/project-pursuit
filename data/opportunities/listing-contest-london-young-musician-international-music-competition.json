@@ -68,6 +68,20 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-london-young-musician-international-music-competition]"
+    },
+    {
+      "source_file": "6cbc8d76382d30cc.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "London Young Musician International Music Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:43+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/lym-en/",
+      "retrieved_at": "2026-07-14T09:27:43+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/6cbc8d76382d30cc.html.gz",
+      "content_hash": "6cbc8d76382d30cc5fd46191cdd668521257983e23ce71efe39c027458f544f3"
     }
   ],
   "schema_version": 1,
@@ -160,12 +174,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-london-young-musician-international-music-competition-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-london-young-musician-international-music-competition-e1"
+      ]
     },
     "format": {
       "status": "official",
@@ -277,11 +295,35 @@
       "evidence_ids": [
         "research-listing-contest-london-young-musician-international-music-competition-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "country": "United Kingdom",
   "city": "London",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,

@@ -1,51 +1,47 @@
 {
   "id": "mass-contest-mathematical-kangaroo",
   "canonical_name": "Mathematical Kangaroo",
-  "name_zh": "",
+  "name_zh": "袋鼠数学竞赛",
   "name_en": "Mathematical Kangaroo",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Mathematics Contest",
-  "organizer": "Association Kangourou sans Frontières",
+  "organizer": "Association Kangourou sans Frontières / national hosts",
   "region": "International",
   "region_tier": "china_participation_route",
   "country": null,
   "city": null,
   "format": "in_person",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Winter/spring local host windows",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
-  "eligibility_text": "Students in grades 1–12 participate through a national member organization in the applicable age category.",
+  "current_cycle_status": "upcoming",
+  "eligibility_text": "Multiple age levels for school students.",
   "eligible_grades": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
-  "languages": [],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bilingual"
+  ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "One national multiple-choice mathematics paper, normally 50–75 minutes depending on age.",
+  "cost_text": "Paid local registration fee",
+  "time_commitment": "low",
   "description": "International school mathematics contest delivered by national member organizations in age-based categories.",
-  "website_url": "https://www.aksf.org/",
+  "website_url": "https://www.mathkangaroo.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -70,6 +66,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-mathematical-kangaroo]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Mathematical Kangaroo",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-mathematical-kangaroo]"
     }
   ],
   "schema_version": 1,
@@ -101,8 +109,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -165,8 +175,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -207,8 +219,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -245,8 +259,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -260,6 +276,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-mathematical-kangaroo-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathematical-kangaroo-e1"
       ]
     }
   },
@@ -283,5 +331,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "Math Kangaroo",
+    "Kangaroo"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "National/regional host registration. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

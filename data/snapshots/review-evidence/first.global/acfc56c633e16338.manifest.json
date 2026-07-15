@@ -1,0 +1,10 @@
+{
+  "original_url": "https://first.global/",
+  "final_url": "https://first.global/",
+  "retrieved_at": "2026-07-14T09:27:36+00:00",
+  "content_hash": "acfc56c633e16338bdb51c1d5207d8b4bde20eee0089c172a42c7978b1c41f46",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/first.global/acfc56c633e16338.html.gz"
+}

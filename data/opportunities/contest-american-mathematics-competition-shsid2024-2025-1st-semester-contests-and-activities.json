@@ -1,23 +1,23 @@
 {
   "id": "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities",
   "canonical_name": "American Mathematics Competitions",
-  "name_zh": "美国数学竞赛",
+  "name_zh": "美国数学竞赛（AMC）",
   "name_en": "American Mathematics Competitions",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Contest Series",
-  "region": "SHSID / International",
+  "region": "International / China participation",
   "format": "in_person",
-  "date_text": "The next competition cycle is 2026–2027; exact dates were not verified in the reviewed source.",
-  "deadline_text": "",
+  "date_text": "Annual AMC 8 / AMC 10A-B / AMC 12A-B cycle",
+  "deadline_text": "Typically autumn (AMC 8) and November (AMC 10/12); China partner windows vary by school",
   "deadline_date": null,
-  "website_url": "https://maa.org/student-programs/amc/",
+  "website_url": "https://maa.org/math-competitions/amc",
   "registration_contact": "",
   "instructor_contact": "学锦标赛",
-  "preparation": "",
-  "description": "The MAA American Mathematics Competitions comprise the AMC 8, AMC 10, and AMC 12 school mathematics contests and their invitational pathway.",
+  "preparation": "Past papers and contest math problem solving",
+  "description": "Multi-level multiple-choice mathematics contests used worldwide as an entry point to AIME and olympiad pathways.",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "sources": [
@@ -84,6 +84,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "American Mathematics Competitions",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities]"
     }
   ],
   "schema_version": 1,
@@ -173,12 +185,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -199,8 +215,10 @@
       ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -237,8 +255,10 @@
       "evidence_ids": []
     },
     "eligible_curricula": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "languages": {
       "status": "official",
@@ -247,8 +267,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -272,8 +294,10 @@
       ]
     },
     "preparation": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "description": {
       "status": "official",
@@ -282,8 +306,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -298,25 +324,64 @@
       "evidence_ids": [
         "research-contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-american-mathematics-competition-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "organizer": "Mathematical Association of America",
   "region_tier": "china_participation_route",
   "country": "United States",
   "city": null,
-  "eligibility_text": "School students enter the age-appropriate AMC 8, AMC 10, or AMC 12 under MAA rules.",
+  "eligibility_text": "Middle and high school students by contest level (AMC 8 / 10 / 12 age/grade rules).",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
-  "eligible_curricula": [],
+  "eligible_curricula": [
+    "AP",
+    "IB",
+    "A-Level",
+    "CN"
+  ],
   "languages": [
     "English"
   ],
@@ -324,10 +389,10 @@
   "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Paid registration via school or authorized partner; fee varies by channel",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "AMC 8: 25 questions in 40 minutes; AMC 10/12: 25 questions in 75 minutes.",
+  "time_commitment": "medium",
   "awards_and_recognition": "Certificates and distinctions; AMC 10/12 scores may qualify students for AIME.",
   "china_participation_route": "Registration in mainland China is through the authorized AMC China operator.",
   "review_conflicts": [],
@@ -341,5 +406,17 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "AMC",
+    "AMC 8",
+    "AMC 10",
+    "AMC 12",
+    "American Mathematics Competition"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "School-proctored contest. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator.",
+  "difficulty_level": "intermediate",
+  "recognition_level": "widely recognized"
 }

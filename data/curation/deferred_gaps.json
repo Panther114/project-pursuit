@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "deferred": [
+    {
+      "name": "AoPS-only proprietary contests beyond USAMTS",
+      "reason": "Overlaps with existing open contests; not prioritized for China school channels."
+    },
+    {
+      "name": "Every US state Science Olympiad affiliate",
+      "reason": "US-local long tail; national Science Olympiad identity is listed."
+    },
+    {
+      "name": "Google Code Jam / Meta Hacker Cup",
+      "reason": "Not high-school-specific; discontinued or adult-oriented formats."
+    },
+    {
+      "name": "Exhaustive municipal Shanghai school invitationals",
+      "reason": "Require school-by-school PDFs not yet available; SHSID sources remain primary school list."
+    }
+  ]
+}

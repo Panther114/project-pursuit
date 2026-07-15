@@ -1,0 +1,10 @@
+{
+  "original_url": "https://cariboutests.com/",
+  "final_url": "https://cariboutests.com/",
+  "retrieved_at": "2026-07-14T10:01:05+00:00",
+  "content_hash": "5ee948c6703f3080e03289210184168b7ef2464a95f457995284a0cbe49b9cd7",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/5ee948c6703f3080.html.gz"
+}

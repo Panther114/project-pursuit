@@ -22,14 +22,14 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students enter through participating schools in the published year-level categories.",
   "eligible_grades": [
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10"
   ],
   "eligible_ages": [],
   "languages": [
@@ -294,6 +294,30 @@
       "evidence_ids": [
         "research-mass-contest-big-science-competition-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

@@ -23,13 +23,13 @@
   "current_cycle_status": "closed",
   "eligibility_text": "Secondary-school students aged approximately 11–18 in the United Kingdom participated in the historical program.",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [
     11,
@@ -109,8 +109,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -143,8 +145,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -157,8 +161,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -183,24 +189,32 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "eligible_ages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "eligible_curricula": {
       "status": "missing",
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-anthologise-poetry-competition-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -251,6 +265,30 @@
       "evidence_ids": [
         "mass-contest-anthologise-poetry-competition-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

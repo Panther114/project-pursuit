@@ -5,8 +5,7 @@
   "name_en": "Romanian Olympiad in Informatics",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Programming"
+    "Computer Science"
   ],
   "category": "Olympiad",
   "organizer": "Romanian Ministry of Education and national informatics-olympiad partners",
@@ -23,14 +22,14 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Romanian students in grades 5–12 qualify through school, local, and county stages.",
   "eligible_grades": [
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -101,8 +100,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-olympiad-in-informatics-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -135,8 +136,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-olympiad-in-informatics-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -175,12 +178,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-olympiad-in-informatics-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-olympiad-in-informatics-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -191,8 +198,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-romanian-olympiad-in-informatics-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -243,6 +252,30 @@
       "evidence_ids": [
         "mass-contest-romanian-olympiad-in-informatics-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

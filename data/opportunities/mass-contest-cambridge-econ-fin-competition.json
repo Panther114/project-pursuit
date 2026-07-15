@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-cambridge-econ-fin-competition",
   "canonical_name": "CEFC Cambridge Economics and Finance Competition",
-  "name_zh": "",
+  "name_zh": "剑桥经济金融竞赛（CEFC）",
   "name_en": "CEFC Cambridge Economics and Finance Competition",
   "type": "competition",
   "subject_tags": [
@@ -9,31 +9,38 @@
     "Finance"
   ],
   "category": "Challenge",
-  "organizer": "ASEEDER",
+  "organizer": "ASEEDER / Cambridge-linked challenge branding",
   "region": "International",
   "region_tier": "china_participation_route",
   "country": null,
   "city": "Cambridge",
-  "format": "unknown",
+  "format": "hybrid",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "See ASEEDER CEFC page for cycle",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
-  "languages": [],
-  "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "either",
+  "cost_text": "Paid registration",
+  "time_commitment": "medium",
   "description": "Economics and finance competition promoted in China under the CEFC title.",
-  "website_url": null,
+  "website_url": "https://www.seedasdan.com/",
   "confidence": "unverified",
-  "last_verified_at": null,
+  "last_verified_at": "2026-07-15",
   "publication_status": "unverified",
-  "verification_note": "No authoritative Cambridge-based organizer page was verified; do not treat ASEEDER as proof of a global organizer.",
+  "verification_note": "No authoritative Cambridge-based organizer page was verified; do not treat ASEEDER as proof of a global organizer. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "china_competitions.json",
@@ -82,6 +89,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-cambridge-econ-fin-competition]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "CEFC Cambridge Economics and Finance Competition",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-cambridge-econ-fin-competition]"
     }
   ],
   "schema_version": 1,
@@ -124,8 +143,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -188,8 +209,10 @@
       "evidence_ids": []
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -204,8 +227,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -232,8 +257,10 @@
       "evidence_ids": []
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -244,8 +271,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -260,8 +289,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -284,8 +315,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -296,8 +329,40 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
+    },
+    "aliases": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-cambridge-econ-fin-competition-e1"
+      ]
     }
   },
   "eligible_curricula": [],
@@ -327,5 +392,8 @@
     "awards_and_recognition",
     "china_participation_route",
     "evidence"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "China international-school route via ASEEDER. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

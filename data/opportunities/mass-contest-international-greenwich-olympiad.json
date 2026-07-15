@@ -23,7 +23,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Students approximately ages 10–19 may enter individual or teams of up to three with a project.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     10,
     11,
@@ -149,12 +149,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-greenwich-olympiad-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-greenwich-olympiad-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -265,6 +269,30 @@
       "evidence_ids": [
         "research-mass-contest-international-greenwich-olympiad-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

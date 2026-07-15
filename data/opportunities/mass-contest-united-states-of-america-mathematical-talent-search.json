@@ -1,48 +1,45 @@
 {
   "id": "mass-contest-united-states-of-america-mathematical-talent-search",
   "canonical_name": "United States of America Mathematical Talent Search",
-  "name_zh": "",
+  "name_zh": "美国数学人才搜索（USAMTS）",
   "name_en": "United States of America Mathematical Talent Search",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Mathematical Talent Search",
-  "organizer": "Art of Problem Solving Foundation",
+  "organizer": "Art of Problem Solving / partners",
   "region": "International",
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
   "format": "online",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Multi-round school-year schedule on USAMTS site",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students enrolled in a U.S. school at or below high-school level may enter individually.",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "Free",
-  "time_commitment": "Three proof-based rounds with several weeks allowed for each submission.",
+  "cost_text": "Free or low-cost proof-based contest",
+  "time_commitment": "high",
   "description": "Free proof-based mathematics competition in which U.S. students submit solutions over several rounds.",
   "website_url": "https://www.usamts.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -67,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-united-states-of-america-mathematical-talent-search]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "United States of America Mathematical Talent Search",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-united-states-of-america-mathematical-talent-search]"
     }
   ],
   "schema_version": 1,
@@ -98,8 +107,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -144,8 +155,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -162,8 +175,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -250,17 +265,55 @@
       ]
     },
     "cost_amount": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
     },
     "cost_currency": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
     },
     "time_commitment": {
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-united-states-of-america-mathematical-talent-search-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-talent-search-e1"
       ]
     }
   },
@@ -279,5 +332,13 @@
     "cycle.start_date",
     "cycle.end_date",
     "cycle.date_text"
-  ]
+  ],
+  "aliases": [
+    "USAMTS",
+    "United States of America Mathematical Talent Search"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "difficulty_level": "advanced"
 }

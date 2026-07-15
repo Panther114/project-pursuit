@@ -1,0 +1,13 @@
+# Railway: build a static SPA once, then run a tiny Node file server.
+# Runtime intentionally avoids Vite preview, Express, and data pipelines.
+
+[build]
+builder = "NIXPACKS"
+buildCommand = "npm ci && npm run build"
+
+[deploy]
+startCommand = "node server.mjs"
+healthcheckPath = "/healthz"
+healthcheckTimeout = 30
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 5

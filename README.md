@@ -29,12 +29,24 @@ npm run dev
 
 On Windows, double-click `quickrun.bat` to stop any existing local servers for this project, start a fresh dev server, and open the app in your default browser.
 
-Build and test:
+Build, test, and production serve:
 
 ```bash
 npm test
 npm run build
+npm start
 ```
+
+`npm start` serves `dist/` with a tiny Node static server (`server.mjs`) — the same low-RAM process used on Railway. Do not run Vite preview or the Python import pipeline on the production host.
+
+### Railway
+
+Deploy is static-first: build the SPA, prune devDependencies, serve files only.
+
+- Build: `npm ci && npm run build` (see `railway.toml` / `nixpacks.toml`)
+- Start: `node server.mjs` on `$PORT`
+- Health: `GET /healthz`
+- Heavy offline research assets (`data/snapshots`, Python scripts, Playwright) are excluded via `.railwayignore`
 
 See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for the complete local development and data-import workflow.
 

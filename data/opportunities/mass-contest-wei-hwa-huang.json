@@ -1,0 +1,229 @@
+{
+  "id": "mass-contest-wei-hwa-huang",
+  "canonical_name": "Wei-Hwa Huang",
+  "name_zh": "",
+  "name_en": "Wei-Hwa Huang",
+  "type": "competition",
+  "subject_tags": [
+    "Mathematics"
+  ],
+  "category": "Mathematics competitions",
+  "organizer": "",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "eligible_grades": null,
+  "eligible_ages": null,
+  "languages": null,
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "Wei-Hwa Huang (born August 4, 1975 in Eugene, Oregon) is an American puzzler, member of the US Team for the World Puzzle Championship, and game designer. Huang was a member of the United States International Math Olympiad team in 1992 and 1993, where he was awarded a Silver Medal both years. He was a Putnam Fellow in 1993. Huang has won the annual World Puzzle Championship on four occasions: 1995 and 1997–1999. He also won the 2008 Sudoku National Championship. With team Left Out, he won the 2019 MIT Mystery Hunt. With Tom Lehmann, Huang designed the board game Roll for the Galaxy released in 2014 by Rio Grande Games. Roll for the Galaxy is a dice-based adaption of the award-winning card game Race for the Galaxy with deck-building mechanics. Huang and Lehmann also designed Roll for the Galaxy: Ambition, an expansion released in 2015. Roll for the Galaxy was nominated for three Golden Geek Awards and an International Gamers Award. Huang graduated from Montgomery Blair High School and the California Institute of Technology and was an employee at Google until July 2008. One of his most famous projects was the Da Vinci Code Quest on Google, which was a set of 24 puzzles launched on A",
+  "website_url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "publication_status": "unverified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Wei-Hwa Huang",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-wei-hwa-huang-e1",
+      "url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-wei-hwa-huang-e1"
+      ]
+    }
+  }
+}

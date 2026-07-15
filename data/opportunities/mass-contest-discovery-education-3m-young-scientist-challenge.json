@@ -23,10 +23,10 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students in U.S. grades 5–8 submit an individual science-communication video.",
   "eligible_grades": [
-    5,
-    6,
-    7,
-    8
+    "5",
+    "6",
+    "7",
+    "8"
   ],
   "eligible_ages": [],
   "languages": [
@@ -142,8 +142,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-discovery-education-3m-young-scientist-challenge-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -258,6 +260,30 @@
       "evidence_ids": [
         "research-mass-contest-discovery-education-3m-young-scientist-challenge-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

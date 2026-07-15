@@ -56,6 +56,17 @@ class ImporterTests(unittest.TestCase):
         content = b"official source"
         self.assertEqual(gzip.compress(content, mtime=0), gzip.compress(content, mtime=0))
 
+    def test_mass_evidence_requires_every_term_group(self) -> None:
+        with tempfile.TemporaryDirectory() as folder:
+            root = Path(folder)
+            snapshot = root / "official.html.gz"
+            snapshot.write_bytes(gzip.compress(b"<h1>International Example Olympiad</h1><p>Open to secondary school students worldwide.</p>", mtime=0))
+            manifest = {"snapshot_path": "official.html.gz"}
+            groups = [["Example Olympiad", "EO"], ["high school", "secondary school"], ["worldwide", "global"]]
+            with patch.object(importer, "ROOT", root):
+                self.assertTrue(importer.mass_evidence_matches({"evidence_term_groups": groups}, manifest))
+                self.assertFalse(importer.mass_evidence_matches({"evidence_term_groups": groups + [["ages 13-18"]]}, manifest))
+
     def test_review_requires_verified_complete_official_evidence(self) -> None:
         review = {
             "reviewer_confidence": "verified", "canonical_name": "Example", "organizer": "Organizer",

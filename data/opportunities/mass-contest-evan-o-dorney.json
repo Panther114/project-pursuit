@@ -1,0 +1,229 @@
+{
+  "id": "mass-contest-evan-o-dorney",
+  "canonical_name": "Evan O'Dorney",
+  "name_zh": "",
+  "name_en": "Evan O'Dorney",
+  "type": "competition",
+  "subject_tags": [
+    "Mathematics"
+  ],
+  "category": "Mathematics competitions",
+  "organizer": "",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "eligible_grades": null,
+  "eligible_ages": null,
+  "languages": null,
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "Evan Michael O'Dorney (born September 16, 1993) is an American mathematician who is a postdoctoral associate at Carnegie Mellon University. His specialization is number theory. As a home-schooled high school student and college student, he won many contests in mathematics and other subjects, including the 2007 Scripps National Spelling Bee, 2011 Intel Science Talent Search, four International Math Olympiad medals, and three Putnam Fellowships. A 2013 report by the National Research Council called him \"as famous for academic excellence as any student can be\".",
+  "website_url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "publication_status": "unverified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Evan O'Dorney",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-evan-o-dorney-e1",
+      "url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-evan-o-dorney-e1"
+      ]
+    }
+  }
+}

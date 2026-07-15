@@ -9,6 +9,7 @@ export type OpportunityFormat = "online" | "in_person" | "hybrid" | "contact_ins
 export type RegionTier = "shanghai_local" | "mainland_china" | "greater_china" | "china_participation_route" | "international_only";
 export type CurrentCycleStatus = "open" | "upcoming" | "closed" | "rolling" | "unknown";
 export type PublicationStatus = "official_verified" | "corroborated" | "partially_verified" | "historical" | "unverified";
+export type AudienceScope = "global_open" | "international_selection" | "regional_open" | "national_only" | "unknown";
 export type EvidenceAuthority = "official" | "school" | "government" | "reputable_secondary" | "historical";
 export type FieldEvidenceStatus = "official" | "corroborated" | "single_source" | "historical" | "missing";
 
@@ -45,6 +46,7 @@ export interface OpportunitySource {
 export interface Opportunity {
   id: string;
   canonical_name: string;
+  aliases?: string[];
   name_zh?: string;
   name_en?: string;
   type: "competition" | "summer_program" | "research_program" | "other";
@@ -52,6 +54,10 @@ export interface Opportunity {
   category?: string;
   region?: string;
   region_tier?: RegionTier;
+  audience_scope?: AudienceScope;
+  entry_pathway?: string;
+  /** How a student typically enters: official direct, school channel, China partner, or national selection. */
+  route_type?: "official" | "school" | "china_partner" | "national_selection" | "unknown";
   organizer?: string;
   country?: string;
   city?: string;

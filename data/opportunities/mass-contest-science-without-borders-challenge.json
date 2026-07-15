@@ -1,0 +1,256 @@
+{
+  "id": "mass-contest-science-without-borders-challenge",
+  "canonical_name": "Science Without Borders Challenge",
+  "name_zh": "",
+  "name_en": "Science Without Borders Challenge",
+  "type": "competition",
+  "subject_tags": [
+    "Environment",
+    "Arts",
+    "Biology"
+  ],
+  "category": "Marine science art",
+  "organizer": "Khaled bin Sultan Living Oceans Foundation",
+  "region": "Worldwide",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "March 2, 2026",
+  "deadline_date": "2026-03-02",
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "closed",
+  "eligibility_text": "Primary or secondary students ages 11-19 worldwide may enter original ocean-science artwork.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": "11-19",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "cost_text": "Free",
+  "time_commitment": "medium",
+  "description": "International student art contest promoting ocean conservation and marine science.",
+  "website_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
+  "aliases": [
+    "SWB Challenge"
+  ],
+  "audience_scope": "global_open",
+  "entry_pathway": "Direct individual art submission.",
+  "confidence": "partially_verified",
+  "last_verified_at": null,
+  "publication_status": "partially_verified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "global_high_school_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "Science Without Borders Challenge",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-14T10:29:13+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
+      "retrieved_at": "2026-07-14T10:29:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-science-without-borders-challenge-e1",
+      "url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
+      "publisher": "mass-global-high-school-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T10:29:13+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "note": ""
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "organizer": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-science-without-borders-challenge-e1"
+      ]
+    }
+  }
+}

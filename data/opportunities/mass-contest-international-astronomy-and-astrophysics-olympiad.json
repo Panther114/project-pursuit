@@ -22,7 +22,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Secondary students participate through national teams selected by recognized national astronomy organizations.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English"
@@ -60,6 +60,30 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-international-astronomy-and-astrophysics-olympiad]"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Olympiad on Astronomy and Astrophysics",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    },
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Olympiad on Astronomy and Astrophysics",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
     }
   ],
   "schema_version": 1,
@@ -251,6 +275,30 @@
       "evidence_ids": [
         "research-mass-contest-international-astronomy-and-astrophysics-olympiad-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-hmmt",
   "canonical_name": "Harvard-MIT Mathematics Tournament",
-  "name_zh": "",
+  "name_zh": "哈佛-麻省理工数学锦标赛（HMMT）",
   "name_en": "Harvard-MIT Mathematics Tournament",
   "type": "competition",
   "subject_tags": [
@@ -13,19 +13,19 @@
   "region_tier": "international_only",
   "country": "United States",
   "city": "Cambridge",
-  "format": "in_person",
+  "format": "hybrid",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Registration opens months before each tournament date",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Secondary students under the age limit participate individually and in teams, with team size determined by the November or February tournament rules.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [
     20
@@ -34,14 +34,14 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "One competition day with individual and team mathematics rounds.",
+  "cost_text": "Paid team registration; travel extra for onsite",
+  "time_commitment": "high",
   "description": "Student-run high-school mathematics tournament with individual and team rounds hosted by Harvard and MIT student organizations.",
   "website_url": "https://www.hmmt.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -66,6 +66,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-hmmt]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Harvard-MIT Mathematics Tournament",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-hmmt]"
     }
   ],
   "schema_version": 1,
@@ -97,8 +109,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -143,12 +157,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -161,8 +179,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -245,8 +265,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -260,6 +282,42 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-hmmt-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hmmt-e1"
       ]
     }
   },
@@ -279,5 +337,13 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "HMMT"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students. Team registration; popular November and February tournaments.",
+  "difficulty_level": "advanced",
+  "recognition_level": "highly selective"
 }

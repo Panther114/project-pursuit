@@ -1,0 +1,309 @@
+{
+  "id": "curated-contest-s-t-yau-high-school-scientific-awards-registration",
+  "canonical_name": "S.-T.Yau High School Scientific Awards Registration",
+  "name_en": "S.-T.Yau High School Scientific Awards Registration",
+  "name_zh": "丘成桐中学科学奖",
+  "aliases": [
+    "Yau Science Award",
+    "S.-T. Yau High School Science Award"
+  ],
+  "type": "competition",
+  "subject_tags": [
+    "Scientific research",
+    "Mathematics"
+  ],
+  "category": "Scientific research, Mathematics",
+  "organizer": "S.-T. Yau High School Science Award",
+  "region": "China / International",
+  "region_tier": "china_participation_route",
+  "country": null,
+  "city": null,
+  "format": "hybrid",
+  "date_text": null,
+  "deadline_text": "Annual submission deadlines by subject (see official site)",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "upcoming",
+  "eligibility_text": null,
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": null,
+  "eligible_curricula": [],
+  "languages": [
+    "Chinese",
+    "English",
+    "Bilingual"
+  ],
+  "team_mode": "either",
+  "website_url": "https://www.yau-awards.com/",
+  "description": "Research-paper awards across STEM subjects with strong China international-school participation.",
+  "cost_text": "Registration requirements published annually",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "high",
+  "entry_pathway": "Research paper submission through official Yau award channels; China students are core participants.",
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "difficulty_level": "advanced",
+  "recognition_level": "highly selective",
+  "preparation": null,
+  "confidence": "partially_verified",
+  "publication_status": "partially_verified",
+  "last_verified_at": "2026-07-15",
+  "verification_note": "Curated gap-fill competition record from official public organizer information; cycle dates may change annually. Enriched from curated Tier-A competition pack.",
+  "sources": [
+    {
+      "source_file": "gap_competitions.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "S.-T.Yau High School Scientific Awards Registration",
+      "raw_excerpt": "Research-paper awards across STEM subjects with strong China international-school participation.",
+      "extracted_at": "2026-07-15T10:47:03+00:00",
+      "source_id": "competition-gap-fill-v1",
+      "original_url": "https://www.yau-awards.com/",
+      "snapshot_path": "data/curation/gap_competitions.json",
+      "extraction_locator": "gap[curated-contest-s-t-yau-high-school-scientific-awards-registration]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "S.-T.Yau High School Scientific Awards Registration",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:47:45+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
+      "extraction_locator": "enrichment[curated-contest-s-t-yau-high-school-scientific-awards-registration]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1",
+      "url": "https://www.yau-awards.com/",
+      "publisher": "competition-gap-fill-v1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-15T10:47:03+00:00",
+      "source_id": "competition-gap-fill-v1",
+      "note": "Research-paper awards across STEM subjects with strong China international-school participation."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "organizer": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-s-t-yau-high-school-scientific-awards-registration-e1"
+      ]
+    }
+  }
+}

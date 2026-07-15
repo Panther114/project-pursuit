@@ -2,6 +2,12 @@
 
 Project Pursuit uses curated official-source adapters, not generic web search. The registry is declarative and each adapter has a narrow allow-list.
 
+## Global high-school coverage source
+
+`data/reviews/mass/global_high_school_competitions.json` is the curated gap-audit source for international competitions available to high-school students. It distinguishes direct global entry, regional open entry, and national-team selection pathways. Organizer pages are retained by `npm run snapshot:mass-sources`; a record requested as verified is only promoted when its snapshot contains every configured evidence-term group. Terms inside one group are alternatives, while all groups are required.
+
+Wikipedia category discovery is candidate-only. The crawler walks category subtrees, requires both school-age and international signals, excludes obvious inactive descriptions, and never promotes its results without organizer evidence.
+
 ## Initial operational family
 
 ASEEDER/阿思丹 is used because it publishes official China participation pages and region-specific programs for international-school students. The catalog page is a discovery surface; registered detail pages are evidence surfaces. Organizer identity and current-cycle facts should be cross-checked against any linked international organizer when available.

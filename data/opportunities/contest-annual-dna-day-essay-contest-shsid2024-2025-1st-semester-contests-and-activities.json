@@ -1,19 +1,18 @@
 {
   "id": "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities",
   "canonical_name": "Annual DNA Day Essay Contest",
-  "name_zh": "DNA论文竞赛",
+  "name_zh": "DNA日论文竞赛",
   "name_en": "Annual DNA Day Essay Contest",
   "type": "competition",
   "subject_tags": [
     "Biology",
-    "Genetics",
     "Writing"
   ],
   "category": "Essay Competition",
   "region": "SHSID / International",
   "format": "online",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Early spring deadline around DNA Day cycle",
   "deadline_date": null,
   "website_url": "https://www.ashg.org/dna-day/",
   "registration_contact": "",
@@ -76,6 +75,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Annual DNA Day Essay Contest",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities]"
     }
   ],
   "schema_version": 1,
@@ -181,12 +192,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -204,8 +219,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -220,8 +237,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -250,8 +269,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -288,8 +309,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -304,19 +327,49 @@
       "evidence_ids": [
         "research-contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-annual-dna-day-essay-contest-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "organizer": "American Society of Human Genetics",
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
   "eligibility_text": "Students in grades 9–12 submit an individual essay through a teacher or school contact under annual rules.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
@@ -324,13 +377,13 @@
     "English"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Free",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "One researched essay responding to the annual genetics prompt.",
+  "time_commitment": "medium",
   "awards_and_recognition": "Cash awards for winning students and grants or recognition for teachers or schools, subject to annual rules.",
   "china_participation_route": "International eligibility depends on the annual official rules; no specific mainland-China operator was verified.",
   "review_conflicts": [],
@@ -346,5 +399,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students."
 }

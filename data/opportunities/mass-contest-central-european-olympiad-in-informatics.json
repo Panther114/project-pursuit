@@ -5,8 +5,7 @@
   "name_en": "Central European Olympiad in Informatics",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Programming"
+    "Computer Science"
   ],
   "category": "Olympiad",
   "organizer": "Central European Olympiad in Informatics",
@@ -22,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Secondary students participate as members of invited national delegations.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English"
@@ -251,6 +250,30 @@
       "evidence_ids": [
         "research-mass-contest-central-european-olympiad-in-informatics-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

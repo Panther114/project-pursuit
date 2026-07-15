@@ -34,6 +34,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/A*STAR_Talent_Search"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -71,6 +73,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/ABU_Robocon"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -107,42 +111,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/ACM_ICPC_Dhaka_Site"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "APEC Youth Science Festival",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "APEC Youth Science Festival is a science fair run by the Asia-Pacific Economic Cooperation (APEC). It is for 15–18-year-olds with an interest in science–technology, and seeks to break down cultural barriers for learning. It began in 1998 in Seoul. The president of the Republic of Korea proposed to host the APEC Youth Science Festival at the 2nd APEC Science and Technology Ministers' Conference on November 13, 1996.",
-      "website_url": "https://en.wikipedia.org/wiki/APEC_Youth_Science_Festival",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/APEC_Youth_Science_Festival"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -179,6 +149,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/American_Invitational_Mathematics_Examination"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -215,78 +187,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/American_Mathematics_Competitions"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "American Regions Mathematics League",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The American Regions Mathematics League (ARML), is an annual, national high school mathematics team competition held simultaneously at five locations in the United States: the University of Iowa, Penn State, University of Nevada, Reno, Western Carolina University, and Saint Anselm College.  Past sites have included San Jose State University, Rutgers University, UNLV, Duke University, and University of Georgia.\nTeams consist of 15 members, which usually represent a large geographic region (such as a state) or a large population center (such as a major city).  Some schools also field teams.  The competition is held in June, on the first Saturday after Memorial Day.\nIn 2022, 120 teams competed with about 1800 students.\nARML problems cover a wide variety of mathematical topics including algebra, geometry, number theory, combinatorics, probability, and inequalities. Calculus is not required to successfully complete any problem, but it may facilitate solving the problem more quickly or efficiently.  While part of the competition is short-answer based, there is a cooperative team round, and a proof-based power question (also completed as a team).  ARML problems are harder than most high s",
-      "website_url": "https://en.wikipedia.org/wiki/American_Regions_Mathematics_League",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/American_Regions_Mathematics_League"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Anthologise Poetry Competition",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Writing"
-      ],
-      "category": "Writing contests",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Anthologise is a national poetry competition for British secondary schools.  It was established in 2011, and is spearheaded by Carol-Ann Duffy, the Poet Laureate.  The competition is administered by the publishing house Picador. The competition was launched by the Duchess of Cambridge in September 2011.\nSchoolchildren aged 11 to 18 are invited to create and submit their own anthologies of published poetry to an expert judging panel of poets, academics and critics.  In 2011 the Anthologise judges were Carol-Ann Duffy; Gillian Clarke (National Poet for Wales); John Agard; Grace Nichols; and Cambridge Professor of Children's Poetry, Morag Styles.\nThe first ever winners of Anthologise were Monkton Combe School, Bath, with their anthology called The Poetry of Earth is Never Dead.",
-      "website_url": "https://en.wikipedia.org/wiki/Anthologise_Poetry_Competition",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Anthologise_Poetry_Competition"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -324,6 +226,47 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Armwrestling_match_of_EAP_robotic_arm_against_human"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Asia World Schools Debating Championship",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Public Speaking",
+        "Social Science"
+      ],
+      "category": "Debating competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Asia World Schools Debating Championship, commonly coined as AWSDC, is an international debate competition founded by the World Schools Debate Championship's Asia steering committee in 2013. The 1st Asia World Schools Debating Championship was held from 1–8 August 2013 at Anglo Singapore International School's Campus in Sukhumvit 64, Bangkok, Thailand including 7 preliminary rounds, and single elimination playoffs thereafter. The tournament was centered on the theme, \"Youth Activism: It's Our Turn\". 100 teams from all over the world participated; including the national teams of New Zealand, Australia, Thailand, Taiwan, Singapore, Malaysia, China, Philippines, Korea, Sri Lanka, Bangladesh and South Africa. The team from Anglo Chinese Junior College (Singapore) emerged as the tournament's first champions, going undefeated in all of its 11 matches.\nThe 2nd AWSDC was held once again in Bangkok, Thailand from 31 July- 4 August 2014 at Anglo Singapore International School. It is the official pre-tournament of  World Schools Debating Championships (WSDC) Thailand 2014.",
+      "website_url": "https://en.wikipedia.org/wiki/Asia_World_Schools_Debating_Championship",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Asia_World_Schools_Debating_Championship"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -360,6 +303,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Asian_Physics_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -396,6 +341,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Australian_Maths_Trust"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -433,6 +380,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Australia%E2%80%93Asia_debating"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -441,9 +390,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Mathematics",
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "Mathematics competitions, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -469,6 +419,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Baltic_Way_(mathematical_contest)"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -505,6 +457,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Bangladesh_Physics_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -542,6 +496,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Botball"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -578,42 +534,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/British_Informatics_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Canada-Wide Science Fair",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Started in 1962, the Canadian-Wide Science Fair (abbreviated as CWSF) is an annual science fair in Canada coordinated by Youth Science Canada. Finalists qualify from approximately 25,000 competitors at over 100 Youth Science Canada-affiliated regional science fairs in every province and territory, or, in the province of Quebec, the provincial science fair.\nCompetition is split into three age/grade categories: Junior for grades 7 and 8, Intermediate for grades 9 and 10, and Senior for grades 11, 12 and Cégep.\nThe Canada-Wide Science Fair is a weeklong event. Students travel with their respective regional representatives to the designated location (listed below). The Canada-Wide Science Fair has been held every year since 1962. The Canada-Wide Science Fair was presented by Blackberry from 2012 through 2014.",
-      "website_url": "https://en.wikipedia.org/wiki/Canada-Wide_Science_Fair",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Canada-Wide_Science_Fair"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -650,6 +572,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Canadian_Computing_Competition"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -658,9 +582,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Computer Science"
+        "Computer Science",
+        "Multiple"
       ],
-      "category": "Programming contests",
+      "category": "Programming contests, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -686,6 +611,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Central_European_Olympiad_in_Informatics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -722,42 +649,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/China_Girls%27_Mathematical_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Chinese Chemistry Olympiad",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Chemistry"
-      ],
-      "category": "Chemistry competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Chinese Chemistry Olympiad (Chinese: 中国化学奥林匹克竞赛) is an annual academic competition held by Chinese Chemical Society. CAS changed its official Chinese name in February 2014, though its English translation remains the same.\nThe first CChO was held in 1984, 16 years after IChO. The event has been held every year since then. China has selected excellent high school students to take part in IChO through the competition since 1987.",
-      "website_url": "https://en.wikipedia.org/wiki/Chinese_Chemistry_Olympiad",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Chinese_Chemistry_Olympiad"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -794,116 +687,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Chinese_Mathematical_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Competitive debate in the United States",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Public Speaking",
-        "Social Science"
-      ],
-      "category": "Debating competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Competitive debate, also known as 'forensics' or 'speech and debate', is an activity in which two or more people take positions on an issue and are judged on how well they defend those positions. The activity has been present in academic spaces in the United States since the colonial period. The practice, an import from British education, began as in-class exercises in which students would present arguments to their classmates about the nature of rhetoric. Over time, the nature of those conversations began to shift towards philosophical questions and current events, with Yale University being the first to allow students to defend any position on a topic they believed in. In the late nineteenth century, student-led literary societies began to compete with each other academically and often engaged in debates against each other. In 1906, the first intercollegiate debate league, Delta Sigma Rho, was formed, followed by several others. Competitive debate expanded to the secondary school level in 1925 with the founding of the National Speech and Debate Association, which grew to over 300,000 members by 1969. Technological advances such as the accessibility of personal computers in the 19",
-      "website_url": "https://en.wikipedia.org/wiki/Competitive_debate_in_the_United_States",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Competitive_debate_in_the_United_States"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Congressional App Challenge",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics",
-        "Scientific research"
-      ],
-      "category": "Mathematics competitions, Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Congressional Science Technology, Engineering and Math (STEM) Academic Competition, also known as the House App Contest or Congressional App Challenge (CAC), allows middle and high school students in participating congressional districts to compete in an annual application software (\"app\") development contest. Students are encouraged to design an app using any programming language on any platform, with no limits on topic or function. Winners from congressional districts have their apps featured online and in the United States Capitol Building and are invited to attend the annual #HouseofCode event.",
-      "website_url": "https://en.wikipedia.org/wiki/Congressional_App_Challenge",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Congressional_App_Challenge"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Cowbellpedia",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Cowbellpedia Secondary Schools Mathematics TV Quiz Show is a Nigerian national mathematics television quiz show that debuted in 2015. It was created by Oladapo Ojo.",
-      "website_url": "https://en.wikipedia.org/wiki/Cowbellpedia",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Cowbellpedia"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -940,17 +725,19 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Deutsche_Neurowissenschaften-Olympiade"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Discovery Education 3M Young Scientist Challenge",
+      "canonical_name": "ECOWAS Peace Pageant",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Scientific research"
+        "Multiple"
       ],
-      "category": "Science competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -970,156 +757,14 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The 3M Young Scientist Challenge is a youth science and engineering competition administered by Discovery Education and 3M for middle school students in the United States, similar to the European Union Contest for Young Scientists. Students apply by creating a 1-2 minute video detailing their idea for a new invention intended to solve an everyday problem. Ten finalists are chosen annually to work alongside a 3M scientist during a summer mentorship and receive a trip to the 3M Innovation Center in St. Paul, Minnesota, to compete for $25,000 and the title of America's Top Young Scientist.",
-      "website_url": "https://en.wikipedia.org/wiki/Discovery_Education_3M_Young_Scientist_Challenge",
+      "description": "The ECOWAS Peace Pageant  is an annual international beauty pageant established in 2008 for promoting peace and the youth agenda of the ECOWAS Commission to the global community. It is open to delegates from the 15 member-states of the Economic Community of West African States (ECOWAS )/Communauté Économique Des États de l'Afrique de l'Ouest/Comunidade Económica dos Estados da África Ocidental  (CEDEAO). However, since each country sends two delegates, the pageant membership is 30.\nThe 2012 Ecowas Peace Ambassador is Zirra Banu from Nigeria who was crowned in Port Harcourt on Friday, 14 December 2012.\nThe venue for the pageant is selected by the ECOWAS Peace Pageant organization and the ECOWAS commission based on which country offering optimal support to the organization is chosen.\nThe pageant winner is expected to spend one year to champion the cause for the pageant organisation's official charity, and avail herself for all fund-raising events.",
+      "website_url": "https://en.wikipedia.org/wiki/ECOWAS_Peace_Pageant",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Discovery_Education_3M_Young_Scientist_Challenge"
+        "https://en.wikipedia.org/wiki/ECOWAS_Peace_Pageant"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "ECybermission",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "eCYBERMISSION is a U.S. Army-sponsored online educational science fair for students in grades 6–9 in the United States or at US Army schools across the world. The contest is conducted entirely online—groups of 2-4 students submit \"Mission Folders\", which contain detailed information about their projects choosing either Scientific Inquiry or the Engineering Design Process.\nThe competition selects winners on state, regional, and finally national levels for each grade level. All regional winners receive a trip to attend the National Judging and Educational Event (NJ&EE). Students can win up to $10,000 in savings bonds (maturity value). The NJ&EE event includes many opportunities to meet others, physical training, various workshops and panels, as well as the DoD STEM Workshops, which is a day working with scientists and engineers from different sectors of the DoD.\neCYBERMISSION is part of the Army Educational Outreach Program (AEOP).\nThe competition is administered by the National Science Teaching Association (NSTA).",
-      "website_url": "https://en.wikipedia.org/wiki/ECybermission",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/ECybermission"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Egg drop competition",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Physics"
-      ],
-      "category": "Physics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The egg drop contest is an experiment usually performed by college or primary school students. Competitors typically attempt to create a device that can keep a raw chicken egg intact when dropped from a height. Students are asked to build a device made from a limited or unlimited amount of materials to support an egg when dropped from various heights.",
-      "website_url": "https://en.wikipedia.org/wiki/Egg_drop_competition",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Egg_drop_competition"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Enterprize Canada",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Business"
-      ],
-      "category": "Business plan competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Enterprize Canada was a student-run, not-for-profit organization with a focus on promoting entrepreneurship while providing opportunities to young entrepreneurs to grow and develop their ideas. Established in 2001 under the leadership of founder Michael Lee and other undergraduate business students from the Sauder School of Business at the University of British Columbia, Enterprize Canada hosts Canada's largest student-run business plan competition and entrepreneurship conference.  Over 250 student-delegates, industry professionals, and young entrepreneurs from across Canada met annually in Vancouver, BC in this two-part event. While the conference and the business plan competition were the highlight events of the organization, Enterprize Canada hosted and participated in a number of community-based activities through workshops, conferences and social events that connects students in universities across Canada. Since 2009, Enterprize has also hosted the annual miniEnterprize conference which connects young innovators in across twenty high schools throughout British Columbia. The group has been inactive since 2014.",
-      "website_url": "https://en.wikipedia.org/wiki/Enterprize_Canada",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Enterprize_Canada"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Envirothon",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "NCF-Envirothon is an annual environmentally themed academic competition for high school aged students organized by the NCF-Envirothon a program of the National Conservation Foundation. The competition is held by the United States and Canada on a regional, state, and bi-national level. In select years, the competition has also included China and Singapore. Envirothon combines in-class and hands-on environmental education  in a competition setting which involves a problem-solving presentation as well as written field tests. The competition tests students on five core subjects — aquatic ecology, forestry, soils and land use, and wildlife — along with a fifth annually-changing subtopic which focuses on relevant environmental issues. Currently, roughly 25,000 students from forty-five U.S. states and nine Canadian provinces/territories participate in the competition.\nStates and provinces across the United States and Canada each have their own local competitions from which the winning high school team earns the privilege of representing their state/province at the NCF-Envirothon competition, held each summer in a different U.S. state or Canadian province. In areas with a considerable numb",
-      "website_url": "https://en.wikipedia.org/wiki/Envirothon",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Envirothon"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1157,6 +802,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Eurasian_Schools_Debating_Championship"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1165,9 +812,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
+        "Multiple",
         "Scientific research"
       ],
-      "category": "Science competitions",
+      "category": "Science competitions, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1193,6 +841,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/European_Olympiad_of_Experimental_Science"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1230,6 +880,318 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/European_Union%E2%80%93Thailand_Intervarsity_Debate_Championship"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Evan O'Dorney",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Evan Michael O'Dorney (born September 16, 1993) is an American mathematician who is a postdoctoral associate at Carnegie Mellon University. His specialization is number theory. As a home-schooled high school student and college student, he won many contests in mathematics and other subjects, including the 2007 Scripps National Spelling Bee, 2011 Intel Science Talent Search, four International Math Olympiad medals, and three Putnam Fellowships. A 2013 report by the National Research Council called him \"as famous for academic excellence as any student can be\".",
+      "website_url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Evan_O%27Dorney"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "FIRST Championship",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The FIRST Championship is a four-day robotics championship held annually in April at which FIRST student robotics teams compete. For several years, the event was held at the Georgia Dome in Atlanta, Georgia, but moved to the Edward Jones Dome in St. Louis, Missouri in 2011, where it remained through 2017. In 2017, the Championship was split into two events, being additionally held at the George R. Brown Convention Center and Minute Maid Park in Houston, Texas. In 2018 and 2019, the Championship was held in Houston and Detroit, Michigan at the TCF Center and Ford Field. The event comprises four competitions; the FIRST Robotics Competition Championship, the FIRST Tech Challenge World Championship, the FIRST Lego League Challenge World Festival, and the FIRST Lego League Explore World Expo.\nThe FIRST Robotics Competition is a ten-week program in which high-school students build 115-pound (52 kg) robots designed to compete in a game that changes each year. Students are given sets of parts to use, but they can also use off-the-shelf or custom-made parts. The FIRST Tech Challenge is a mid-level competition program for middle school and high school aged students with a more accessible and",
+      "website_url": "https://en.wikipedia.org/wiki/FIRST_Championship",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/FIRST_Championship"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "FIRST Global Challenge",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The FIRST Global Challenge is a yearly robotics competition for high school students organized by the International First Committee Association. It promotes STEM education and careers for youth and was created by Dean Kamen in 2016 as an expansion of FIRST, an organization with similar objectives. \nThe competition consists of one team per country, from over 190 countries globally.",
+      "website_url": "https://en.wikipedia.org/wiki/FIRST_Global_Challenge",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/FIRST_Global_Challenge"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "FIRST Lego League Challenge",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The FIRST Lego League Challenge (formerly known as FIRST Lego League) is an international competition organized by FIRST for elementary and middle school students (ages 9–14 in the United States and Canada, 9-15 elsewhere).\nEach year in August, FIRST Lego League Challenge teams are introduced to a scientific and real-world challenge for teams to focus and research on. The robotics part of the competition involves designing and programming Lego Education robots to complete tasks. The innovation project part of the competition involves the students working out a solution to a problem related to the theme (changes every year). The students first  meet for regional, national and international tournaments to compete, share their knowledge, compare ideas, and display their robots.\nThe FIRST Lego League Challenge is a partnership between, FIRST and the Lego Group. It is the third division of FIRST Lego League, following FIRST Lego League Discover for ages 4-6 and FIRST Lego League Explore for ages 6-10. In March 2026, FIRST and LEGO Education announced that the partnership would conclude at the end of the 2026-2027 season.",
+      "website_url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "FIRST Robotics Competition",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The FIRST Robotics Competition (FRC) is an international high school robotics competition operated by FIRST. Each year, the organization designs a game around various tasks, and teams of high school students, coaches, and mentors build robots to play it. Tasks have included shooting balls into goals, hanging on bars, placing objects in predetermined locations, and balancing robots on field elements. Teams are given a set of parts during the annual Kickoff; they are encouraged to purchase or fabricate specialized components. \nFIRST Robotics Competition is one of five robotics competition programs organized by FIRST, along with FIRST LEGO League Discover, FIRST LEGO League Explore, FIRST LEGO League Challenge, and FIRST Tech Challenge.\nThe program aims to inspire students to be science and technology leaders. It urges participants to demonstrate two values: \"Gracious Professionalism\", or help, empathy, and respect for other teams; and \"Coopertition\", the idea that teams can cooperate and compete at the same time. \nIn 2024, the 33rd year of the competition, robots were built by 3,468 teams in 28 countries, comprising more than 86,700 students and 27,700 mentors. Events included 62 Reg",
+      "website_url": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "FIRST Tech Challenge",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "FIRST Tech Challenge (FTC), formerly known as FIRST TECH Challenge, is a robotics competition for students in grades 7–12 to compete head to head, by designing, building, and programming a robot to compete in an alliance format against other teams. FIRST Tech Challenge is one of the 3 major robotics programs organized by FIRST, which its other 2 programs include FIRST Lego League, and FIRST Robotics Competition.\nThe competition consists of local qualifiers, regional championships and the world championship, the FIRST Championship, and in every season, a kickoff is held to showcase the season's theme and game. After kickoff, robots are designed, built, and programmed by teams, and teams are encouraged to conduct outreach with their communities. Local qualifiers are held for teams to compete and qualify for regional championships, and from that point, regional championships are held for teams to qualify for the world championship.\nThe robot kit is Android-based, and it is programmed using Java, Kotlin, the Blocks programming interface created with Blockly, or other Android programming systems. Teams, with the guidance of coaches, mentors and volunteers, are required to develop strate",
+      "website_url": "https://en.wikipedia.org/wiki/FIRST_Tech_Challenge",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/FIRST_Tech_Challenge"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Flanders Mathematics Olympiad",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The Flanders Mathematics Olympiad (Dutch: Vlaamse Wiskunde Olympiade; VWO) is a Flemish mathematics competition for students in grades 9 through 12.  Two tiers of this competition exist: one for 9th- and 10th-graders (Dutch: Junior Wiskunde Olympiade; JWO), and one for 11th- and 12th-graders. It is a feeder competition for the International Mathematical Olympiad.",
+      "website_url": "https://en.wikipedia.org/wiki/Flanders_Mathematics_Olympiad",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Flanders_Mathematics_Olympiad"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "For Inspiration and Recognition of Science and Technology",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Engineering",
+        "Robotics"
+      ],
+      "category": "Robotics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "For Inspiration and Recognition of Science and Technology (FIRST) is an international youth organization that operates the FIRST Robotics Competition, FIRST Tech Challenge, FIRST Lego League Challenge, FIRST Lego League Explore, and FIRST Lego League Discover competitions. Founded by Dean Kamen and Woodie Flowers in 1989, its expressed goal is to develop ways to inspire students in engineering and technology fields. Its philosophy is expressed by the organization as Coopertition and Gracious Professionalism. FIRST also operates FIRST Place, a research facility at FIRST headquarters in Manchester, New Hampshire, where it holds educational programs and day camps for students and teachers.",
+      "website_url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1266,47 +1228,13 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Future_City_Competition"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Golden Pen Awards",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Writing"
-      ],
-      "category": "Writing contests",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Golden Pen Awards is the highest competition for budding writers (journalism) in both private and public schools in the Western Visayas, Philippines pursuant to the Sec. 1 Rule IX of Republic Act 7079 also known as Campus Journalism Act of 1991. The writing contest includes both students from the elementary and secondary level.\nThis journalism contest is separately organized compared to Regional Schools Press Conference (RSPC) wherein the winners will advance to the National Schools Press Conference (NSPC). This structure would still depend on the organizing committees and to Department of Education (Philippines) to ensure a higher standard for the campus journalists. The contest is scheduled annually with four level/category to select its winners started from grades 3–4, grades 5–6 for the elementary level and 1st year to 2nd year and 3rd to 4th year for the high school level.",
-      "website_url": "https://en.wikipedia.org/wiki/Golden_Pen_Awards",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Golden_Pen_Awards"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "HMMT",
+      "canonical_name": "Gabriel Carroll",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
@@ -1332,23 +1260,26 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "HMMT is a semiannual (biannual) high school mathematics competition that started in 1998. The Autumn (November) tournament is held annually at Harvard University in Cambridge, Massachusetts, and the Spring (February) tournament is held annually at MIT, also in Cambridge. The competition is organized and executed in a tightly-knit partnership between the corresponding student groups at Harvard and at MIT. From problem writing to logistics, the competition is handled primarily by undergraduate students at the universities.",
-      "website_url": "https://en.wikipedia.org/wiki/HMMT",
+      "description": "Gabriel Drew Carroll (born December 24, 1982) is a professor of economics at the University of Toronto. He was born to tech industry worker parents in Oakland. He graduated from Harvard University with B.A. in mathematics and linguistics in 2005 and received his doctorate in economics from MIT in 2012. He was recognized as a child prodigy and received numerous awards in mathematics while a student.\nCarroll won two gold medals (1998, 2001) and a silver medal (1999) at the International Mathematical Olympiad (IMO), earning a perfect score at the 2001 International Mathematical Olympiad held in Washington, D.C., shared only with American teammate Reid W. Barton and Chinese teammates Liang Xiao and Zhiqiang Zhang.\nGabriel earned a place among the top five ranked competitors (who are themselves not ranked against each other) in the William Lowell Putnam Competition all four years that he was eligible (2000–2003), a feat matched by only eight others—Don Coppersmith (1968–1971), Arthur Rubin (1970–1973), Bjorn Poonen (1985–1988), Ravi Vakil (1988–1991), Reid W. Barton (2001–2004), Daniel Kane (2003–2006), Brian R. Lawrence (2007, 2008, 2010, 2011), and Luke Robitaille (2022–2025). His top",
+      "website_url": "https://en.wikipedia.org/wiki/Gabriel_Carroll",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/HMMT"
+        "https://en.wikipedia.org/wiki/Gabriel_Carroll"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Hong Kong Mathematical High Achievers Selection Contest",
+      "canonical_name": "Heart of Europe Debating Tournament",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Public Speaking",
+        "Social Science"
       ],
-      "category": "Mathematics competitions",
+      "category": "Debating competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1368,12 +1299,14 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "Hong Kong Mathematical High Achievers Selection Contest (HKMHASC, Traditional Chinese: 香港青少年數學精英選拔賽) is a yearly mathematics competition for students of or below Secondary 3 in Hong Kong. It is jointly organized by Po Leung Kuk and Hong Kong Association of Science and Mathematics Education since the academic year 1998-1999. Recently, there are more than 250 secondary schools participating.",
-      "website_url": "https://en.wikipedia.org/wiki/Hong_Kong_Mathematical_High_Achievers_Selection_Contest",
+      "description": "The Heart of Europe International Debating Tournament (HOE DT) is an annual debating tournament for high school-level teams which is held in English.",
+      "website_url": "https://en.wikipedia.org/wiki/Heart_of_Europe_Debating_Tournament",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Hong_Kong_Mathematical_High_Achievers_Selection_Contest"
+        "https://en.wikipedia.org/wiki/Heart_of_Europe_Debating_Tournament"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1410,6 +1343,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Hong_Kong_Mathematics_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1446,6 +1381,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Hong_Kong_Olympiad_in_Informatics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1482,6 +1419,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Icelandic_Junior_College_Mathematics_Competition"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1518,6 +1457,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Indonesia_National_Science_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1555,17 +1496,19 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Intercollegiate_Ethics_Bowl"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Intermediate Math League of Eastern Massachusetts",
+      "canonical_name": "International Bible Contest",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1585,12 +1528,14 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The Intermediate Math League of Eastern Massachusetts (or IMLEM) is a math league for middle schools across Eastern Massachusetts. A brief history of IMLEM is given in its By-Laws:\n\n The first contest of the Intermediate Math League was held in March, 1965. This meeting was viewed as an experiment to determine the advisability of this type of academic competition for the age levels of students in grades 7 through 9. Enthusiasm and commitment to the contest idea spread quickly. Throughout the years, the League has grown in membership from ten to forty three schools. Students have the honor of representing their school in an academic competition, while interacting academically and socially with students from other communities. Advisors have the opportunity to discuss and compare their programs in mathematics. In 1986, the academic competition was redesigned to accommodate the regional change from junior high schools to middle schools. Teams then consisted of students in grades 7 and 8. Sixth grade students were allowed to participate as seventh graders.",
-      "website_url": "https://en.wikipedia.org/wiki/Intermediate_Math_League_of_Eastern_Massachusetts",
+      "description": "The International Bible Contest (Hebrew: חידון התנ\"ך; Hidon HaTanakh also spelled Chidon HaTanach or Jidon Hatanaj [among Spanish and Portuguese-speaking Jews]) is a worldwide competition on the Tanakh (Jewish Bible) for middle school and high school Jewish students. It is held annually in Jerusalem, on Yom Ha'atzmaut. Because the event is officially sponsored by the Israeli government and the Jewish Agency, it is attended by the Prime Minister of Israel, the Minister of Education and the Chairman of the Jewish Agency.",
+      "website_url": "https://en.wikipedia.org/wiki/International_Bible_Contest",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Intermediate_Math_League_of_Eastern_Massachusetts"
+        "https://en.wikipedia.org/wiki/International_Bible_Contest"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1627,6 +1572,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Brain_Bee"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1635,9 +1582,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Chemistry"
+        "Chemistry",
+        "Scientific research"
       ],
-      "category": "Chemistry competitions",
+      "category": "Chemistry competitions, Science competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1663,6 +1611,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Chemistry_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1699,6 +1649,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Conference_of_Young_Scientists"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1707,9 +1659,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Biology"
+        "Biology",
+        "Scientific research"
       ],
-      "category": "Biology competitions",
+      "category": "Biology competitions, Science competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1735,6 +1688,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Genetically_Engineered_Machine"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1772,6 +1727,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Greenwich_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1808,6 +1765,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Mathematical_Modeling_Challenge"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "International Mathematical Olympiad",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The International Mathematical Olympiad (IMO) is a mathematical olympiad for pre-university students, and is the oldest of the International Science Olympiads. It is widely regarded as the most prestigious mathematical competition in the world. The first IMO was held in Romania in 1959. It has since been held annually, except in 1980. More than 100 countries participate. Each country sends a team of up to six students, plus one team leader, one deputy leader, and observers.\nThe contest takes place over two days, and consists of six problems (three given on each day). The problems are extremely difficult, and may include topics not conventionally covered in school, but they avoid the use of calculus. Awards are given to approximately the top-scoring 50% of the individual contestants. Teams are not officially recognized—all scores are given only to individual contestants, but team scoring is unofficially compared more than individual scores.",
+      "website_url": "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1844,6 +1841,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Olympiad_in_Informatics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "International Olympiad on Astronomy and Astrophysics",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research"
+      ],
+      "category": "Science competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The International Olympiad on Astronomy and Astrophysics (IOAA) is an annual astronomy and astrophysics competition for high school students, aimed to promote the growing interest in astronomy and related STEM subjects. It is one of the international science olympiads, and was founded from a dissidence inside the International Astronomy Olympiad, in order to increase the scope of the organization.\nThe IOAA consists of a theoretical exam, a data analysis exam, and an observational exam. A separate team competition is also included, where international teams are formed by randomly selecting members from different countries. The results of the team competition do not affect the individual results.",
+      "website_url": "https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1852,9 +1889,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
+        "Multiple",
         "Writing"
       ],
-      "category": "Writing contests",
+      "category": "Student competitions, Writing contests",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -1880,6 +1918,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Philosophy_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1916,6 +1956,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Physics_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1952,6 +1994,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Physics_and_Culture_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "International Science and Engineering Fair",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Scientific research"
+      ],
+      "category": "Science competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The Regeneron International Science and Engineering Fair (ISEF) is an annual science fair held in the United States. It is widely regarded as the most prestigious pre-university scientific and engineering research competition in the world. It is owned and administered by the Society for Science, a 501(c)(3) non-profit organization based in Washington, D.C.\nEach year, an estimated 7 million students from 75 countries participate in affiliated local, regional, and national science fairs that serve as feeders to ISEF, with roughly 1,800 finalists (about 0.03%) advancing to the international competition. Each May, finalists compete in the fair for scholarships, tuition grants, internships, scientific field trips and the grand prizes, including one $100,000 and two $75,000 college scholarships. All prizes together amount to over $9,000,000. Two major awards ceremonies are the Special Awards Organization Presentation and the Grand Awards Ceremony.",
+      "website_url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -1988,6 +2070,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Software_Engineering_Olympiad_PROD"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2024,6 +2108,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Space_Olympics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2060,6 +2146,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Student_Science_Fair"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2096,6 +2184,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/International_Young_Physicists%27_Tournament"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2104,9 +2194,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Biology"
+        "Biology",
+        "Scientific research"
       ],
-      "category": "Biology competitions",
+      "category": "Biology competitions, Science competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2132,42 +2223,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Iranian_Biology_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Jugend forscht",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Jugend forscht (lit.Tooltip literal translation \"Youth researches\"), commonly abbreviated as Jufo, is a German youth science competition. With more than 10,000 participants annually, it is the biggest youth science and technology competition in Europe. It was initiated in 1965 by Henri Nannen, then editor-in-chief of the Stern magazine.\nParticipants work on a self-chosen research project, hand in a written report about their work, and then present their results first at regional levels and later at a national contest to an expert jury, usually in the form of a poster session, often including a practical demonstration. Contest juries often invite university or industry experts to referee some of the projects, especially at the national contest, due to a high level of specialization.\nParticipants can enter in one of seven subject groups:\n\nBiology\nChemistry\nGeosciences and Astronomy\nMathematics and Computer Science\nPhysics\nTechnology\nWork environment\nParticipants must not be older than 21 years and can enter the competition either on their own or in teams of up to three. University students are only allowed to participate during their first year of study. Participants younger than 15 ",
-      "website_url": "https://en.wikipedia.org/wiki/Jugend_forscht",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Jugend_forscht"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2204,42 +2261,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/KEBA_Student_Investor_Challenge"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "KFUPM mathematics olympiad",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "KFUPM mathematics olympiad is a national mathematics olympiad for secondary school students in Saudi Arabia organized by King Fahd University of Petroleum and Minerals (KFUPM). The competition started in 2006 in one center in Eastern Province then gradually the number of centers increased in the following years to include seven centers over the kingdom (Dhahran, Riyadh, Jeddah, Al-Qasim, Abha, Madina, Al-Hasa).\nIn its fifth and sixth edition, the competition managed to involve first and second secondary school students in addition to the third secondary grade students and introduced a center for female students in the Eastern Province. In 2015, it launched two new female centers in Riyadh and Jeddah.",
-      "website_url": "https://en.wikipedia.org/wiki/KFUPM_mathematics_olympiad",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/KFUPM_mathematics_olympiad"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2277,53 +2300,19 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Kathmandu_Debates"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Korean Physics Olympiad",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Physics"
-      ],
-      "category": "Physics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Korea Physics Olympiad (KPhO) is a physics competition held by the Korean Physical Society for middle and high school students.",
-      "website_url": "https://en.wikipedia.org/wiki/Korean_Physics_Olympiad",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Korean_Physics_Olympiad"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Little Box Challenge",
+      "canonical_name": "Let the Peoples Sing 2024",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
         "Multiple"
       ],
-      "category": "Student competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2343,23 +2332,26 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The Little Box Challenge was an engineering competition run by Google and the IEEE's Power Electronics Society. The original challenge was posted on July 22, 2014, with modifications on December 16, 2014, and March 23, 2015. Testing was in October 2015 at the National Renewable Energy Laboratory. From the 18 finalists, CE+T Power's team called Red Electrical Devils won the $1 million prize, which was awarded to them in March 2016.\nThe challenge was to build a power inverter that was about one tenth the size of the state-of-the-art at the time. It had to have an efficiency greater than 95 percent and handle loads of 2 kW. It also had to fit in a metal enclosure of no more than 40 cubic inches (the eponymous \"little box\") and withstand 100 hours of testing.\nThe goals of the competition were lower cost solar photovoltaic power, more efficient uninterruptible power supplies, affordable microgrids, and the ability to use an electric vehicle's battery as backup power during a power outage. Google also hoped a smaller inverter could make its data centers run more efficiently.\nMore than 100 international teams from university researchers and students to large companies and garage tinkerers",
-      "website_url": "https://en.wikipedia.org/wiki/Little_Box_Challenge",
+      "description": "Let the Peoples Sing 2024 was the 47th edition of the international choral competition Let the Peoples Sing. It was organised by the European Broadcasting Union (EBU), with the British Broadcasting Corporation (BBC) as host broadcaster. For the first time in the contest, the finalists competed live from their own countries, with the performances assessed by an eight-member jury voting from the BBC in London. This was the first time since 2003 that the city of London hosted the contest, having done so for the inaugural contest in 1961 until 1982, and once again in 2001 and 2003. The final was presented by Ian Skelly and Suzi Digby.\nEight choirs from seven countries participated, with Finland being the only country who competed in both adult's and children/youth's categories. The winner was Copenhagen Girls' Choir from Denmark. The adult category was won by Hägersten A Cappella from Sweden and the inaugural Youth Jury prize was won by Incantanti from Switzerland.",
+      "website_url": "https://en.wikipedia.org/wiki/Let_the_Peoples_Sing_2024",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Little_Box_Challenge"
+        "https://en.wikipedia.org/wiki/Let_the_Peoples_Sing_2024"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Mandelbrot Competition",
+      "canonical_name": "Livingston Robotics Club",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Engineering",
+        "Robotics"
       ],
-      "category": "Mathematics competitions",
+      "category": "Robotics competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2379,12 +2371,52 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "Named in honor of Benoit Mandelbrot, the Mandelbrot Competition was a mathematics competition founded by Sam Vandervelde, Richard Rusczyk and Sandor Lehoczky that operated from 1990 to 2019. It allowed high school students to compete individually and in four-person teams.",
-      "website_url": "https://en.wikipedia.org/wiki/Mandelbrot_Competition",
+      "description": "Livingston Robotics Club (LRC) is a robotics club in Livingston, New Jersey, US, that provides a community network to introduce Livingston area youth to robotics design and real-life science research, consistent with the concept of FIRST (For Inspiration and Recognition of Science and Technology). LRC member teams have won state, national, and international FIRST LEGO League (FLL) competitions.",
+      "website_url": "https://en.wikipedia.org/wiki/Livingston_Robotics_Club",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Mandelbrot_Competition"
+        "https://en.wikipedia.org/wiki/Livingston_Robotics_Club"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Magic Circus Show",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "The Magic Circus Show was an entertainment show organised by the European Broadcasting Union (EBU) and host broadcaster Radio Télévision Suisse (RTS), which aired in 2010, 2011 and 2012. Children aged between seven and fourteen representing eight countries within the EBU membership area, performed a variety of circus acts at the Geneva Christmas Circus (French: Cirque de Noël Genève). The main show was also accompanied by the Magic Circus Show Orchestra.\nThe programme was recorded at the end of November each year in the tent of Circus Pajazzo in Chêne-Bougeries, a town just outside Geneva in Switzerland.",
+      "website_url": "https://en.wikipedia.org/wiki/Magic_Circus_Show",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Magic_Circus_Show"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2421,186 +2453,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Math_League"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Math Prize for Girls",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Advantage Testing Foundation Math Prize for Girls, often referred to as The Math Prize for Girls, is an annual mathematics competition open to female high school students from the United States and Canada. The competition offers the world’s largest single monetary math prize in a math contest for young women.  In 2017, the First-Place prize was $46,000 (split equally amongst the three-way tie for first) with another $9,000 divided among the remaining finalists. Girls may win a maximum of $100,000 by participating in the competition over multiple years. Organized each year by the Advantage Testing Foundation, the competition is considered to be the preeminent female math competition for young women in North America.\nThe single-day annual contest is open to female high-school students in 12th grade or below, from the United States and Canada who have attained a qualifying score on the American Mathematics Competitions Exams, specifically the AMC 10 or AMC 12 given in February each year. Up to 300 participants are then selected each year for the competition.  Participants must complete 20 short-answer problems in geometry, algebra, trigonometry, and other math topics in 150 minute",
-      "website_url": "https://en.wikipedia.org/wiki/Math_Prize_for_Girls",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Math_Prize_for_Girls"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Math-O-Vision",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Math-O-Vision is an applied mathematics movie contest open to students who are legal residents of the 50 United States and the District of Columbia, at least 13 years of age and are registered in high school (grades 9-12) or equivalent home school program at time of entry. Movies are created using a wide variety of techniques, including animation. The contest is sponsored by the William H. Neukom Institute for Computational Science as well as the Dartmouth College Mathematics Department based in Hanover, New Hampshire. The competition awarded a total of $8,500 in prizes in its first year, 2012-13. The contest began in 2012 with approximately 50 movies entered. Inaugural year winners were announced May 15, 2013. The second year of the contest began November 1, 2013 and ended May 15, 2014.",
-      "website_url": "https://en.wikipedia.org/wiki/Math-O-Vision",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Math-O-Vision"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "MathChallengers",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "MathChallengers is the former Mathcounts  in British Columbia, Canada. It is open to all grade 8, 9, and 10 students from British Columbia. The major sponsors are the Association of Professional Engineers and Geoscientists of B.C. (APEGBC), the B.C. Association of Mathematics Teachers (BCAMT), BC Hydro, and IBM Canada.",
-      "website_url": "https://en.wikipedia.org/wiki/MathChallengers",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/MathChallengers"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "MathWorks Math Modeling Challenge",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "MathWorks Math Modeling Challenge (M3 Challenge) is a mathematical modeling competition open to high schools in the U.S. (including US territories and DoDEA schools) and schools with sixth form students (age 16-19) in England and Wales. It is sponsored by MathWorks (a developer of mathematical computing software) based in Boston and organized by the Society for Industrial and Applied Mathematics (SIAM) based in Philadelphia.\nM3 Challenge awards $100,000 in scholarship prizes each year to the top teams. Additional incentives are expenses-paid trips for top performing teams to the final event in New York City each April, and media recognition that the winning teams receive. Some examples of recognition: the winning paper from 2008 was published in the College Mathematics Journal.  A representative from High Tech's team appeared on FOX Business Channel, 2010 winners were interviewed by Pimm Fox of Bloomberg radio, presented its findings at Lockheed Martin's Data Capture Center, and met with U.S. Census Bureau Director Dr. Robert Groves. Many Champion teams have had their solution papers and research published in SIAM's undergraduate publication, SIAM Undergraduate Research Online (SIU",
-      "website_url": "https://en.wikipedia.org/wiki/MathWorks_Math_Modeling_Challenge",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/MathWorks_Math_Modeling_Challenge"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Mathcounts",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Mathcounts, stylized as MATHCOUNTS, is a nonprofit organization that provides extracurricular mathematics programs for grades 6 through 8 in every U.S. state, the District of Columbia, Puerto Rico, Guam, the U.S. Virgin Islands, Department of Defense schools, and State Department schools. Its mission is to provide engaging math programs for middle school students of all ability levels to build confidence and improve attitudes about math and problem-solving. \nIn Mathcounts, testing is conducted in four separate rounds: the Sprint, Target, Team, and Countdown rounds. \nThe Sprint Round consists of 30 problems to be completed in 40 minutes. This round tests competitors' accuracy and speed. As a result of the difficulty and time constraint, many competitors do not finish all the problems in the Sprint Round. \nThe Target Round consists of eight problems presented in sets of two, with each set having a six-minute time limit. Calculators are permitted. This round tests competitors' accuracy and problem-solving skills. The problems get progressively more difficult, and even with the aid of a calculator, students commonly leave questions blank.\nThe Team Round consists of 10 problems to be so",
-      "website_url": "https://en.wikipedia.org/wiki/Mathcounts",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Mathcounts"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2637,6 +2491,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Mathematical_Kangaroo"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2673,6 +2529,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Mathematical_Olympiads_for_Elementary_and_Middle_Schools"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Mathematical olympiad",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "A mathematical olympiad is a mathematical competition where participants are examined by problem-solving and may win medals depending on their performance. It is usually aimed at pre-university students, and therefore, much of olympiad mathematics consists of elementary mathematics, though solutions may involve the use of calculus or higher-level mathematics. The biggest mathematics olympiad is the International Mathematical Olympiad. Since they measure some mathematical abilities of the students, They identify talented or gifted students in mathematics, who often receive opportunities for scholarships at universities.",
+      "website_url": "https://en.wikipedia.org/wiki/Mathematical_olympiad",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Mathematical_olympiad"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2681,9 +2577,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Mathematics",
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "Mathematics competitions, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2709,17 +2606,19 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Mediterranean_Mathematics_Competition"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Mental abacus",
+      "canonical_name": "Mihai Pătrașcu (computer scientist)",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Computer Science"
       ],
-      "category": "Mathematics competitions",
+      "category": "Programming contests",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2739,23 +2638,25 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The abacus system of mental calculation is a system where users mentally visualize an abacus to carry out arithmetical calculations. No physical abacus is used; only the answers are written down.  Calculations can be made at great speed in this way.  For example, in the Flash Anzan event at the All Japan Soroban Championship, champion Takeo Sasano was able to add fifteen three-digit numbers in just 1.7 seconds.\nThis system is being propagated in China, Singapore, South Korea, Thailand, Malaysia, and Japan. Mental calculation is said to improve mental capability, calculation speed, memory power, and concentration power.\nMany veteran and prolific abacus users in China, Japan, South Korea, and others who use the abacus daily, naturally tend to not use the abacus any more, but perform calculations by visualizing the abacus. This was verified when the right brain of visualisers showed heightened EEG activity when calculating, compared with others using an actual abacus to perform calculations.\nThe abacus can be used routinely to perform addition, subtraction, multiplication, and division; it can also be used to extract square and cube roots.",
-      "website_url": "https://en.wikipedia.org/wiki/Mental_abacus",
+      "description": "Mihai Pătrașcu (17 July 1982 – 5 June 2012) was a Romanian-American computer scientist at AT&T Labs in Florham Park, New Jersey, United States.\nPătrașcu attended Carol I National College in Craiova.\nAs a high school student, he won 2 gold medals and 1 silver medal at the International Olympiad in Informatics. After attending for one year the University of Craiova, he completed his undergraduate and graduate studies in Computer Science at Massachusetts Institute of Technology. Under the supervision of Erik Demaine, he defended his MS and PhD theses in 2007 and 2008 respectively.\nPătrașcu’s work was concerned with fundamental questions about basic data structures. He received the Machtey Award for the best student paper at the Symposium on Foundations of Computer Science  in 2008, and the Presburger Award from the European Association for Theoretical Computer Science in 2012, for breaking \"many old barriers on fundamental data structure problems, not only revitalizing but also revolutionizing a field that was almost silent for over a decade.\"\nMihai Pătrașcu died in 2012 at the age of 29 after suffering from brain cancer for a year and a half, and was buried in his native city, Craiov",
+      "website_url": "https://en.wikipedia.org/wiki/Mihai_P%C4%83tra%C8%99cu_(computer_scientist)",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Mental_abacus"
+        "https://en.wikipedia.org/wiki/Mihai_P%C4%83tra%C8%99cu_(computer_scientist)"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Metrobank-MTAP-DepEd Math Challenge",
+      "canonical_name": "Miss América Latina",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2775,23 +2676,25 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The Metrobank-MTAP-DepEd Math Challenge (MMC) is an annual nationwide mathematics competition in the Philippines jointly organized by the Metrobank Foundation, Inc. (MBFI), the Mathematics Teachers Association of the Philippines (MTAP), and the Department of Education (DepEd). Held nationwide for public and private schools, MMC features elimination rounds at the division and regional levels culminating in national finals for elementary (Grade 6) and junior high school (Grade 10) students. Organizers and news reports have described MMC as the country's longest-running and largest annual math contest for basic education, drawing more than 500,000 participants in the elimination rounds in peak years.",
-      "website_url": "https://en.wikipedia.org/wiki/Metrobank-MTAP-DepEd_Math_Challenge",
+      "description": "Miss América Latina or Miss América Latina del Mundo, known in English as Miss Latin America or Miss Latin America of the World, is an international beauty contest held annually.  It is organized by the Miss América Latina Organization.  Despite its name, the contest is not restricted to only Latin American nations.  It is designed for women of Latina descent around the globe.  There is an average of about 20 contestants every year.  It has two sister pageants: Miss Latina US (which selects the US delegate to Miss América Latina) and Miss Teen US Latina.\nThe current titleholder is Massiel Chupani from the Dominican Republic.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Am%C3%A9rica_Latina",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Metrobank-MTAP-DepEd_Math_Challenge"
+        "https://en.wikipedia.org/wiki/Miss_Am%C3%A9rica_Latina"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Michigan Mathematics Prize Competition",
+      "canonical_name": "Miss Teen Africa",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2811,23 +2714,25 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The Michigan Mathematics Prize Competition (MMPC) is an annual high school mathematics competition held in Michigan. First founded in 1958, the competition has grown to include over 10,000 high school participants (although middle-schoolers may also participate through a high school). The director and host of this competition changes every three years, the most recent director being Stephanie Edwards of Hope College. This competition consists of two parts, which are added together to determine score:\n\nPart I: A 40 question, multiple-choice exam open to all Michigan high schoolers\nPart II: A 5 question, proof exam given only to the Top 1000 scorers on Part I\nThe Top 100 scorers on the combined score of both parts of the competition are honored at an awards banquet, usually at the host university, although recent years have seen more than 100 people being awarded due to ties.",
-      "website_url": "https://en.wikipedia.org/wiki/Michigan_Mathematics_Prize_Competition",
+      "description": "Miss Teen Africa is an annual international beauty and cultural pageant for young women aged 14 to 19 of African origin. Established in the United Kingdom, the pageant was created to provide a platform for African teenagers in the diaspora to celebrate and promote African culture, identity, and youth empowerment. It is regarded as one of the first pageant platforms of its kind dedicated specifically to African teens in the UK diaspora.\nIn 2018, the organisation entered a two year developmental hiatus to establish an international franchise structure. This expansion model enabled participating countries outside the United Kingdom to organise national competitions and select official delegates. By 2020, the Miss Teen Africa franchise had expanded to more than 15 African countries, including Botswana, Zambia, and South Africa.\nIn the 2025 edition, the pageant introduced the PreTeen Africa category for the first time, broadening its platform to include younger participants. Moso Ditirwa of Botswana became the inaugural PreTeen Africa titleholder. The same year, Leyla Shongwe won Miss Teen Africa 2025 in South Africa.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Africa",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Michigan_Mathematics_Prize_Competition"
+        "https://en.wikipedia.org/wiki/Miss_Teen_Africa"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "NASA Human Exploration Rover Challenge",
+      "canonical_name": "Miss Teen Earth",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Scientific research"
+        "Multiple"
       ],
-      "category": "Science competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2847,23 +2752,25 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The NASA Human Exploration Rover Challenge, prior to 2014 referred to as the Great Moonbuggy Race, is an annual competition for high school and college students to design, build, and race human-powered, collapsible vehicles over simulated lunar/Martian terrain.  NASA sponsors the competition, first held in 1994, and, since 1996, the U.S. Space & Rocket Center hosts.\nStudents created vehicles dubbed \"moonbuggies\" to face challenges similar to those engineers at NASA's Marshall Space Flight Center addressed in preparation for Apollo 15. On that mission, on July 31, 1971, the first Lunar Roving Vehicle extended the range of astronauts on the Moon to allow for further exploration than was otherwise possible.  Two other rovers were sent to the Moon on subsequent missions.\nWith the 2014 changes in the contest, the motivation changed to mimicking design challenges faced by engineers designing rovers for future exploration missions to a variety of celestial bodies.\n\nThe first race, in 1994, was held on July 16, the 25th anniversary of the Apollo 11 launch.  It featured six college teams who competed on the same course as had been used to test the lunar rovers previously.  The University of",
-      "website_url": "https://en.wikipedia.org/wiki/NASA_Human_Exploration_Rover_Challenge",
+      "description": "Miss Teen Earth is an annual international teen beauty pageant.\nThe current Miss Teen Earth is Gabriela Pinheiro of Brazil  who was crowned on November 30, 2025 in Chiclayo, Peru. Her title marked the first back-to-back victory in Miss Teen Earth history.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Earth",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/NASA_Human_Exploration_Rover_Challenge"
+        "https://en.wikipedia.org/wiki/Miss_Teen_Earth"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "NASA RealWorld-InWorld Engineering Design Challenge",
+      "canonical_name": "Miss Teen International (Americas)",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Scientific research"
+        "Multiple"
       ],
-      "category": "Science competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -2883,12 +2790,166 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The NASA Real World-In World Engineering Design Challenge is an educational program targeting students in grades 7–12 to foster skills relevant to STEM careers. The program is structured into two phases: project-based learning and team competitions. Participants tackle engineering challenges, collaborating with university students and mentors in a virtual reality environment. The projects focus on technologies such as the James Webb Space Telescope and the Robonaut 2 humanoid robot. The Real World-In World initiative is a collaboration among NASA, the National Institute of Aerospace (NIA), and USA TODAY Education. It builds on the foundation of the Sight/Insight design challenge by NASA and USA TODAY Education, and the Virtual Exploration Sustainability Challenge (VESC), a joint effort of NIA and NASA.",
-      "website_url": "https://en.wikipedia.org/wiki/NASA_RealWorld-InWorld_Engineering_Design_Challenge",
+      "description": "Miss Teen International is an international beauty pageant for girls aged 15–19 years of all nationalities, operated by Ecuadorian businessman Rodrigo Moreira, owner of all intellectual property rights in Brazil, Chile, Costa Rica, Dominican Republic, El Salvador, Ecuador, Mexico and Panama.\nThe reigning Miss Teen International is Saskia Lincoln of the United Kingdom, who was crowned on November 30, 2025, in Chiclayo, Peru.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(Americas)",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/NASA_RealWorld-InWorld_Engineering_Design_Challenge"
+        "https://en.wikipedia.org/wiki/Miss_Teen_International_(Americas)"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Miss Teen International (India)",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Miss Teen International is an annual beauty pageant for girls aged 14 to 19 from various countries. The event is organized by the Glamanand Group, a company led by Indian businessman Nikhil Anand.\nIn August 2025, the pageant took place in Jaipur, India, where Lorena Ruiz from Spain was crowned Miss Teen International 2025.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(India)",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Miss_Teen_International_(India)"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Miss Teen Supranational",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Miss Teen Supranational is an international teen beauty contest.\nThe current Miss Teen Supranational is Maria Eduarda Targa of Brazil who was crowned on November 30, 2025, in Chiclayo, Peru.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Supranational",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Miss_Teen_Supranational"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Miss Teen World",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Miss Teen World is a global beauty pageant for teenagers, based in Guayaquil, Ecuador. That was established in 2001 by Cesar Montece, its founder, and is currently operated by Rodrigo Moreira, who owns all intellectual property rights.\nThe current Miss Teen World is Sheccid López of Mexico who was crowned on November 30, 2025 in Chiclayo, Peru.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_World",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Miss_Teen_World"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "Miss Teenager World",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "Miss Teenager World is the oldest international teen beauty pageant, founded in Guayaquil, Ecuador.\nThe pageant is only open to teenage girls and women who have never been married or given birth.\nThe current Miss Teenager World is Sahara Ledesma of Colombia who was crowned on November 30, 2025 in Chiclayo, Peru.",
+      "website_url": "https://en.wikipedia.org/wiki/Miss_Teenager_World",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/Miss_Teenager_World"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2925,6 +2986,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/NSS_Space_Settlement_Contest"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -2961,152 +3024,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/National_Ocean_Sciences_Bowl"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "National Robotics Competition (Singapore)",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Engineering",
-        "Robotics"
-      ],
-      "category": "Robotics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "National Robotics Competition (NRC) is a robotics competition jointly organised by Singapore Science Centre and Duck Learning Education, with support from the Ministry of Education and the Agency for Science, Technology and Research.  It aims to help nurture a new generation of youths with interest in Science, Technology, Engineering and Mathematics (STEM) to aspire in improving the lives of people, and encourages students to develop problem solving skills, entrepreneurial skills, creative thinking skills and team spirit.",
-      "website_url": "https://en.wikipedia.org/wiki/National_Robotics_Competition_(Singapore)",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/National_Robotics_Competition_(Singapore)"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "National Schools Debating Championship",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Public Speaking",
-        "Social Science"
-      ],
-      "category": "Debating competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The National Schools Debating Championship (NSDC) is the most prestigious high school debating tournament in Australia, and one of the most prestigious debating tournaments in the world. The Championships have been held annually since 1971 and the hosts rotate between states and territories. The championships also double as the selection process for the Australian Schools Debating Team, which compete at the World Schools Debating Championship. NSDC 2027 is set to take place in Perth.",
-      "website_url": "https://en.wikipedia.org/wiki/National_Schools_Debating_Championship",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/National_Schools_Debating_Championship"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "National Schools Press Conference",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Writing"
-      ],
-      "category": "Writing contests",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The National Schools Press Conference (NSPC) is the highest competition for journalism for both private and public elementary and secondary schools in the Philippines as per Republic Act 7079, also known as the Campus Journalism Act of 1991. The press conference includes both students from the elementary and secondary level and is usually held on the month of February (July in the post-pandemic until 2025). The event usually lasts for 3 to 5 days.\nThe journalism contest begins with the Division School's Press Conference (DSPC), where the top three to fifteen in each category, depending on the size of the certain schools division, qualifies for the Regional School's Press Conference (RSPC), from which the top one will be chosen to represent their respective regions in the National School's Press Conference (NSPC). In larger divisions, the districts have the Area School's Press Conference (ASPC) before the DSPC.",
-      "website_url": "https://en.wikipedia.org/wiki/National_Schools_Press_Conference",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/National_Schools_Press_Conference"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "National Science Bowl",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The National Science Bowl (NSB) is a high school and middle school science knowledge competition, using a quiz bowl format, held in the United States. A buzzer system similar to those seen on popular television game shows is used to signal an answer. The competition has been organized and sponsored by the United States Department of Energy since its inception in 1991.",
-      "website_url": "https://en.wikipedia.org/wiki/National_Science_Bowl",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/National_Science_Bowl"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3143,78 +3062,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/New_York_City_Science_and_Engineering_Fair"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "New York State Mathematics League",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The New York State Mathematics League (NYSML) competition was originally held in 1973 and has been held annually in a different location each year since. It was founded by Alfred Kalfus. The American Regions Math League competition is based on the format of the NYSML competition. The current iteration contains four sections: the team round, power question, individual round, and a relay. These are done in competition in that order. All of these rounds are done without a calculator. Each individual team can have up to fifteen students, which is the usual amount per team. Like ARML, it has banned the use of calculators beginning in the 2009 contest.",
-      "website_url": "https://en.wikipedia.org/wiki/New_York_State_Mathematics_League",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/New_York_State_Mathematics_League"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Noetic Learning math contest",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Noetic Learning math contest is a national biannual problem-solving competition for elementary and middle school students. The contest aims to encourage students' interest in mathematics and develop problem-solving skills. It is open to students in grades 2 through 8. It is held twice a year, in the fall and spring. The competition consists of a 45-minute timed test, comprising 20 math problems.",
-      "website_url": "https://en.wikipedia.org/wiki/Noetic_Learning_math_contest",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Noetic_Learning_math_contest"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3223,9 +3072,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Mathematics"
+        "Mathematics",
+        "Multiple"
       ],
-      "category": "Mathematics competitions",
+      "category": "Mathematics competitions, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -3251,42 +3101,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Nordic_Mathematical_Contest"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Olimpíada Brasileira de Matemática das Escolas Públicas",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Brazilian Mathematical Olympiad of Public Schools (Portuguese: Olimpíada Brasileira de Matemática das Escolas Públicas) (OBMEP) is an annual Mathematics contest created in 2005 by the Brazilian Ministério da Ciência e Tecnologia (MCT) and Ministério da Educação (MEC), in collaboration with Instituto Nacional de Matemática Pura e Aplicada (IMPA) and Sociedade Brasileira de Matemática (SBM), to stimulate the mathematics education in Brazil. It is open to public school students from fifth grade to high school. Yearly, around 18 million students are enrolled for its first round.",
-      "website_url": "https://en.wikipedia.org/wiki/Olimp%C3%ADada_Brasileira_de_Matem%C3%A1tica_das_Escolas_P%C3%BAblicas",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Olimp%C3%ADada_Brasileira_de_Matem%C3%A1tica_das_Escolas_P%C3%BAblicas"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3323,42 +3139,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Olympiade_Math%C3%A9matique_Belge"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Ontario Mathematics Olympiad",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Ontario Mathematics Olympiad (OMO) is an annual mathematics competition  for Grade 7s and 8s across Ontario, hosted by the Ontario Association for Mathematics Education (OAME).",
-      "website_url": "https://en.wikipedia.org/wiki/Ontario_Mathematics_Olympiad",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Ontario_Mathematics_Olympiad"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3367,9 +3149,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
+        "Physics",
         "Scientific research"
       ],
-      "category": "Science competitions",
+      "category": "Physics competitions, Science competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -3395,42 +3178,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/POISK_Centre"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Pennsylvania Junior Academy of Science",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Pennsylvania Junior Academy of Science (PJAS) is a statewide nonprofit organization in Pennsylvania founded in 1934 by the Pennsylvania Academy of Science as an affiliate of the American Association for the Advancement of Science (AAAS). Students in grades 7-12 conduct independent scientific research experiments following the scientific method before delivering a presentation detailing their results.",
-      "website_url": "https://en.wikipedia.org/wiki/Pennsylvania_Junior_Academy_of_Science",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Pennsylvania_Junior_Academy_of_Science"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3467,225 +3216,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Philippine_Math_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Policy debate competitions in the United States",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Multiple",
-        "Public Speaking",
-        "Social Science"
-      ],
-      "category": "Debating competitions, Student competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Policy debate competitions in the United States are organized at both the high school and college levels, with tournaments taking place at local, regional, and national scales throughout the academic year. High school debaters typically compete in local tournaments on weekends during the debate season, with a smaller group of elite competitors traveling the country on what is known as the national circuit. The premier high school championship is the Tournament of Champions, held at the University of Kentucky, while non-national-circuit debaters compete through organizations such as the National Forensic League and the NCFCA. At the college level, tournaments run from September through late March, with the National Debate Tournament (NDT), the Cross Examination Debate Association (CEDA), and the American Debate Association (ADA) each hosting their own national championships.",
-      "website_url": "https://en.wikipedia.org/wiki/Policy_debate_competitions_in_the_United_States",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Policy_debate_competitions_in_the_United_States"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Primary Mathematics World Contest",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Primary Mathematics World Contest (PMWC; traditional Chinese: 保良局小學數學世界邀請賽; simplified Chinese: 保良局小学数学世界邀请赛) is an annual math competition for primary school students in Hong Kong. It was first held in 1997 and is sponsored by Po Leung Kuk. The competition has attracted teams from around the world.",
-      "website_url": "https://en.wikipedia.org/wiki/Primary_Mathematics_World_Contest",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Primary_Mathematics_World_Contest"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Public forum debate",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Public Speaking",
-        "Social Science"
-      ],
-      "category": "Debating competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Public forum debate is a form of competitive debate where debaters use their evidence and impacts to outweigh the benefits and harms of the opposing side. The topics for public forum have to do with current-day events relating to public policy. Debaters work in pairs of two, and speakers alternate for every speech. It is primarily competed by middle and high school students, but college teams exist as well. Invented in the United States, public forum is one of the most prominent American debate events, alongside policy debate and Lincoln–Douglas debate; it is also practiced in China and India, and has been recently introduced to Romania. Individuals give short (2–4-minute) speeches that are interspersed with 3-minute \"Crossfire\" sections, questions and answers between opposed debaters. The winner is determined by a judge who also serves as a referee (timing sections, penalizing incivility, etc). The debate centers on affirming or rejecting a position, \"resolve\", or \"resolution\", which is usually a proposal of a potential solution to a current events issue. Public forum is designed to be accessible to the average citizen.",
-      "website_url": "https://en.wikipedia.org/wiki/Public_forum_debate",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Public_forum_debate"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Pui Ching Invitational Mathematics Competition",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Pui Ching Invitational Mathematics Competition (Traditional Chinese: 培正數學邀請賽), was held yearly by Pui Ching Middle School since 2002. It had been formerly named as Pui Ching Middle School Invitational Mathematics Competition for the first three years. In late 2010s, more than 130 secondary schools sent teams to participate in the competition.",
-      "website_url": "https://en.wikipedia.org/wiki/Pui_Ching_Invitational_Mathematics_Competition",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Pui_Ching_Invitational_Mathematics_Competition"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Regeneron Science Talent Search",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Regeneron Science Talent Search, known from its establishment in 1942 to 1998 as the Westinghouse Science Talent Search and from 1999 to 2016 as the Intel Science Talent Search, is a research-based science competition in the United States for high school seniors hosted by the Society for Science. It has been referred to as \"the nation's oldest and most prestigious\" science competition and several of its alumni have gone on to be scientists prominent in their fields. In his speech at the dinner honoring the 1991 winners, President George H. W. Bush called the competition the \"Super Bowl of science.\"",
-      "website_url": "https://en.wikipedia.org/wiki/Regeneron_Science_Talent_Search",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Regeneron_Science_Talent_Search"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Rhode Island Math League",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Rhode Island Mathematics League (RIML) competition consists of four meets spanning the entire year. It culminates at the state championship held at Bishop Hendricken High School.  Top schools from the state championship are invited to the New England Association of Math Leagues (NEAML) championship.",
-      "website_url": "https://en.wikipedia.org/wiki/Rhode_Island_Math_League",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Rhode_Island_Math_League"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3723,43 +3255,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Robo_One"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "RoboMaster",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Engineering",
-        "Robotics"
-      ],
-      "category": "Robotics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "RoboMaster (Chinese: 机甲大师; pinyin: Jījiǎ Dàshī) is an annual intercollegiate robot competition held in Shenzhen, Guangdong, China.  First started in 2015, it is the brainchild of DJI's founder and CEO Frank Wang, and jointly sponsored by the Communist Youth League Central Committee, the All-China Students' Federation (ACSF) and the Shenzhen City Government.  It is the first shooting sport-style robotics competition in China.\nRoboMaster is one of the four major robotics competitions under the China University Robot Competition (Chinese: 全国大学生机器人大赛) banner, along with Robocon, ROBOTAC and the Robot Start-ups Competition. It currently includes four sub-competitions — the RoboMaster Robotics Competition, the RoboMaster Technical Challenge, the ICRA RoboMaster AI Challenge, and the new RoboMaster Youth Tournament.",
-      "website_url": "https://en.wikipedia.org/wiki/RoboMaster",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/RoboMaster"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3797,42 +3294,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Robofest"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Rocket City Math League",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Rocket City Math League (RCML) is a student-run mathematics competition in the United States. Run by students at Virgil I. Grissom High School in Huntsville, Alabama, RCML gets its name from Huntsville's nickname as the \"Rocket City\".  RCML was started in 2001 and has been annually sponsored by the Mu Alpha Theta Math Honor Society.  The competition consists of three individual rounds and a team round that was added in 2008.  It is divided into five divisions named for NASA programs:  Explorer (pre-algebra), Mercury (algebra I), Gemini (geometry), Apollo (algebra II), and Discovery (comprehensive).",
-      "website_url": "https://en.wikipedia.org/wiki/Rocket_City_Math_League",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Rocket_City_Math_League"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3871,6 +3334,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Romanian_Master_of_Mathematics_and_Sciences"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3879,9 +3344,10 @@
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Computer Science"
+        "Computer Science",
+        "Multiple"
       ],
-      "category": "Programming contests",
+      "category": "Programming contests, Student competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -3907,6 +3373,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Romanian_Olympiad_in_Informatics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3943,6 +3411,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Sanofi_Biogenius_Canada"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -3979,6 +3449,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/School_Astronomical_Olympiad_by_Correspondence"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4015,42 +3487,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Science_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Siemens Competition",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Siemens Competition was a science competition for US high school students funded by the Siemens Foundation, which was administered by the College Board from 1999-2013 and by Discovery Education from 2014–2017. The Siemens Foundation released a statement on February 1, 2018 stating that the 2017 iteration of the competition was the final one.",
-      "website_url": "https://en.wikipedia.org/wiki/Siemens_Competition",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Siemens_Competition"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4087,17 +3525,19 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/South_African_Computer_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "South Carolina Science Olympiad",
+      "canonical_name": "Stock Market Learning",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
-        "Scientific research"
+        "Multiple"
       ],
-      "category": "Science competitions",
+      "category": "International competitions",
       "organizer": null,
       "region": "International",
       "region_tier": "international_only",
@@ -4117,48 +3557,14 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The South Carolina Science Olympiad Competition, often abbreviated as SCSO, is an annual Science Olympiad competition comprising middle school and high school teams across South Carolina. The competition was first held in the C Division (grades 9–12) in 1985, with the inaugural state champions being Irmo High School from Irmo. Bell Street Middle School from Clinton won the first B Division (grades 6–9) state championship a year later. The winners of the tournament represent South Carolina at the Science Olympiad National Tournament, held in May at various universities across the nation.\nThe current state champions are Clinton Middle School and Clinton High School, who won their 22nd and 13th state championships, respectively, on March 2, 2024.\nPatrick Nelson assumed the position of State Director for the 2025 season; he replaced Dr. Jennifer Albert.",
-      "website_url": "https://en.wikipedia.org/wiki/South_Carolina_Science_Olympiad",
+      "description": "Stock Market Learning is an international competition run by the Savings Banks in Europe with the support of the European Savings Banks Group (ESBG) based in Brussels. It aims to provide pupils a better understanding of the stock market and of the economic and financial world by simulating transactions in stock exchanges.  The competition was held for the first time in Germany in 1983, while the Savings Banks in Europe became actively involved in 1999. By 2010, over 1 million teams had taken part in the initiative.",
+      "website_url": "https://en.wikipedia.org/wiki/Stock_Market_Learning",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/South_Carolina_Science_Olympiad"
+        "https://en.wikipedia.org/wiki/Stock_Market_Learning"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Technology Challenge Maryborough",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Fraser Coast Technology Challenge  is an annual youth and technology event held in Maryborough, Queensland, Australia. The Royal Automobile Club of Queensland has been a committed supporter of this event. The Fraser Coast Technology Challenge aims to help develop efficient, environmentally friendly, vehicles as forms of transport, as well as using emerging technologies in ways to help further students education. Schools from across Australia and New Zealand enter teams in the challenge. 2012 was the 10 year anniversary of the first running of the event. Following the COVID-19 pandemic in Australia, the event has not returned, and has been superseded by the QLD Pedal Prix Super Series.",
-      "website_url": "https://en.wikipedia.org/wiki/Technology_Challenge_Maryborough",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Technology_Challenge_Maryborough"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4196,78 +3602,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Technoxian"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Texas Math and Science Coaches Association",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The Texas Math and Science Coaches Association, or TMSCA, is an organization for coaches of academic University Interscholastic League teams in Texas elementary schools, middle schools and high schools, specifically those that compete in mathematics and science-related tests.",
-      "website_url": "https://en.wikipedia.org/wiki/Texas_Math_and_Science_Coaches_Association",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Texas_Math_and_Science_Coaches_Association"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Thermo Fisher Scientific Junior Innovators Challenge",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "Broadcom MASTERS, a program of Society for Science, is a national science competition for U.S. middle school students. The Broadcom Foundation launched the competition in 2010 and pledged $6 million over the next 6 years. In 2014, approximately 6,000 middle school students were eligible for entry and 2,054 students completed and submitted an application. As of 2023, the competition is known as the Thermo Fisher Scientific Junior Innovator's Challenge.",
-      "website_url": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific_Junior_Innovators_Challenge",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific_Junior_Innovators_Challenge"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4304,6 +3640,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Topcoder_Open"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4340,42 +3678,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Tournament_of_the_Towns"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "UCT Mathematics Competition",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The UCT Mathematics Competition is an annual mathematics competition for schools in the Western Cape province of South Africa, held at the University of Cape Town.\nAround 7000 participants from Grade 8 to Grade 12 take part, writing a multiple-choice paper. Individual and pair entries are accepted, but all write the same paper for their grade.\nThe current holder of the School Trophy is Rondebosch Boys High School for the 2024 competition. \nThe competition was established in 1977 by Mona Leeuwenberg and Shirley Fitton, who were teachers at Diocesan College and Westerford High School, and since 1987 has been run by Professor John Webb of the University of Cape Town.",
-      "website_url": "https://en.wikipedia.org/wiki/UCT_Mathematics_Competition",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/UCT_Mathematics_Competition"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4412,42 +3716,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Ukrainian_Physicists%27_Tournament_for_University_Students"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "United States Invitational Young Physicists Tournament",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Physics"
-      ],
-      "category": "Physics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The United States Invitational Young Physicists Tournament (USIYPT) is an annual physics research and debate tournament for high school students, held the last weekend in January. School-based teams of four students investigate several undergraduate-level research problems in preparation for the tournament.  The competition itself consists of \"physics fights,\" student-led debates over the quality of each team's solution. Teams are judged on their own solutions to the problems and on their ability to engage in evaluation and discussion of other teams' solutions. Rye Country Day School of New York currently holds 4 championships, the most out of any competing school. The Harker School of California and Phillips Exeter Academy of New Hampshire are currently tied for second-most, with three each. The 2024 tournament was hosted on February 3–4, 2024, at North Carolina State University, with Rye Country Day School winning the champion title for the first time in seven years.",
-      "website_url": "https://en.wikipedia.org/wiki/United_States_Invitational_Young_Physicists_Tournament",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/United_States_Invitational_Young_Physicists_Tournament"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4484,6 +3754,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/United_States_Physics_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4520,42 +3792,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/United_States_of_America_Mathematical_Olympiad"
       ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "United States of America Mathematical Talent Search",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The United States of America Mathematical Talent Search (USAMTS) is a proof-based mathematics competition open to all United States students in or below high school.",
-      "website_url": "https://en.wikipedia.org/wiki/United_States_of_America_Mathematical_Talent_Search",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/United_States_of_America_Mathematical_Talent_Search"
-      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4593,47 +3831,13 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/VEX_Robotics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
     {
-      "canonical_name": "Why Mom Deserves a Diamond contest",
-      "name_zh": null,
-      "type": "competition",
-      "subject_tags": [
-        "Writing"
-      ],
-      "category": "Writing contests",
-      "organizer": null,
-      "region": "International",
-      "region_tier": "international_only",
-      "country": null,
-      "city": null,
-      "format": null,
-      "date_text": null,
-      "deadline_text": null,
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": null,
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": null,
-      "cost_text": null,
-      "time_commitment": null,
-      "description": "The \"Why Mom Deserves a Diamond\" contest is an American essay contest founded by Michael \"Diamond Mike\" Watson in Costa Mesa, California in 1993. The contest was established in honor of Watson's adoptive mother and the birth mother he had never known. In a limited number of words, children are asked to write essays explaining why their mother deserves a diamond.\n\nHundreds of thousands of American children have participated, and dozens of children have won the grand prize of a diamond to give to their mothers (and other precious gems). The first winner was sophomore Margaret Ketchersid, from Edison High School in Huntington Beach, California. On Mother's Day 1993, she was awarded the grand prize of a quarter-carat diamond to give to her mother, Ruth.",
-      "website_url": "https://en.wikipedia.org/wiki/Why_Mom_Deserves_a_Diamond_contest",
-      "confidence": "unverified",
-      "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Why_Mom_Deserves_a_Diamond_contest"
-      ],
-      "source_publisher": "Wikipedia contributors",
-      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
-    },
-    {
-      "canonical_name": "Worcester County Mathematics League",
+      "canonical_name": "Wei-Hwa Huang",
       "name_zh": null,
       "type": "competition",
       "subject_tags": [
@@ -4659,12 +3863,14 @@
       "team_mode": null,
       "cost_text": null,
       "time_commitment": null,
-      "description": "The Worcester County Mathematics League (WOCOMAL) is a high school mathematics league composed of 32 high schools, most of which are in Worcester County, Massachusetts.  It organizes seven mathematics competitions per year, four at the \"varsity\" level (up to grade 12) and three at the \"freshman\" level (up to grade nine, including middle school students).  In the 2013–14 school year, WOCOMAL began allowing older students to compete in the freshman level competitions, calling this level of participation \"junior varsity.\"\nTop schools from the varsity competition are selected to attend the Massachusetts Association of Math Leagues state competition.",
-      "website_url": "https://en.wikipedia.org/wiki/Worcester_County_Mathematics_League",
+      "description": "Wei-Hwa Huang (born August 4, 1975 in Eugene, Oregon) is an American puzzler, member of the US Team for the World Puzzle Championship, and game designer.\nHuang was a member of the United States International Math Olympiad team in 1992 and 1993, where he was awarded a Silver Medal both years.  He was a Putnam Fellow in 1993. Huang has won the annual World Puzzle Championship on four occasions: 1995 and 1997–1999. He also won the 2008 Sudoku National Championship. With team Left Out, he won the 2019 MIT Mystery Hunt.\nWith Tom Lehmann, Huang designed the board game Roll for the Galaxy released in 2014 by Rio Grande Games. Roll for the Galaxy is a dice-based adaption of the award-winning card game Race for the Galaxy with deck-building mechanics. Huang and Lehmann also designed Roll for the Galaxy: Ambition, an expansion released in 2015. Roll for the Galaxy was nominated for three Golden Geek Awards and an International Gamers Award.\nHuang graduated from Montgomery Blair High School and the California Institute of Technology and was an employee at Google until July 2008.  One of his most famous projects was the Da Vinci Code Quest on Google, which was a set of 24 puzzles launched on A",
+      "website_url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
       "confidence": "unverified",
       "evidence_urls": [
-        "https://en.wikipedia.org/wiki/Worcester_County_Mathematics_League"
+        "https://en.wikipedia.org/wiki/Wei-Hwa_Huang"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4702,6 +3908,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/World_Robot_Olympiad"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4738,6 +3946,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/World_Solar_Challenge"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "WorldSkills",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Multiple"
+      ],
+      "category": "International competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "WorldSkills is an international charity that organises world and national championships for vocational skills and is held every two years in different parts of the world, and also hosts conferences about vocational skills. WorldSkills describes itself as the global hub for skills.\n\nThe aims of the competitions include demonstrating the advantages of learning a vocational skill, and encouraging 'parity of esteem' between vocational and academic qualifications.\nWorldSkills International, formerly known as the International Vocational Training Organization (IVTO), was founded in the 1940s with the goal of creating new employment opportunities for young people in some of the economies that were devastated by the Second World War. It operates in 85 countries and regions.",
+      "website_url": "https://en.wikipedia.org/wiki/WorldSkills",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/WorldSkills"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4774,6 +4022,46 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Worldwide_Youth_in_Science_and_Engineering"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
+      "source_publisher": "Wikipedia contributors",
+      "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    },
+    {
+      "canonical_name": "X+Y",
+      "name_zh": null,
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": null,
+      "region": "International",
+      "region_tier": "international_only",
+      "country": null,
+      "city": null,
+      "format": null,
+      "date_text": null,
+      "deadline_text": null,
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": null,
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": null,
+      "cost_text": null,
+      "time_commitment": null,
+      "description": "X+Y, released in the US as A Brilliant Young Mind, is a 2014 British drama film directed by Morgan Matthews and starring Asa Butterfield, Rafe Spall, and Sally Hawkins.\nThe film, inspired by the 2007 documentary  Beautiful Young Minds, focuses on a teenage English mathematics prodigy named Nathan (Asa Butterfield) who has difficulty understanding people, and is autistic, but finds comfort in numbers. When he is chosen to represent the United Kingdom at the International Mathematical Olympiad (IMO), Nathan embarks on a journey in which he faces unexpected challenges, such as understanding the nature of love. The character of Nathan was based on Daniel Lightwing, who won a silver medal at the 2006 IMO.\nThe film premiered at the Toronto International Film Festival on 5 September 2014. The European premiere was at the BFI London Film Festival on 13 October 2014, and the UK cinema release was on 13 March 2015.",
+      "website_url": "https://en.wikipedia.org/wiki/X%2BY",
+      "confidence": "unverified",
+      "evidence_urls": [
+        "https://en.wikipedia.org/wiki/X%2BY"
+      ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4810,6 +4098,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Young_Scientist_and_Technology_Exhibition"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     },
@@ -4848,6 +4138,8 @@
       "evidence_urls": [
         "https://en.wikipedia.org/wiki/Zero_Robotics"
       ],
+      "audience_scope": "unknown",
+      "entry_pathway": null,
       "source_publisher": "Wikipedia contributors",
       "evidence_note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     }

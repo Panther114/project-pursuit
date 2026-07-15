@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-regeneron-science-talent-search",
   "canonical_name": "Regeneron Science Talent Search",
-  "name_zh": "",
+  "name_zh": "再生元科学人才搜索（STS）",
   "name_en": "Regeneron Science Talent Search",
   "type": "competition",
   "subject_tags": [
@@ -13,30 +13,30 @@
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
-  "format": "hybrid",
+  "format": "online",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Autumn application deadline",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students must be U.S. high-school seniors meeting citizenship or residency and research requirements.",
   "eligible_grades": [
-    12
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Original research report and application, followed by finalist interviews and a multi-day final in Washington, DC.",
+  "cost_text": "Free application",
+  "time_commitment": "high",
   "description": "U.S. research competition for high-school seniors submitting original independent research.",
   "website_url": "https://www.societyforscience.org/regeneron-sts/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -73,6 +73,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-regeneron-science-talent-search]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Regeneron Science Talent Search",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-regeneron-science-talent-search]"
     }
   ],
   "schema_version": 1,
@@ -113,8 +125,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -165,8 +179,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -184,8 +200,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -268,8 +286,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -283,6 +303,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-regeneron-science-talent-search-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-science-talent-search-e1"
       ]
     }
   },
@@ -304,5 +356,11 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "Regeneron STS"
+  ],
+  "audience_scope": "national_only",
+  "route_type": "official",
+  "entry_pathway": "US high school seniors primarily; not a general China open entry."
 }

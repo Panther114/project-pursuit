@@ -23,12 +23,12 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students in grades 7–12 or CEGEP qualify through an affiliated Canadian regional STEM fair.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -145,8 +145,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-canada-wide-science-fair-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -261,6 +263,30 @@
       "evidence_ids": [
         "research-mass-contest-canada-wide-science-fair-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

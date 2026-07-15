@@ -1,23 +1,22 @@
 {
   "id": "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities",
   "canonical_name": "USACO",
-  "name_zh": "USACO美国计算机奥赛",
+  "name_zh": "美国计算机奥赛（USACO）",
   "name_en": "USACO",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Programming"
+    "Computer Science"
   ],
   "category": "Programming Contest",
   "region": "SHSID / International",
   "format": "online",
-  "date_text": "",
-  "deadline_text": "",
+  "date_text": "Multiple contest weekends per season",
+  "deadline_text": "Monthly contest windows during the USACO season (Dec–Mar typical)",
   "deadline_date": null,
   "website_url": "https://usaco.org/",
   "registration_contact": "",
   "instructor_contact": "创新大赛",
-  "preparation": "",
+  "preparation": "USACO training pages and algorithmic practice",
   "description": "Online algorithmic programming contest series with Bronze through Platinum divisions; U.S. citizenship restrictions apply to camp and team selection, not ordinary contest participation.",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
@@ -75,6 +74,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-usaco-shsid2024-2025-1st-semester-contests-and-activities]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "USACO",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-usaco-shsid2024-2025-1st-semester-contests-and-activities]"
     }
   ],
   "schema_version": 1,
@@ -180,12 +191,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -199,12 +214,16 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -219,8 +238,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -249,8 +270,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -274,8 +297,10 @@
       ]
     },
     "preparation": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "description": {
       "status": "official",
@@ -290,34 +315,71 @@
       ]
     },
     "cost_amount": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "cost_currency": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "time_commitment": {
       "status": "official",
       "evidence_ids": [
         "research-contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-usaco-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "organizer": "USA Computing Olympiad",
   "region_tier": "international_only",
   "country": "United States",
   "city": null,
   "eligibility_text": "Students worldwide may create accounts and enter ordinary online contests; U.S. training-camp and international-team selection have citizenship and residency restrictions.",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
@@ -325,13 +387,13 @@
     "English"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "Free",
+  "cost_text": "Free official contests",
   "cost_amount": 0,
   "cost_currency": "USD",
-  "time_commitment": "Several online contests each season, normally four to five hours per contest.",
+  "time_commitment": "high",
   "awards_and_recognition": "Division promotion and online ranking; top eligible U.S. students may be invited to training camp.",
   "china_participation_route": "Students in China register directly on usaco.org for open online contests; they are not eligible for the U.S. national team unless they meet U.S. rules.",
   "review_conflicts": [],
@@ -344,5 +406,13 @@
     "cycle.start_date",
     "cycle.end_date",
     "cycle.date_text"
-  ]
+  ],
+  "aliases": [
+    "USA Computing Olympiad"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "official",
+  "entry_pathway": "Direct online registration through the official organizer when open to international students. Create account and sit monthly contest windows; open internationally.",
+  "difficulty_level": "advanced",
+  "recognition_level": "highly selective"
 }

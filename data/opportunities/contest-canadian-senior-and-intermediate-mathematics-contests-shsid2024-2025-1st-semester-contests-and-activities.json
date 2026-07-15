@@ -1,7 +1,7 @@
 {
   "id": "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities",
   "canonical_name": "Canadian Senior and Intermediate Mathematics Contests",
-  "name_zh": "加拿大数学竞赛",
+  "name_zh": "加拿大高中数学竞赛（CIMC/CSMC）",
   "name_en": "Canadian Senior and Intermediate Mathematics Contests",
   "type": "competition",
   "subject_tags": [
@@ -11,9 +11,9 @@
   "region": "SHSID / International",
   "format": "in_person",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Autumn registration window (see CEMC)",
   "deadline_date": null,
-  "website_url": "https://cemc.uwaterloo.ca/contests/csmc",
+  "website_url": "https://www.cemc.uwaterloo.ca/contests/csimc.html",
   "registration_contact": "",
   "instructor_contact": "赵伟霞",
   "preparation": "Club activities",
@@ -60,6 +60,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Canadian Senior and Intermediate Mathematics Contests",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities]"
     }
   ],
   "schema_version": 1,
@@ -149,12 +161,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -172,8 +188,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -188,8 +206,10 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "eligibility_text": {
       "status": "official",
@@ -218,8 +238,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -256,8 +278,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -272,34 +296,63 @@
       "evidence_ids": [
         "research-contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-canadian-senior-and-intermediate-mathematics-contests-shsid2024-2025-1st-semester-contests-and-activities-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
-  "organizer": "Centre for Education in Mathematics and Computing, University of Waterloo",
-  "region_tier": "international_only",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
+  "organizer": "University of Waterloo CEMC",
+  "region_tier": "china_participation_route",
   "country": "Canada",
   "city": null,
-  "eligibility_text": "Students enter through registered schools; CIMC is aimed at students up to grade 10 and CSMC at students up to grade 12.",
+  "eligibility_text": "Intermediate and Senior divisions for secondary students.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "languages": [
-    "English",
-    "French"
+    "English"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Paid via school channel",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "One 2-hour mathematics contest.",
+  "time_commitment": "medium",
   "awards_and_recognition": "Certificates, honor rolls, and school recognition under CEMC rules.",
   "china_participation_route": "Schools in China may register directly with CEMC under international-school arrangements.",
   "review_conflicts": [],
@@ -315,5 +368,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "global_open",
+  "route_type": "school",
+  "entry_pathway": "School registration through CEMC. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

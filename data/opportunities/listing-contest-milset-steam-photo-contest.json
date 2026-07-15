@@ -4,32 +4,31 @@
   "name_en": "MILSET STEAM Photo Contest",
   "type": "competition",
   "subject_tags": [
-    "Scientific research",
     "Photography",
-    "STEAM"
+    "Arts"
   ],
   "category": "Photo Contest",
-  "organizer": "MILSET",
+  "organizer": "MILSET / ASEEDER",
   "region": "China participation route",
   "region_tier": "china_participation_route",
   "format": "online",
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "School-age participants submit original STEAM-related photographs under the MILSET contest rules.",
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "One digital photograph submission with explanatory text.",
+  "cost_text": "Low-cost/free entry",
+  "time_commitment": "low",
   "description": "International STEAM-themed photography contest associated with the MILSET youth science network.",
-  "website_url": "https://milset.org/",
+  "website_url": "https://www.seedasdan.com/en/spc-en/",
   "confidence": "partially_verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "The organizer site was verified, but a current contest-specific page was not located.",
+  "verification_note": "The organizer site was verified, but a current contest-specific page was not located. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-20-01+00-00.html.gz",
@@ -70,6 +69,32 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-milset-steam-photo-contest]"
+    },
+    {
+      "source_file": "52fcf3125241b074.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "MILSET STEAM Photo Contest",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:44+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/spc-en/",
+      "retrieved_at": "2026-07-14T09:27:44+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/52fcf3125241b074.html.gz",
+      "content_hash": "52fcf3125241b0741c20054f01a1822a34a2eb6c4ff356ffa3ace4915d21b7bd"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "MILSET STEAM Photo Contest",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[listing-contest-milset-steam-photo-contest]"
     }
   ],
   "schema_version": 1,
@@ -110,8 +135,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -210,8 +237,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -263,8 +292,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -279,11 +310,46 @@
       "evidence_ids": [
         "research-listing-contest-milset-steam-photo-contest-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-milset-steam-photo-contest-e1"
+      ]
     }
   },
   "country": null,
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,
@@ -307,5 +373,9 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "name_zh": "MILSET STEAM 摄影赛",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-world-scholar-s-cup",
   "canonical_name": "World Scholar’s Cup",
-  "name_zh": "世界学者杯",
+  "name_zh": "世界学者杯（WSC）",
   "name_en": "World Scholar’s Cup",
   "type": "competition",
   "subject_tags": [
@@ -17,26 +17,31 @@
   "city": null,
   "format": "in_person",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Regional round calendars published annually",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students compete in teams of three in Junior or Senior divisions, generally through a school or regional round.",
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "Regional event with debate, collaborative writing, Scholar’s Challenge, and Scholar’s Bowl; qualifiers may attend global rounds and the Tournament of Champions.",
+  "cost_text": "Paid team + event fees",
+  "time_commitment": "high",
   "description": "International team academic program combining debate, collaborative writing, a multidisciplinary challenge, and quiz-bowl events.",
-  "website_url": "https://www.scholarscup.org/",
+  "website_url": "https://www.worldscholarscup.org/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "official_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2d251f1103571616.html.gz",
@@ -105,6 +110,74 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-world-scholar-s-cup]"
+    },
+    {
+      "source_file": "7a53cc8d99efead8.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "World Scholar’s Cup",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:45+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/wsc-en/",
+      "retrieved_at": "2026-07-14T09:27:45+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7a53cc8d99efead8.html.gz",
+      "content_hash": "7a53cc8d99efead83947b54ee4c2c5187e624fa8eb9eade3c8cb263675701c81"
+    },
+    {
+      "source_file": "7a53cc8d99efead8.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "World Scholar’s Cup（WSC） Recommended",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:45+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/wsc-en/",
+      "retrieved_at": "2026-07-14T09:27:45+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7a53cc8d99efead8.html.gz",
+      "content_hash": "7a53cc8d99efead83947b54ee4c2c5187e624fa8eb9eade3c8cb263675701c81"
+    },
+    {
+      "source_file": "7a53cc8d99efead8.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "World Scholar’s Cup（WSC） Recommend",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:45+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/wsc-en/",
+      "retrieved_at": "2026-07-14T09:27:45+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7a53cc8d99efead8.html.gz",
+      "content_hash": "7a53cc8d99efead83947b54ee4c2c5187e624fa8eb9eade3c8cb263675701c81"
+    },
+    {
+      "source_file": "7a53cc8d99efead8.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "World Scholar’s Cup（WSC）",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:45+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/wsc-en/",
+      "retrieved_at": "2026-07-14T09:27:45+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7a53cc8d99efead8.html.gz",
+      "content_hash": "7a53cc8d99efead83947b54ee4c2c5187e624fa8eb9eade3c8cb263675701c81"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "World Scholar’s Cup",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-world-scholar-s-cup]"
     }
   ],
   "schema_version": 1,
@@ -253,8 +326,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -284,8 +359,10 @@
       ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -339,8 +416,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -354,6 +433,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-world-scholar-s-cup-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-world-scholar-s-cup-e1"
       ]
     }
   },
@@ -377,5 +488,12 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "WSC",
+    "World Scholar's Cup"
+  ],
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Team registration for regional rounds; strong China international-school presence. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

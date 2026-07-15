@@ -8,6 +8,7 @@ __pycache__/
 data/reports/
 .playwright-mcp/
 .playwright-cli/
+mcps/
 .DS_Store
 Thumbs.db
 .env

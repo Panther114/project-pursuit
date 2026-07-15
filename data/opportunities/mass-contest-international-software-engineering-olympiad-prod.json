@@ -5,8 +5,7 @@
   "name_en": "International Software Engineering Olympiad",
   "type": "competition",
   "subject_tags": [
-    "Computer Science",
-    "Software Engineering"
+    "Computer Science"
   ],
   "category": "Software Engineering Olympiad",
   "organizer": "Central University and T-Technologies",
@@ -23,11 +22,11 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students in grades 8–12 enter online selection stages; finalists may compete in teams at an in-person final.",
   "eligible_grades": [
-    8,
-    9,
-    10,
-    11,
-    12
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -144,8 +143,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-software-engineering-olympiad-prod-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -260,6 +261,30 @@
       "evidence_ids": [
         "research-mass-contest-international-software-engineering-olympiad-prod-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

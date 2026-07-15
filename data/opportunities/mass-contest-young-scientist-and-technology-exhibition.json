@@ -23,12 +23,12 @@
   "current_cycle_status": "closed",
   "eligibility_text": "Second-level students in Ireland enter individual or group science and technology projects in junior, intermediate, or senior levels.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -145,12 +145,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -159,8 +163,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-young-scientist-and-technology-exhibition-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -261,6 +267,30 @@
       "evidence_ids": [
         "research-mass-contest-young-scientist-and-technology-exhibition-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

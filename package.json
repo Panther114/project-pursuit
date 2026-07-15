@@ -6,11 +6,15 @@
   "scripts": {
     "dev": "vite --host 127.0.0.1",
     "build": "tsc && vite build",
+    "start": "node server.mjs",
     "preview": "vite preview --host 127.0.0.1",
+    "serve:prod": "node server.mjs",
     "test": "vitest run",
-    "import:sources": "python scripts/import_sources.py",
-    "refresh:sources": "python scripts/import_sources.py --refresh-online",
+    "import:sources": "python scripts/import_sources.py && python scripts/apply_competition_enrichment.py",
+    "refresh:sources": "python scripts/import_sources.py --refresh-online && python scripts/apply_competition_enrichment.py",
     "validate:sources": "python scripts/import_sources.py --validate-only",
+    "enrich:competitions": "python scripts/generate_competition_curation.py && python scripts/apply_competition_enrichment.py",
+    "audit:competitions": "python scripts/audit_competition_quality.py",
     "test:importer": "python -m unittest scripts.test_import_sources",
     "review:prepare": "python scripts/review_candidates.py --prepare",
     "review:promote": "python scripts/review_candidates.py --submission data/reviews/submission.json --refresh-evidence",
@@ -20,19 +24,22 @@
     "export:research-queue": "python scripts/export_competition_research_queue.py",
     "import:completed-research": "python scripts/import_completed_research.py"
   },
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
     "lucide-react": "^0.468.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "vite": "^6.0.5"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.3.4",
     "jsdom": "^25.0.1",
     "playwright": "^1.61.1",
     "typescript": "^5.7.2",
+    "vite": "^6.0.5",
     "vitest": "^2.1.8"
   }
 }

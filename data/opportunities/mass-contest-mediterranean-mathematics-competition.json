@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Nationally selected school students under 20 and not enrolled at university represent eligible Mediterranean countries or invited guests.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [
     19
   ],
@@ -93,8 +93,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mediterranean-mathematics-competition-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -167,24 +169,30 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mediterranean-mathematics-competition-e1"
+      ]
     },
     "eligible_grades": {
       "status": "missing",
       "evidence_ids": []
     },
     "eligible_ages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mediterranean-mathematics-competition-e1"
+      ]
     },
     "eligible_curricula": {
       "status": "missing",
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mediterranean-mathematics-competition-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -235,6 +243,30 @@
       "evidence_ids": [
         "mass-contest-mediterranean-mathematics-competition-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

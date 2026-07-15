@@ -1,0 +1,229 @@
+{
+  "id": "mass-contest-international-science-and-engineering-fair",
+  "canonical_name": "International Science and Engineering Fair",
+  "name_zh": "",
+  "name_en": "International Science and Engineering Fair",
+  "type": "competition",
+  "subject_tags": [
+    "Scientific research"
+  ],
+  "category": "Science competitions",
+  "organizer": "",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "unknown",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "",
+  "eligible_grades": null,
+  "eligible_ages": null,
+  "languages": null,
+  "team_mode": "unknown",
+  "cost_text": "",
+  "time_commitment": "unknown",
+  "description": "The Regeneron International Science and Engineering Fair (ISEF) is an annual science fair held in the United States. It is widely regarded as the most prestigious pre-university scientific and engineering research competition in the world. It is owned and administered by the Society for Science, a 501(c)(3) non-profit organization based in Washington, D.C. Each year, an estimated 7 million students from 75 countries participate in affiliated local, regional, and national science fairs that serve as feeders to ISEF, with roughly 1,800 finalists (about 0.03%) advancing to the international competition. Each May, finalists compete in the fair for scholarships, tuition grants, internships, scientific field trips and the grand prizes, including one $100,000 and two $75,000 college scholarships. All prizes together amount to over $9,000,000. Two major awards ceremonies are the Special Awards Organization Presentation and the Grand Awards Ceremony.",
+  "website_url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
+  "confidence": "unverified",
+  "last_verified_at": null,
+  "publication_status": "unverified",
+  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "sources": [
+    {
+      "source_file": "wikipedia_competitions.json",
+      "source_type": "web_reference",
+      "page_or_sheet": "web research",
+      "row_or_text_ref": "International Science and Engineering Fair",
+      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
+      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "original_url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "extraction_locator": "mass discovery artifact"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-international-science-and-engineering-fair-e1",
+      "url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
+      "publisher": "mass-wikipedia-competitions-1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "source_id": "mass-wikipedia-competitions-1",
+      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "organizer": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-international-science-and-engineering-fair-e1"
+      ]
+    }
+  }
+}

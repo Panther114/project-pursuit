@@ -2,12 +2,12 @@
   "https://abs.seedasdan.com/en/home-en/": {
     "original_url": "https://abs.seedasdan.com/en/home-en/",
     "final_url": "https://abs.seedasdan.com/en/home-en/",
-    "retrieved_at": "2026-07-11T15:19:17+00:00",
-    "content_hash": "860715c836e2f2132e8a51dd1a7c07aadec3e18a58dbe04c09dfa747aec96689",
+    "retrieved_at": "2026-07-14T10:01:05+00:00",
+    "content_hash": "635eee8b4c7a4a9d4c5ff9068de814cc49d757a22d4cee94d51a74dbe85f14d2",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/860715c836e2f213.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/635eee8b4c7a4a9d.html.gz"
   },
   "https://www.imo-official.org/editions/1962/": {
     "original_url": "https://www.imo-official.org/editions/1962/",
@@ -82,22 +82,22 @@
   "https://ma.seedasdan.com/en/aerospace-en/": {
     "original_url": "https://ma.seedasdan.com/en/aerospace-en/",
     "final_url": "https://ma.seedasdan.com/en/aerospace-en/",
-    "retrieved_at": "2026-07-11T15:19:18+00:00",
-    "content_hash": "d6049a12ec1a5befc268f689103a8b118ab358216e3125ceb569dcfe181eb205",
+    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "content_hash": "b3246f81fd257ffa48d33fae31c0c02e191c9726c69a6aae392a822f21a2f117",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/d6049a12ec1a5bef.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/b3246f81fd257ffa.html.gz"
   },
   "https://ma.seedasdan.com/en/ubtech-en/": {
     "original_url": "https://ma.seedasdan.com/en/ubtech-en/",
     "final_url": "https://ma.seedasdan.com/en/ubtech-en/",
-    "retrieved_at": "2026-07-11T15:19:18+00:00",
-    "content_hash": "f07d7d4dc2e876df64aecbe583828b01f328d7b01d4d4326774d8277c219b5fe",
+    "retrieved_at": "2026-07-14T10:01:06+00:00",
+    "content_hash": "a96fda0e59737d08adeace21e931aa1ab23eda939a461257dcb148b080ce6e0d",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/f07d7d4dc2e876df.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/ma.seedasdan.com/a96fda0e59737d08.html.gz"
   },
   "https://www.imo-official.org/editions/": {
     "original_url": "https://www.imo-official.org/editions/",
@@ -112,12 +112,12 @@
   "https://ieo.seedasdan.com/en/international-economics-olympiad/": {
     "original_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
     "final_url": "https://ieo.seedasdan.com/en/international-economics-olympiad/",
-    "retrieved_at": "2026-07-11T15:19:18+00:00",
-    "content_hash": "0ad78019a2871eb3d3c9d151ae008d21d04301337e6a33ba407583494037d21a",
+    "retrieved_at": "2026-07-14T10:01:04+00:00",
+    "content_hash": "3bd5a2ad857abfcfb0d7392f71a667d4cd15198135a2ce55f89e5b114ae7d2dd",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/0ad78019a2871eb3.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/ieo.seedasdan.com/3bd5a2ad857abfcf.html.gz"
   },
   "https://www.imo-official.org/editions/1966/": {
     "original_url": "https://www.imo-official.org/editions/1966/",
@@ -712,201 +712,551 @@
   "https://www.seedasdan.com/en/bicc-en/": {
     "original_url": "https://www.seedasdan.com/en/bicc-en/",
     "final_url": "https://www.seedasdan.com/en/bicc-en/",
-    "retrieved_at": "2026-07-11T15:19:30+00:00",
-    "content_hash": "129c9fcff60ee12af51b3a2367b79b7aabad47aff0aa1b4e024ed36e04140c80",
+    "retrieved_at": "2026-07-14T10:01:16+00:00",
+    "content_hash": "14bbc33d4f9e04f7f3e016189d6b33fe315516cdb62d48c277ae229a94c4163b",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/129c9fcff60ee12a.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/14bbc33d4f9e04f7.html.gz"
   },
   "https://www.seedasdan.com/en/asdan-en/": {
     "original_url": "https://www.seedasdan.com/en/asdan-en/",
     "final_url": "https://www.seedasdan.com/en/asdan-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "bd3a0b0c3b2ab5f2ba14802b0f50d11bd6650170f6c71a8ee7c2c68292f19c04",
+    "retrieved_at": "2026-07-14T10:01:15+00:00",
+    "content_hash": "aa1a7034cf3bb1d72e0cc82d71131018dfaf8ba731a0956ad15fc99e98d71234",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/bd3a0b0c3b2ab5f2.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/aa1a7034cf3bb1d7.html.gz"
   },
   "https://www.seedasdan.com/en/bpo1-en/": {
     "original_url": "https://www.seedasdan.com/en/bpo1-en/",
     "final_url": "https://www.seedasdan.com/en/bpo1-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "7d2ad16a7c37d248a8104642ff1296eb34b3f027a8fd3fb6f9dfa2b572027498",
+    "retrieved_at": "2026-07-14T10:01:16+00:00",
+    "content_hash": "f3f0b69622b779f442b87839327b0a794fc1b2e1b1c65ff6d6e2d489d448b850",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7d2ad16a7c37d248.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/f3f0b69622b779f4.html.gz"
   },
   "https://www.seedasdan.com/en/aaptphoto-en/": {
     "original_url": "https://www.seedasdan.com/en/aaptphoto-en/",
     "final_url": "https://www.seedasdan.com/en/aaptphoto-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "d30ce5cf7fa50e53fb16a0ef215679e67c8c42c6461753d0f332bb8650365daa",
+    "retrieved_at": "2026-07-14T10:01:15+00:00",
+    "content_hash": "014632542453694beea1f97bf7f09e96d3a379fa4e153801557297dab067555a",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/d30ce5cf7fa50e53.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/014632542453694b.html.gz"
   },
   "https://www.seedasdan.com/en/bimc-en/": {
     "original_url": "https://www.seedasdan.com/en/bimc-en/",
     "final_url": "https://www.seedasdan.com/en/bimc-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "7707859c5691b31ff47d97d236b3d1b0137fd3e41bc4690585aa37dc670ef69e",
+    "retrieved_at": "2026-07-14T10:01:16+00:00",
+    "content_hash": "735c4e294c3c573cd820309121d2c96e6814c12b9576afd7d9e5628b30aef92e",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7707859c5691b31f.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/735c4e294c3c573c.html.gz"
   },
   "https://www.seedasdan.com/en/esuypsc-en/": {
     "original_url": "https://www.seedasdan.com/en/esuypsc-en/",
     "final_url": "https://www.seedasdan.com/en/esuypsc-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "539a8b60809796c078e78d7fb8f387aff3225fa07fd3c8b95c601a70fc9ec4af",
+    "retrieved_at": "2026-07-14T10:01:16+00:00",
+    "content_hash": "c54e9544ff159a0dd5bc2d84e3e0e66b64d30ac37f9a477fcc6363d55484b118",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/539a8b60809796c0.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c54e9544ff159a0d.html.gz"
   },
   "https://www.seedasdan.com/en/lcelc-en/": {
     "original_url": "https://www.seedasdan.com/en/lcelc-en/",
     "final_url": "https://www.seedasdan.com/en/lcelc-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "daa52eafb2c79e512953f62c0df9d29d30756e1ef39a2834050078b0fdbfd866",
+    "retrieved_at": "2026-07-14T10:01:17+00:00",
+    "content_hash": "5ac0cc5b6a7d4728f91e87e87f7dffc7d69843e7198f5b25339bdc057d3301d3",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/daa52eafb2c79e51.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/5ac0cc5b6a7d4728.html.gz"
   },
   "https://www.seedasdan.com/en/hippo-en/": {
     "original_url": "https://www.seedasdan.com/en/hippo-en/",
     "final_url": "https://www.seedasdan.com/en/hippo-en/",
-    "retrieved_at": "2026-07-11T15:19:31+00:00",
-    "content_hash": "b1d128536e9f62bc6d3c01fd844a044ddae63f5932adb1454a5101b2223e91e7",
+    "retrieved_at": "2026-07-14T10:01:17+00:00",
+    "content_hash": "169d658ac11859160a03da0d28cc2dfaa651475452e2b28e56e7c96e6600f7df",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/b1d128536e9f62bc.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/169d658ac1185916.html.gz"
   },
   "https://www.seedasdan.com/en/mu-economics-en/": {
     "original_url": "https://www.seedasdan.com/en/mu-economics-en/",
     "final_url": "https://www.seedasdan.com/en/mu-economics-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "ea04b4e852f71fd4f5dac3cae96bde3c3b05b443021660094c570aad37a15bf8",
+    "retrieved_at": "2026-07-14T10:01:18+00:00",
+    "content_hash": "6bb0645bc8d048afed8a826451952872e252c03b32ad5c187e10b1a64463b957",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/ea04b4e852f71fd4.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/6bb0645bc8d048af.html.gz"
   },
   "https://www.seedasdan.com/en/quillandscroll-en/": {
     "original_url": "https://www.seedasdan.com/en/quillandscroll-en/",
     "final_url": "https://www.seedasdan.com/en/quillandscroll-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "c1fe55c3f095f85fa062fa0d3e5b6a679d6010711b7a604276f88f8d4e7b1fd1",
+    "retrieved_at": "2026-07-14T10:01:18+00:00",
+    "content_hash": "a17d145ebca38e05fe15662200abe3557e3cae22b9770b5645da0874d491e715",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c1fe55c3f095f85f.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/a17d145ebca38e05.html.gz"
   },
   "https://www.seedasdan.com/en/mimas-en/": {
     "original_url": "https://www.seedasdan.com/en/mimas-en/",
     "final_url": "https://www.seedasdan.com/en/mimas-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "36bb4af8309abfac6d169cfb99bbfcd3e451ec337ab0b2aa6383c896c670178b",
+    "retrieved_at": "2026-07-14T10:01:17+00:00",
+    "content_hash": "acdd34bac91c431d256f1af3281cf1ab956ca3ff7153be080890bc432f8011ef",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/36bb4af8309abfac.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/acdd34bac91c431d.html.gz"
   },
   "https://www.seedasdan.com/en/lym-en/": {
     "original_url": "https://www.seedasdan.com/en/lym-en/",
     "final_url": "https://www.seedasdan.com/en/lym-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "18806d484f9f2830df874c7ef1e450086355012f23e239f85747189c3d78707f",
+    "retrieved_at": "2026-07-14T10:01:18+00:00",
+    "content_hash": "6cbc8d76382d30cc5fd46191cdd668521257983e23ce71efe39c027458f544f3",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/18806d484f9f2830.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/6cbc8d76382d30cc.html.gz"
   },
   "https://www.seedasdan.com/en/nimc-en/": {
     "original_url": "https://www.seedasdan.com/en/nimc-en/",
     "final_url": "https://www.seedasdan.com/en/nimc-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "f99a530a46f43e6c7fe8edb3d4a51157a92274b7d8f26e8c1d985bb409eb7022",
+    "retrieved_at": "2026-07-14T10:01:18+00:00",
+    "content_hash": "c76ad03c6c98f7612cb8006498def25aabf8818c135d6ebbda483623da5554c2",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/f99a530a46f43e6c.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c76ad03c6c98f761.html.gz"
   },
   "https://www.seedasdan.com/en/spc-en/": {
     "original_url": "https://www.seedasdan.com/en/spc-en/",
     "final_url": "https://www.seedasdan.com/en/spc-en/",
-    "retrieved_at": "2026-07-11T15:19:32+00:00",
-    "content_hash": "8e00eaec47bb7364936a07f5fc65b77405993f949b5145fca5a5c7e6b2754f61",
+    "retrieved_at": "2026-07-14T10:01:19+00:00",
+    "content_hash": "52fcf3125241b0741c20054f01a1822a34a2eb6c4ff356ffa3ace4915d21b7bd",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/8e00eaec47bb7364.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/52fcf3125241b074.html.gz"
   },
   "https://www.seedasdan.com/en/teen-en/": {
     "original_url": "https://www.seedasdan.com/en/teen-en/",
     "final_url": "https://www.seedasdan.com/en/teen-en/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "5d338b03b4d3509a4099aefba4b694ff62e5152f5dc0fae3545c5f069106ddbb",
+    "retrieved_at": "2026-07-14T10:01:19+00:00",
+    "content_hash": "15a31ed8b35ab2437c4dd04cb2aaa3d84422acb0d2d84b12f34f049322f5167c",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/5d338b03b4d3509a.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/15a31ed8b35ab243.html.gz"
   },
   "https://www.seedasdan.com/en/scl-en/": {
     "original_url": "https://www.seedasdan.com/en/scl-en/",
     "final_url": "https://www.seedasdan.com/en/scl-en/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "a56eecd587f1adb15a405cd6be4fb122d1fbb0d92e135e30137bf43ed8a49dd3",
+    "retrieved_at": "2026-07-14T10:01:19+00:00",
+    "content_hash": "878479e05c0523131b64898a9d41347c8fc142ce461daff6d78ed06a439b82ad",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/a56eecd587f1adb1.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/878479e05c052313.html.gz"
   },
   "https://www.seedasdan.com/en/shakespeare-en/": {
     "original_url": "https://www.seedasdan.com/en/shakespeare-en/",
     "final_url": "https://www.seedasdan.com/en/shakespeare-en/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "bb2f5870ffd37bbee9880be7457030e1fd71fae8c316b08a785cc3788899278c",
+    "retrieved_at": "2026-07-14T10:01:19+00:00",
+    "content_hash": "53435d25e93d9bd5013c9afbe7d6c5772a5c8610ff487e72b4ba98741b4520a4",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/bb2f5870ffd37bbe.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/53435d25e93d9bd5.html.gz"
   },
   "https://www.seedasdan.com/en/wsc-en/": {
     "original_url": "https://www.seedasdan.com/en/wsc-en/",
     "final_url": "https://www.seedasdan.com/en/wsc-en/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "2d251f11035716166f8ec3f91c59d94be0e9b423099bb93c2949cb0f1c1d6aa9",
+    "retrieved_at": "2026-07-14T10:01:20+00:00",
+    "content_hash": "7a53cc8d99efead83947b54ee4c2c5187e624fa8eb9eade3c8cb263675701c81",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/2d251f1103571616.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/7a53cc8d99efead8.html.gz"
   },
   "https://www.seedasdan.com/en/yis-eng/": {
     "original_url": "https://www.seedasdan.com/en/yis-eng/",
     "final_url": "https://www.seedasdan.com/en/yis-eng/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "fbc93926200820dba47beb0ae1e26797c2fc16bef65d7674cfa4ccb10346659b",
+    "retrieved_at": "2026-07-14T10:01:20+00:00",
+    "content_hash": "22598bb33c2350551f3447c6d7473a1baa49d6e3bcf0df49c468e4259f89b23f",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/fbc93926200820db.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/22598bb33c235055.html.gz"
   },
   "https://www.seedasdan.asia/en/": {
     "original_url": "https://www.seedasdan.asia/en/",
     "final_url": "https://www.seedasdan.asia/en/",
-    "retrieved_at": "2026-07-11T15:19:33+00:00",
-    "content_hash": "016401afad4d6e43b5f0401329630e2e9b3f86f240bc83e00766dcf554e61059",
+    "retrieved_at": "2026-07-14T10:01:19+00:00",
+    "content_hash": "8d9159133adb5d0a3c6d7f14b2a4c847c5f07889befcc00f45c4005546ab26a5",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.asia/016401afad4d6e43.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.asia/8d9159133adb5d0a.html.gz"
+  },
+  "https://climatescience.org/olympiad": {
+    "original_url": "https://climatescience.org/olympiad",
+    "final_url": "https://climatescience.org/olympiad",
+    "retrieved_at": "2026-07-14T10:01:04+00:00",
+    "content_hash": "318db3ae6ae47eac87b809b4aea3f6af61f39bf52674447a191253678512c3bc",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/climatescience.org/318db3ae6ae47eac.html.gz"
+  },
+  "https://breakthroughjuniorchallenge.org/rules": {
+    "original_url": "https://breakthroughjuniorchallenge.org/rules",
+    "final_url": "https://breakthroughjuniorchallenge.org/rules",
+    "retrieved_at": "2026-07-14T10:01:04+00:00",
+    "content_hash": "5ec0bd47026638617dde041e54c8c3874badc5224a30e0bde97cf0c0b11fd7b3",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/breakthroughjuniorchallenge.org/5ec0bd4702663861.html.gz"
+  },
+  "https://foyleyoungpoets.org/": {
+    "original_url": "https://foyleyoungpoets.org/",
+    "final_url": "https://foyleyoungpoets.org/",
+    "retrieved_at": "2026-07-14T10:01:05+00:00",
+    "content_hash": "f3b27ee714f6b7fafccd7de993c4f2ad4e722fab7a1a5b1118be2a216876491b",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/f3b27ee714f6b7fa.html.gz"
+  },
+  "https://cariboutests.com/": {
+    "original_url": "https://cariboutests.com/",
+    "final_url": "https://cariboutests.com/",
+    "retrieved_at": "2026-07-14T10:01:05+00:00",
+    "content_hash": "5ee948c6703f3080e03289210184168b7ef2464a95f457995284a0cbe49b9cd7",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/5ee948c6703f3080.html.gz"
+  },
+  "https://blueoceancompetition.org/": {
+    "original_url": "https://blueoceancompetition.org/",
+    "final_url": "https://blueoceancompetition.org/",
+    "retrieved_at": "2026-07-14T10:01:05+00:00",
+    "content_hash": "55bd73445e80e4f17954654d0f9a8c83c9c554c22b09a8e501e053d31a3710d7",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/blueoceancompetition.org/55bd73445e80e4f1.html.gz"
+  },
+  "https://purplecomet.org/": {
+    "original_url": "https://purplecomet.org/",
+    "final_url": "https://purplecomet.org/",
+    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "content_hash": "ca7cacddcd2b8cf1cd35f5c5a6d3593b07970947961059f3f985738c67b7c6ef",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/purplecomet.org/ca7cacddcd2b8cf1.html.gz"
+  },
+  "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/": {
+    "original_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
+    "final_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
+    "retrieved_at": "2026-07-14T10:01:04+00:00",
+    "content_hash": "405e64f44661f5782d4969ecef93fe43d94df1b3350cf679772d01c9ac7c596c",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/bowseat.org/405e64f44661f578.html.gz"
+  },
+  "https://schoolsdebate.com/": {
+    "original_url": "https://schoolsdebate.com/",
+    "final_url": "https://schoolsdebate.com/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "3ac5a25c27c6e7ce8047519703035247cfbd5945ee9cebde180bfe98d5a22708",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/schoolsdebate.com/3ac5a25c27c6e7ce.html.gz"
+  },
+  "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/": {
+    "original_url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
+    "final_url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
+    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "content_hash": "f76b312def5caea4de4db95dbbd1520949c71ab9eea08ebee2cb0e6992825948",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/globalyouth.wharton.upenn.edu/f76b312def5caea4.html.gz"
+  },
+  "https://physicsbrawl.org/": {
+    "original_url": "https://physicsbrawl.org/",
+    "final_url": "https://physicsbrawl.org/",
+    "retrieved_at": "2026-07-14T10:01:09+00:00",
+    "content_hash": "7cc53a75743f95cd8091f59657302e586f5774b7a3e68f5ce1d429e903e4bd28",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/physicsbrawl.org/7cc53a75743f95cd.html.gz"
+  },
+  "https://www.comap.com/contests/himcm-midmcm": {
+    "original_url": "https://www.comap.com/contests/himcm-midmcm",
+    "final_url": "https://www.comap.com/contests/himcm-midmcm",
+    "retrieved_at": "2026-07-14T10:01:09+00:00",
+    "content_hash": "b020fdc9807f5ab5413235c8cf9157d4135de6666a4d93f1c39ec6fcbec2894c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.comap.com/b020fdc9807f5ab5.html.gz"
+  },
+  "https://opho.physoly.tech/": {
+    "original_url": "https://opho.physoly.tech/",
+    "final_url": "https://opho.physoly.org/",
+    "retrieved_at": "2026-07-14T10:01:08+00:00",
+    "content_hash": "9c70d56e59f1d90aa2f5718f3fd1b1f83b73d93625121f1e21d220a017fd2da6",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/9c70d56e59f1d90a.html.gz"
+  },
+  "https://ukbiologycompetitions.org/british-biology-olympiad/": {
+    "original_url": "https://ukbiologycompetitions.org/british-biology-olympiad/",
+    "final_url": "https://ukbiologycompetitions.org/british-biology-olympiad/",
+    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "content_hash": "8db283357cbd11e5da1b7472d520329b91fa19b7e07d037574d736985c0e7753",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ukbiologycompetitions.org/8db283357cbd11e5.html.gz"
+  },
+  "https://www.apmo-official.org/": {
+    "original_url": "https://www.apmo-official.org/",
+    "final_url": "https://www.apmo-official.org/",
+    "retrieved_at": "2026-07-14T10:01:08+00:00",
+    "content_hash": "841746adccf2f9b8fd307f0722bf4dd3a017be433bb794712071874015244ea8",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.apmo-official.org/841746adccf2f9b8.html.gz"
+  },
+  "https://www.firstinspires.org/programs/frc/": {
+    "original_url": "https://www.firstinspires.org/programs/frc/",
+    "final_url": "https://www.firstinspires.org/programs/frc/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "0cac943151af2fa9b5ff3e942449965596c8d48257a4acba4de551d3d04b7f63",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/0cac943151af2fa9.html.gz"
+  },
+  "https://www.bebras.org/": {
+    "original_url": "https://www.bebras.org/",
+    "final_url": "https://www.bebras.org/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "340fdd286902f9e477f810ec7a19291673bc04cdf880daf57c69907590ff2a43",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.bebras.org/340fdd286902f9e4.html.gz"
+  },
+  "https://www.firstinspires.org/programs/ftc/": {
+    "original_url": "https://www.firstinspires.org/programs/ftc/",
+    "final_url": "https://www.firstinspires.org/programs/ftc/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "3b63bba6f4ce4eb639f50262f538b33783cf3e4d72629b53fbc09c96ff321b53",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/3b63bba6f4ce4eb6.html.gz"
+  },
+  "https://www.historyolympiad.com/": {
+    "original_url": "https://www.historyolympiad.com/",
+    "final_url": "https://www.historyolympiad.com/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "34756eb0b6e3b6798f4c47162c4534233ac0abc1095b3190bd12dcd13a076863",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.historyolympiad.com/34756eb0b6e3b679.html.gz"
+  },
+  "https://www.ieso-info.org/": {
+    "original_url": "https://www.ieso-info.org/",
+    "final_url": "https://www.ieso-info.org/",
+    "retrieved_at": "2026-07-14T10:01:12+00:00",
+    "content_hash": "455307c2b8ac70c3430e654936fe07dbea843a2abda93d326fc12282692a48ed",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.ieso-info.org/455307c2b8ac70c3.html.gz"
+  },
+  "https://first.global/": {
+    "original_url": "https://first.global/",
+    "final_url": "https://first.global/",
+    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "content_hash": "2882b0a4f323c4fe39a5a7560203b1825b8a857bc59224b5b0865935db00a358",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/first.global/2882b0a4f323c4fe.html.gz"
+  },
+  "https://www.imo-official.org/": {
+    "original_url": "https://www.imo-official.org/",
+    "final_url": "https://www.imo-official.org/",
+    "retrieved_at": "2026-07-14T10:01:15+00:00",
+    "content_hash": "45c481e981f47d39461ac584d2fb4435840dfd7375d6f160649032b41bae91bd",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/45c481e981f47d39.html.gz"
+  },
+  "https://www.ibo-info.org/en/": {
+    "original_url": "https://www.ibo-info.org/en/",
+    "final_url": "https://www.ibo-info.org/en/",
+    "retrieved_at": "2026-07-14T10:01:12+00:00",
+    "content_hash": "810d3ad13abaf36dc1241436b93100bca60c5043918032b71f1d0d9103956565",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.ibo-info.org/810d3ad13abaf36d.html.gz"
+  },
+  "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/": {
+    "original_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
+    "final_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
+    "retrieved_at": "2026-07-14T10:01:13+00:00",
+    "content_hash": "337e2466136e877d4efb0fce68d7996e14c040dd6edfd9fe10ff4d7432cc17c5",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.nyas.org/337e2466136e877d.html.gz"
+  },
+  "https://www.raci.org.au/education-outreach/school-competitions/icq": {
+    "original_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
+    "final_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
+    "retrieved_at": "2026-07-14T10:01:13+00:00",
+    "content_hash": "3f3e4712570132f3680f0d5202c7c75dc4a50d4f439a1a1bdf35cc0e5d70338a",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.raci.org.au/3f3e4712570132f3.html.gz"
+  },
+  "https://www.hult.edu/hflc/": {
+    "original_url": "https://www.hult.edu/hflc/",
+    "final_url": "https://www.hult.edu/hflc/",
+    "retrieved_at": "2026-07-14T10:01:14+00:00",
+    "content_hash": "2b63dfc249add658a25157fb4ebc39c11bf225a436efd36ad919f6c2b86fc6e2",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/2b63dfc249add658.html.gz"
+  },
+  "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/": {
+    "original_url": "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/",
+    "final_url": "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/",
+    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "content_hash": "e7b9be8e09249e4af6d7250b706748900673fba2d9b836a42b0d858a09d3e7a2",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/stockholmwaterfoundation.org/e7b9be8e09249e4a.html.gz"
+  },
+  "https://www.ijso-official.org/": {
+    "original_url": "https://www.ijso-official.org/",
+    "final_url": "https://ijso-official.org/",
+    "retrieved_at": "2026-07-14T10:01:18+00:00",
+    "content_hash": "f604426d6c3da3adcc1d74df2b3c3858be6582f72d9b35480b04ced5c85180af",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ijso-official.org/f604426d6c3da3ad.html.gz"
+  },
+  "https://www.iymc.info/": {
+    "original_url": "https://www.iymc.info/",
+    "final_url": "https://www.iymc.info/en/language",
+    "retrieved_at": "2026-07-14T10:01:12+00:00",
+    "content_hash": "d8c42d43e02d494b91b17c234fd804d47568b23301df2fa20abf93edbac28897",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.iymc.info/d8c42d43e02d494b.html.gz"
+  },
+  "https://www.livingoceansfoundation.org/education/science-without-borders-challenge/": {
+    "original_url": "https://www.livingoceansfoundation.org/education/science-without-borders-challenge/",
+    "final_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/",
+    "retrieved_at": "2026-07-14T10:01:15+00:00",
+    "content_hash": "83ae5aefe2fc9c4e85c5f1f6b419e1eb755c9268c2b6d5cc65e77d0263b0094c",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.livingoceansfoundation.org/83ae5aefe2fc9c4e.html.gz"
+  },
+  "https://www.sageglobal.org/": {
+    "original_url": "https://www.sageglobal.org/",
+    "final_url": "https://www.sageglobal.org/",
+    "retrieved_at": "2026-07-14T10:01:28+00:00",
+    "content_hash": "26b17780524fb563ef7656e7d6dc6b7a6c7bd509139f956e4fc7ee8a40fe3c1e",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.sageglobal.org/26b17780524fb563.html.gz"
+  },
+  "https://www.royalcwsociety.org/writing-competition": {
+    "original_url": "https://www.royalcwsociety.org/writing-competition",
+    "final_url": "https://www.royalcwsociety.org/writing-competition",
+    "retrieved_at": "2026-07-14T10:01:22+00:00",
+    "content_hash": "ed37b8a44b7813e788b1525f0d8af975bf8347136e9543ecae11a2219b9ffda8",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.royalcwsociety.org/ed37b8a44b7813e7.html.gz"
+  },
+  "https://www.globinnovation.org/howitworks": {
+    "original_url": "https://www.globinnovation.org/howitworks",
+    "final_url": "https://www.globinnovation.org/howitworks",
+    "retrieved_at": "2026-07-14T10:01:23+00:00",
+    "content_hash": "353b922d9da6e2f93f3fe9713d339105bec9f1089bde5c001b0454fe8f13fd92",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.globinnovation.org/353b922d9da6e2f9.html.gz"
+  },
+  "https://www.theearthprize.org/": {
+    "original_url": "https://www.theearthprize.org/",
+    "final_url": "https://www.theearthprize.org/",
+    "retrieved_at": "2026-07-14T10:01:22+00:00",
+    "content_hash": "4543bb5082751ea26c8fa480010b40dd8575ed8cdf1e5b6902d1ddc09f12772c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.theearthprize.org/4543bb5082751ea2.html.gz"
+  },
+  "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/": {
+    "original_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
+    "final_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
+    "retrieved_at": "2026-07-14T10:01:23+00:00",
+    "content_hash": "d2dec2b363acdd5c27edaaf43e001b69f116c4a638eb19f7acc1bd5e8bbbe22a",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.worldfoodprize.org/d2dec2b363acdd5c.html.gz"
+  },
+  "https://widpsc2027.org/": {
+    "original_url": "https://widpsc2027.org/",
+    "final_url": "https://widpsc2027.org/",
+    "retrieved_at": "2026-07-14T10:01:09+00:00",
+    "content_hash": "115646f2cd872036b10531f33a25f213e76f882345b625abe25589c30219a27d",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/widpsc2027.org/115646f2cd872036.html.gz"
   }
 }

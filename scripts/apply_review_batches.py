@@ -44,7 +44,10 @@ def valid_web_url(url: str | None) -> bool:
 
 def snapshot_url(url: str) -> tuple[str, dict[str, Any] | None, str | None]:
     try:
-        request = urllib.request.Request(url, headers={"User-Agent": "ProjectPursuitReview/1.0 (+offline educational catalog)"})
+        request = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36 ProjectPursuitReview/1.0",
+            "Accept": "text/html,application/xhtml+xml",
+        })
         with urllib.request.urlopen(request, timeout=35) as response:
             content = response.read()
             final_url = response.geturl()

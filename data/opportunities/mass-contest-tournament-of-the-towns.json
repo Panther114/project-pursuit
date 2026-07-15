@@ -1,14 +1,14 @@
 {
   "id": "mass-contest-tournament-of-the-towns",
   "canonical_name": "Tournament of the Towns",
-  "name_zh": "",
+  "name_zh": "城市数学竞赛（Tournament of Towns）",
   "name_en": "Tournament of the Towns",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Mathematics Tournament",
-  "organizer": "Tournament of Towns Central Committee",
+  "organizer": "Tournament of Towns organizing committee",
   "region": "International",
   "region_tier": "international_only",
   "country": null,
@@ -22,27 +22,24 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "School students participate through a local town organizer in Junior or Senior divisions.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
-    "English",
-    "Russian"
+    "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Autumn and spring basic and advanced papers, each up to five hours; best results determine standing.",
+  "cost_text": "Local centre dependent",
+  "time_commitment": "medium",
   "description": "International school mathematics competition administered through local city committees with autumn and spring papers.",
-  "website_url": null,
+  "website_url": "https://www.math.toronto.edu/oz/turgor/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -67,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-tournament-of-the-towns]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Tournament of the Towns",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-tournament-of-the-towns]"
     }
   ],
   "schema_version": 1,
@@ -89,8 +98,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -99,8 +110,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -173,12 +186,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -189,8 +206,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -203,8 +222,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -225,8 +246,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -237,6 +260,36 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-tournament-of-the-towns-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
       "status": "single_source",
       "evidence_ids": [
         "mass-contest-tournament-of-the-towns-e1"
@@ -262,5 +315,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "regional_open",
+  "route_type": "school",
+  "entry_pathway": "Participating city/school centres; not universally available."
 }

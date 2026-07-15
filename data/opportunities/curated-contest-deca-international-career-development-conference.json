@@ -1,0 +1,304 @@
+{
+  "id": "curated-contest-deca-international-career-development-conference",
+  "canonical_name": "DECA International Career Development Conference",
+  "name_en": "DECA International Career Development Conference",
+  "name_zh": "DECA 国际职业发展大会竞赛",
+  "aliases": [
+    "DECA",
+    "DECA ICDC"
+  ],
+  "type": "competition",
+  "subject_tags": [
+    "Business"
+  ],
+  "category": "Business",
+  "organizer": "DECA Inc.",
+  "region": "International",
+  "region_tier": "international_only",
+  "country": null,
+  "city": null,
+  "format": "in_person",
+  "date_text": null,
+  "deadline_text": "Association season then ICDC qualifying path",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "upcoming",
+  "eligibility_text": null,
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": null,
+  "eligible_curricula": [],
+  "languages": [
+    "English"
+  ],
+  "team_mode": "either",
+  "website_url": "https://www.deca.org/",
+  "description": "",
+  "cost_text": "Chapter dues + event fees + travel",
+  "cost_amount": null,
+  "cost_currency": null,
+  "time_commitment": "high",
+  "entry_pathway": "Must compete through a DECA chapter (school). International chapters exist; China access depends on chapter availability.",
+  "audience_scope": "international_selection",
+  "route_type": "school",
+  "difficulty_level": "intermediate",
+  "recognition_level": "widely recognized",
+  "preparation": null,
+  "confidence": "partially_verified",
+  "publication_status": "partially_verified",
+  "last_verified_at": "2026-07-15",
+  "verification_note": "Curated gap-fill competition record from official public organizer information; cycle dates may change annually. Enriched from curated Tier-A competition pack.",
+  "sources": [
+    {
+      "source_file": "gap_competitions.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "DECA International Career Development Conference",
+      "raw_excerpt": "DECA International Career Development Conference",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-gap-fill-v1",
+      "original_url": "https://www.deca.org/",
+      "snapshot_path": "data/curation/gap_competitions.json",
+      "extraction_locator": "gap[curated-contest-deca-international-career-development-conference]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "DECA International Career Development Conference",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:46:01+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
+      "extraction_locator": "enrichment[curated-contest-deca-international-career-development-conference]"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "curated-contest-deca-international-career-development-conference-e1",
+      "url": "https://www.deca.org/",
+      "publisher": "competition-gap-fill-v1",
+      "authority": "reputable_secondary",
+      "retrieved_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-gap-fill-v1",
+      "note": "DECA International Career Development Conference"
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "name_en": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "organizer": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "category": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "region": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_grades": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_text": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "curated-contest-deca-international-career-development-conference-e1"
+      ]
+    }
+  }
+}

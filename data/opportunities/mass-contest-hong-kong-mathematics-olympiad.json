@@ -22,11 +22,11 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Hong Kong school teams, historically 4–6 students in Form 5 or below, enter through their schools.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11
+    "7",
+    "8",
+    "9",
+    "10",
+    "11"
   ],
   "eligible_ages": [],
   "languages": [
@@ -98,8 +98,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hong-kong-mathematics-olympiad-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -132,8 +134,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hong-kong-mathematics-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -172,12 +176,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hong-kong-mathematics-olympiad-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hong-kong-mathematics-olympiad-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -188,8 +196,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-hong-kong-mathematics-olympiad-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -240,6 +250,30 @@
       "evidence_ids": [
         "mass-contest-hong-kong-mathematics-olympiad-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

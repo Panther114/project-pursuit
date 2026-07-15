@@ -1,7 +1,7 @@
 {
   "id": "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2",
   "canonical_name": "Brainbee China Round",
-  "name_zh": "脑科学大赛全国赛",
+  "name_zh": "脑科学大赛中国赛区",
   "name_en": "Brainbee China Round",
   "type": "competition",
   "subject_tags": [
@@ -12,9 +12,9 @@
   "region": "SHSID / International",
   "format": "in_person",
   "date_text": "The reviewed current China cycle had concluded by July 2026; exact dates were not fully verified.",
-  "deadline_text": "",
+  "deadline_text": "Winter/spring China round windows",
   "deadline_date": null,
-  "website_url": "https://chinabrainbee.com/",
+  "website_url": "https://www.brainbee.org/",
   "registration_contact": "",
   "instructor_contact": "朱雅婷",
   "preparation": "Research Essay",
@@ -67,6 +67,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Brainbee China Round",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2]"
     }
   ],
   "schema_version": 1,
@@ -157,12 +169,16 @@
       ]
     },
     "region_tier": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -181,8 +197,10 @@
       ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -229,8 +247,10 @@
       ]
     },
     "team_mode": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "duration_text": {
       "status": "missing",
@@ -265,8 +285,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -281,34 +303,65 @@
       "evidence_ids": [
         "research-contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "contest-brainbee-china-round-shsid2024-2025-2nd-semester-contests-and-activities-2-e1"
+      ]
     }
   },
-  "verification_note": "Imported from the structured competition research review.",
-  "organizer": "International Brain Bee China Organizing Committee",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
+  "organizer": "Brain Bee China / partners",
   "region_tier": "mainland_china",
   "country": "China",
   "city": null,
   "eligibility_text": "Chinese secondary-school students enter age-appropriate regional and national Brain Bee rounds.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "languages": [
     "Chinese",
-    "English"
+    "English",
+    "Bilingual"
   ],
   "team_mode": "individual",
-  "current_cycle_status": "closed",
+  "current_cycle_status": "upcoming",
   "start_date": null,
   "end_date": null,
-  "cost_text": "",
+  "cost_text": "Paid local registration",
   "cost_amount": null,
   "cost_currency": null,
-  "time_commitment": "Regional and national neuroscience examinations and, for finalists, additional selection activities.",
+  "time_commitment": "medium",
   "awards_and_recognition": "National awards and potential selection to the International Brain Bee.",
   "china_participation_route": "Register through the official Brain Bee China chapter.",
   "review_conflicts": [],
@@ -322,5 +375,8 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "audience_scope": "regional_open",
+  "route_type": "china_partner",
+  "entry_pathway": "China national round registration via official China Brain Bee organizers/schools."
 }

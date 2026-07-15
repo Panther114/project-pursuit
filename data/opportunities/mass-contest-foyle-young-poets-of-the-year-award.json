@@ -1,0 +1,253 @@
+{
+  "id": "mass-contest-foyle-young-poets-of-the-year-award",
+  "canonical_name": "Foyle Young Poets of the Year Award",
+  "name_zh": "",
+  "name_en": "Foyle Young Poets of the Year Award",
+  "type": "competition",
+  "subject_tags": [
+    "Writing",
+    "Arts"
+  ],
+  "category": "Poetry",
+  "organizer": "The Poetry Society",
+  "region": "Worldwide",
+  "region_tier": "international_only",
+  "country": "",
+  "city": "",
+  "format": "online",
+  "date_text": "",
+  "deadline_text": "",
+  "deadline_date": null,
+  "start_date": null,
+  "end_date": null,
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Young poets ages 11-17 from anywhere in the world may enter.",
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "eligible_ages": "11-17",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "individual",
+  "cost_text": "Free",
+  "time_commitment": "low",
+  "description": "Worldwide poetry award for writers ages 11-17.",
+  "website_url": "https://foyleyoungpoets.org/",
+  "aliases": [
+    "Foyle Young Poets"
+  ],
+  "audience_scope": "global_open",
+  "entry_pathway": "Direct online poetry submission.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-14",
+  "publication_status": "official_verified",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
+  "sources": [
+    {
+      "source_file": "f3b27ee714f6b7fa.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Foyle Young Poets of the Year Award",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-14T10:01:05+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://foyleyoungpoets.org/",
+      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/f3b27ee714f6b7fa.html.gz",
+      "content_hash": "f3b27ee714f6b7fafccd7de993c4f2ad4e722fab7a1a5b1118be2a216876491b"
+    }
+  ],
+  "schema_version": 1,
+  "evidence": [
+    {
+      "evidence_id": "mass-contest-foyle-young-poets-of-the-year-award-e1",
+      "url": "https://foyleyoungpoets.org/",
+      "publisher": "mass-global-high-school-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "note": ""
+    }
+  ],
+  "field_evidence": {
+    "canonical_name": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "name_zh": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "name_en": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "organizer": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "type": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "subject_tags": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "category": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "region": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "region_tier": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "country": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "city": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "format": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "date_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "deadline_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "start_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "end_date": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "current_cycle_status": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "eligibility_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "eligible_grades": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "eligible_ages": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "eligible_curricula": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "languages": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "team_mode": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "duration_text": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "website_url": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "registration_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "instructor_contact": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "preparation": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "description": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "cost_text": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    },
+    "cost_amount": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "cost_currency": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "time_commitment": {
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-foyle-young-poets-of-the-year-award-e1"
+      ]
+    }
+  }
+}

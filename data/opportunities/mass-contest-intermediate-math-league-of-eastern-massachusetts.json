@@ -22,9 +22,9 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students from member middle schools in eastern Massachusetts compete on school teams, typically with up to ten members.",
   "eligible_grades": [
-    6,
-    7,
-    8
+    "6",
+    "7",
+    "8"
   ],
   "eligible_ages": [],
   "languages": [
@@ -95,8 +95,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -129,8 +131,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -169,12 +173,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -185,8 +193,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -237,6 +247,30 @@
       "evidence_ids": [
         "mass-contest-intermediate-math-league-of-eastern-massachusetts-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

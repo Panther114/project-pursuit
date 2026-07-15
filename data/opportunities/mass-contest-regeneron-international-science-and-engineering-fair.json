@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-regeneron-international-science-and-engineering-fair",
   "canonical_name": "Regeneron International Science and Engineering Fair",
-  "name_zh": "",
+  "name_zh": "再生元国际科学与工程大奖赛（ISEF）",
   "name_en": "Regeneron International Science and Engineering Fair",
   "type": "competition",
   "subject_tags": [
@@ -20,27 +20,27 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students in grades 9–12 qualify by winning an affiliated science or engineering fair; teams may have up to three members under ISEF rules.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "either",
-  "cost_text": "",
-  "time_commitment": "Long-term research plus a week-long international fair and judging program.",
+  "cost_text": "Pathway-dependent; finalist travel often supported",
+  "time_commitment": "high",
   "description": "Global pre-college science and engineering fair for students qualifying through affiliated regional and national fairs.",
   "website_url": "https://www.societyforscience.org/isef/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "international_competitions.json",
@@ -65,6 +65,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-regeneron-international-science-and-engineering-fair]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "Regeneron International Science and Engineering Fair",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-regeneron-international-science-and-engineering-fair]"
     }
   ],
   "schema_version": 1,
@@ -96,8 +108,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -142,8 +156,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -242,8 +258,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -257,6 +275,42 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-regeneron-international-science-and-engineering-fair-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-regeneron-international-science-and-engineering-fair-e1"
       ]
     }
   },
@@ -278,5 +332,14 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "ISEF",
+    "Regeneron ISEF"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "national_selection",
+  "entry_pathway": "Must win/affiliate through a Society-affiliated regional/national fair pathway.",
+  "difficulty_level": "elite",
+  "recognition_level": "elite"
 }

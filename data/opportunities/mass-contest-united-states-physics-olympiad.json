@@ -1,14 +1,14 @@
 {
   "id": "mass-contest-united-states-physics-olympiad",
   "canonical_name": "United States Physics Olympiad",
-  "name_zh": "",
+  "name_zh": "美国物理奥林匹克（USAPhO）",
   "name_en": "United States Physics Olympiad",
   "type": "competition",
   "subject_tags": [
     "Physics"
   ],
   "category": "Olympiad",
-  "organizer": "American Association of Physics Teachers",
+  "organizer": "AAPT / USAPhO",
   "region": "International",
   "region_tier": "international_only",
   "country": "United States",
@@ -19,27 +19,27 @@
   "deadline_date": null,
   "start_date": "2026-02-12",
   "end_date": null,
-  "current_cycle_status": "closed",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Students qualify from the F=ma examination and must satisfy U.S. citizenship, residency, and schooling rules for team selection.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "USAPhO: two 90-minute free-response sessions; earlier F=ma qualification is required.",
+  "cost_text": "Exam fees for F=ma/USAPhO path",
+  "time_commitment": "high",
   "description": "Invitation-only U.S. physics olympiad examination for top F=ma scorers and a pathway to the U.S. Physics Team.",
   "website_url": "https://www.aapt.org/physicsteam/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -64,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-united-states-physics-olympiad]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "United States Physics Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-united-states-physics-olympiad]"
     }
   ],
   "schema_version": 1,
@@ -95,8 +107,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -141,8 +155,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -155,8 +171,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -167,8 +185,10 @@
       "evidence_ids": []
     },
     "start_date": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
     },
     "end_date": {
       "status": "missing",
@@ -241,8 +261,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -256,6 +278,38 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-united-states-physics-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-physics-olympiad-e1"
       ]
     }
   },
@@ -274,5 +328,11 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "USAPhO"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "official",
+  "entry_pathway": "F=ma qualification then USAPhO; US-centric selection to IPhO team."
 }

@@ -6,6 +6,7 @@ export type CatalogCriteria = {
   subtype: "any" | Opportunity["type"];
   grade: "any" | "9" | "10" | "11" | "12";
   region: "any" | NonNullable<Opportunity["region_tier"]>;
+  access: "any" | "global_open" | "international_selection" | "regional_open";
   format: "any" | OpportunityFormat;
   language: "any" | "English" | "Chinese" | "Bilingual";
   teamMode: "any" | "individual" | "team" | "either";
@@ -17,12 +18,12 @@ export type CatalogCriteria = {
 };
 
 export const defaultCriteria: CatalogCriteria = {
-  query: "", subjects: [], subtype: "any", grade: "any", region: "any", format: "any",
+  query: "", subjects: [], subtype: "any", grade: "any", region: "any", access: "any", format: "any",
   language: "any", teamMode: "any", cycleStatus: "any", cost: "any", commitment: "any",
   sourceStatus: "any", includeMissing: true
 };
 
-const keys: Array<keyof CatalogCriteria> = ["subtype", "grade", "region", "format", "language", "teamMode", "cycleStatus", "cost", "commitment", "sourceStatus"];
+const keys: Array<keyof CatalogCriteria> = ["subtype", "grade", "region", "access", "format", "language", "teamMode", "cycleStatus", "cost", "commitment", "sourceStatus"];
 
 export function criteriaFromSearch(search: string): CatalogCriteria {
   const params = new URLSearchParams(search);
@@ -55,13 +56,15 @@ function matchKnown<T>(actual: T | null | undefined, expected: T | "any", includ
 
 export function matchesCriteria(item: Opportunity, criteria: CatalogCriteria): boolean {
   const needle = criteria.query.trim().toLowerCase();
-  if (needle && ![item.canonical_name, item.name_zh, item.description, item.category, item.region, item.organizer]
+  if (needle && ![item.canonical_name, ...(item.aliases ?? []), item.name_zh, item.description, item.category, item.region, item.organizer, item.entry_pathway]
     .filter(Boolean).join(" ").toLowerCase().includes(needle)) return false;
   if (criteria.subjects.length && !criteria.subjects.some((subject) => item.subject_tags.includes(subject))) return false;
   if (!matchKnown(item.type, criteria.subtype, criteria.includeMissing)) return false;
-  if (criteria.grade !== "any" && item.eligible_grades?.length && !item.eligible_grades.includes(criteria.grade)) return false;
-  if (criteria.grade !== "any" && !item.eligible_grades?.length && !criteria.includeMissing) return false;
+  const grades = (item.eligible_grades ?? []).map((value) => String(value));
+  if (criteria.grade !== "any" && grades.length && !grades.includes(criteria.grade)) return false;
+  if (criteria.grade !== "any" && !grades.length && !criteria.includeMissing) return false;
   if (!matchKnown(item.region_tier, criteria.region, criteria.includeMissing)) return false;
+  if (!matchKnown(item.audience_scope, criteria.access, criteria.includeMissing)) return false;
   if (criteria.format !== "any" && item.format !== "hybrid" && !matchKnown(item.format, criteria.format, criteria.includeMissing)) return false;
   if (criteria.language !== "any" && item.languages?.length && !item.languages.includes(criteria.language) && !item.languages.includes("Bilingual")) return false;
   if (criteria.language !== "any" && !item.languages?.length && !criteria.includeMissing) return false;

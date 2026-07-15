@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-united-states-of-america-mathematical-olympiad",
   "canonical_name": "United States of America Mathematical Olympiad",
-  "name_zh": "",
+  "name_zh": "美国数学奥林匹克（USAMO）",
   "name_en": "United States of America Mathematical Olympiad",
   "type": "competition",
   "subject_tags": [
@@ -15,31 +15,31 @@
   "city": null,
   "format": "in_person",
   "date_text": "The 2026 USAMO had concluded by July 2026.",
-  "deadline_text": "",
+  "deadline_text": "Qualification-only after AIME",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "closed",
-  "eligibility_text": "Eligible students must qualify through MAA invitation criteria and be U.S. citizens or legal residents of the United States or Canada.",
+  "current_cycle_status": "upcoming",
+  "eligibility_text": "Top scorers by MAA invitation rules after AIME.",
   "eligible_grades": [
-    9,
-    10,
-    11,
-    12
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "Six proof problems over two consecutive 4.5-hour sessions.",
+  "cost_text": "Not an open paid registration contest",
+  "time_commitment": "high",
   "description": "Highly selective two-day proof-based mathematics olympiad for eligible U.S. and Canadian residents qualifying through MAA pathways.",
   "website_url": "https://maa.org/student-programs/amc/maa-invitational-competitions/",
   "confidence": "verified",
   "last_verified_at": "2026-07-12",
   "publication_status": "partially_verified",
-  "verification_note": "Imported from the structured competition research review.",
+  "verification_note": "Imported from the structured competition research review. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "wikipedia_competitions.json",
@@ -64,6 +64,18 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-united-states-of-america-mathematical-olympiad]"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "United States of America Mathematical Olympiad",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[mass-contest-united-states-of-america-mathematical-olympiad]"
     }
   ],
   "schema_version": 1,
@@ -95,8 +107,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
     },
     "name_en": {
       "status": "single_source",
@@ -141,8 +155,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -155,12 +171,16 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -241,8 +261,10 @@
       ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -256,6 +278,42 @@
       "status": "official",
       "evidence_ids": [
         "research-mass-contest-united-states-of-america-mathematical-olympiad-1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
+    },
+    "aliases": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
+    },
+    "difficulty_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
+    },
+    "recognition_level": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
+      ]
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-united-states-of-america-mathematical-olympiad-e1"
       ]
     }
   },
@@ -275,5 +333,14 @@
     "cost.text",
     "cost.amount",
     "cost.currency"
-  ]
+  ],
+  "aliases": [
+    "USAMO",
+    "USAJMO"
+  ],
+  "audience_scope": "international_selection",
+  "route_type": "national_selection",
+  "entry_pathway": "Invitation/qualification only after a prior contest score threshold. Based on AMC+AIME index; USAMO/USAJMO selection rules apply.",
+  "difficulty_level": "elite",
+  "recognition_level": "elite"
 }

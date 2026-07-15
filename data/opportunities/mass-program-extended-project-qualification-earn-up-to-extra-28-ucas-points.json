@@ -29,6 +29,9 @@
   "time_commitment": "unknown",
   "description": "Official current competition page: Extended Project Qualification Earn up to extra 28 UCAS points",
   "website_url": "http://www.seedasdan.org/en/epq-en/",
+  "aliases": [],
+  "audience_scope": "unknown",
+  "entry_pathway": "",
   "confidence": "partially_verified",
   "last_verified_at": null,
   "publication_status": "partially_verified",
@@ -40,10 +43,10 @@
       "page_or_sheet": "web research",
       "row_or_text_ref": "Extended Project Qualification Earn up to extra 28 UCAS points",
       "raw_excerpt": "Official current page title and URL used.",
-      "extracted_at": "2026-07-11T15:20:42+00:00",
+      "extracted_at": "2026-07-14T08:46:27+00:00",
       "source_id": "mass-international-competitions-1",
       "original_url": "http://www.seedasdan.org/en/epq-en/",
-      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "retrieved_at": "2026-07-14T08:46:27+00:00",
       "extraction_locator": "mass discovery artifact"
     }
   ],
@@ -54,7 +57,7 @@
       "url": "http://www.seedasdan.org/en/epq-en/",
       "publisher": "mass-international-competitions-1",
       "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-11T15:20:42+00:00",
+      "retrieved_at": "2026-07-14T08:46:27+00:00",
       "source_id": "mass-international-competitions-1",
       "note": "Official current page title and URL used."
     }

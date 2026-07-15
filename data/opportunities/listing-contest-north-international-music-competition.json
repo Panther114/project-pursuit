@@ -7,25 +7,27 @@
     "Music"
   ],
   "category": "Music Competition",
-  "organizer": "ASEEDER",
+  "organizer": "North International Music Competition / ASEEDER",
   "region": "China participation route",
   "region_tier": "china_participation_route",
-  "format": "online",
+  "format": "hybrid",
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": null,
-  "languages": [],
+  "languages": [
+    "English"
+  ],
   "team_mode": "individual",
-  "cost_text": "",
-  "time_commitment": "",
+  "cost_text": "Paid",
+  "time_commitment": "medium",
   "description": "Music competition promoted through ASEEDER under the supplied North International title.",
-  "website_url": "https://www.seedasdan.com/en/",
+  "website_url": "https://www.seedasdan.com/en/nimc-en/",
   "confidence": "unverified",
   "last_verified_at": "2026-07-11",
   "publication_status": "unverified",
-  "verification_note": "No independent official organizer or canonical competition site was verified.",
+  "verification_note": "No independent official organizer or canonical competition site was verified. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-20-01+00-00.html.gz",
@@ -80,6 +82,46 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-north-international-music-competition]"
+    },
+    {
+      "source_file": "c76ad03c6c98f761.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "North International Music Competition",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:44+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/nimc-en/",
+      "retrieved_at": "2026-07-14T09:27:44+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c76ad03c6c98f761.html.gz",
+      "content_hash": "c76ad03c6c98f7612cb8006498def25aabf8818c135d6ebbda483623da5554c2"
+    },
+    {
+      "source_file": "c76ad03c6c98f761.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "North International Music Competition Coming Soon",
+      "raw_excerpt": "Official current page title and URL used.",
+      "extracted_at": "2026-07-14T09:27:44+00:00",
+      "source_id": "mass-international-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/nimc-en/",
+      "retrieved_at": "2026-07-14T09:27:44+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/c76ad03c6c98f761.html.gz",
+      "content_hash": "c76ad03c6c98f7612cb8006498def25aabf8818c135d6ebbda483623da5554c2"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "North International Music Competition",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[listing-contest-north-international-music-competition]"
     }
   ],
   "schema_version": 1,
@@ -122,8 +164,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -230,8 +274,10 @@
       "evidence_ids": []
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -242,8 +288,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "team_mode": {
       "status": "official",
@@ -258,8 +306,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -274,12 +324,16 @@
       "evidence_ids": []
     },
     "description": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -290,13 +344,50 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
+    },
+    "aliases": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-north-international-music-competition-e1"
+      ]
     }
   },
   "country": null,
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,
@@ -327,5 +418,9 @@
     "awards_and_recognition",
     "china_participation_route",
     "evidence"
-  ]
+  ],
+  "name_zh": "北方国际音乐比赛",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }

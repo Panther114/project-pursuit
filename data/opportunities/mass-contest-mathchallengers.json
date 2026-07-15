@@ -22,9 +22,9 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "British Columbia students in grades 8–10 qualify through participating schools or regional contests.",
   "eligible_grades": [
-    8,
-    9,
-    10
+    "8",
+    "9",
+    "10"
   ],
   "eligible_ages": [],
   "languages": [
@@ -140,8 +140,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-mathchallengers-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -256,6 +258,30 @@
       "evidence_ids": [
         "research-mass-contest-mathchallengers-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

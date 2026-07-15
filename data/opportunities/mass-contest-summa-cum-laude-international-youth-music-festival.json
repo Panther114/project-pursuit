@@ -21,7 +21,7 @@
   "end_date": null,
   "current_cycle_status": "unknown",
   "eligibility_text": "Youth choirs, orchestras, and bands participate as ensembles in the competitive or celebration program.",
-  "eligible_grades": [],
+  "eligible_grades": null,
   "eligible_ages": [],
   "languages": [
     "English",
@@ -62,6 +62,20 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=mass-contest-summa-cum-laude-international-youth-music-festival]"
+    },
+    {
+      "source_file": "878479e05c052313.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "Summa Cum Laude International Youth Music Festival",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:44+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://www.seedasdan.com/en/scl-en/",
+      "retrieved_at": "2026-07-14T09:27:44+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.com/878479e05c052313.html.gz",
+      "content_hash": "878479e05c0523131b64898a9d41347c8fc142ce461daff6d78ed06a439b82ad"
     }
   ],
   "schema_version": 1,
@@ -145,8 +159,10 @@
       ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-summa-cum-laude-international-youth-music-festival-e1"
+      ]
     },
     "format": {
       "status": "official",
@@ -255,6 +271,30 @@
       "evidence_ids": [
         "research-mass-contest-summa-cum-laude-international-youth-music-festival-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

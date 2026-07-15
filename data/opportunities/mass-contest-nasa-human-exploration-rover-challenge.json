@@ -23,13 +23,13 @@
   "current_cycle_status": "closed",
   "eligibility_text": "U.S. and eligible international middle-school, high-school, and university teams enter the appropriate division.",
   "eligible_grades": [
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -145,12 +145,16 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
     },
     "city": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
     },
     "format": {
       "status": "single_source",
@@ -159,8 +163,10 @@
       ]
     },
     "date_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-nasa-human-exploration-rover-challenge-e1"
+      ]
     },
     "deadline_text": {
       "status": "missing",
@@ -261,6 +267,30 @@
       "evidence_ids": [
         "research-mass-contest-nasa-human-exploration-rover-challenge-1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

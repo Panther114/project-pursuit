@@ -22,12 +22,12 @@
   "current_cycle_status": "unknown",
   "eligibility_text": "Students in the French-speaking and German-speaking Belgian systems and Luxembourg enter the appropriate school category.",
   "eligible_grades": [
-    7,
-    8,
-    9,
-    10,
-    11,
-    12
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
   ],
   "eligible_ages": [],
   "languages": [
@@ -99,8 +99,10 @@
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-olympiade-math-matique-belge-e1"
+      ]
     },
     "type": {
       "status": "single_source",
@@ -133,8 +135,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-olympiade-math-matique-belge-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -173,12 +177,16 @@
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-olympiade-math-matique-belge-e1"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-olympiade-math-matique-belge-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -189,8 +197,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "mass-contest-olympiade-math-matique-belge-e1"
+      ]
     },
     "team_mode": {
       "status": "single_source",
@@ -241,6 +251,30 @@
       "evidence_ids": [
         "mass-contest-olympiade-math-matique-belge-e1"
       ]
+    },
+    "entry_pathway": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "audience_scope": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "aliases": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "missing",
+      "evidence_ids": []
     }
   },
   "eligible_curricula": [],

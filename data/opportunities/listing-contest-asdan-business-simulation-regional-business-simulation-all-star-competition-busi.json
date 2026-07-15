@@ -11,22 +11,26 @@
   "organizer": "ASEEDER",
   "region": "China participation route",
   "region_tier": "china_participation_route",
-  "format": "in_person",
+  "format": "hybrid",
   "date_text": "",
-  "deadline_text": "",
+  "deadline_text": "Regional event calendars on ASEEDER",
   "deadline_date": null,
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": null,
-  "languages": [],
+  "languages": [
+    "English",
+    "Chinese",
+    "Bilingual"
+  ],
   "team_mode": "team",
-  "cost_text": "",
-  "time_commitment": "",
+  "cost_text": "Paid program fee",
+  "time_commitment": "medium",
   "description": "Business simulation program marketed to students in China under the ASDAN/ASEEDER brand.",
-  "website_url": "https://www.seedasdan.com/en/",
+  "website_url": "https://abs.seedasdan.com/en/home-en/",
   "confidence": "partially_verified",
   "last_verified_at": "2026-07-11",
   "publication_status": "partially_verified",
-  "verification_note": "The supplied operator name is retained, but no stable official competition page was verified.",
+  "verification_note": "The supplied operator name is retained, but no stable official competition page was verified. Enriched from curated Tier-A competition pack.",
   "sources": [
     {
       "source_file": "2026-07-11T09-20-01+00-00.html.gz",
@@ -67,6 +71,46 @@
       "snapshot_path": "data/reviews/competition_research_completed.json",
       "content_hash": "a3aa399c14e2ab5d6211aac01de1b21246ce3cb47ea162850b890088134bf9bf",
       "extraction_locator": "records[record_id=listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi]"
+    },
+    {
+      "source_file": "2af5ab459ea2fa24.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "ASDAN Business Simulation",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T09:27:28+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://abs.seedasdan.com/en/home-en/",
+      "retrieved_at": "2026-07-14T09:27:28+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/2af5ab459ea2fa24.html.gz",
+      "content_hash": "2af5ab459ea2fa24235f46105735d099d3f6b3134220a7946a897ec692bea961"
+    },
+    {
+      "source_file": "635eee8b4c7a4a9d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "ASDAN Business Simulation",
+      "raw_excerpt": "Official organizer page or ASEEDER catalog page.",
+      "extracted_at": "2026-07-14T10:01:05+00:00",
+      "source_id": "mass-china-competitions-1",
+      "original_url": "https://abs.seedasdan.com/en/home-en/",
+      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/abs.seedasdan.com/635eee8b4c7a4a9d.html.gz",
+      "content_hash": "635eee8b4c7a4a9d4c5ff9068de814cc49d757a22d4cee94d51a74dbe85f14d2"
+    },
+    {
+      "source_file": "competition_enrichment.json",
+      "source_type": "curated_enrichment",
+      "page_or_sheet": "records",
+      "row_or_text_ref": "ASDAN Business Simulation",
+      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
+      "extracted_at": "2026-07-15T10:39:14+00:00",
+      "source_id": "competition-enrichment-v1",
+      "snapshot_path": "data/curation/competition_enrichment.json",
+      "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
+      "extraction_locator": "enrichment[listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi]"
     }
   ],
   "schema_version": 1,
@@ -99,8 +143,10 @@
       ]
     },
     "name_zh": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "name_en": {
       "status": "official",
@@ -152,8 +198,10 @@
       ]
     },
     "country": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "city": {
       "status": "missing",
@@ -171,8 +219,10 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "deadline_date": {
       "status": "missing",
@@ -198,8 +248,10 @@
       "evidence_ids": []
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "eligible_ages": {
       "status": "missing",
@@ -210,8 +262,10 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "team_mode": {
       "status": "official",
@@ -225,8 +279,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "registration_contact": {
       "status": "missing",
@@ -241,12 +297,16 @@
       "evidence_ids": []
     },
     "description": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "cost_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     },
     "cost_amount": {
       "status": "missing",
@@ -257,13 +317,50 @@
       "evidence_ids": []
     },
     "time_commitment": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
+    },
+    "entry_pathway": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
+    },
+    "audience_scope": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
+    },
+    "aliases": {
       "status": "missing",
       "evidence_ids": []
+    },
+    "difficulty_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "recognition_level": {
+      "status": "missing",
+      "evidence_ids": []
+    },
+    "route_type": {
+      "status": "single_source",
+      "evidence_ids": [
+        "listing-contest-asdan-business-simulation-regional-business-simulation-all-star-competition-busi-e1"
+      ]
     }
   },
   "country": "China",
   "city": null,
-  "eligible_grades": [],
+  "eligible_grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
   "eligible_ages": [],
   "eligible_curricula": [],
   "start_date": null,
@@ -293,5 +390,9 @@
     "awards_and_recognition",
     "china_participation_route",
     "evidence"
-  ]
+  ],
+  "name_zh": "ASDAN 模拟商战",
+  "audience_scope": "global_open",
+  "route_type": "china_partner",
+  "entry_pathway": "Register via ASEEDER business simulation pathway. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
 }
