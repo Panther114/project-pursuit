@@ -1,25 +1,25 @@
 {
   "id": "mass-contest-online-physics-olympiad",
   "canonical_name": "Online Physics Olympiad",
-  "name_zh": "在线物理奥林匹克",
+  "name_zh": "",
   "name_en": "Online Physics Olympiad",
   "type": "competition",
   "subject_tags": [
     "Physics"
   ],
   "category": "Online physics",
-  "organizer": "Online Physics Olympiad organizers",
+  "organizer": "Physics Olympiad Hub",
   "region": "Worldwide",
   "region_tier": "international_only",
   "country": "",
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Contest weekend registration on official site",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Pre-college students worldwide may compete in the online physics contest.",
   "eligible_grades": [
     "9",
@@ -31,46 +31,34 @@
   "languages": [
     "English"
   ],
-  "team_mode": "individual",
-  "cost_text": "Free or low-cost online",
-  "time_commitment": "medium",
+  "team_mode": "team",
+  "cost_text": "Free",
+  "time_commitment": "high",
   "description": "Online team physics competition for pre-college students around the world.",
-  "website_url": "https://opho.studyat.nl/",
+  "website_url": "https://opho.physoly.tech/",
   "aliases": [
     "OPhO"
   ],
   "audience_scope": "global_open",
-  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "entry_pathway": "Direct online registration by a team or individual as permitted by the annual rules.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "9c70d56e59f1d90a.html.gz",
+      "source_file": "5c07fd4d0460127c.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Online Physics Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:08+00:00",
+      "extracted_at": "2026-07-26T12:48:08+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://opho.physoly.org/",
-      "retrieved_at": "2026-07-14T10:01:08+00:00",
+      "retrieved_at": "2026-07-26T12:48:08+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/9c70d56e59f1d90a.html.gz",
-      "content_hash": "9c70d56e59f1d90aa2f5718f3fd1b1f83b73d93625121f1e21d220a017fd2da6"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Online Physics Olympiad",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-online-physics-olympiad]"
+      "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/5c07fd4d0460127c.html.gz",
+      "content_hash": "5c07fd4d0460127c022d570be08ac4b91eb86dec6b9d1744c90b04e48d24b62f"
     }
   ],
   "schema_version": 1,
@@ -80,7 +68,7 @@
       "url": "https://opho.physoly.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:08+00:00",
+      "retrieved_at": "2026-07-26T12:48:08+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -93,10 +81,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -159,10 +145,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -261,39 +245,6 @@
       "evidence_ids": [
         "mass-contest-online-physics-olympiad-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-online-physics-olympiad-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

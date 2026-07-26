@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-queen-s-commonwealth-writing-competition",
   "canonical_name": "Queen's Commonwealth Writing Competition",
-  "name_zh": "女王英联邦写作竞赛",
+  "name_zh": "",
   "name_en": "Queen's Commonwealth Writing Competition",
   "type": "competition",
   "subject_tags": [
@@ -20,7 +20,7 @@
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "closed",
   "eligibility_text": "Commonwealth nationals and residents aged 18 and under may enter the relevant age category.",
   "eligible_grades": [
     "9",
@@ -36,43 +36,31 @@
   "cost_text": "Free",
   "time_commitment": "medium",
   "description": "International writing competition for young people across the Commonwealth.",
-  "website_url": "https://www.royalcwsociety.org/",
+  "website_url": "https://www.royalcwsociety.org/writing-competition",
   "aliases": [
     "QCWC",
     "Queen's Commonwealth Essay Competition"
   ],
-  "audience_scope": "global_open",
-  "entry_pathway": "Open to citizens of Commonwealth countries; China passport students usually ineligible unless dual/Commonwealth status.",
+  "audience_scope": "regional_open",
+  "entry_pathway": "Direct online entry by eligible Commonwealth nationals or residents.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "ed37b8a44b7813e7.html.gz",
+      "source_file": "c418e90033fb221b.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Queen's Commonwealth Writing Competition",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:22+00:00",
+      "extracted_at": "2026-07-26T12:48:29+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.royalcwsociety.org/writing-competition",
-      "retrieved_at": "2026-07-14T10:01:22+00:00",
+      "retrieved_at": "2026-07-26T12:48:29+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.royalcwsociety.org/ed37b8a44b7813e7.html.gz",
-      "content_hash": "ed37b8a44b7813e788b1525f0d8af975bf8347136e9543ecae11a2219b9ffda8"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Queen's Commonwealth Writing Competition",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-queen-s-commonwealth-writing-competition]"
+      "snapshot_path": "data/snapshots/review-evidence/www.royalcwsociety.org/c418e90033fb221b.html.gz",
+      "content_hash": "c418e90033fb221bc8e5a2488d21d278ef89af23b41ec3560ab84c191c0f1e85"
     }
   ],
   "schema_version": 1,
@@ -82,7 +70,7 @@
       "url": "https://www.royalcwsociety.org/writing-competition",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:22+00:00",
+      "retrieved_at": "2026-07-26T12:48:29+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -95,10 +83,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-queen-s-commonwealth-writing-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -263,39 +249,6 @@
       "evidence_ids": [
         "mass-contest-queen-s-commonwealth-writing-competition-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-queen-s-commonwealth-writing-competition-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-queen-s-commonwealth-writing-competition-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-queen-s-commonwealth-writing-competition-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-queen-s-commonwealth-writing-competition-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

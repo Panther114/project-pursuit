@@ -43,23 +43,23 @@
   "audience_scope": "global_open",
   "entry_pathway": "Direct virtual team registration.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "353b922d9da6e2f9.html.gz",
+      "source_file": "a115de5a5ea48ffd.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "LSE Generate Global Innovation Challenge",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:23+00:00",
+      "extracted_at": "2026-07-26T12:48:18+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.globinnovation.org/howitworks",
-      "retrieved_at": "2026-07-14T10:01:23+00:00",
+      "retrieved_at": "2026-07-26T12:48:18+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.globinnovation.org/353b922d9da6e2f9.html.gz",
-      "content_hash": "353b922d9da6e2f93f3fe9713d339105bec9f1089bde5c001b0454fe8f13fd92"
+      "snapshot_path": "data/snapshots/review-evidence/www.globinnovation.org/a115de5a5ea48ffd.html.gz",
+      "content_hash": "a115de5a5ea48ffd80e683e0ddc909003d49b62dae668b5b6caff476afa5dc41"
     }
   ],
   "schema_version": 1,
@@ -69,7 +69,7 @@
       "url": "https://www.globinnovation.org/howitworks",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:23+00:00",
+      "retrieved_at": "2026-07-26T12:48:18+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

@@ -1,0 +1,10 @@
+{
+  "original_url": "https://eupho.ee/rules/",
+  "final_url": "https://eupho.ee/rules/",
+  "retrieved_at": "2026-07-26T12:47:57+00:00",
+  "content_hash": "d8ee9fdf7435f8dbe8e53b4a6119700339eb37df6f93dd0ec2482495dbbd5394",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/eupho.ee/d8ee9fdf7435f8db.html.gz"
+}

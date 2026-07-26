@@ -1,0 +1,10 @@
+{
+  "original_url": "https://www.hult.edu/hflc/",
+  "final_url": "https://www.hult.edu/hflc/",
+  "retrieved_at": "2026-07-26T12:48:17+00:00",
+  "content_hash": "50e6b2b2f9f405224002fc974e0336f632e586e4129207862475d52243f75354",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/50e6b2b2f9f40522.html.gz"
+}

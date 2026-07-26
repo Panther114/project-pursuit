@@ -42,23 +42,23 @@
   "audience_scope": "international_selection",
   "entry_pathway": "Qualify through the national mathematical olympiad and national team selection process.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "45c481e981f47d39.html.gz",
+      "source_file": "6bb78b909d80eef5.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "International Mathematical Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:15+00:00",
+      "extracted_at": "2026-07-26T12:48:16+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.imo-official.org/",
-      "retrieved_at": "2026-07-14T10:01:15+00:00",
+      "retrieved_at": "2026-07-26T12:48:16+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/45c481e981f47d39.html.gz",
-      "content_hash": "45c481e981f47d39461ac584d2fb4435840dfd7375d6f160649032b41bae91bd"
+      "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/6bb78b909d80eef5.html.gz",
+      "content_hash": "6bb78b909d80eef53577f1a7ea9d4fd87f733f05938b70a82deccfc90beb1159"
     },
     {
       "source_file": "wikipedia_competitions.json",
@@ -66,10 +66,10 @@
       "page_or_sheet": "web research",
       "row_or_text_ref": "International Mathematical Olympiad",
       "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
-      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "extracted_at": "2026-07-26T12:39:17+00:00",
       "source_id": "mass-wikipedia-competitions-1",
       "original_url": "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "retrieved_at": "2026-07-26T12:39:17+00:00",
       "extraction_locator": "mass discovery artifact"
     }
   ],
@@ -80,7 +80,7 @@
       "url": "https://www.imo-official.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:15+00:00",
+      "retrieved_at": "2026-07-26T12:48:16+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     },
@@ -89,7 +89,7 @@
       "url": "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad",
       "publisher": "mass-wikipedia-competitions-1",
       "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "retrieved_at": "2026-07-26T12:39:17+00:00",
       "source_id": "mass-wikipedia-competitions-1",
       "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     }

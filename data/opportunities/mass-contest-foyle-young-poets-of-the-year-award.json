@@ -43,23 +43,23 @@
   "audience_scope": "global_open",
   "entry_pathway": "Direct online poetry submission.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "f3b27ee714f6b7fa.html.gz",
+      "source_file": "5333acb771840be3.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Foyle Young Poets of the Year Award",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:05+00:00",
+      "extracted_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://foyleyoungpoets.org/",
-      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/f3b27ee714f6b7fa.html.gz",
-      "content_hash": "f3b27ee714f6b7fafccd7de993c4f2ad4e722fab7a1a5b1118be2a216876491b"
+      "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/5333acb771840be3.html.gz",
+      "content_hash": "5333acb771840be3c8196e964530f02bd51c193c6856969b87d29d0058571cab"
     }
   ],
   "schema_version": 1,
@@ -69,7 +69,7 @@
       "url": "https://foyleyoungpoets.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

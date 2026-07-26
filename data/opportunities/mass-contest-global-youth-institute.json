@@ -44,23 +44,23 @@
   "audience_scope": "international_selection",
   "entry_pathway": "Research and present a Global Challenge paper through an approved youth institute or participating route.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "d2dec2b363acdd5c.html.gz",
+      "source_file": "f404ce0774599923.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Global Youth Institute",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:23+00:00",
+      "extracted_at": "2026-07-26T12:49:11+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
-      "retrieved_at": "2026-07-14T10:01:23+00:00",
+      "retrieved_at": "2026-07-26T12:49:11+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.worldfoodprize.org/d2dec2b363acdd5c.html.gz",
-      "content_hash": "d2dec2b363acdd5c27edaaf43e001b69f116c4a638eb19f7acc1bd5e8bbbe22a"
+      "snapshot_path": "data/snapshots/review-evidence/www.worldfoodprize.org/f404ce0774599923.html.gz",
+      "content_hash": "f404ce07745999237aa866c5f5bb76d7b94c3bd25b54a0398bcec51e034fed05"
     }
   ],
   "schema_version": 1,
@@ -70,7 +70,7 @@
       "url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:23+00:00",
+      "retrieved_at": "2026-07-26T12:49:11+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

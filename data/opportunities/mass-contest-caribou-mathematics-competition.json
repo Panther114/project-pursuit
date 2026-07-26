@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-caribou-mathematics-competition",
   "canonical_name": "Caribou Mathematics Competition",
-  "name_zh": "驯鹿数学竞赛",
+  "name_zh": "",
   "name_en": "Caribou Mathematics Competition",
   "type": "competition",
   "subject_tags": [
@@ -15,11 +15,11 @@
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Multiple online contest days through the school year",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "rolling",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Students worldwide enter grade-based online mathematics contests, including senior secondary levels.",
   "eligible_grades": [
     "9",
@@ -29,48 +29,37 @@
   ],
   "eligible_ages": null,
   "languages": [
-    "English"
+    "English",
+    "Chinese"
   ],
   "team_mode": "individual",
-  "cost_text": "Paid online registration packages",
-  "time_commitment": "low",
+  "cost_text": "",
+  "time_commitment": "medium",
   "description": "International online mathematics contest series offered in multiple languages and grade levels.",
   "website_url": "https://cariboutests.com/",
   "aliases": [
     "Caribou Contests"
   ],
   "audience_scope": "global_open",
-  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "entry_pathway": "Register through a school coordinator or approved contest location.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "5ee948c6703f3080.html.gz",
+      "source_file": "92a8732e8c8e6fba.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Caribou Mathematics Competition",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:05+00:00",
+      "extracted_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://cariboutests.com/",
-      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/5ee948c6703f3080.html.gz",
-      "content_hash": "5ee948c6703f3080e03289210184168b7ef2464a95f457995284a0cbe49b9cd7"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Caribou Mathematics Competition",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-caribou-mathematics-competition]"
+      "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/92a8732e8c8e6fba.html.gz",
+      "content_hash": "92a8732e8c8e6fbaa273c45af2910cf71638a562f5bf8f8eb80762e7a447d93b"
     }
   ],
   "schema_version": 1,
@@ -80,7 +69,7 @@
       "url": "https://cariboutests.com/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:05+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -93,10 +82,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -159,10 +146,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -243,10 +228,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -261,39 +244,6 @@
       "evidence_ids": [
         "mass-contest-caribou-mathematics-competition-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-caribou-mathematics-competition-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

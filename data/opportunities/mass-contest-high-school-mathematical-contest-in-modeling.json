@@ -1,28 +1,27 @@
 {
   "id": "mass-contest-high-school-mathematical-contest-in-modeling",
   "canonical_name": "High School Mathematical Contest in Modeling",
-  "name_zh": "美国高中生数学建模竞赛（HiMCM）",
+  "name_zh": "",
   "name_en": "High School Mathematical Contest in Modeling",
   "type": "competition",
   "subject_tags": [
     "Mathematics",
-    "Computer Science",
-    "Modeling"
+    "Interdisciplinary"
   ],
   "category": "Mathematical modeling",
   "organizer": "COMAP",
-  "region": "International / China teams",
-  "region_tier": "china_participation_route",
+  "region": "Worldwide",
+  "region_tier": "international_only",
   "country": "",
   "city": "",
   "format": "online",
-  "date_text": "Typically mid-November contest period",
-  "deadline_text": "November contest window registration (annual COMAP schedule)",
+  "date_text": "",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
-  "eligibility_text": "High-school teams; intensive multi-day modeling contest.",
+  "current_cycle_status": "unknown",
+  "eligibility_text": "Teams of up to four secondary-school students worldwide work under a faculty advisor.",
   "eligible_grades": [
     "9",
     "10",
@@ -34,46 +33,33 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "Paid team registration fee (USD; amount on COMAP site)",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "International team mathematical-modeling contest for secondary-school students.",
-  "website_url": "https://www.comap.com/contests/himcm",
+  "website_url": "https://www.comap.com/contests/himcm-midmcm",
   "aliases": [
-    "HiMCM",
-    "High School Mathematical Contest in Modeling (HiMCM)"
+    "HiMCM"
   ],
   "audience_scope": "global_open",
-  "entry_pathway": "Team of up to 4 registers via COMAP; many China teams use school advisors. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator.",
+  "entry_pathway": "A school advisor registers a team of up to four students.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "b020fdc9807f5ab5.html.gz",
+      "source_file": "55aed3e3e9f20c08.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "High School Mathematical Contest in Modeling",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:09+00:00",
+      "extracted_at": "2026-07-26T12:48:11+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.comap.com/contests/himcm-midmcm",
-      "retrieved_at": "2026-07-14T10:01:09+00:00",
+      "retrieved_at": "2026-07-26T12:48:11+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.comap.com/b020fdc9807f5ab5.html.gz",
-      "content_hash": "b020fdc9807f5ab5413235c8cf9157d4135de6666a4d93f1c39ec6fcbec2894c"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "High School Mathematical Contest in Modeling",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-high-school-mathematical-contest-in-modeling]"
+      "snapshot_path": "data/snapshots/review-evidence/www.comap.com/55aed3e3e9f20c08.html.gz",
+      "content_hash": "55aed3e3e9f20c0877ff7bb52c5ca4e74cd04374ae856d56e50dd8217371c89a"
     }
   ],
   "schema_version": 1,
@@ -83,7 +69,7 @@
       "url": "https://www.comap.com/contests/himcm-midmcm",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:09+00:00",
+      "retrieved_at": "2026-07-26T12:48:11+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -96,10 +82,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -158,16 +142,12 @@
       ]
     },
     "date_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -238,10 +218,8 @@
       "evidence_ids": []
     },
     "preparation": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "description": {
       "status": "official",
@@ -250,10 +228,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -268,46 +244,6 @@
       "evidence_ids": [
         "mass-contest-high-school-mathematical-contest-in-modeling-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
-    },
-    "recognition_level": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-high-school-mathematical-contest-in-modeling-e1"
-      ]
     }
-  },
-  "route_type": "china_partner",
-  "difficulty_level": "advanced",
-  "recognition_level": "widely recognized",
-  "preparation": "Math modeling, writing, programming"
+  }
 }

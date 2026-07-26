@@ -42,23 +42,23 @@
   "audience_scope": "international_selection",
   "entry_pathway": "Qualify through a participating country's national biology olympiad and team selection.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "810d3ad13abaf36d.html.gz",
+      "source_file": "3fcbe04a5fddaa5c.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "International Biology Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:12+00:00",
+      "extracted_at": "2026-07-26T12:48:16+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.ibo-info.org/en/",
-      "retrieved_at": "2026-07-14T10:01:12+00:00",
+      "retrieved_at": "2026-07-26T12:48:16+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.ibo-info.org/810d3ad13abaf36d.html.gz",
-      "content_hash": "810d3ad13abaf36dc1241436b93100bca60c5043918032b71f1d0d9103956565"
+      "snapshot_path": "data/snapshots/review-evidence/www.ibo-info.org/3fcbe04a5fddaa5c.html.gz",
+      "content_hash": "3fcbe04a5fddaa5ca5847658131eaf027901cd8195b64c778eed8c2f2c687825"
     }
   ],
   "schema_version": 1,
@@ -68,7 +68,7 @@
       "url": "https://www.ibo-info.org/en/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:12+00:00",
+      "retrieved_at": "2026-07-26T12:48:16+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

@@ -43,22 +43,24 @@
   ],
   "audience_scope": "global_open",
   "entry_pathway": "Direct individual art submission.",
-  "confidence": "partially_verified",
-  "last_verified_at": null,
-  "publication_status": "partially_verified",
-  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-26",
+  "publication_status": "official_verified",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "global_high_school_competitions.json",
-      "source_type": "web_reference",
-      "page_or_sheet": "web research",
+      "source_file": "fd4ff803ad8050ca.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Science Without Borders Challenge",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:29:13+00:00",
+      "extracted_at": "2026-07-26T12:48:18+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
-      "retrieved_at": "2026-07-14T10:29:13+00:00",
-      "extraction_locator": "mass discovery artifact"
+      "retrieved_at": "2026-07-26T12:48:18+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.livingoceansfoundation.org/fd4ff803ad8050ca.html.gz",
+      "content_hash": "fd4ff803ad8050ca023159ef04aa5a101cfffa825a5bd5583bb49347bfacb18a"
     }
   ],
   "schema_version": 1,
@@ -67,15 +69,15 @@
       "evidence_id": "mass-contest-science-without-borders-challenge-e1",
       "url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
       "publisher": "mass-global-high-school-competitions-1",
-      "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-14T10:29:13+00:00",
+      "authority": "official",
+      "retrieved_at": "2026-07-26T12:48:18+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
   ],
   "field_evidence": {
     "canonical_name": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -85,43 +87,43 @@
       "evidence_ids": []
     },
     "name_en": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "organizer": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "type": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "subject_tags": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "category": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "region": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "region_tier": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -135,7 +137,7 @@
       "evidence_ids": []
     },
     "format": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -145,13 +147,13 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "deadline_date": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -165,25 +167,25 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "eligibility_text": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "eligible_grades": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "eligible_ages": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -193,13 +195,13 @@
       "evidence_ids": []
     },
     "languages": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "team_mode": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -209,7 +211,7 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -227,13 +229,13 @@
       "evidence_ids": []
     },
     "description": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
     },
     "cost_text": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]
@@ -247,7 +249,7 @@
       "evidence_ids": []
     },
     "time_commitment": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
         "mass-contest-science-without-borders-challenge-e1"
       ]

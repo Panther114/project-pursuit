@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-sage-world-cup",
   "canonical_name": "SAGE World Cup",
-  "name_zh": "SAGE 世界杯社会创业赛",
+  "name_zh": "",
   "name_en": "SAGE World Cup",
   "type": "competition",
   "subject_tags": [
@@ -14,13 +14,13 @@
   "region_tier": "international_only",
   "country": "",
   "city": "",
-  "format": "hybrid",
+  "format": "in_person",
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Secondary-school social-enterprise teams advance from national events to the SAGE World Cup.",
   "eligible_grades": [
     "9",
@@ -33,45 +33,33 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "Program dependent",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "International final for secondary-school social entrepreneurship teams.",
   "website_url": "https://www.sageglobal.org/",
   "aliases": [
     "SAGE Global Competition"
   ],
-  "audience_scope": "global_open",
-  "entry_pathway": "National SAGE programs feed world cup.",
+  "audience_scope": "international_selection",
+  "entry_pathway": "Advance through a participating national or regional SAGE competition.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "26b17780524fb563.html.gz",
+      "source_file": "a398b9283f891dec.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "SAGE World Cup",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:28+00:00",
+      "extracted_at": "2026-07-26T12:48:30+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.sageglobal.org/",
-      "retrieved_at": "2026-07-14T10:01:28+00:00",
+      "retrieved_at": "2026-07-26T12:48:30+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.sageglobal.org/26b17780524fb563.html.gz",
-      "content_hash": "26b17780524fb563ef7656e7d6dc6b7a6c7bd509139f956e4fc7ee8a40fe3c1e"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "SAGE World Cup",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-sage-world-cup]"
+      "snapshot_path": "data/snapshots/review-evidence/www.sageglobal.org/a398b9283f891dec.html.gz",
+      "content_hash": "a398b9283f891dec8620b1f59448dba1d306d3f12eab1746b49e85e2ef104cd2"
     }
   ],
   "schema_version": 1,
@@ -81,7 +69,7 @@
       "url": "https://www.sageglobal.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:28+00:00",
+      "retrieved_at": "2026-07-26T12:48:30+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -94,10 +82,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -242,10 +228,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -260,39 +244,6 @@
       "evidence_ids": [
         "mass-contest-sage-world-cup-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-sage-world-cup-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

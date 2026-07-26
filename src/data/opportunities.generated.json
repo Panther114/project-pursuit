@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:47:45+00:00",
+  "generated_at": "2026-07-26T12:53:30+00:00",
   "source_scope": "offline_files_and_official_web_snapshots_plus_curated_enrichment",
   "records": [
     {
@@ -1231,7 +1231,7 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Register or qualify through the participating country's APMO coordinator.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
@@ -1242,7 +1242,7 @@
           "row_or_text_ref": "Asian Pacific Mathematics Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.apmo-official.org/",
-          "retrieved_at": "2026-07-14T10:01:08+00:00"
+          "retrieved_at": "2026-07-26T12:48:06+00:00"
         }
       ]
     },
@@ -1520,7 +1520,7 @@
       "audience_scope": "global_open",
       "entry_pathway": "National Bebras organizer / school; China hosts vary by year.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
@@ -1531,7 +1531,7 @@
           "row_or_text_ref": "Bebras International Challenge on Informatics and Computational Thinking",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.bebras.org/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:08+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -1779,18 +1779,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "55bd73445e80e4f1.html.gz",
+          "source_file": "2204530cf66f0e78.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Blue Ocean Student Entrepreneur Competition",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://blueoceancompetition.org/",
-          "retrieved_at": "2026-07-14T10:01:05+00:00"
+          "retrieved_at": "2026-07-26T12:47:59+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -2309,18 +2309,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "5ec0bd4702663861.html.gz",
+          "source_file": "8e8d46bfb47c5c7c.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Breakthrough Junior Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://breakthroughjuniorchallenge.org/rules",
-          "retrieved_at": "2026-07-14T10:01:04+00:00"
+          "retrieved_at": "2026-07-26T12:47:58+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -2331,6 +2331,56 @@
         }
       ],
       "route_type": "official"
+    },
+    {
+      "id": "mass-contest-brics-international-olympiad-in-mathematics",
+      "canonical_name": "BRICS+ International Olympiad in Mathematics",
+      "name_zh": "",
+      "name_en": "BRICS+ International Olympiad in Mathematics",
+      "type": "competition",
+      "subject_tags": [
+        "Mathematics"
+      ],
+      "category": "Mathematics competitions",
+      "organizer": "",
+      "region": "International",
+      "region_tier": "international_only",
+      "country": "",
+      "city": "",
+      "format": "unknown",
+      "date_text": "",
+      "deadline_text": "",
+      "deadline_date": null,
+      "start_date": null,
+      "end_date": null,
+      "current_cycle_status": "unknown",
+      "eligibility_text": "",
+      "eligible_grades": null,
+      "eligible_ages": null,
+      "languages": null,
+      "team_mode": "unknown",
+      "cost_text": "",
+      "time_commitment": "unknown",
+      "description": "The BRICS+ International Olympiad in Mathematics is an annual international mathematics competition for pre-university students, organized under the framework of the BRICS+ cooperation mechanism. The inaugural edition was held in September 2025 in Kazan, Russia, as part of the First Youth Festival of BRICS Countries.",
+      "website_url": "https://en.wikipedia.org/wiki/BRICS%2B_International_Olympiad_in_Mathematics",
+      "aliases": [],
+      "audience_scope": "unknown",
+      "entry_pathway": "",
+      "confidence": "unverified",
+      "last_verified_at": null,
+      "publication_status": "unverified",
+      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "sources": [
+        {
+          "source_file": "wikipedia_competitions.json",
+          "source_type": "web_reference",
+          "page_or_sheet": "web research",
+          "row_or_text_ref": "BRICS+ International Olympiad in Mathematics",
+          "source_id": "mass-wikipedia-competitions-1",
+          "original_url": "https://en.wikipedia.org/wiki/BRICS%2B_International_Olympiad_in_Mathematics",
+          "retrieved_at": "2026-07-26T12:39:17+00:00"
+        }
+      ]
     },
     {
       "id": "mass-contest-british-biology-olympiad",
@@ -2374,18 +2424,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "China participation often via authorized partners. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "8db283357cbd11e5.html.gz",
+          "source_file": "04b4c08bb348ec92.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "British Biology Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://ukbiologycompetitions.org/british-biology-olympiad/",
-          "retrieved_at": "2026-07-14T10:01:07+00:00"
+          "retrieved_at": "2026-07-26T12:48:06+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -3207,18 +3257,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "5ee948c6703f3080.html.gz",
+          "source_file": "92a8732e8c8e6fba.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Caribou Mathematics Competition",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://cariboutests.com/",
-          "retrieved_at": "2026-07-14T10:01:05+00:00"
+          "retrieved_at": "2026-07-26T12:47:57+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -3856,7 +3906,7 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
@@ -3867,7 +3917,7 @@
           "row_or_text_ref": "ClimateScience Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://climatescience.org/olympiad",
-          "retrieved_at": "2026-07-14T10:01:04+00:00"
+          "retrieved_at": "2026-07-26T12:47:58+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -4474,56 +4524,6 @@
         "cost.text",
         "cost.amount",
         "cost.currency"
-      ]
-    },
-    {
-      "id": "mass-contest-ecowas-peace-pageant",
-      "canonical_name": "ECOWAS Peace Pageant",
-      "name_zh": "",
-      "name_en": "ECOWAS Peace Pageant",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The ECOWAS Peace Pageant is an annual international beauty pageant established in 2008 for promoting peace and the youth agenda of the ECOWAS Commission to the global community. It is open to delegates from the 15 member-states of the Economic Community of West African States (ECOWAS )/Communauté Économique Des États de l'Afrique de l'Ouest/Comunidade Económica dos Estados da África Ocidental (CEDEAO). However, since each country sends two delegates, the pageant membership is 30. The 2012 Ecowas Peace Ambassador is Zirra Banu from Nigeria who was crowned in Port Harcourt on Friday, 14 December 2012. The venue for the pageant is selected by the ECOWAS Peace Pageant organization and the ECOWAS commission based on which country offering optimal support to the organization is chosen. The pageant winner is expected to spend one year to champion the cause for the pageant organisation's official charity, and avail herself for all fund-raising events.",
-      "website_url": "https://en.wikipedia.org/wiki/ECOWAS_Peace_Pageant",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "ECOWAS Peace Pageant",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/ECOWAS_Peace_Pageant",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -5500,69 +5500,19 @@
       ],
       "audience_scope": "international_selection",
       "entry_pathway": "Selection by a participating country's physics-olympiad organization.",
-      "confidence": "partially_verified",
-      "last_verified_at": null,
-      "publication_status": "partially_verified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "confidence": "verified",
+      "last_verified_at": "2026-07-26",
+      "publication_status": "official_verified",
+      "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "global_high_school_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
+          "source_file": "d8ee9fdf7435f8db.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
           "row_or_text_ref": "European Physics Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://eupho.ee/rules/",
-          "retrieved_at": "2026-07-14T10:29:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-evan-o-dorney",
-      "canonical_name": "Evan O'Dorney",
-      "name_zh": "",
-      "name_en": "Evan O'Dorney",
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Evan Michael O'Dorney (born September 16, 1993) is an American mathematician who is a postdoctoral associate at Carnegie Mellon University. His specialization is number theory. As a home-schooled high school student and college student, he won many contests in mathematics and other subjects, including the 2007 Scripps National Spelling Bee, 2011 Intel Science Talent Search, four International Math Olympiad medals, and three Putnam Fellowships. A 2013 report by the National Research Council called him \"as famous for academic excellence as any student can be\".",
-      "website_url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Evan O'Dorney",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Evan_O%27Dorney",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "retrieved_at": "2026-07-26T12:47:57+00:00"
         }
       ]
     },
@@ -5893,78 +5843,86 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Apply through the organization responsible for selecting the participating national team.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "2882b0a4f323c4fe.html.gz",
+          "source_file": "121ecccbb0d80d87.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "FIRST Global Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://first.global/",
-          "retrieved_at": "2026-07-14T10:01:07+00:00"
-        },
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "FIRST Global Challenge",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/FIRST_Global_Challenge",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "retrieved_at": "2026-07-26T12:48:00+00:00"
         }
       ]
     },
     {
       "id": "mass-contest-first-lego-league-challenge",
-      "canonical_name": "FIRST Lego League Challenge",
+      "canonical_name": "FIRST LEGO League Challenge",
       "name_zh": "",
-      "name_en": "FIRST Lego League Challenge",
+      "name_en": "FIRST LEGO League Challenge",
       "type": "competition",
       "subject_tags": [
-        "Engineering",
-        "Robotics"
+        "Robotics",
+        "Engineering"
       ],
-      "category": "Robotics competitions",
-      "organizer": "",
+      "category": "Robotics",
+      "organizer": "FIRST",
       "region": "International",
       "region_tier": "international_only",
       "country": "",
       "city": "",
-      "format": "unknown",
+      "format": "in_person",
       "date_text": "",
       "deadline_text": "",
       "deadline_date": null,
       "start_date": null,
       "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
+      "current_cycle_status": "upcoming",
+      "eligibility_text": "Students ages 9-16, with exact limits varying by country, participate on registered teams; the upper ages overlap secondary and high school internationally.",
+      "eligible_grades": [
+        "9",
+        "10"
+      ],
+      "eligible_ages": "9-16; varies by country",
+      "languages": [
+        "English"
+      ],
+      "team_mode": "team",
       "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The FIRST Lego League Challenge (formerly known as FIRST Lego League) is an international competition organized by FIRST for elementary and middle school students (ages 9–14 in the United States and Canada, 9-15 elsewhere). Each year in August, FIRST Lego League Challenge teams are introduced to a scientific and real-world challenge for teams to focus and research on. The robotics part of the competition involves designing and programming Lego Education robots to complete tasks. The innovation project part of the competition involves the students working out a solution to a problem related to the theme (changes every year). The students first meet for regional, national and international tournaments to compete, share their knowledge, compare ideas, and display their robots. The FIRST Lego League Challenge is a partnership between, FIRST and the Lego Group. It is the third division of FIRST Lego League, following FIRST Lego League Discover for ages 4-6 and FIRST Lego League Explore for ages 6-10. In March 2026, FIRST and LEGO Education announced that the partnership would conclude at the end of the 2026-2027 season.",
-      "website_url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "time_commitment": "high",
+      "description": "Global team robotics challenge with regional tournaments and advancement events for students through age 16.",
+      "website_url": "https://www.firstinspires.org/programs/fll/",
+      "aliases": [
+        "FLL Challenge",
+        "FIRST LEGO League"
+      ],
+      "audience_scope": "regional_open",
+      "entry_pathway": "Join or form a registered team and enter through the FIRST partner serving the participant's country or region.",
+      "confidence": "verified",
+      "last_verified_at": "2026-07-26",
+      "publication_status": "official_verified",
+      "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "FIRST Lego League Challenge",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "source_file": "e9e51a63fd323c81.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
+          "row_or_text_ref": "FIRST LEGO League Challenge",
+          "source_id": "mass-global-high-school-competitions-1",
+          "original_url": "https://www.firstinspires.org/programs/fll/",
+          "retrieved_at": "2026-07-26T12:48:12+00:00"
+        },
+        {
+          "source_file": "9657ff55b525f75d.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
+          "row_or_text_ref": "FIRST LEGO League Challenge",
+          "source_id": "mass-global-high-school-competitions-2",
+          "original_url": "https://www.firstinspires.org/programs/events",
+          "retrieved_at": "2026-07-26T12:48:12+00:00"
         }
       ]
     },
@@ -6013,18 +5971,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Register a FIRST team; China teams exist but require substantial resources.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "0cac943151af2fa9.html.gz",
+          "source_file": "b5a701eeae0a278e.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "FIRST Robotics Competition",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.firstinspires.org/programs/frc/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:13+00:00"
         },
         {
           "source_file": "wikipedia_competitions.json",
@@ -6033,7 +5991,7 @@
           "row_or_text_ref": "FIRST Robotics Competition",
           "source_id": "mass-wikipedia-competitions-1",
           "original_url": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "retrieved_at": "2026-07-26T12:39:17+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -6090,18 +6048,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "School/club team registration with FIRST.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "3b63bba6f4ce4eb6.html.gz",
+          "source_file": "325deb31fa7a11aa.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "FIRST Tech Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.firstinspires.org/programs/ftc/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:14+00:00"
         },
         {
           "source_file": "wikipedia_competitions.json",
@@ -6110,7 +6068,7 @@
           "row_or_text_ref": "FIRST Tech Challenge",
           "source_id": "mass-wikipedia-competitions-1",
           "original_url": "https://en.wikipedia.org/wiki/FIRST_Tech_Challenge",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "retrieved_at": "2026-07-26T12:39:17+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -6121,107 +6079,6 @@
         }
       ],
       "route_type": "school"
-    },
-    {
-      "id": "mass-contest-flanders-mathematics-olympiad",
-      "canonical_name": "Flanders Mathematics Olympiad",
-      "name_zh": "",
-      "name_en": "Flanders Mathematics Olympiad",
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The Flanders Mathematics Olympiad (Dutch: Vlaamse Wiskunde Olympiade; VWO) is a Flemish mathematics competition for students in grades 9 through 12. Two tiers of this competition exist: one for 9th- and 10th-graders (Dutch: Junior Wiskunde Olympiade; JWO), and one for 11th- and 12th-graders. It is a feeder competition for the International Mathematical Olympiad.",
-      "website_url": "https://en.wikipedia.org/wiki/Flanders_Mathematics_Olympiad",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Flanders Mathematics Olympiad",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Flanders_Mathematics_Olympiad",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-for-inspiration-and-recognition-of-science-and-technology",
-      "canonical_name": "For Inspiration and Recognition of Science and Technology",
-      "name_zh": "",
-      "name_en": "For Inspiration and Recognition of Science and Technology",
-      "type": "competition",
-      "subject_tags": [
-        "Engineering",
-        "Robotics"
-      ],
-      "category": "Robotics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "For Inspiration and Recognition of Science and Technology (FIRST) is an international youth organization that operates the FIRST Robotics Competition, FIRST Tech Challenge, FIRST Lego League Challenge, FIRST Lego League Explore, and FIRST Lego League Discover competitions. Founded by Dean Kamen and Woodie Flowers in 1989, its expressed goal is to develop ways to inspire students in engineering and technology fields. Its philosophy is expressed by the organization as Coopertition and Gracious Professionalism. FIRST also operates FIRST Place, a research facility at FIRST headquarters in Manchester, New Hampshire, where it holds educational programs and day camps for students and teachers.",
-      "website_url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "For Inspiration and Recognition of Science and Technology",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/For_Inspiration_and_Recognition_of_Science_and_Technology",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
     },
     {
       "id": "mass-contest-foyle-young-poets-of-the-year-award",
@@ -6268,18 +6125,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online poetry submission.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "f3b27ee714f6b7fa.html.gz",
+          "source_file": "5333acb771840be3.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Foyle Young Poets of the Year Award",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://foyleyoungpoets.org/",
-          "retrieved_at": "2026-07-14T10:01:05+00:00"
+          "retrieved_at": "2026-07-26T12:47:57+00:00"
         }
       ]
     },
@@ -6359,56 +6216,6 @@
         "cost.text",
         "cost.amount",
         "cost.currency"
-      ]
-    },
-    {
-      "id": "mass-contest-gabriel-carroll",
-      "canonical_name": "Gabriel Carroll",
-      "name_zh": "",
-      "name_en": "Gabriel Carroll",
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Gabriel Drew Carroll (born December 24, 1982) is a professor of economics at the University of Toronto. He was born to tech industry worker parents in Oakland. He graduated from Harvard University with B.A. in mathematics and linguistics in 2005 and received his doctorate in economics from MIT in 2012. He was recognized as a child prodigy and received numerous awards in mathematics while a student. Carroll won two gold medals (1998, 2001) and a silver medal (1999) at the International Mathematical Olympiad (IMO), earning a perfect score at the 2001 International Mathematical Olympiad held in Washington, D.C., shared only with American teammate Reid W. Barton and Chinese teammates Liang Xiao and Zhiqiang Zhang. Gabriel earned a place among the top five ranked competitors (who are themselves not ranked against each other) in the William Lowell Putnam Competition all four years that he was eligible (2000–2003), a feat matched by only eight others—Don Coppersmith (1968–1971), Arthur Rubin (1970–1973), Bjorn Poonen (1985–1988), Ravi Vakil (1988–1991), Reid W. Barton (2001–2004), Daniel Kane (2003–2006), Brian R. Lawrence (2007, 2008, 2010, 2011), and Luke Robitaille (2022–2025). His top",
-      "website_url": "https://en.wikipedia.org/wiki/Gabriel_Carroll",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Gabriel Carroll",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Gabriel_Carroll",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -6566,18 +6373,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Research and present a Global Challenge paper through an approved youth institute or participating route.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "d2dec2b363acdd5c.html.gz",
+          "source_file": "f404ce0774599923.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Global Youth Institute",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
-          "retrieved_at": "2026-07-14T10:01:23+00:00"
+          "retrieved_at": "2026-07-26T12:49:11+00:00"
         }
       ]
     },
@@ -6809,19 +6616,19 @@
       ],
       "audience_scope": "global_open",
       "entry_pathway": "Direct online essay submission.",
-      "confidence": "partially_verified",
-      "last_verified_at": null,
-      "publication_status": "partially_verified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "confidence": "verified",
+      "last_verified_at": "2026-07-26",
+      "publication_status": "official_verified",
+      "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "global_high_school_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
+          "source_file": "601dbca19b0a234c.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Harvard International Review Academic Writing Contest",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://hir.harvard.edu/contest/",
-          "retrieved_at": "2026-07-14T10:29:13+00:00"
+          "retrieved_at": "2026-07-26T12:47:58+00:00"
         }
       ]
     },
@@ -6921,57 +6728,6 @@
       "recognition_level": "highly selective"
     },
     {
-      "id": "mass-contest-heart-of-europe-debating-tournament",
-      "canonical_name": "Heart of Europe Debating Tournament",
-      "name_zh": "",
-      "name_en": "Heart of Europe Debating Tournament",
-      "type": "competition",
-      "subject_tags": [
-        "Public Speaking",
-        "Social Science"
-      ],
-      "category": "Debating competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The Heart of Europe International Debating Tournament (HOE DT) is an annual debating tournament for high school-level teams which is held in English.",
-      "website_url": "https://en.wikipedia.org/wiki/Heart_of_Europe_Debating_Tournament",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Heart of Europe Debating Tournament",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Heart_of_Europe_Debating_Tournament",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "mass-contest-high-school-mathematical-contest-in-modeling",
       "canonical_name": "High School Mathematical Contest in Modeling",
       "name_zh": "美国高中生数学建模竞赛（HiMCM）",
@@ -7018,18 +6774,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Team of up to 4 registers via COMAP; many China teams use school advisors. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "b020fdc9807f5ab5.html.gz",
+          "source_file": "55aed3e3e9f20c08.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "High School Mathematical Contest in Modeling",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.comap.com/contests/himcm-midmcm",
-          "retrieved_at": "2026-07-14T10:01:09+00:00"
+          "retrieved_at": "2026-07-26T12:48:11+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -7704,18 +7460,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "High-school teams register online through their school.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "2b63dfc249add658.html.gz",
+          "source_file": "50e6b2b2f9f40522.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Hult Future Leaders Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.hult.edu/hflc/",
-          "retrieved_at": "2026-07-14T10:01:14+00:00"
+          "retrieved_at": "2026-07-26T12:48:17+00:00"
         }
       ]
     },
@@ -8142,18 +7898,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify through a participating country's national biology olympiad and team selection.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "810d3ad13abaf36d.html.gz",
+          "source_file": "3fcbe04a5fddaa5c.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Biology Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.ibo-info.org/en/",
-          "retrieved_at": "2026-07-14T10:01:12+00:00"
+          "retrieved_at": "2026-07-26T12:48:16+00:00"
         }
       ]
     },
@@ -8352,18 +8108,18 @@
       "audience_scope": "regional_open",
       "entry_pathway": "Enter through a participating school or regional coordinator.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "3f3e4712570132f3.html.gz",
+          "source_file": "2b9c02bea3245c58.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Chemistry Quiz",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
-          "retrieved_at": "2026-07-14T10:01:13+00:00"
+          "retrieved_at": "2026-07-26T12:48:24+00:00"
         }
       ]
     },
@@ -8489,18 +8245,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify through the national Earth-science selection organization for a participating country.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "455307c2b8ac70c3.html.gz",
+          "source_file": "e60885c706a02c03.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Earth Science Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.ieso-info.org/",
-          "retrieved_at": "2026-07-14T10:01:12+00:00"
+          "retrieved_at": "2026-07-26T12:48:16+00:00"
         }
       ]
     },
@@ -8863,18 +8619,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify through an approved International Academic Competitions event or qualifying exam.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "34756eb0b6e3b679.html.gz",
+          "source_file": "92eff65b9dd7d438.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International History Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.historyolympiad.com/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:14+00:00"
         }
       ]
     },
@@ -8923,18 +8679,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Entry via national selection / national olympiad pathway; not open direct individual entry for most students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "f604426d6c3da3ad.html.gz",
+          "source_file": "50a36d56a294c5d6.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Junior Science Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://ijso-official.org/",
-          "retrieved_at": "2026-07-14T10:01:18+00:00"
+          "retrieved_at": "2026-07-26T12:48:25+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -9200,18 +8956,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify through the national mathematical olympiad and national team selection process.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "45c481e981f47d39.html.gz",
+          "source_file": "6bb78b909d80eef5.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Mathematical Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.imo-official.org/",
-          "retrieved_at": "2026-07-14T10:01:15+00:00"
+          "retrieved_at": "2026-07-26T12:48:16+00:00"
         },
         {
           "source_file": "wikipedia_competitions.json",
@@ -9220,7 +8976,7 @@
           "row_or_text_ref": "International Mathematical Olympiad",
           "source_id": "mass-wikipedia-competitions-1",
           "original_url": "https://en.wikipedia.org/wiki/International_Mathematical_Olympiad",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
+          "retrieved_at": "2026-07-26T12:39:17+00:00"
         }
       ]
     },
@@ -9267,19 +9023,19 @@
       ],
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify through an accredited national selection organization.",
-      "confidence": "partially_verified",
-      "last_verified_at": null,
-      "publication_status": "partially_verified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "confidence": "verified",
+      "last_verified_at": "2026-07-26",
+      "publication_status": "official_verified",
+      "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "global_high_school_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
+          "source_file": "16310f11f833cd73.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
           "row_or_text_ref": "International Olympiad in Artificial Intelligence",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://ioai-official.org/about/",
-          "retrieved_at": "2026-07-14T10:29:13+00:00"
+          "retrieved_at": "2026-07-26T12:48:05+00:00"
         }
       ]
     },
@@ -9532,6 +9288,15 @@
           "page_or_sheet": "records",
           "row_or_text_ref": "International Philosophy Olympiad",
           "source_id": "competition-enrichment-v1"
+        },
+        {
+          "source_file": "8ee9bbafa64d879d.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
+          "row_or_text_ref": "International Philosophy Olympiad",
+          "source_id": "mass-global-high-school-competitions-1",
+          "original_url": "https://www.philosophy-olympiad.org/?page_id=1706",
+          "retrieved_at": "2026-07-26T12:48:22+00:00"
         }
       ],
       "eligible_curricula": [],
@@ -9714,56 +9479,6 @@
         "cost.text",
         "cost.amount",
         "cost.currency"
-      ]
-    },
-    {
-      "id": "mass-contest-international-science-and-engineering-fair",
-      "canonical_name": "International Science and Engineering Fair",
-      "name_zh": "",
-      "name_en": "International Science and Engineering Fair",
-      "type": "competition",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The Regeneron International Science and Engineering Fair (ISEF) is an annual science fair held in the United States. It is widely regarded as the most prestigious pre-university scientific and engineering research competition in the world. It is owned and administered by the Society for Science, a 501(c)(3) non-profit organization based in Washington, D.C. Each year, an estimated 7 million students from 75 countries participate in affiliated local, regional, and national science fairs that serve as feeders to ISEF, with roughly 1,800 finalists (about 0.03%) advancing to the international competition. Each May, finalists compete in the fair for scholarships, tuition grants, internships, scientific field trips and the grand prizes, including one $100,000 and two $75,000 college scholarships. All prizes together amount to over $9,000,000. Two major awards ceremonies are the Special Awards Organization Presentation and the Grand Awards Ceremony.",
-      "website_url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "International Science and Engineering Fair",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -10252,7 +9967,7 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online qualification-round submission.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
@@ -10263,7 +9978,7 @@
           "row_or_text_ref": "International Youth Math Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.iymc.info/en/language",
-          "retrieved_at": "2026-07-14T10:01:12+00:00"
+          "retrieved_at": "2026-07-26T12:48:21+00:00"
         }
       ]
     },
@@ -11045,56 +10760,6 @@
       "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
     },
     {
-      "id": "mass-contest-let-the-peoples-sing-2024",
-      "canonical_name": "Let the Peoples Sing 2024",
-      "name_zh": "",
-      "name_en": "Let the Peoples Sing 2024",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Let the Peoples Sing 2024 was the 47th edition of the international choral competition Let the Peoples Sing. It was organised by the European Broadcasting Union (EBU), with the British Broadcasting Corporation (BBC) as host broadcaster. For the first time in the contest, the finalists competed live from their own countries, with the performances assessed by an eight-member jury voting from the BBC in London. This was the first time since 2003 that the city of London hosted the contest, having done so for the inaugural contest in 1961 until 1982, and once again in 2001 and 2003. The final was presented by Ian Skelly and Suzi Digby. Eight choirs from seven countries participated, with Finland being the only country who competed in both adult's and children/youth's categories. The winner was Copenhagen Girls' Choir from Denmark. The adult category was won by Hägersten A Cappella from Sweden and the inaugural Youth Jury prize was won by Incantanti from Switzerland.",
-      "website_url": "https://en.wikipedia.org/wiki/Let_the_Peoples_Sing_2024",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Let the Peoples Sing 2024",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Let_the_Peoples_Sing_2024",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "mass-contest-libf-student-investor-challenge",
       "canonical_name": "LIBF Student Investor Challenge",
       "name_zh": "",
@@ -11181,57 +10846,6 @@
         "cost.text",
         "cost.amount",
         "cost.currency"
-      ]
-    },
-    {
-      "id": "mass-contest-livingston-robotics-club",
-      "canonical_name": "Livingston Robotics Club",
-      "name_zh": "",
-      "name_en": "Livingston Robotics Club",
-      "type": "competition",
-      "subject_tags": [
-        "Engineering",
-        "Robotics"
-      ],
-      "category": "Robotics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Livingston Robotics Club (LRC) is a robotics club in Livingston, New Jersey, US, that provides a community network to introduce Livingston area youth to robotics design and real-life science research, consistent with the concept of FIRST (For Inspiration and Recognition of Science and Technology). LRC member teams have won state, national, and international FIRST LEGO League (FLL) competitions.",
-      "website_url": "https://en.wikipedia.org/wiki/Livingston_Robotics_Club",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Livingston Robotics Club",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Livingston_Robotics_Club",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -11371,18 +10985,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct virtual team registration.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "353b922d9da6e2f9.html.gz",
+          "source_file": "a115de5a5ea48ffd.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "LSE Generate Global Innovation Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.globinnovation.org/howitworks",
-          "retrieved_at": "2026-07-14T10:01:23+00:00"
+          "retrieved_at": "2026-07-26T12:48:18+00:00"
         }
       ]
     },
@@ -11466,56 +11080,6 @@
         "awards_and_recognition",
         "china_participation_route",
         "evidence"
-      ]
-    },
-    {
-      "id": "mass-contest-magic-circus-show",
-      "canonical_name": "Magic Circus Show",
-      "name_zh": "",
-      "name_en": "Magic Circus Show",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "The Magic Circus Show was an entertainment show organised by the European Broadcasting Union (EBU) and host broadcaster Radio Télévision Suisse (RTS), which aired in 2010, 2011 and 2012. Children aged between seven and fourteen representing eight countries within the EBU membership area, performed a variety of circus acts at the Geneva Christmas Circus (French: Cirque de Noël Genève). The main show was also accompanied by the Magic Circus Show Orchestra. The programme was recorded at the end of November each year in the tent of Circus Pajazzo in Chêne-Bougeries, a town just outside Geneva in Switzerland.",
-      "website_url": "https://en.wikipedia.org/wiki/Magic_Circus_Show",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Magic Circus Show",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Magic_Circus_Show",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -12498,56 +12062,6 @@
       ]
     },
     {
-      "id": "mass-contest-mihai-p-tra-cu-computer-scientist",
-      "canonical_name": "Mihai Pătrașcu (computer scientist)",
-      "name_zh": "",
-      "name_en": "Mihai Pătrașcu (computer scientist)",
-      "type": "competition",
-      "subject_tags": [
-        "Computer Science"
-      ],
-      "category": "Programming contests",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Mihai Pătrașcu (17 July 1982 – 5 June 2012) was a Romanian-American computer scientist at AT&T Labs in Florham Park, New Jersey, United States. Pătrașcu attended Carol I National College in Craiova. As a high school student, he won 2 gold medals and 1 silver medal at the International Olympiad in Informatics. After attending for one year the University of Craiova, he completed his undergraduate and graduate studies in Computer Science at Massachusetts Institute of Technology. Under the supervision of Erik Demaine, he defended his MS and PhD theses in 2007 and 2008 respectively. Pătrașcu’s work was concerned with fundamental questions about basic data structures. He received the Machtey Award for the best student paper at the Symposium on Foundations of Computer Science in 2008, and the Presburger Award from the European Association for Theoretical Computer Science in 2012, for breaking \"many old barriers on fundamental data structure problems, not only revitalizing but also revolutionizing a field that was almost silent for over a decade.\" Mihai Pătrașcu died in 2012 at the age of 29 after suffering from brain cancer for a year and a half, and was buried in his native city, Craiov",
-      "website_url": "https://en.wikipedia.org/wiki/Mihai_P%C4%83tra%C8%99cu_(computer_scientist)",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Mihai Pătrașcu (computer scientist)",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Mihai_P%C4%83tra%C8%99cu_(computer_scientist)",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "listing-contest-milset-steam-photo-contest",
       "canonical_name": "MILSET STEAM Photo Contest",
       "name_en": "MILSET STEAM Photo Contest",
@@ -12858,406 +12372,6 @@
       "audience_scope": "global_open",
       "route_type": "china_partner",
       "entry_pathway": "Online essay submission. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
-    },
-    {
-      "id": "mass-contest-miss-am-rica-latina",
-      "canonical_name": "Miss América Latina",
-      "name_zh": "",
-      "name_en": "Miss América Latina",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss América Latina or Miss América Latina del Mundo, known in English as Miss Latin America or Miss Latin America of the World, is an international beauty contest held annually. It is organized by the Miss América Latina Organization. Despite its name, the contest is not restricted to only Latin American nations. It is designed for women of Latina descent around the globe. There is an average of about 20 contestants every year. It has two sister pageants: Miss Latina US (which selects the US delegate to Miss América Latina) and Miss Teen US Latina. The current titleholder is Massiel Chupani from the Dominican Republic.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Am%C3%A9rica_Latina",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss América Latina",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Am%C3%A9rica_Latina",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-africa",
-      "canonical_name": "Miss Teen Africa",
-      "name_zh": "",
-      "name_en": "Miss Teen Africa",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen Africa is an annual international beauty and cultural pageant for young women aged 14 to 19 of African origin. Established in the United Kingdom, the pageant was created to provide a platform for African teenagers in the diaspora to celebrate and promote African culture, identity, and youth empowerment. It is regarded as one of the first pageant platforms of its kind dedicated specifically to African teens in the UK diaspora. In 2018, the organisation entered a two year developmental hiatus to establish an international franchise structure. This expansion model enabled participating countries outside the United Kingdom to organise national competitions and select official delegates. By 2020, the Miss Teen Africa franchise had expanded to more than 15 African countries, including Botswana, Zambia, and South Africa. In the 2025 edition, the pageant introduced the PreTeen Africa category for the first time, broadening its platform to include younger participants. Moso Ditirwa of Botswana became the inaugural PreTeen Africa titleholder. The same year, Leyla Shongwe won Miss Teen Africa 2025 in South Africa.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Africa",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen Africa",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_Africa",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-earth",
-      "canonical_name": "Miss Teen Earth",
-      "name_zh": "",
-      "name_en": "Miss Teen Earth",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen Earth is an annual international teen beauty pageant. The current Miss Teen Earth is Gabriela Pinheiro of Brazil who was crowned on November 30, 2025 in Chiclayo, Peru. Her title marked the first back-to-back victory in Miss Teen Earth history.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Earth",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen Earth",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_Earth",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-international-americas",
-      "canonical_name": "Miss Teen International (Americas)",
-      "name_zh": "",
-      "name_en": "Miss Teen International (Americas)",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen International is an international beauty pageant for girls aged 15–19 years of all nationalities, operated by Ecuadorian businessman Rodrigo Moreira, owner of all intellectual property rights in Brazil, Chile, Costa Rica, Dominican Republic, El Salvador, Ecuador, Mexico and Panama. The reigning Miss Teen International is Saskia Lincoln of the United Kingdom, who was crowned on November 30, 2025, in Chiclayo, Peru.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(Americas)",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen International (Americas)",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(Americas)",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-international-india",
-      "canonical_name": "Miss Teen International (India)",
-      "name_zh": "",
-      "name_en": "Miss Teen International (India)",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen International is an annual beauty pageant for girls aged 14 to 19 from various countries. The event is organized by the Glamanand Group, a company led by Indian businessman Nikhil Anand. In August 2025, the pageant took place in Jaipur, India, where Lorena Ruiz from Spain was crowned Miss Teen International 2025.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(India)",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen International (India)",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_International_(India)",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-supranational",
-      "canonical_name": "Miss Teen Supranational",
-      "name_zh": "",
-      "name_en": "Miss Teen Supranational",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen Supranational is an international teen beauty contest. The current Miss Teen Supranational is Maria Eduarda Targa of Brazil who was crowned on November 30, 2025, in Chiclayo, Peru.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_Supranational",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen Supranational",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_Supranational",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teen-world",
-      "canonical_name": "Miss Teen World",
-      "name_zh": "",
-      "name_en": "Miss Teen World",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teen World is a global beauty pageant for teenagers, based in Guayaquil, Ecuador. That was established in 2001 by Cesar Montece, its founder, and is currently operated by Rodrigo Moreira, who owns all intellectual property rights. The current Miss Teen World is Sheccid López of Mexico who was crowned on November 30, 2025 in Chiclayo, Peru.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teen_World",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teen World",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teen_World",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-contest-miss-teenager-world",
-      "canonical_name": "Miss Teenager World",
-      "name_zh": "",
-      "name_en": "Miss Teenager World",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Miss Teenager World is the oldest international teen beauty pageant, founded in Guayaquil, Ecuador. The pageant is only open to teenage girls and women who have never been married or given birth. The current Miss Teenager World is Sahara Ledesma of Colombia who was crowned on November 30, 2025 in Chiclayo, Peru.",
-      "website_url": "https://en.wikipedia.org/wiki/Miss_Teenager_World",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Miss Teenager World",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Miss_Teenager_World",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
     },
     {
       "id": "mass-contest-nasa-human-exploration-rover-challenge",
@@ -14878,18 +13992,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online individual or group submission.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "405e64f44661f578.html.gz",
+          "source_file": "54b5fb097cba8fcf.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Ocean Awareness Contest",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
-          "retrieved_at": "2026-07-14T10:01:04+00:00"
+          "retrieved_at": "2026-07-26T12:47:57+00:00"
         }
       ]
     },
@@ -15103,18 +14217,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "9c70d56e59f1d90a.html.gz",
+          "source_file": "5c07fd4d0460127c.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Online Physics Olympiad",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://opho.physoly.org/",
-          "retrieved_at": "2026-07-14T10:01:08+00:00"
+          "retrieved_at": "2026-07-26T12:48:08+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -15435,18 +14549,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "7cc53a75743f95cd.html.gz",
+          "source_file": "96033c895256170a.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Physics Brawl Online",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://physicsbrawl.org/",
-          "retrieved_at": "2026-07-14T10:01:09+00:00"
+          "retrieved_at": "2026-07-26T12:48:05+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -15650,7 +14764,7 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
@@ -15661,7 +14775,7 @@
           "row_or_text_ref": "Purple Comet! Math Meet",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://purplecomet.org/",
-          "retrieved_at": "2026-07-14T10:01:07+00:00"
+          "retrieved_at": "2026-07-26T12:48:02+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -15719,18 +14833,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Open to citizens of Commonwealth countries; China passport students usually ineligible unless dual/Commonwealth status.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "ed37b8a44b7813e7.html.gz",
+          "source_file": "c418e90033fb221b.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Queen's Commonwealth Writing Competition",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.royalcwsociety.org/writing-competition",
-          "retrieved_at": "2026-07-14T10:01:22+00:00"
+          "retrieved_at": "2026-07-26T12:48:29+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -16748,18 +15862,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "National SAGE programs feed world cup.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "26b17780524fb563.html.gz",
+          "source_file": "a398b9283f891dec.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "SAGE World Cup",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.sageglobal.org/",
-          "retrieved_at": "2026-07-14T10:01:28+00:00"
+          "retrieved_at": "2026-07-26T12:48:30+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -17140,19 +16254,19 @@
       ],
       "audience_scope": "global_open",
       "entry_pathway": "Direct individual art submission.",
-      "confidence": "partially_verified",
-      "last_verified_at": null,
-      "publication_status": "partially_verified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+      "confidence": "verified",
+      "last_verified_at": "2026-07-26",
+      "publication_status": "official_verified",
+      "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "global_high_school_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
+          "source_file": "fd4ff803ad8050ca.html.gz",
+          "source_type": "web_snapshot",
+          "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Science Without Borders Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
-          "retrieved_at": "2026-07-14T10:29:13+00:00"
+          "retrieved_at": "2026-07-26T12:48:18+00:00"
         }
       ]
     },
@@ -17505,56 +16619,6 @@
       "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
     },
     {
-      "id": "mass-contest-stock-market-learning",
-      "canonical_name": "Stock Market Learning",
-      "name_zh": "",
-      "name_en": "Stock Market Learning",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Stock Market Learning is an international competition run by the Savings Banks in Europe with the support of the European Savings Banks Group (ESBG) based in Brussels. It aims to provide pupils a better understanding of the stock market and of the economic and financial world by simulating transactions in stock exchanges. The competition was held for the first time in Germany in 1983, while the Savings Banks in Europe became actively involved in 1999. By 2010, over 1 million teams had taken part in the initiative.",
-      "website_url": "https://en.wikipedia.org/wiki/Stock_Market_Learning",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Stock Market Learning",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Stock_Market_Learning",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "mass-contest-stockholm-junior-water-prize",
       "canonical_name": "Stockholm Junior Water Prize",
       "name_zh": "斯德哥尔摩青少年水奖",
@@ -17599,18 +16663,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "National junior water prize competitions feed international final.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "e7b9be8e09249e4a.html.gz",
+          "source_file": "2eb9358ead5ff314.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Stockholm Junior Water Prize",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:11+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -18221,18 +17285,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "4543bb5082751ea2.html.gz",
+          "source_file": "6ee7b770881c7e58.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "The Earth Prize",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.theearthprize.org/",
-          "retrieved_at": "2026-07-14T10:01:22+00:00"
+          "retrieved_at": "2026-07-26T12:49:10+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -19321,56 +18385,6 @@
       "entry_pathway": "Team registration; active China events. Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
     },
     {
-      "id": "mass-contest-wei-hwa-huang",
-      "canonical_name": "Wei-Hwa Huang",
-      "name_zh": "",
-      "name_en": "Wei-Hwa Huang",
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Wei-Hwa Huang (born August 4, 1975 in Eugene, Oregon) is an American puzzler, member of the US Team for the World Puzzle Championship, and game designer. Huang was a member of the United States International Math Olympiad team in 1992 and 1993, where he was awarded a Silver Medal both years. He was a Putnam Fellow in 1993. Huang has won the annual World Puzzle Championship on four occasions: 1995 and 1997–1999. He also won the 2008 Sudoku National Championship. With team Left Out, he won the 2019 MIT Mystery Hunt. With Tom Lehmann, Huang designed the board game Roll for the Galaxy released in 2014 by Rio Grande Games. Roll for the Galaxy is a dice-based adaption of the award-winning card game Race for the Galaxy with deck-building mechanics. Huang and Lehmann also designed Roll for the Galaxy: Ambition, an expansion released in 2015. Roll for the Galaxy was nominated for three Golden Geek Awards and an International Gamers Award. Huang graduated from Montgomery Blair High School and the California Institute of Technology and was an employee at Google until July 2008. One of his most famous projects was the Da Vinci Code Quest on Google, which was a set of 24 puzzles launched on A",
-      "website_url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Wei-Hwa Huang",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Wei-Hwa_Huang",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "mass-contest-wharton-global-high-school-investment-competition",
       "canonical_name": "Wharton Global High School Investment Competition",
       "name_zh": "沃顿全球高中生投资竞赛",
@@ -19416,18 +18430,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Direct online registration through the official organizer when open to international students.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "f76b312def5caea4.html.gz",
+          "source_file": "47cf9d8c79ebb120.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Wharton Global High School Investment Competition",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
-          "retrieved_at": "2026-07-14T10:01:07+00:00"
+          "retrieved_at": "2026-07-26T12:48:00+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -19649,18 +18663,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "National/selection teams and qualified speakers.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
       "sources": [
         {
-          "source_file": "115646f2cd872036.html.gz",
+          "source_file": "e90ddceadd6710e6.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "World Individual Debating and Public Speaking Championships",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://widpsc2027.org/",
-          "retrieved_at": "2026-07-14T10:01:09+00:00"
+          "retrieved_at": "2026-07-26T12:48:05+00:00"
         },
         {
           "source_file": "competition_enrichment.json",
@@ -19997,18 +19011,18 @@
       "audience_scope": "international_selection",
       "entry_pathway": "Qualify or apply through the organization selecting the national schools debating team.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "3ac5a25c27c6e7ce.html.gz",
+          "source_file": "4e081c8d0358ec64.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "World Schools Debating Championships",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://schoolsdebate.com/",
-          "retrieved_at": "2026-07-14T10:01:10+00:00"
+          "retrieved_at": "2026-07-26T12:48:03+00:00"
         }
       ]
     },
@@ -20125,56 +19139,6 @@
       "entry_pathway": "Often accessible via school registration or authorized China partners such as ASEEDER where listed; confirm current-year channel with school coordinator."
     },
     {
-      "id": "mass-contest-worldskills",
-      "canonical_name": "WorldSkills",
-      "name_zh": "",
-      "name_en": "WorldSkills",
-      "type": "competition",
-      "subject_tags": [
-        "Interdisciplinary"
-      ],
-      "category": "International competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "WorldSkills is an international charity that organises world and national championships for vocational skills and is held every two years in different parts of the world, and also hosts conferences about vocational skills. WorldSkills describes itself as the global hub for skills. The aims of the competitions include demonstrating the advantages of learning a vocational skill, and encouraging 'parity of esteem' between vocational and academic qualifications. WorldSkills International, formerly known as the International Vocational Training Organization (IVTO), was founded in the 1940s with the goal of creating new employment opportunities for young people in some of the economies that were devastated by the Second World War. It operates in 85 countries and regions.",
-      "website_url": "https://en.wikipedia.org/wiki/WorldSkills",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "WorldSkills",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/WorldSkills",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
-      ]
-    },
-    {
       "id": "mass-contest-worldwide-youth-in-science-and-engineering",
       "canonical_name": "Worldwide Youth in Science and Engineering Academic Challenge",
       "name_zh": "",
@@ -20255,56 +19219,6 @@
         "cost.amount",
         "cost.currency",
         "evidence"
-      ]
-    },
-    {
-      "id": "mass-contest-x-y",
-      "canonical_name": "X+Y",
-      "name_zh": "",
-      "name_en": "X+Y",
-      "type": "competition",
-      "subject_tags": [
-        "Mathematics"
-      ],
-      "category": "Mathematics competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "X+Y, released in the US as A Brilliant Young Mind, is a 2014 British drama film directed by Morgan Matthews and starring Asa Butterfield, Rafe Spall, and Sally Hawkins. The film, inspired by the 2007 documentary Beautiful Young Minds, focuses on a teenage English mathematics prodigy named Nathan (Asa Butterfield) who has difficulty understanding people, and is autistic, but finds comfort in numbers. When he is chosen to represent the United Kingdom at the International Mathematical Olympiad (IMO), Nathan embarks on a journey in which he faces unexpected challenges, such as understanding the nature of love. The character of Nathan was based on Daniel Lightwing, who won a silver medal at the 2006 IMO. The film premiered at the Toronto International Film Festival on 5 September 2014. The European premiere was at the BFI London Film Festival on 13 October 2014, and the UK cinema release was on 13 March 2015.",
-      "website_url": "https://en.wikipedia.org/wiki/X%2BY",
-      "aliases": [],
-      "audience_scope": "unknown",
-      "entry_pathway": "",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "X+Y",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/X%2BY",
-          "retrieved_at": "2026-07-14T11:52:13+00:00"
-        }
       ]
     },
     {
@@ -26122,18 +25036,18 @@
       "audience_scope": "global_open",
       "entry_pathway": "Apply to The Junior Academy, then join an international team responding to an annual challenge.",
       "confidence": "verified",
-      "last_verified_at": "2026-07-14",
+      "last_verified_at": "2026-07-26",
       "publication_status": "official_verified",
       "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
       "sources": [
         {
-          "source_file": "337e2466136e877d.html.gz",
+          "source_file": "90d0fbe597e3cb40.html.gz",
           "source_type": "web_snapshot",
           "page_or_sheet": "official web evidence",
           "row_or_text_ref": "Junior Academy Innovation Challenge",
           "source_id": "mass-global-high-school-competitions-1",
           "original_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
-          "retrieved_at": "2026-07-14T10:01:13+00:00"
+          "retrieved_at": "2026-07-26T12:48:24+00:00"
         }
       ]
     },
@@ -27432,53 +26346,6 @@
           "source_id": "mass-programs-1",
           "original_url": "https://ss.seedasdan.com/en/filter-en/",
           "retrieved_at": "2026-07-14T08:46:27+00:00"
-        }
-      ]
-    },
-    {
-      "id": "mass-program-pennsylvania-junior-academy-of-science",
-      "canonical_name": "Pennsylvania Junior Academy of Science",
-      "name_zh": "",
-      "name_en": "Pennsylvania Junior Academy of Science",
-      "type": "summer_program",
-      "subject_tags": [
-        "Scientific research"
-      ],
-      "category": "Science competitions",
-      "organizer": "",
-      "region": "International",
-      "region_tier": "international_only",
-      "country": "",
-      "city": "",
-      "format": "unknown",
-      "date_text": "",
-      "deadline_text": "",
-      "deadline_date": null,
-      "start_date": null,
-      "end_date": null,
-      "current_cycle_status": "unknown",
-      "eligibility_text": "",
-      "eligible_grades": null,
-      "eligible_ages": null,
-      "languages": null,
-      "team_mode": "unknown",
-      "cost_text": "",
-      "time_commitment": "unknown",
-      "description": "Pennsylvania Junior Academy of Science (PJAS) is a statewide nonprofit organization in Pennsylvania founded in 1934 by the Pennsylvania Academy of Science as an affiliate of the American Association for the Advancement of Science (AAAS). Students in grades 7-12 conduct independent scientific research experiments following the scientific method before delivering a presentation detailing their results.",
-      "website_url": "https://en.wikipedia.org/wiki/Pennsylvania_Junior_Academy_of_Science",
-      "confidence": "unverified",
-      "last_verified_at": null,
-      "publication_status": "unverified",
-      "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
-      "sources": [
-        {
-          "source_file": "wikipedia_competitions.json",
-          "source_type": "web_reference",
-          "page_or_sheet": "web research",
-          "row_or_text_ref": "Pennsylvania Junior Academy of Science",
-          "source_id": "mass-wikipedia-competitions-1",
-          "original_url": "https://en.wikipedia.org/wiki/Pennsylvania_Junior_Academy_of_Science",
-          "retrieved_at": "2026-07-11T15:31:04+00:00"
         }
       ]
     },

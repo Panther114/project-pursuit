@@ -1,11 +1,12 @@
 {
   "id": "mass-contest-breakthrough-junior-challenge",
   "canonical_name": "Breakthrough Junior Challenge",
-  "name_zh": "突破少年挑战赛",
+  "name_zh": "",
   "name_en": "Breakthrough Junior Challenge",
   "type": "competition",
   "subject_tags": [
     "Scientific research",
+    "Mathematics",
     "Media"
   ],
   "category": "Science communication",
@@ -16,11 +17,11 @@
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Annual video submission deadline (summer/early autumn typical)",
+  "deadline_text": "September 15, 2026",
   "deadline_date": "2026-09-15",
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "open",
   "eligibility_text": "Individuals ages 13-18 worldwide create a short science or mathematics explainer video.",
   "eligible_grades": [
     "9",
@@ -34,44 +35,32 @@
   ],
   "team_mode": "individual",
   "cost_text": "Free",
-  "time_commitment": "medium",
+  "time_commitment": "high",
   "description": "Global science-communication video challenge for students ages 13-18.",
-  "website_url": "https://breakthroughjuniorchallenge.org/",
+  "website_url": "https://breakthroughjuniorchallenge.org/rules",
   "aliases": [
     "BJC"
   ],
   "audience_scope": "global_open",
-  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "entry_pathway": "Direct online entry by an eligible student.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "5ec0bd4702663861.html.gz",
+      "source_file": "8e8d46bfb47c5c7c.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Breakthrough Junior Challenge",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:04+00:00",
+      "extracted_at": "2026-07-26T12:47:58+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://breakthroughjuniorchallenge.org/rules",
-      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "retrieved_at": "2026-07-26T12:47:58+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/breakthroughjuniorchallenge.org/5ec0bd4702663861.html.gz",
-      "content_hash": "5ec0bd47026638617dde041e54c8c3874badc5224a30e0bde97cf0c0b11fd7b3"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Breakthrough Junior Challenge",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-breakthrough-junior-challenge]"
+      "snapshot_path": "data/snapshots/review-evidence/breakthroughjuniorchallenge.org/8e8d46bfb47c5c7c.html.gz",
+      "content_hash": "8e8d46bfb47c5c7cda4d06cbb52e6db3b7219c16878c759c3bb6bc513d7ddf08"
     }
   ],
   "schema_version": 1,
@@ -81,7 +70,7 @@
       "url": "https://breakthroughjuniorchallenge.org/rules",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "retrieved_at": "2026-07-26T12:47:58+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -94,10 +83,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-breakthrough-junior-challenge-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -266,39 +253,6 @@
       "evidence_ids": [
         "mass-contest-breakthrough-junior-challenge-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-breakthrough-junior-challenge-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-breakthrough-junior-challenge-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-breakthrough-junior-challenge-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-breakthrough-junior-challenge-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

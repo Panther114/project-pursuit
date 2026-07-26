@@ -43,23 +43,23 @@
   "audience_scope": "global_open",
   "entry_pathway": "High-school teams register online through their school.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "2b63dfc249add658.html.gz",
+      "source_file": "50e6b2b2f9f40522.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Hult Future Leaders Challenge",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:14+00:00",
+      "extracted_at": "2026-07-26T12:48:17+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.hult.edu/hflc/",
-      "retrieved_at": "2026-07-14T10:01:14+00:00",
+      "retrieved_at": "2026-07-26T12:48:17+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/2b63dfc249add658.html.gz",
-      "content_hash": "2b63dfc249add658a25157fb4ebc39c11bf225a436efd36ad919f6c2b86fc6e2"
+      "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/50e6b2b2f9f40522.html.gz",
+      "content_hash": "50e6b2b2f9f405224002fc974e0336f632e586e4129207862475d52243f75354"
     }
   ],
   "schema_version": 1,
@@ -69,7 +69,7 @@
       "url": "https://www.hult.edu/hflc/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:14+00:00",
+      "retrieved_at": "2026-07-26T12:48:17+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

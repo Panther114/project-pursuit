@@ -1,73 +1,107 @@
 {
   "id": "mass-contest-first-lego-league-challenge",
-  "canonical_name": "FIRST Lego League Challenge",
+  "canonical_name": "FIRST LEGO League Challenge",
   "name_zh": "",
-  "name_en": "FIRST Lego League Challenge",
+  "name_en": "FIRST LEGO League Challenge",
   "type": "competition",
   "subject_tags": [
-    "Engineering",
-    "Robotics"
+    "Robotics",
+    "Engineering"
   ],
-  "category": "Robotics competitions",
-  "organizer": "",
+  "category": "Robotics",
+  "organizer": "FIRST",
   "region": "International",
   "region_tier": "international_only",
   "country": "",
   "city": "",
-  "format": "unknown",
+  "format": "in_person",
   "date_text": "",
   "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "unknown",
-  "eligibility_text": "",
-  "eligible_grades": null,
-  "eligible_ages": null,
-  "languages": null,
-  "team_mode": "unknown",
+  "current_cycle_status": "upcoming",
+  "eligibility_text": "Students ages 9-16, with exact limits varying by country, participate on registered teams; the upper ages overlap secondary and high school internationally.",
+  "eligible_grades": [
+    "9",
+    "10"
+  ],
+  "eligible_ages": "9-16; varies by country",
+  "languages": [
+    "English"
+  ],
+  "team_mode": "team",
   "cost_text": "",
-  "time_commitment": "unknown",
-  "description": "The FIRST Lego League Challenge (formerly known as FIRST Lego League) is an international competition organized by FIRST for elementary and middle school students (ages 9–14 in the United States and Canada, 9-15 elsewhere). Each year in August, FIRST Lego League Challenge teams are introduced to a scientific and real-world challenge for teams to focus and research on. The robotics part of the competition involves designing and programming Lego Education robots to complete tasks. The innovation project part of the competition involves the students working out a solution to a problem related to the theme (changes every year). The students first meet for regional, national and international tournaments to compete, share their knowledge, compare ideas, and display their robots. The FIRST Lego League Challenge is a partnership between, FIRST and the Lego Group. It is the third division of FIRST Lego League, following FIRST Lego League Discover for ages 4-6 and FIRST Lego League Explore for ages 6-10. In March 2026, FIRST and LEGO Education announced that the partnership would conclude at the end of the 2026-2027 season.",
-  "website_url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
-  "aliases": [],
-  "audience_scope": "unknown",
-  "entry_pathway": "",
-  "confidence": "unverified",
-  "last_verified_at": null,
-  "publication_status": "unverified",
-  "verification_note": "Discovered through broad web research; hollow-dot records require stronger retained evidence or current-cycle enrichment.",
+  "time_commitment": "high",
+  "description": "Global team robotics challenge with regional tournaments and advancement events for students through age 16.",
+  "website_url": "https://www.firstinspires.org/programs/fll/",
+  "aliases": [
+    "FLL Challenge",
+    "FIRST LEGO League"
+  ],
+  "audience_scope": "regional_open",
+  "entry_pathway": "Join or form a registered team and enter through the FIRST partner serving the participant's country or region.",
+  "confidence": "verified",
+  "last_verified_at": "2026-07-26",
+  "publication_status": "official_verified",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "wikipedia_competitions.json",
-      "source_type": "web_reference",
-      "page_or_sheet": "web research",
-      "row_or_text_ref": "FIRST Lego League Challenge",
-      "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
-      "extracted_at": "2026-07-14T11:52:13+00:00",
-      "source_id": "mass-wikipedia-competitions-1",
-      "original_url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
-      "extraction_locator": "mass discovery artifact"
+      "source_file": "e9e51a63fd323c81.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "FIRST LEGO League Challenge",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-26T12:48:12+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://www.firstinspires.org/programs/fll/",
+      "retrieved_at": "2026-07-26T12:48:12+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/e9e51a63fd323c81.html.gz",
+      "content_hash": "e9e51a63fd323c81a30095770bcac7cbfd87dbf9a7eafb01c0b94a3d1e543e6d"
+    },
+    {
+      "source_file": "9657ff55b525f75d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "FIRST LEGO League Challenge",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-26T12:48:12+00:00",
+      "source_id": "mass-global-high-school-competitions-2",
+      "original_url": "https://www.firstinspires.org/programs/events",
+      "retrieved_at": "2026-07-26T12:48:12+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/9657ff55b525f75d.html.gz",
+      "content_hash": "9657ff55b525f75dd00dac33aa7e91b6516b4f7d406160219b56454083d4a7ad"
     }
   ],
   "schema_version": 1,
   "evidence": [
     {
       "evidence_id": "mass-contest-first-lego-league-challenge-e1",
-      "url": "https://en.wikipedia.org/wiki/FIRST_Lego_League_Challenge",
-      "publisher": "mass-wikipedia-competitions-1",
-      "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
-      "source_id": "mass-wikipedia-competitions-1",
-      "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
+      "url": "https://www.firstinspires.org/programs/fll/",
+      "publisher": "mass-global-high-school-competitions-1",
+      "authority": "official",
+      "retrieved_at": "2026-07-26T12:48:12+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "note": ""
+    },
+    {
+      "evidence_id": "mass-contest-first-lego-league-challenge-e2",
+      "url": "https://www.firstinspires.org/programs/events",
+      "publisher": "mass-global-high-school-competitions-2",
+      "authority": "official",
+      "retrieved_at": "2026-07-26T12:48:12+00:00",
+      "source_id": "mass-global-high-school-competitions-2",
+      "note": ""
     }
   ],
   "field_evidence": {
     "canonical_name": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "name_zh": {
@@ -75,43 +109,52 @@
       "evidence_ids": []
     },
     "name_en": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "organizer": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
+      ]
     },
     "type": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "subject_tags": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "category": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "region": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "region_tier": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "country": {
@@ -123,9 +166,10 @@
       "evidence_ids": []
     },
     "format": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "date_text": {
@@ -149,35 +193,49 @@
       "evidence_ids": []
     },
     "current_cycle_status": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "eligibility_text": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
+      ]
     },
     "eligible_grades": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
+      ]
     },
     "eligible_ages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
+      ]
     },
     "eligible_curricula": {
       "status": "missing",
       "evidence_ids": []
     },
     "languages": {
-      "status": "missing",
-      "evidence_ids": []
+      "status": "official",
+      "evidence_ids": [
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
+      ]
     },
     "team_mode": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "duration_text": {
@@ -185,9 +243,10 @@
       "evidence_ids": []
     },
     "website_url": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "registration_contact": {
@@ -203,9 +262,10 @@
       "evidence_ids": []
     },
     "description": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     },
     "cost_text": {
@@ -221,9 +281,10 @@
       "evidence_ids": []
     },
     "time_commitment": {
-      "status": "single_source",
+      "status": "official",
       "evidence_ids": [
-        "mass-contest-first-lego-league-challenge-e1"
+        "mass-contest-first-lego-league-challenge-e1",
+        "mass-contest-first-lego-league-challenge-e2"
       ]
     }
   }

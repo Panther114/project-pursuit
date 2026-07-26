@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-world-individual-debating-and-public-speaking-championships",
   "canonical_name": "World Individual Debating and Public Speaking Championships",
-  "name_zh": "世界个人辩论与演讲锦标赛",
+  "name_zh": "",
   "name_en": "World Individual Debating and Public Speaking Championships",
   "type": "competition",
   "subject_tags": [
@@ -9,7 +9,7 @@
     "English"
   ],
   "category": "Debate and public speaking",
-  "organizer": "WIDPSC organizers",
+  "organizer": "WIDPSC",
   "region": "International",
   "region_tier": "international_only",
   "country": "",
@@ -20,7 +20,7 @@
   "deadline_date": null,
   "start_date": "2027-03-31",
   "end_date": "2027-04-07",
-  "current_cycle_status": "unknown",
+  "current_cycle_status": "upcoming",
   "eligibility_text": "Secondary-school students compete internationally across debate and public-speaking events.",
   "eligible_grades": [
     "9",
@@ -33,45 +33,33 @@
     "English"
   ],
   "team_mode": "individual",
-  "cost_text": "Travel + registration",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "International multi-event championship in debate, interpretive reading, and public speaking.",
-  "website_url": "https://www.widpsc.com/",
+  "website_url": "https://widpsc2027.org/",
   "aliases": [
     "WIDPSC"
   ],
   "audience_scope": "international_selection",
-  "entry_pathway": "National/selection teams and qualified speakers.",
+  "entry_pathway": "Qualify through an eligible school, national organization, or published independent-entry route.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "115646f2cd872036.html.gz",
+      "source_file": "e90ddceadd6710e6.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "World Individual Debating and Public Speaking Championships",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:09+00:00",
+      "extracted_at": "2026-07-26T12:48:05+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://widpsc2027.org/",
-      "retrieved_at": "2026-07-14T10:01:09+00:00",
+      "retrieved_at": "2026-07-26T12:48:05+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/widpsc2027.org/115646f2cd872036.html.gz",
-      "content_hash": "115646f2cd872036b10531f33a25f213e76f882345b625abe25589c30219a27d"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "World Individual Debating and Public Speaking Championships",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-world-individual-debating-and-public-speaking-championships]"
+      "snapshot_path": "data/snapshots/review-evidence/widpsc2027.org/e90ddceadd6710e6.html.gz",
+      "content_hash": "e90ddceadd6710e6356d8e7e488a54ae67b52658b355be6f6733783be8aa5535"
     }
   ],
   "schema_version": 1,
@@ -81,7 +69,7 @@
       "url": "https://widpsc2027.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:09+00:00",
+      "retrieved_at": "2026-07-26T12:48:05+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -94,10 +82,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -248,10 +234,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -266,39 +250,6 @@
       "evidence_ids": [
         "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-world-individual-debating-and-public-speaking-championships-e1"
-      ]
     }
-  },
-  "route_type": "school"
+  }
 }

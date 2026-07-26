@@ -1,25 +1,25 @@
 {
   "id": "mass-contest-purple-comet-math-meet",
   "canonical_name": "Purple Comet! Math Meet",
-  "name_zh": "紫彗星数学竞赛",
+  "name_zh": "",
   "name_en": "Purple Comet! Math Meet",
   "type": "competition",
   "subject_tags": [
     "Mathematics"
   ],
   "category": "Online team mathematics",
-  "organizer": "AwesomeMath / Purple Comet",
+  "organizer": "Purple Comet! Math Meet",
   "region": "Worldwide",
   "region_tier": "international_only",
   "country": "",
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Spring contest window (see purplecomet.org)",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Middle- and high-school teams worldwide compete online under an adult supervisor.",
   "eligible_grades": [
     "9",
@@ -32,7 +32,7 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "Low-cost or free team entry depending on year",
+  "cost_text": "Free",
   "time_commitment": "medium",
   "description": "Free annual online team mathematics competition open worldwide.",
   "website_url": "https://purplecomet.org/",
@@ -40,11 +40,11 @@
     "Purple Comet"
   ],
   "audience_scope": "global_open",
-  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "entry_pathway": "A teacher or adult supervisor registers a school or mixed-school team online.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
       "source_file": "ca7cacddcd2b8cf1.html.gz",
@@ -52,25 +52,13 @@
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Purple Comet! Math Meet",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:07+00:00",
+      "extracted_at": "2026-07-26T12:48:02+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://purplecomet.org/",
-      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "retrieved_at": "2026-07-26T12:48:02+00:00",
       "extraction_locator": "mass discovery artifact",
       "snapshot_path": "data/snapshots/review-evidence/purplecomet.org/ca7cacddcd2b8cf1.html.gz",
       "content_hash": "ca7cacddcd2b8cf1cd35f5c5a6d3593b07970947961059f3f985738c67b7c6ef"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Purple Comet! Math Meet",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-purple-comet-math-meet]"
     }
   ],
   "schema_version": 1,
@@ -80,7 +68,7 @@
       "url": "https://purplecomet.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:07+00:00",
+      "retrieved_at": "2026-07-26T12:48:02+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -93,10 +81,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -159,10 +145,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -261,39 +245,6 @@
       "evidence_ids": [
         "mass-contest-purple-comet-math-meet-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-purple-comet-math-meet-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

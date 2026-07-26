@@ -22,14 +22,21 @@ def main() -> None:
     payload = json.loads(GEN.read_text(encoding="utf-8"))
     records = payload.get("records", [])
     comps = [r for r in records if r.get("type") == "competition"]
-    tier_names = [match_key(n) for n in json.loads(TIER.read_text(encoding="utf-8")).get("competitions", [])]
+    tier_names_raw = json.loads(TIER.read_text(encoding="utf-8")).get("competitions", [])
+    tier_names = [match_key(n) for n in tier_names_raw]
     tier_set = set(tier_names)
     tier = []
+    matched_tier_keys = set()
     for r in comps:
         names = {match_key(str(r.get("canonical_name") or "")), match_key(str(r.get("name_en") or ""))}
         names |= {match_key(a) for a in (r.get("aliases") or [])}
-        if names & tier_set:
+        matched = names & tier_set
+        if matched:
             tier.append(r)
+            matched_tier_keys.update(matched)
+    missing_tier_names = [
+        name for name, key in zip(tier_names_raw, tier_names) if key not in matched_tier_keys
+    ]
 
     def rate(items, pred):
         n = len(items) or 1
@@ -67,9 +74,12 @@ def main() -> None:
     lines.append(f"generated_catalog: {GEN}")
     lines.append(f"competitions_total: {len(comps)}")
     lines.append(f"tier_a_size: {len(tier_names)}")
-    lines.append(f"tier_a_matched: {len(tier)}")
+    lines.append(f"tier_a_matched: {len(matched_tier_keys)}")
+    lines.append(f"tier_a_missing: {len(missing_tier_names)}")
+    for name in missing_tier_names:
+        lines.append(f"  - MISSING: {name}")
     lines.append("tier_a_names:")
-    for name in json.loads(TIER.read_text(encoding="utf-8")).get("competitions", []):
+    for name in tier_names_raw:
         lines.append(f"  - {name}")
     metrics = {
         "deadline_signal": rate(tier, has_deadline),
@@ -104,6 +114,10 @@ def main() -> None:
     OUT.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(OUT)
     print("\n".join(lines[:40]))
+    if missing_tier_names:
+        raise SystemExit(
+            f"Tier-A coverage gate failed: {len(missing_tier_names)} competition(s) missing"
+        )
 
 
 if __name__ == "__main__":

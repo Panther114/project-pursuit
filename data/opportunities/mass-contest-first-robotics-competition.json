@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-first-robotics-competition",
   "canonical_name": "FIRST Robotics Competition",
-  "name_zh": "FIRST 机器人竞赛（FRC）",
+  "name_zh": "",
   "name_en": "FIRST Robotics Competition",
   "type": "competition",
   "subject_tags": [
@@ -16,11 +16,11 @@
   "city": "",
   "format": "in_person",
   "date_text": "",
-  "deadline_text": "Team registration before build season",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "unknown",
   "eligibility_text": "Students in grades 9-12 participate on registered teams in countries with FIRST events.",
   "eligible_grades": [
     "9",
@@ -33,33 +33,33 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "High team registration + hardware + travel",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "Large-team international robotics program with regional qualifiers and a world championship.",
-  "website_url": "https://www.firstinspires.org/robotics/frc",
+  "website_url": "https://www.firstinspires.org/programs/frc/",
   "aliases": [
     "FRC"
   ],
-  "audience_scope": "global_open",
-  "entry_pathway": "Register a FIRST team; China teams exist but require substantial resources.",
+  "audience_scope": "regional_open",
+  "entry_pathway": "Join or form a registered team and compete in regional events toward the championship.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "0cac943151af2fa9.html.gz",
+      "source_file": "b5a701eeae0a278e.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "FIRST Robotics Competition",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:10+00:00",
+      "extracted_at": "2026-07-26T12:48:13+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.firstinspires.org/programs/frc/",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:13+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/0cac943151af2fa9.html.gz",
-      "content_hash": "0cac943151af2fa9b5ff3e942449965596c8d48257a4acba4de551d3d04b7f63"
+      "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/b5a701eeae0a278e.html.gz",
+      "content_hash": "b5a701eeae0a278e15ab6642f1eb16420878f12fdd000a737111dc7e8c83a125"
     },
     {
       "source_file": "wikipedia_competitions.json",
@@ -67,23 +67,11 @@
       "page_or_sheet": "web research",
       "row_or_text_ref": "FIRST Robotics Competition",
       "raw_excerpt": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required.",
-      "extracted_at": "2026-07-14T11:52:13+00:00",
+      "extracted_at": "2026-07-26T12:39:17+00:00",
       "source_id": "mass-wikipedia-competitions-1",
       "original_url": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "retrieved_at": "2026-07-26T12:39:17+00:00",
       "extraction_locator": "mass discovery artifact"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "FIRST Robotics Competition",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-first-robotics-competition]"
     }
   ],
   "schema_version": 1,
@@ -93,7 +81,7 @@
       "url": "https://www.firstinspires.org/programs/frc/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:13+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     },
@@ -102,7 +90,7 @@
       "url": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition",
       "publisher": "mass-wikipedia-competitions-1",
       "authority": "reputable_secondary",
-      "retrieved_at": "2026-07-14T11:52:13+00:00",
+      "retrieved_at": "2026-07-26T12:39:17+00:00",
       "source_id": "mass-wikipedia-competitions-1",
       "note": "Secondary-source category discovery; organizer verification and current-cycle enrichment are still required."
     }
@@ -116,10 +104,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -190,10 +176,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -281,10 +265,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -300,39 +282,6 @@
         "mass-contest-first-robotics-competition-e1",
         "mass-contest-first-robotics-competition-e2"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-first-robotics-competition-e1"
-      ]
     }
-  },
-  "route_type": "school"
+  }
 }

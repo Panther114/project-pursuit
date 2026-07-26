@@ -1,25 +1,25 @@
 {
   "id": "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking",
   "canonical_name": "Bebras International Challenge on Informatics and Computational Thinking",
-  "name_zh": "国际计算思维挑战赛（Bebras）",
+  "name_zh": "",
   "name_en": "Bebras International Challenge on Informatics and Computational Thinking",
   "type": "competition",
   "subject_tags": [
     "Computer Science"
   ],
   "category": "Computational thinking",
-  "organizer": "Bebras community / national organizers",
+  "organizer": "Bebras Community",
   "region": "International",
-  "region_tier": "china_participation_route",
+  "region_tier": "international_only",
   "country": "",
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Autumn international Bebras week windows",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "unknown",
   "eligibility_text": "School students participate through national Bebras programs in participating countries.",
   "eligible_grades": [
     "9",
@@ -29,12 +29,10 @@
   ],
   "eligible_ages": null,
   "languages": [
-    "English",
-    "Chinese",
-    "Bilingual"
+    "English"
   ],
   "team_mode": "individual",
-  "cost_text": "Often low-cost school entry",
+  "cost_text": "",
   "time_commitment": "low",
   "description": "International computational-thinking challenge delivered through national school programs.",
   "website_url": "https://www.bebras.org/",
@@ -42,12 +40,12 @@
     "Bebras Challenge",
     "Bebras"
   ],
-  "audience_scope": "global_open",
-  "entry_pathway": "National Bebras organizer / school; China hosts vary by year.",
+  "audience_scope": "regional_open",
+  "entry_pathway": "Enter through the national Bebras organizer or a participating school.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
       "source_file": "340fdd286902f9e4.html.gz",
@@ -55,25 +53,13 @@
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Bebras International Challenge on Informatics and Computational Thinking",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:10+00:00",
+      "extracted_at": "2026-07-26T12:48:08+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.bebras.org/",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:08+00:00",
       "extraction_locator": "mass discovery artifact",
       "snapshot_path": "data/snapshots/review-evidence/www.bebras.org/340fdd286902f9e4.html.gz",
       "content_hash": "340fdd286902f9e477f810ec7a19291673bc04cdf880daf57c69907590ff2a43"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "Bebras International Challenge on Informatics and Computational Thinking",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking]"
     }
   ],
   "schema_version": 1,
@@ -83,7 +69,7 @@
       "url": "https://www.bebras.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:08+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -96,10 +82,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -162,10 +146,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -246,10 +228,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -264,39 +244,6 @@
       "evidence_ids": [
         "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-bebras-international-challenge-on-informatics-and-computational-thinking-e1"
-      ]
     }
-  },
-  "route_type": "school"
+  }
 }
