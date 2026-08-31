@@ -42,7 +42,7 @@
   "audience_scope": "international_selection",
   "entry_pathway": "Register or qualify through the participating country's APMO coordinator.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
@@ -52,10 +52,10 @@
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Asian Pacific Mathematics Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:08+00:00",
+      "extracted_at": "2026-07-26T12:48:06+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.apmo-official.org/",
-      "retrieved_at": "2026-07-14T10:01:08+00:00",
+      "retrieved_at": "2026-07-26T12:48:06+00:00",
       "extraction_locator": "mass discovery artifact",
       "snapshot_path": "data/snapshots/review-evidence/www.apmo-official.org/841746adccf2f9b8.html.gz",
       "content_hash": "841746adccf2f9b8fd307f0722bf4dd3a017be433bb794712071874015244ea8"
@@ -68,7 +68,7 @@
       "url": "https://www.apmo-official.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:08+00:00",
+      "retrieved_at": "2026-07-26T12:48:06+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

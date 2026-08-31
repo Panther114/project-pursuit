@@ -42,23 +42,23 @@
   "audience_scope": "regional_open",
   "entry_pathway": "Enter through a participating school or regional coordinator.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "3f3e4712570132f3.html.gz",
+      "source_file": "2b9c02bea3245c58.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "International Chemistry Quiz",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:13+00:00",
+      "extracted_at": "2026-07-26T12:48:24+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
-      "retrieved_at": "2026-07-14T10:01:13+00:00",
+      "retrieved_at": "2026-07-26T12:48:24+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.raci.org.au/3f3e4712570132f3.html.gz",
-      "content_hash": "3f3e4712570132f3680f0d5202c7c75dc4a50d4f439a1a1bdf35cc0e5d70338a"
+      "snapshot_path": "data/snapshots/review-evidence/www.raci.org.au/2b9c02bea3245c58.html.gz",
+      "content_hash": "2b9c02bea3245c58019a5fb1c2a50ecf97702155ac268c6215fd390ae418a411"
     }
   ],
   "schema_version": 1,
@@ -68,7 +68,7 @@
       "url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:13+00:00",
+      "retrieved_at": "2026-07-26T12:48:24+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

@@ -6,7 +6,9 @@ Project Pursuit uses curated official-source adapters, not generic web search. T
 
 `data/reviews/mass/global_high_school_competitions.json` is the curated gap-audit source for international competitions available to high-school students. It distinguishes direct global entry, regional open entry, and national-team selection pathways. Organizer pages are retained by `npm run snapshot:mass-sources`; a record requested as verified is only promoted when its snapshot contains every configured evidence-term group. Terms inside one group are alternatives, while all groups are required.
 
-Wikipedia category discovery is candidate-only. The crawler walks category subtrees, requires both school-age and international signals, excludes obvious inactive descriptions, and never promotes its results without organizer evidence.
+Wikipedia category discovery is candidate-only. The crawler samples a fixed budget across broad subject roots, requires both school-age and international signals, excludes obvious inactive descriptions, and never promotes its results without organizer evidence. Hard page, category, and request limits keep every run bounded.
+
+Operational completeness is defined by `data/curation/tier_a_competitions.json`, the maintained high-priority competition-family inventory. `npm run audit:competitions` fails when any listed family has no catalog match, so a refresh cannot silently drop a known competition. This is a reproducible coverage guarantee for the maintained inventory, not a claim that every newly created, private, or unpublished competition on the internet can be enumerated.
 
 ## Initial operational family
 

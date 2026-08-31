@@ -45,23 +45,23 @@
   "audience_scope": "global_open",
   "entry_pathway": "Direct online individual or group submission.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "405e64f44661f578.html.gz",
+      "source_file": "54b5fb097cba8fcf.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Ocean Awareness Contest",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:04+00:00",
+      "extracted_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
-      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/bowseat.org/405e64f44661f578.html.gz",
-      "content_hash": "405e64f44661f5782d4969ecef93fe43d94df1b3350cf679772d01c9ac7c596c"
+      "snapshot_path": "data/snapshots/review-evidence/bowseat.org/54b5fb097cba8fcf.html.gz",
+      "content_hash": "54b5fb097cba8fcff189c4233953a80140815c5726d77b431740885127c1e523"
     }
   ],
   "schema_version": 1,
@@ -71,7 +71,7 @@
       "url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:04+00:00",
+      "retrieved_at": "2026-07-26T12:47:57+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

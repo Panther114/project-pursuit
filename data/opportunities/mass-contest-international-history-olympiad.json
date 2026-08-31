@@ -43,23 +43,23 @@
   "audience_scope": "international_selection",
   "entry_pathway": "Qualify through an approved International Academic Competitions event or qualifying exam.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "34756eb0b6e3b679.html.gz",
+      "source_file": "92eff65b9dd7d438.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "International History Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:10+00:00",
+      "extracted_at": "2026-07-26T12:48:14+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.historyolympiad.com/",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:14+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.historyolympiad.com/34756eb0b6e3b679.html.gz",
-      "content_hash": "34756eb0b6e3b6798f4c47162c4534233ac0abc1095b3190bd12dcd13a076863"
+      "snapshot_path": "data/snapshots/review-evidence/www.historyolympiad.com/92eff65b9dd7d438.html.gz",
+      "content_hash": "92eff65b9dd7d438275506c21b232a608c2e4ef9727b0ea71520cb202821c6f4"
     }
   ],
   "schema_version": 1,
@@ -69,7 +69,7 @@
       "url": "https://www.historyolympiad.com/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:10+00:00",
+      "retrieved_at": "2026-07-26T12:48:14+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

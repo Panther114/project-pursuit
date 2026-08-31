@@ -1,14 +1,13 @@
 {
   "id": "mass-contest-international-junior-science-olympiad",
   "canonical_name": "International Junior Science Olympiad",
-  "name_zh": "国际初中科学奥林匹克（IJSO）",
+  "name_zh": "",
   "name_en": "International Junior Science Olympiad",
   "type": "competition",
   "subject_tags": [
-    "Scientific research",
-    "Physics",
+    "Biology",
     "Chemistry",
-    "Biology"
+    "Physics"
   ],
   "category": "International science olympiad",
   "organizer": "IJSO",
@@ -32,46 +31,34 @@
   "languages": [
     "English"
   ],
-  "team_mode": "individual",
-  "cost_text": "National team",
+  "team_mode": "either",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "Integrated science olympiad for students under sixteen, covering biology, chemistry, and physics.",
-  "website_url": "https://www.ijsoweb.org/",
+  "website_url": "https://www.ijso-official.org/",
   "aliases": [
     "IJSO"
   ],
   "audience_scope": "international_selection",
-  "entry_pathway": "Entry via national selection / national olympiad pathway; not open direct individual entry for most students.",
+  "entry_pathway": "Qualify through a participating country's junior-science selection process.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "f604426d6c3da3ad.html.gz",
+      "source_file": "50a36d56a294c5d6.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "International Junior Science Olympiad",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:18+00:00",
+      "extracted_at": "2026-07-26T12:48:25+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://ijso-official.org/",
-      "retrieved_at": "2026-07-14T10:01:18+00:00",
+      "retrieved_at": "2026-07-26T12:48:25+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/ijso-official.org/f604426d6c3da3ad.html.gz",
-      "content_hash": "f604426d6c3da3adcc1d74df2b3c3858be6582f72d9b35480b04ced5c85180af"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "International Junior Science Olympiad",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-international-junior-science-olympiad]"
+      "snapshot_path": "data/snapshots/review-evidence/ijso-official.org/50a36d56a294c5d6.html.gz",
+      "content_hash": "50a36d56a294c5d6228ccf282f8b04c66d25fbeb4c571382f313cd3a80a14e50"
     }
   ],
   "schema_version": 1,
@@ -81,7 +68,7 @@
       "url": "https://ijso-official.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:18+00:00",
+      "retrieved_at": "2026-07-26T12:48:25+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -94,10 +81,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -244,10 +229,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -262,39 +245,6 @@
       "evidence_ids": [
         "mass-contest-international-junior-science-olympiad-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
-    },
-    "aliases": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-international-junior-science-olympiad-e1"
-      ]
     }
-  },
-  "route_type": "national_selection"
+  }
 }

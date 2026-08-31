@@ -902,17 +902,17 @@
   "https://www.seedasdan.asia/en/": {
     "original_url": "https://www.seedasdan.asia/en/",
     "final_url": "https://www.seedasdan.asia/en/",
-    "retrieved_at": "2026-07-14T10:01:19+00:00",
-    "content_hash": "8d9159133adb5d0a3c6d7f14b2a4c847c5f07889befcc00f45c4005546ab26a5",
+    "retrieved_at": "2026-07-26T12:48:29+00:00",
+    "content_hash": "a5c8929d7742d60b852ea107996ef83f8a26553e25e903b74d4ed68eec3778cc",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.asia/8d9159133adb5d0a.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.seedasdan.asia/a5c8929d7742d60b.html.gz"
   },
   "https://climatescience.org/olympiad": {
     "original_url": "https://climatescience.org/olympiad",
     "final_url": "https://climatescience.org/olympiad",
-    "retrieved_at": "2026-07-14T10:01:04+00:00",
+    "retrieved_at": "2026-07-26T12:47:58+00:00",
     "content_hash": "318db3ae6ae47eac87b809b4aea3f6af61f39bf52674447a191253678512c3bc",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
@@ -922,47 +922,47 @@
   "https://breakthroughjuniorchallenge.org/rules": {
     "original_url": "https://breakthroughjuniorchallenge.org/rules",
     "final_url": "https://breakthroughjuniorchallenge.org/rules",
-    "retrieved_at": "2026-07-14T10:01:04+00:00",
-    "content_hash": "5ec0bd47026638617dde041e54c8c3874badc5224a30e0bde97cf0c0b11fd7b3",
+    "retrieved_at": "2026-07-26T12:47:58+00:00",
+    "content_hash": "8e8d46bfb47c5c7cda4d06cbb52e6db3b7219c16878c759c3bb6bc513d7ddf08",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/breakthroughjuniorchallenge.org/5ec0bd4702663861.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/breakthroughjuniorchallenge.org/8e8d46bfb47c5c7c.html.gz"
   },
   "https://foyleyoungpoets.org/": {
     "original_url": "https://foyleyoungpoets.org/",
     "final_url": "https://foyleyoungpoets.org/",
-    "retrieved_at": "2026-07-14T10:01:05+00:00",
-    "content_hash": "f3b27ee714f6b7fafccd7de993c4f2ad4e722fab7a1a5b1118be2a216876491b",
+    "retrieved_at": "2026-07-26T12:47:57+00:00",
+    "content_hash": "5333acb771840be3c8196e964530f02bd51c193c6856969b87d29d0058571cab",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/f3b27ee714f6b7fa.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/foyleyoungpoets.org/5333acb771840be3.html.gz"
   },
   "https://cariboutests.com/": {
     "original_url": "https://cariboutests.com/",
     "final_url": "https://cariboutests.com/",
-    "retrieved_at": "2026-07-14T10:01:05+00:00",
-    "content_hash": "5ee948c6703f3080e03289210184168b7ef2464a95f457995284a0cbe49b9cd7",
+    "retrieved_at": "2026-07-26T12:47:57+00:00",
+    "content_hash": "92a8732e8c8e6fbaa273c45af2910cf71638a562f5bf8f8eb80762e7a447d93b",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/5ee948c6703f3080.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/cariboutests.com/92a8732e8c8e6fba.html.gz"
   },
   "https://blueoceancompetition.org/": {
     "original_url": "https://blueoceancompetition.org/",
     "final_url": "https://blueoceancompetition.org/",
-    "retrieved_at": "2026-07-14T10:01:05+00:00",
-    "content_hash": "55bd73445e80e4f17954654d0f9a8c83c9c554c22b09a8e501e053d31a3710d7",
+    "retrieved_at": "2026-07-26T12:47:59+00:00",
+    "content_hash": "2204530cf66f0e78ba9f395a1f06474aaa7b2da1e940508ef1300410ab12d97f",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/blueoceancompetition.org/55bd73445e80e4f1.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/blueoceancompetition.org/2204530cf66f0e78.html.gz"
   },
   "https://purplecomet.org/": {
     "original_url": "https://purplecomet.org/",
     "final_url": "https://purplecomet.org/",
-    "retrieved_at": "2026-07-14T10:01:07+00:00",
+    "retrieved_at": "2026-07-26T12:48:02+00:00",
     "content_hash": "ca7cacddcd2b8cf1cd35f5c5a6d3593b07970947961059f3f985738c67b7c6ef",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
@@ -972,77 +972,77 @@
   "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/": {
     "original_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
     "final_url": "https://bowseat.org/programs/ocean-awareness-contest/rules-eligibility/",
-    "retrieved_at": "2026-07-14T10:01:04+00:00",
-    "content_hash": "405e64f44661f5782d4969ecef93fe43d94df1b3350cf679772d01c9ac7c596c",
+    "retrieved_at": "2026-07-26T12:47:57+00:00",
+    "content_hash": "54b5fb097cba8fcff189c4233953a80140815c5726d77b431740885127c1e523",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/bowseat.org/405e64f44661f578.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/bowseat.org/54b5fb097cba8fcf.html.gz"
   },
   "https://schoolsdebate.com/": {
     "original_url": "https://schoolsdebate.com/",
     "final_url": "https://schoolsdebate.com/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
-    "content_hash": "3ac5a25c27c6e7ce8047519703035247cfbd5945ee9cebde180bfe98d5a22708",
-    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at": "2026-07-26T12:48:03+00:00",
+    "content_hash": "4e081c8d0358ec64643bd178b952d1aded93ba82f3b127e6cb6c75e78b893adb",
+    "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/schoolsdebate.com/3ac5a25c27c6e7ce.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/schoolsdebate.com/4e081c8d0358ec64.html.gz"
   },
   "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/": {
     "original_url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
     "final_url": "https://globalyouth.wharton.upenn.edu/competitions/investment-competition/",
-    "retrieved_at": "2026-07-14T10:01:07+00:00",
-    "content_hash": "f76b312def5caea4de4db95dbbd1520949c71ab9eea08ebee2cb0e6992825948",
+    "retrieved_at": "2026-07-26T12:48:00+00:00",
+    "content_hash": "47cf9d8c79ebb1205071a8d8c1e458486170e22ebefb86c96254f6bb5954df92",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/globalyouth.wharton.upenn.edu/f76b312def5caea4.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/globalyouth.wharton.upenn.edu/47cf9d8c79ebb120.html.gz"
   },
   "https://physicsbrawl.org/": {
     "original_url": "https://physicsbrawl.org/",
     "final_url": "https://physicsbrawl.org/",
-    "retrieved_at": "2026-07-14T10:01:09+00:00",
-    "content_hash": "7cc53a75743f95cd8091f59657302e586f5774b7a3e68f5ce1d429e903e4bd28",
+    "retrieved_at": "2026-07-26T12:48:05+00:00",
+    "content_hash": "96033c895256170a5f0907a63fb766f80b178636e8bd1c4a16650c7336b5ce33",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/physicsbrawl.org/7cc53a75743f95cd.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/physicsbrawl.org/96033c895256170a.html.gz"
   },
   "https://www.comap.com/contests/himcm-midmcm": {
     "original_url": "https://www.comap.com/contests/himcm-midmcm",
     "final_url": "https://www.comap.com/contests/himcm-midmcm",
-    "retrieved_at": "2026-07-14T10:01:09+00:00",
-    "content_hash": "b020fdc9807f5ab5413235c8cf9157d4135de6666a4d93f1c39ec6fcbec2894c",
+    "retrieved_at": "2026-07-26T12:48:11+00:00",
+    "content_hash": "55aed3e3e9f20c0877ff7bb52c5ca4e74cd04374ae856d56e50dd8217371c89a",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.comap.com/b020fdc9807f5ab5.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.comap.com/55aed3e3e9f20c08.html.gz"
   },
   "https://opho.physoly.tech/": {
     "original_url": "https://opho.physoly.tech/",
     "final_url": "https://opho.physoly.org/",
-    "retrieved_at": "2026-07-14T10:01:08+00:00",
-    "content_hash": "9c70d56e59f1d90aa2f5718f3fd1b1f83b73d93625121f1e21d220a017fd2da6",
+    "retrieved_at": "2026-07-26T12:48:08+00:00",
+    "content_hash": "5c07fd4d0460127c022d570be08ac4b91eb86dec6b9d1744c90b04e48d24b62f",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/9c70d56e59f1d90a.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/5c07fd4d0460127c.html.gz"
   },
   "https://ukbiologycompetitions.org/british-biology-olympiad/": {
     "original_url": "https://ukbiologycompetitions.org/british-biology-olympiad/",
     "final_url": "https://ukbiologycompetitions.org/british-biology-olympiad/",
-    "retrieved_at": "2026-07-14T10:01:07+00:00",
-    "content_hash": "8db283357cbd11e5da1b7472d520329b91fa19b7e07d037574d736985c0e7753",
+    "retrieved_at": "2026-07-26T12:48:06+00:00",
+    "content_hash": "04b4c08bb348ec92ff623aba5fac6a780b3e1b78edecfe699563e6c9dca6579d",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/ukbiologycompetitions.org/8db283357cbd11e5.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/ukbiologycompetitions.org/04b4c08bb348ec92.html.gz"
   },
   "https://www.apmo-official.org/": {
     "original_url": "https://www.apmo-official.org/",
     "final_url": "https://www.apmo-official.org/",
-    "retrieved_at": "2026-07-14T10:01:08+00:00",
+    "retrieved_at": "2026-07-26T12:48:06+00:00",
     "content_hash": "841746adccf2f9b8fd307f0722bf4dd3a017be433bb794712071874015244ea8",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
@@ -1052,17 +1052,17 @@
   "https://www.firstinspires.org/programs/frc/": {
     "original_url": "https://www.firstinspires.org/programs/frc/",
     "final_url": "https://www.firstinspires.org/programs/frc/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
-    "content_hash": "0cac943151af2fa9b5ff3e942449965596c8d48257a4acba4de551d3d04b7f63",
+    "retrieved_at": "2026-07-26T12:48:13+00:00",
+    "content_hash": "b5a701eeae0a278e15ab6642f1eb16420878f12fdd000a737111dc7e8c83a125",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/0cac943151af2fa9.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/b5a701eeae0a278e.html.gz"
   },
   "https://www.bebras.org/": {
     "original_url": "https://www.bebras.org/",
     "final_url": "https://www.bebras.org/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
+    "retrieved_at": "2026-07-26T12:48:08+00:00",
     "content_hash": "340fdd286902f9e477f810ec7a19291673bc04cdf880daf57c69907590ff2a43",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
@@ -1072,117 +1072,117 @@
   "https://www.firstinspires.org/programs/ftc/": {
     "original_url": "https://www.firstinspires.org/programs/ftc/",
     "final_url": "https://www.firstinspires.org/programs/ftc/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
-    "content_hash": "3b63bba6f4ce4eb639f50262f538b33783cf3e4d72629b53fbc09c96ff321b53",
+    "retrieved_at": "2026-07-26T12:48:14+00:00",
+    "content_hash": "325deb31fa7a11aa7fce55a1889fb770482b5c7cbb1ad38555b9743354d6b437",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/3b63bba6f4ce4eb6.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/325deb31fa7a11aa.html.gz"
   },
   "https://www.historyolympiad.com/": {
     "original_url": "https://www.historyolympiad.com/",
     "final_url": "https://www.historyolympiad.com/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
-    "content_hash": "34756eb0b6e3b6798f4c47162c4534233ac0abc1095b3190bd12dcd13a076863",
+    "retrieved_at": "2026-07-26T12:48:14+00:00",
+    "content_hash": "92eff65b9dd7d438275506c21b232a608c2e4ef9727b0ea71520cb202821c6f4",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.historyolympiad.com/34756eb0b6e3b679.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.historyolympiad.com/92eff65b9dd7d438.html.gz"
   },
   "https://www.ieso-info.org/": {
     "original_url": "https://www.ieso-info.org/",
     "final_url": "https://www.ieso-info.org/",
-    "retrieved_at": "2026-07-14T10:01:12+00:00",
-    "content_hash": "455307c2b8ac70c3430e654936fe07dbea843a2abda93d326fc12282692a48ed",
+    "retrieved_at": "2026-07-26T12:48:16+00:00",
+    "content_hash": "e60885c706a02c0363b5ecbeaad2c75d14a3b5455df57a708f8a525a33f19578",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.ieso-info.org/455307c2b8ac70c3.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.ieso-info.org/e60885c706a02c03.html.gz"
   },
   "https://first.global/": {
     "original_url": "https://first.global/",
     "final_url": "https://first.global/",
-    "retrieved_at": "2026-07-14T10:01:07+00:00",
-    "content_hash": "2882b0a4f323c4fe39a5a7560203b1825b8a857bc59224b5b0865935db00a358",
+    "retrieved_at": "2026-07-26T12:48:00+00:00",
+    "content_hash": "121ecccbb0d80d877786bd107f27fffcf4648ba6061725087388a00bc00bb103",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/first.global/2882b0a4f323c4fe.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/first.global/121ecccbb0d80d87.html.gz"
   },
   "https://www.imo-official.org/": {
     "original_url": "https://www.imo-official.org/",
     "final_url": "https://www.imo-official.org/",
-    "retrieved_at": "2026-07-14T10:01:15+00:00",
-    "content_hash": "45c481e981f47d39461ac584d2fb4435840dfd7375d6f160649032b41bae91bd",
+    "retrieved_at": "2026-07-26T12:48:16+00:00",
+    "content_hash": "6bb78b909d80eef53577f1a7ea9d4fd87f733f05938b70a82deccfc90beb1159",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/45c481e981f47d39.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.imo-official.org/6bb78b909d80eef5.html.gz"
   },
   "https://www.ibo-info.org/en/": {
     "original_url": "https://www.ibo-info.org/en/",
     "final_url": "https://www.ibo-info.org/en/",
-    "retrieved_at": "2026-07-14T10:01:12+00:00",
-    "content_hash": "810d3ad13abaf36dc1241436b93100bca60c5043918032b71f1d0d9103956565",
+    "retrieved_at": "2026-07-26T12:48:16+00:00",
+    "content_hash": "3fcbe04a5fddaa5ca5847658131eaf027901cd8195b64c778eed8c2f2c687825",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.ibo-info.org/810d3ad13abaf36d.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.ibo-info.org/3fcbe04a5fddaa5c.html.gz"
   },
   "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/": {
     "original_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
     "final_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
-    "retrieved_at": "2026-07-14T10:01:13+00:00",
-    "content_hash": "337e2466136e877d4efb0fce68d7996e14c040dd6edfd9fe10ff4d7432cc17c5",
+    "retrieved_at": "2026-07-26T12:48:24+00:00",
+    "content_hash": "90d0fbe597e3cb400c17164ef5ae16146e4117a256cabf956554a6294e5bca14",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.nyas.org/337e2466136e877d.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.nyas.org/90d0fbe597e3cb40.html.gz"
   },
   "https://www.raci.org.au/education-outreach/school-competitions/icq": {
     "original_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
     "final_url": "https://www.raci.org.au/education-outreach/school-competitions/icq",
-    "retrieved_at": "2026-07-14T10:01:13+00:00",
-    "content_hash": "3f3e4712570132f3680f0d5202c7c75dc4a50d4f439a1a1bdf35cc0e5d70338a",
+    "retrieved_at": "2026-07-26T12:48:24+00:00",
+    "content_hash": "2b9c02bea3245c58019a5fb1c2a50ecf97702155ac268c6215fd390ae418a411",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.raci.org.au/3f3e4712570132f3.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.raci.org.au/2b9c02bea3245c58.html.gz"
   },
   "https://www.hult.edu/hflc/": {
     "original_url": "https://www.hult.edu/hflc/",
     "final_url": "https://www.hult.edu/hflc/",
-    "retrieved_at": "2026-07-14T10:01:14+00:00",
-    "content_hash": "2b63dfc249add658a25157fb4ebc39c11bf225a436efd36ad919f6c2b86fc6e2",
+    "retrieved_at": "2026-07-26T12:48:17+00:00",
+    "content_hash": "50e6b2b2f9f405224002fc974e0336f632e586e4129207862475d52243f75354",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/2b63dfc249add658.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.hult.edu/50e6b2b2f9f40522.html.gz"
   },
   "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/": {
     "original_url": "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/",
     "final_url": "https://stockholmwaterfoundation.org/stockholm-junior-water-prize/engage/enter-competition/",
-    "retrieved_at": "2026-07-14T10:01:10+00:00",
-    "content_hash": "e7b9be8e09249e4af6d7250b706748900673fba2d9b836a42b0d858a09d3e7a2",
+    "retrieved_at": "2026-07-26T12:48:11+00:00",
+    "content_hash": "2eb9358ead5ff3144922c5042d713967054c5245a8e3c07a53e0126f2e54fb65",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/stockholmwaterfoundation.org/e7b9be8e09249e4a.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/stockholmwaterfoundation.org/2eb9358ead5ff314.html.gz"
   },
   "https://www.ijso-official.org/": {
     "original_url": "https://www.ijso-official.org/",
     "final_url": "https://ijso-official.org/",
-    "retrieved_at": "2026-07-14T10:01:18+00:00",
-    "content_hash": "f604426d6c3da3adcc1d74df2b3c3858be6582f72d9b35480b04ced5c85180af",
+    "retrieved_at": "2026-07-26T12:48:25+00:00",
+    "content_hash": "50a36d56a294c5d6228ccf282f8b04c66d25fbeb4c571382f313cd3a80a14e50",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/ijso-official.org/f604426d6c3da3ad.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/ijso-official.org/50a36d56a294c5d6.html.gz"
   },
   "https://www.iymc.info/": {
     "original_url": "https://www.iymc.info/",
     "final_url": "https://www.iymc.info/en/language",
-    "retrieved_at": "2026-07-14T10:01:12+00:00",
+    "retrieved_at": "2026-07-26T12:48:21+00:00",
     "content_hash": "d8c42d43e02d494b91b17c234fd804d47568b23301df2fa20abf93edbac28897",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
@@ -1202,61 +1202,131 @@
   "https://www.sageglobal.org/": {
     "original_url": "https://www.sageglobal.org/",
     "final_url": "https://www.sageglobal.org/",
-    "retrieved_at": "2026-07-14T10:01:28+00:00",
-    "content_hash": "26b17780524fb563ef7656e7d6dc6b7a6c7bd509139f956e4fc7ee8a40fe3c1e",
+    "retrieved_at": "2026-07-26T12:48:30+00:00",
+    "content_hash": "a398b9283f891dec8620b1f59448dba1d306d3f12eab1746b49e85e2ef104cd2",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.sageglobal.org/26b17780524fb563.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.sageglobal.org/a398b9283f891dec.html.gz"
   },
   "https://www.royalcwsociety.org/writing-competition": {
     "original_url": "https://www.royalcwsociety.org/writing-competition",
     "final_url": "https://www.royalcwsociety.org/writing-competition",
-    "retrieved_at": "2026-07-14T10:01:22+00:00",
-    "content_hash": "ed37b8a44b7813e788b1525f0d8af975bf8347136e9543ecae11a2219b9ffda8",
+    "retrieved_at": "2026-07-26T12:48:29+00:00",
+    "content_hash": "c418e90033fb221bc8e5a2488d21d278ef89af23b41ec3560ab84c191c0f1e85",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.royalcwsociety.org/ed37b8a44b7813e7.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.royalcwsociety.org/c418e90033fb221b.html.gz"
   },
   "https://www.globinnovation.org/howitworks": {
     "original_url": "https://www.globinnovation.org/howitworks",
     "final_url": "https://www.globinnovation.org/howitworks",
-    "retrieved_at": "2026-07-14T10:01:23+00:00",
-    "content_hash": "353b922d9da6e2f93f3fe9713d339105bec9f1089bde5c001b0454fe8f13fd92",
+    "retrieved_at": "2026-07-26T12:48:18+00:00",
+    "content_hash": "a115de5a5ea48ffd80e683e0ddc909003d49b62dae668b5b6caff476afa5dc41",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.globinnovation.org/353b922d9da6e2f9.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.globinnovation.org/a115de5a5ea48ffd.html.gz"
   },
   "https://www.theearthprize.org/": {
     "original_url": "https://www.theearthprize.org/",
     "final_url": "https://www.theearthprize.org/",
-    "retrieved_at": "2026-07-14T10:01:22+00:00",
-    "content_hash": "4543bb5082751ea26c8fa480010b40dd8575ed8cdf1e5b6902d1ddc09f12772c",
+    "retrieved_at": "2026-07-26T12:49:10+00:00",
+    "content_hash": "6ee7b770881c7e581db8f7639deb135dbb3d8e9b170faa99770264745867769f",
     "content_type": "text/html; charset=utf-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.theearthprize.org/4543bb5082751ea2.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.theearthprize.org/6ee7b770881c7e58.html.gz"
   },
   "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/": {
     "original_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
     "final_url": "https://www.worldfoodprize.org/en/youth_programs/global_youth_institute/",
-    "retrieved_at": "2026-07-14T10:01:23+00:00",
-    "content_hash": "d2dec2b363acdd5c27edaaf43e001b69f116c4a638eb19f7acc1bd5e8bbbe22a",
+    "retrieved_at": "2026-07-26T12:49:11+00:00",
+    "content_hash": "f404ce07745999237aa866c5f5bb76d7b94c3bd25b54a0398bcec51e034fed05",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/www.worldfoodprize.org/d2dec2b363acdd5c.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/www.worldfoodprize.org/f404ce0774599923.html.gz"
   },
   "https://widpsc2027.org/": {
     "original_url": "https://widpsc2027.org/",
     "final_url": "https://widpsc2027.org/",
-    "retrieved_at": "2026-07-14T10:01:09+00:00",
-    "content_hash": "115646f2cd872036b10531f33a25f213e76f882345b625abe25589c30219a27d",
+    "retrieved_at": "2026-07-26T12:48:05+00:00",
+    "content_hash": "e90ddceadd6710e6356d8e7e488a54ae67b52658b355be6f6733783be8aa5535",
     "content_type": "text/html; charset=UTF-8",
     "status": 200,
     "parser_version": "luna-review-v1",
-    "snapshot_path": "data/snapshots/review-evidence/widpsc2027.org/115646f2cd872036.html.gz"
+    "snapshot_path": "data/snapshots/review-evidence/widpsc2027.org/e90ddceadd6710e6.html.gz"
+  },
+  "https://eupho.ee/rules/": {
+    "original_url": "https://eupho.ee/rules/",
+    "final_url": "https://eupho.ee/rules/",
+    "retrieved_at": "2026-07-26T12:47:57+00:00",
+    "content_hash": "d8ee9fdf7435f8dbe8e53b4a6119700339eb37df6f93dd0ec2482495dbbd5394",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/eupho.ee/d8ee9fdf7435f8db.html.gz"
+  },
+  "https://hir.harvard.edu/contest/": {
+    "original_url": "https://hir.harvard.edu/contest/",
+    "final_url": "https://hir.harvard.edu/contest/",
+    "retrieved_at": "2026-07-26T12:47:58+00:00",
+    "content_hash": "601dbca19b0a234cbabe57b7e6e438dac0d6198261dd88192dd07d9d8eb0a33c",
+    "content_type": "text/html; charset=utf-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/hir.harvard.edu/601dbca19b0a234c.html.gz"
+  },
+  "https://ioai-official.org/about/": {
+    "original_url": "https://ioai-official.org/about/",
+    "final_url": "https://ioai-official.org/about/",
+    "retrieved_at": "2026-07-26T12:48:05+00:00",
+    "content_hash": "16310f11f833cd731e1712e0c93d1976769f26e8d972ed52b000de75618fdd0b",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/ioai-official.org/16310f11f833cd73.html.gz"
+  },
+  "https://www.firstinspires.org/programs/events": {
+    "original_url": "https://www.firstinspires.org/programs/events",
+    "final_url": "https://www.firstinspires.org/programs/events",
+    "retrieved_at": "2026-07-26T12:48:12+00:00",
+    "content_hash": "9657ff55b525f75dd00dac33aa7e91b6516b4f7d406160219b56454083d4a7ad",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/9657ff55b525f75d.html.gz"
+  },
+  "https://www.firstinspires.org/programs/fll/": {
+    "original_url": "https://www.firstinspires.org/programs/fll/",
+    "final_url": "https://www.firstinspires.org/programs/fll/",
+    "retrieved_at": "2026-07-26T12:48:12+00:00",
+    "content_hash": "e9e51a63fd323c81a30095770bcac7cbfd87dbf9a7eafb01c0b94a3d1e543e6d",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.firstinspires.org/e9e51a63fd323c81.html.gz"
+  },
+  "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/": {
+    "original_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
+    "final_url": "https://www.livingoceansfoundation.org/science-without-borders-challenge/contest-rules-information/",
+    "retrieved_at": "2026-07-26T12:48:18+00:00",
+    "content_hash": "fd4ff803ad8050ca023159ef04aa5a101cfffa825a5bd5583bb49347bfacb18a",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.livingoceansfoundation.org/fd4ff803ad8050ca.html.gz"
+  },
+  "https://www.philosophy-olympiad.org/?page_id=1706": {
+    "original_url": "https://www.philosophy-olympiad.org/?page_id=1706",
+    "final_url": "https://www.philosophy-olympiad.org/?page_id=1706",
+    "retrieved_at": "2026-07-26T12:48:22+00:00",
+    "content_hash": "8ee9bbafa64d879d71b2f3399d3630c447a990cdadecc03c9a4019c450e35c18",
+    "content_type": "text/html; charset=UTF-8",
+    "status": 200,
+    "parser_version": "luna-review-v1",
+    "snapshot_path": "data/snapshots/review-evidence/www.philosophy-olympiad.org/8ee9bbafa64d879d.html.gz"
   }
 }

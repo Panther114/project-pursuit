@@ -44,23 +44,23 @@
   "audience_scope": "global_open",
   "entry_pathway": "Apply to The Junior Academy, then join an international team responding to an annual challenge.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
   "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "337e2466136e877d.html.gz",
+      "source_file": "90d0fbe597e3cb40.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "Junior Academy Innovation Challenge",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:13+00:00",
+      "extracted_at": "2026-07-26T12:48:24+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
-      "retrieved_at": "2026-07-14T10:01:13+00:00",
+      "retrieved_at": "2026-07-26T12:48:24+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.nyas.org/337e2466136e877d.html.gz",
-      "content_hash": "337e2466136e877d4efb0fce68d7996e14c040dd6edfd9fe10ff4d7432cc17c5"
+      "snapshot_path": "data/snapshots/review-evidence/www.nyas.org/90d0fbe597e3cb40.html.gz",
+      "content_hash": "90d0fbe597e3cb400c17164ef5ae16146e4117a256cabf956554a6294e5bca14"
     }
   ],
   "schema_version": 1,
@@ -70,7 +70,7 @@
       "url": "https://www.nyas.org/learning/high-school-research-programs/the-junior-academy/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:13+00:00",
+      "retrieved_at": "2026-07-26T12:48:24+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }

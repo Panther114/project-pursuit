@@ -1,0 +1,10 @@
+{
+  "original_url": "https://opho.physoly.tech/",
+  "final_url": "https://opho.physoly.org/",
+  "retrieved_at": "2026-07-26T12:48:08+00:00",
+  "content_hash": "5c07fd4d0460127c022d570be08ac4b91eb86dec6b9d1744c90b04e48d24b62f",
+  "content_type": "text/html; charset=utf-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/opho.physoly.org/5c07fd4d0460127c.html.gz"
+}

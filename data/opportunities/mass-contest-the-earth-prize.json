@@ -1,7 +1,7 @@
 {
   "id": "mass-contest-the-earth-prize",
   "canonical_name": "The Earth Prize",
-  "name_zh": "地球奖（The Earth Prize）",
+  "name_zh": "",
   "name_en": "The Earth Prize",
   "type": "competition",
   "subject_tags": [
@@ -17,11 +17,11 @@
   "city": "",
   "format": "online",
   "date_text": "",
-  "deadline_text": "Annual application deadline on earthprize.org",
+  "deadline_text": "",
   "deadline_date": null,
   "start_date": null,
   "end_date": null,
-  "current_cycle_status": "upcoming",
+  "current_cycle_status": "open",
   "eligibility_text": "Teenage students worldwide develop an environmental sustainability solution in teams.",
   "eligible_grades": [
     "9",
@@ -34,43 +34,31 @@
     "English"
   ],
   "team_mode": "team",
-  "cost_text": "Free application",
+  "cost_text": "",
   "time_commitment": "high",
   "description": "Global environmental sustainability competition for student teams.",
-  "website_url": "https://earthprize.org/",
+  "website_url": "https://www.theearthprize.org/",
   "aliases": [],
   "audience_scope": "global_open",
-  "entry_pathway": "Direct online registration through the official organizer when open to international students.",
+  "entry_pathway": "Direct team entry through a school or registered educator.",
   "confidence": "verified",
-  "last_verified_at": "2026-07-14",
+  "last_verified_at": "2026-07-26",
   "publication_status": "official_verified",
-  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred. Enriched from curated Tier-A competition pack.",
+  "verification_note": "Official discovery evidence was retained offline and passed configured term checks; missing detail fields were not inferred.",
   "sources": [
     {
-      "source_file": "4543bb5082751ea2.html.gz",
+      "source_file": "6ee7b770881c7e58.html.gz",
       "source_type": "web_snapshot",
       "page_or_sheet": "official web evidence",
       "row_or_text_ref": "The Earth Prize",
       "raw_excerpt": "",
-      "extracted_at": "2026-07-14T10:01:22+00:00",
+      "extracted_at": "2026-07-26T12:49:10+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "original_url": "https://www.theearthprize.org/",
-      "retrieved_at": "2026-07-14T10:01:22+00:00",
+      "retrieved_at": "2026-07-26T12:49:10+00:00",
       "extraction_locator": "mass discovery artifact",
-      "snapshot_path": "data/snapshots/review-evidence/www.theearthprize.org/4543bb5082751ea2.html.gz",
-      "content_hash": "4543bb5082751ea26c8fa480010b40dd8575ed8cdf1e5b6902d1ddc09f12772c"
-    },
-    {
-      "source_file": "competition_enrichment.json",
-      "source_type": "curated_enrichment",
-      "page_or_sheet": "records",
-      "row_or_text_ref": "The Earth Prize",
-      "raw_excerpt": "Curated competition enrichment for Tier-A decision fields and China pathways.",
-      "extracted_at": "2026-07-15T10:47:45+00:00",
-      "source_id": "competition-enrichment-v1",
-      "snapshot_path": "data/curation/competition_enrichment.json",
-      "content_hash": "12a81e5baa679e2cffbb5b7636458ba20c56a39463c51011e810645b6bf85e7e",
-      "extraction_locator": "enrichment[mass-contest-the-earth-prize]"
+      "snapshot_path": "data/snapshots/review-evidence/www.theearthprize.org/6ee7b770881c7e58.html.gz",
+      "content_hash": "6ee7b770881c7e581db8f7639deb135dbb3d8e9b170faa99770264745867769f"
     }
   ],
   "schema_version": 1,
@@ -80,7 +68,7 @@
       "url": "https://www.theearthprize.org/",
       "publisher": "mass-global-high-school-competitions-1",
       "authority": "official",
-      "retrieved_at": "2026-07-14T10:01:22+00:00",
+      "retrieved_at": "2026-07-26T12:49:10+00:00",
       "source_id": "mass-global-high-school-competitions-1",
       "note": ""
     }
@@ -93,10 +81,8 @@
       ]
     },
     "name_zh": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "name_en": {
       "status": "official",
@@ -159,10 +145,8 @@
       "evidence_ids": []
     },
     "deadline_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "deadline_date": {
       "status": "missing",
@@ -245,10 +229,8 @@
       ]
     },
     "cost_text": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
+      "status": "missing",
+      "evidence_ids": []
     },
     "cost_amount": {
       "status": "missing",
@@ -263,37 +245,6 @@
       "evidence_ids": [
         "mass-contest-the-earth-prize-e1"
       ]
-    },
-    "entry_pathway": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
-    },
-    "audience_scope": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
-    },
-    "aliases": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "difficulty_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "recognition_level": {
-      "status": "missing",
-      "evidence_ids": []
-    },
-    "route_type": {
-      "status": "single_source",
-      "evidence_ids": [
-        "mass-contest-the-earth-prize-e1"
-      ]
     }
-  },
-  "route_type": "official"
+  }
 }

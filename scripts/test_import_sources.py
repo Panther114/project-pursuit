@@ -11,6 +11,7 @@ from unittest.mock import patch
 from scripts import import_sources as importer
 from scripts import review_candidates as reviewer
 from scripts import apply_review_batches as batch_reviewer
+from scripts import discover_wikipedia_competitions as wikipedia_discovery
 
 
 class ImporterTests(unittest.TestCase):
@@ -114,10 +115,37 @@ class ImporterTests(unittest.TestCase):
         })
         self.assertTrue(any("missing evidence" in error for error in importer.validate_database_record(record)))
 
+    def test_database_merge_prunes_stale_mass_discovery_records(self) -> None:
+        stale = {
+            "id": "mass-contest-false-positive", "canonical_name": "False Positive", "type": "competition",
+            "format": "unknown", "confidence": "unverified", "publication_status": "unverified",
+            "sources": [{"source_file": "wikipedia_competitions.json", "source_type": "web_reference"}],
+        }
+        durable = {
+            **stale, "id": "curated-contest-durable", "canonical_name": "Durable Record",
+        }
+        with patch.object(importer, "load_database_records", return_value=[stale, durable]):
+            merged = importer.merge_with_database([])
+        self.assertEqual([record["id"] for record in merged], ["curated-contest-durable"])
+
     def test_review_authority_and_urls_are_normalized(self) -> None:
         self.assertEqual(batch_reviewer.authority("official institution page"), "official")
         self.assertTrue(batch_reviewer.valid_web_url("https://example.edu/program"))
         self.assertFalse(batch_reviewer.valid_web_url("http://example.edu/program"))
+
+    def test_wikipedia_discovery_excludes_nonacademic_pageants_and_people(self) -> None:
+        self.assertTrue(wikipedia_discovery.candidate_allowed(
+            "International Mathematical Olympiad",
+            "An international competition for secondary school students from many countries.",
+        ))
+        self.assertFalse(wikipedia_discovery.candidate_allowed(
+            "Miss Teen World",
+            "An international beauty pageant for teenagers from many countries.",
+        ))
+        self.assertFalse(wikipedia_discovery.candidate_allowed(
+            "Example Person",
+            "A high school student who won an international mathematics competition.",
+        ))
 
 
 if __name__ == "__main__":

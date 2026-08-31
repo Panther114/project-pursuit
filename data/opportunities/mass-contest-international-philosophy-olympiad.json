@@ -88,6 +88,20 @@
       "snapshot_path": "data/curation/competition_enrichment.json",
       "content_hash": "1e280f7e87022be8ea2ea7a43ea8088cf29e9012115eb8a42c8e3796d809aadd",
       "extraction_locator": "enrichment[mass-contest-international-philosophy-olympiad]"
+    },
+    {
+      "source_file": "8ee9bbafa64d879d.html.gz",
+      "source_type": "web_snapshot",
+      "page_or_sheet": "official web evidence",
+      "row_or_text_ref": "International Philosophy Olympiad",
+      "raw_excerpt": "",
+      "extracted_at": "2026-07-26T12:48:22+00:00",
+      "source_id": "mass-global-high-school-competitions-1",
+      "original_url": "https://www.philosophy-olympiad.org/?page_id=1706",
+      "retrieved_at": "2026-07-26T12:48:22+00:00",
+      "extraction_locator": "mass discovery artifact",
+      "snapshot_path": "data/snapshots/review-evidence/www.philosophy-olympiad.org/8ee9bbafa64d879d.html.gz",
+      "content_hash": "8ee9bbafa64d879d71b2f3399d3630c447a990cdadecc03c9a4019c450e35c18"
     }
   ],
   "schema_version": 1,

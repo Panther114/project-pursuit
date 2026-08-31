@@ -537,6 +537,14 @@ def merge_with_database(incoming: list[dict[str, Any]]) -> list[dict[str, Any]]:
         if record_id not in merged:
             if record_identity_key(record) in merged_identity_keys:
                 continue
+            # Mass-discovery artifacts are replaceable source projections. If a
+            # candidate disappears after a stricter source refresh, retaining it
+            # forever would make false positives impossible to quarantine.
+            if record_id.startswith("mass-") and not any(
+                source.get("source_id") == "competition-research-completed-v1"
+                for source in record.get("sources", [])
+            ):
+                continue
             merged[record_id] = record
     return sorted(merged.values(), key=lambda item: (item["type"], item["canonical_name"].lower()))
 

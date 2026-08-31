@@ -1,0 +1,10 @@
+{
+  "original_url": "https://ioai-official.org/about/",
+  "final_url": "https://ioai-official.org/about/",
+  "retrieved_at": "2026-07-26T12:48:05+00:00",
+  "content_hash": "16310f11f833cd731e1712e0c93d1976769f26e8d972ed52b000de75618fdd0b",
+  "content_type": "text/html; charset=UTF-8",
+  "status": 200,
+  "parser_version": "luna-review-v1",
+  "snapshot_path": "data/snapshots/review-evidence/ioai-official.org/16310f11f833cd73.html.gz"
+}
